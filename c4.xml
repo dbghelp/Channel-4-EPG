@@ -3384,10 +3384,15 @@
 		<desc>(1994) Festive family drama. Richard Attenborough stars as a department store Santa who insists he's the real Santa Claus. But can he prove it in court?</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="F4" start="20241123131500 +0000" stop="20241123161000 +0000">
+	<programme channel="F4" start="20241123131500 +0000" stop="20241123160000 +0000">
 		<title>Close Encounters of the Third...</title>
 		<desc>...Kind: (1977) Roy Neary (Richard Dreyfuss) witnesses UFO activity and becomes obsessed with finding out the truth in the director's cut of Steven Spielberg's classic movie.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20241123160000 +0000" stop="20241123161000 +0000">
+		<title>Film4 Interview Programmes:...</title>
+		<desc>...Talking Film: Stars and directors talk about making movies in this compendium of personal and practical reflections. Features Danny Boyle, Amy Schumer, Chiwetel Ejiofor and more.</desc>
+		<icon src="https://ic.c4assets.com/brands/film4-interview-specials/series-5/episode-2/339c4ec6-2325-42f5-915f-df62cf6116c1.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20241123161000 +0000" stop="20241123182000 +0000">
 		<title>Goodbye Christopher Robin</title>
