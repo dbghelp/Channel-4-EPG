@@ -592,7 +592,7 @@
 	<programme channel="C4" start="20241221180000 +0000" stop="20241221183000 +0000">
 		<title>Channel 4 News</title>
 		<desc>Channel 4's flagship news programme. Including the weather.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/channel-4-news/95BDDBDD-F2DC-44AE-B95A3ABEC581C62C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20241221183000 +0000" stop="20241221212000 +0000">
 		<title>Armageddon</title>
@@ -952,7 +952,7 @@
 	<programme channel="C4" start="20241224174500 +0000" stop="20241224180500 +0000">
 		<title>Channel 4 News</title>
 		<desc>Channel 4's flagship news programme. Including the weather.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/channel-4-news/95BDDBDD-F2DC-44AE-B95A3ABEC581C62C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20241224180500 +0000" stop="20241224200000 +0000">
 		<title>Home Alone</title>
@@ -2420,9 +2420,9 @@
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="M4" start="20241219195500 +0000" stop="20241219210000 +0000">
-		<title>A Very Royal Christmas:...</title>
-		<desc>...Sandringham Secrets: A special look at how the royal family enjoy the festive period in all its magical detail, from historical traditions to garish gifts and classy celebrations.</desc>
-		<icon src="https://ic.c4assets.com/brands/a-very-royal-christmas-sandringham-secrets/series-2020/7eb7d06e-69ff-4f52-93f7-2a82fd012268.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<title>PopMaster TV: Festive DJ Special</title>
+		<desc>Brand new: Ken Bruce hosts a festive edition of the legendary quiz, with Bob Harris, Katie Thistleton, OJ Borg, Jenny Powell and Rickie Haywood-Williams. Who'll hit the Christmas top spot?</desc>
+		<icon src="https://ic.c4assets.com/vps/festive-dj-special/371FCCD3-EAFB-4FAA-BB13347ABC16F5DB.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="M4" start="20241219210000 +0000" stop="20241219220000 +0000">
 		<title>Devon and Cornwall at Christmas</title>
