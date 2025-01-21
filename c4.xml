@@ -1157,7 +1157,7 @@
 	<programme channel="C4" start="20250127170000 +0000" stop="20250127173000 +0000">
 		<title>Four in a Bed</title>
 		<desc>The only show on TV where a stray hair in the bedsheets could cause World War Three is back for a new run. Ciaran and Lorraine kick off the competition in County Derry-Londonderry.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/brands/four-in-a-bed/ce8c57de-caf3-46bd-b2ba-0d57279d1671.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250127173000 +0000" stop="20250127180000 +0000">
 		<title>Come Dine with Me</title>
@@ -3664,20 +3664,30 @@
 		<desc>Three more teams Sign3Win £1,000 by playing five rounds of games...</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="F4" start="20250127110000 +0000" stop="20250127125500 +0000">
+	<programme channel="F4" start="20250127110000 +0000" stop="20250127124500 +0000">
 		<title>The Blue Lamp</title>
 		<desc>(1950) Gritty noir thriller from Ealing Studios. A rookie PC hunts a vicious killer across blitz-battered London. With Jimmy Hanley, Dirk Bogarde and Jack Warner as PC George Dixon.</desc>
 		<icon src="https://ic.c4assets.com/vps/the-blue-lamp/7ee9633c-8f89-40e4-b496-c0047deea377.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20250127124500 +0000" stop="20250127125500 +0000">
+		<title>Mr Turner Interview Special</title>
+		<desc>Timothy Spall talks about playing artist JMW Turner in Mike Leigh's biopic.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20250127125500 +0000" stop="20250127153500 +0000">
 		<title>True Grit</title>
 		<desc>(1969) Tough western starring Oscar-winning John Wayne. 'Rooster' Cogburn, a one-eyed, whisky-loving marshall, is hired by a girl to bring in the man who killed her father. With Kim Darby.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="F4" start="20250127153500 +0000" stop="20250127182000 +0000">
+	<programme channel="F4" start="20250127153500 +0000" stop="20250127181000 +0000">
 		<title>The Devil at 4 o'Clock</title>
 		<desc>(1961) Drama. Spencer Tracy stars as an unfairly unpopular priest living on a volcanic South Sea island which is about to erupt. With Kerwin Matthews, Frank Sinatra and Barbara Luna.</desc>
 		<icon src="https://ic.c4assets.com/vps/devil-at-4-o'clock-1961/5D5C2F22-CC53-48DC-AB66EBF9C57A1DA2.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20250127181000 +0000" stop="20250127182000 +0000">
+		<title>Mr Turner Interview Special</title>
+		<desc>Timothy Spall talks about playing artist JMW Turner in Mike Leigh's biopic.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20250127182000 +0000" stop="20250127210000 +0000">
 		<title>A Knight's Tale</title>
@@ -4086,8 +4096,8 @@
 	</programme>
 	<programme channel="4S" start="20250124180000 +0000" stop="20250124190000 +0000">
 		<title>Location, Location, Location</title>
-		<desc>In Devon, Kirstie searches for a home for single mum Michelle, who feels stuck after many failed offers, while Phil helps Ed and Catherine, who want a new life outside of London. (S37 Ep3)</desc>
-		<icon src="https://ic.c4assets.com/brands/location-location-location/series-29/episode-3/4fcc52c3-e0f3-4627-b16f-0e6e58809149.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<desc>In the West Midlands, Karen and Richard, who have a dream £1m budget, keep falling at the final hurdle, while Camilla and Liam want rid of renting so they can start a family. (S39 Ep4)</desc>
+		<icon src="https://ic.c4assets.com/brands/location-location-location/series-30/episode-3/262e7fcb-03d9-4a6d-942f-335c9bd948ca.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20250124190000 +0000" stop="20250124200000 +0000">
 		<title>Kirstie and Phil's Love It or...</title>
@@ -4365,9 +4375,9 @@
 		<icon src="https://ic.c4assets.com/vps/celebrity-hunted-s6/0530B4A4-E01D-4F97-A6F2AB6E7A4F69AA.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20250127031000 +0000" stop="20250127040500 +0000">
-		<title>Junior Bake Off</title>
-		<desc>It's time for the final - and a party! The finalists create their ultimate party food and their best ever birthday party cake. Who'll be crowned series winner? (S10 Ep15/15)</desc>
-		<icon src="https://ic.c4assets.com/vps/junior-bake-off-6-series-10/67D9759A-F834-4203-87E62362C469011A.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<title>Grand Designs</title>
+		<desc>Graeme and Melanie want their new home in Hackney to celebrate their blended family. But squeezing the bright red-clad house onto their tiny garage plot proves a huge challenge.</desc>
+		<icon src="https://ic.c4assets.com/brands/grand-designs/series-23/episode-8/3403d5a1-c746-4104-997e-64ac3cab1450.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20250127040500 +0000" stop="20250127050000 +0000">
 		<title>Kirstie and Phil's Love It or...</title>
