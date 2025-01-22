@@ -1174,24 +1174,29 @@
 		<desc>...Phobia: Jenny has a phobia of rats and has had extreme nightmares since childhood. For Devereaux it's sausage dogs. And with Tracey it's open water. Can they find a cure? (Ep2)</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20250128210000 +0000" stop="20250128230500 +0000">
+	<programme channel="C4" start="20250128210000 +0000" stop="20250128220000 +0000">
 		<title>New: Manhunt</title>
 		<desc>A known criminal reportedly carrying a gun is heading for a Manchester music concert. Specialist police units race to find and neutralise the threat before he enters the venue. (Ep3/3)</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
+	<programme channel="C4" start="20250128220000 +0000" stop="20250128230500 +0000">
+		<title>New: Vicky Pattison: My...</title>
+		<desc>...Deepfake Sex Tape: Vicky immerses herself in the world of deepfake pornography, making her own sex tape, and speaking to victims and perpetrators of one of the darkest areas of AI.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
 	<programme channel="C4" start="20250128230500 +0000" stop="20250129000500 +0000">
-		<title>Vicky Pattison: My Big Fat...</title>
-		<desc>...Geordie Wedding: It's Vicky and Ercan's second wedding, in Italy, but not everything goes to plan... Can Pete Wicks make it in time for his flower girl duties? (Ep2/2)</desc>
-		<icon src="https://ic.c4assets.com/vps/vicky-pattison-my-big-fat-geordie-wedding/F62D4A7C-38C7-4BD9-B4B53D81BB3CD0B5.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<title>Celebrity Gogglebox</title>
+		<desc>Rylan, Jamali Maddix, Carol Vorderman, Joe Swash and Tubsey are just some of the celebs watching Love Island, Snowflake Mountain, Fifty Shades of Grey, and lots of other great TV. (S4 Ep3)</desc>
+		<icon src="https://ic.c4assets.com/brands/celebrity-gogglebox/series-4/episode-3/4f252551-85b1-413d-a839-cd5a1d65d2e3.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250129000500 +0000" stop="20250129010000 +0000">
-		<title>Ramsay's Kitchen Nightmares USA</title>
-		<desc>Bella Luna: Gordon visits Italian family restaurant Bella Luna, which is struggling with an inexperienced chef and an owner who won't acknowledge the eatery's flaws. (S7 Ep8)</desc>
-		<icon src="https://ic.c4assets.com/vps/vicky-pattison-my-big-fat-geordie-wedding/9344149D-5F7B-464F-ADA81CB1DC48B2F2.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<title>Gogglebox</title>
+		<desc>The Goggleboxers have been watching: One Day, Married at First Sight Australia, The Apprentice, Boarders, The Rescue, and ITV News on the energy price cap and Lee Anderson. (S23 Ep3)</desc>
+		<icon src="https://ic.c4assets.com/brands/gogglebox/series-23/episode-3/3d2953a1-e16e-402b-a78c-f7016a6452cb.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250129010000 +0000" stop="20250129015000 +0000">
-		<title>Undercover Boss USA</title>
-		<desc>CEOs from across the United States go undercover in their own business to spy on staff and see how their companies are really run.</desc>
+		<title>Ramsay's Kitchen Nightmares USA</title>
+		<desc>Bella Luna: Gordon visits Italian family restaurant Bella Luna, which is struggling with an inexperienced chef and an owner who won't acknowledge the eatery's flaws. (S7 Ep9/10)</desc>
 		<icon src="https://ic.c4assets.com/brands/ramsays-kitchen-nightmares-usa/series-7/episode-9/be283e91-f4bc-46a3-8a1c-fb64a8c32b34.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250129015000 +0000" stop="20250129024000 +0000">
@@ -4300,9 +4305,9 @@
 		<icon src="https://ic.c4assets.com/brands/four-in-a-bed/series-18/episode-20/1438d33b-6bdb-4654-adc5-02e0a92e6e28.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20250127113000 +0000" stop="20250127123000 +0000">
-		<title>A New Life in the Sun</title>
-		<desc>In Italy, can Donna keep up as holiday reservations fly in? In France, will unseasonable weather put a dampener on Paul and Melissa's big summer event? (S10 Ep15/35)</desc>
-		<icon src="https://ic.c4assets.com/vps/a-new-life-in-the-sun-series-10/7E0DACA8-52EC-4E3D-B82381627BEEDEC1.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<title>A Place in the Sun</title>
+		<desc>Frances dreams of buying a holiday home that she can enjoy with her friends and family in Spain's beautiful coastal town of Nerja. Can Danni Menzies find the perfect place for £200k?</desc>
+		<icon src="https://ic.c4assets.com/brands/a-place-in-the-sun/series-16/episode-1/0743fd4e-b258-49b9-bc5b-f4bd3dc6fa88.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20250127123000 +0000" stop="20250127133000 +0000">
 		<title>A Place in the Sun</title>
@@ -4345,9 +4350,9 @@
 		<icon src="https://ic.c4assets.com/vps/a-place-in-the-sun-2023---inland-almeria/526114F7-909B-4D4F-85CBF123BE7D4384.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20250127180000 +0000" stop="20250127190000 +0000">
-		<title>A New Life in the Sun</title>
-		<desc>Renovation rookies Angie and Ash dream big in the Italian Alps. In France, neighbours Aggi and Camille join forces to reopen a derelict restaurant. (S10 Ep16/35)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<title>Location, Location, Location</title>
+		<desc>Ellen wants to live in the thick of Margate's vibrant LGBTQ+ community. And Sophie and Matt are hoping for their perfect Broadstairs abode, but will it be too pricey? (S38 Ep1)</desc>
+		<icon src="https://ic.c4assets.com/brands/location-location-location/series-29/episode-7/bd0250f0-f1d0-4027-a4fd-3cc4dc23f0dc.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20250127190000 +0000" stop="20250127194500 +0000">
 		<title>A Place in the Sun</title>
@@ -4425,9 +4430,9 @@
 		<icon src="https://ic.c4assets.com/brands/four-in-a-bed/series-17/episode-5/6adb9b4a-bf74-4a82-bb9e-29a4269d5fe0.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20250128113000 +0000" stop="20250128123000 +0000">
-		<title>A New Life in the Sun</title>
-		<desc>Renovation rookies Angie and Ash dream big in the Italian Alps. In France, neighbours Aggi and Camille join forces to reopen a derelict restaurant. (S10 Ep16/35)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<title>A Place in the Sun</title>
+		<desc>Danni Menzies helps Anne and Ian from the Scottish Highlands find their perfect holiday home in the buzzing resort of Benidorm on Spain's Costa Blanca, for their budget of £100,000.</desc>
+		<icon src="https://ic.c4assets.com/brands/a-place-in-the-sun/series-16/episode-2/66fcf357-00c2-4d39-8fbd-339f4318183a.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20250128123000 +0000" stop="20250128133000 +0000">
 		<title>A Place in the Sun</title>
@@ -4470,9 +4475,9 @@
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20250128180000 +0000" stop="20250128190000 +0000">
-		<title>A New Life in the Sun</title>
-		<desc>Seasonal deadlines crank up the heat for Aggi and Camille in France and Angie and Ash in Italy. In Portugal, summer strain also bites for Harriet and Mondo's holiday cottages. (S10 Ep17/35)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<title>Location, Location, Location</title>
+		<desc>In the Home Counties, Kirstie helps Harvie and Ranjit. Will dazzling kitchens and heated pools be enough for their £1.6 million budget? And Phil helps Zosia and David find their first home.</desc>
+		<icon src="https://ic.c4assets.com/brands/location-location-location/series-29/episode-5/e0d4b469-b2b3-4f8f-af14-1ec53c987727.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20250128190000 +0000" stop="20250128200000 +0000">
 		<title>Britain's Most Beautiful Road</title>
