@@ -141,7 +141,7 @@
 	</programme>
 	<programme channel="C4" start="20250130190000 +0000" stop="20250130200000 +0000">
 		<title>Channel 4 News</title>
-		<desc>Channel 4's flagship news programme. Including the weather.</desc>
+		<desc>Dr John Perumbalath has resigned as Bishop of Liverpool, days after this programme revealed sexual assault and harrassment allegations against him. He still denies wrongdoing.</desc>
 		<icon src="https://ic.c4assets.com/vps/channel-4-news/95BDDBDD-F2DC-44AE-B95A3ABEC581C62C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250130200000 +0000" stop="20250130210000 +0000">
@@ -360,9 +360,9 @@
 		<icon src="https://ic.c4assets.com/brands/ramsays-hotel-hell/series-2/episode-2/579b1a38-db33-4fd5-af1f-9f0e6db627f2.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250201025500 +0000" stop="20250201035000 +0000">
-		<title>Manhunt</title>
-		<desc>A known criminal reportedly carrying a gun is heading for a Manchester music concert. Specialist police units race to find and neutralise the threat before he enters the venue. (Ep3/3)</desc>
-		<icon src="https://ic.c4assets.com/vps/manhunt/631A274B-AE24-4A42-8EBB4FB610BA9B65.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<title>A Cotswold Farmshop</title>
+		<desc>Behind the scenes at the distinctive family-run Gloucester Services. We discover what makes Jonathan Crump's cheese so unique. And will Tom's cider make it onto the shelves? (Ep1/6)</desc>
+		<icon src="https://ic.c4assets.com/brands/a-cotswold-farmshop/series-1/episode-1/0dc8d3b8-9f82-4865-b3ab-3a12ae2e21e9.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250201035000 +0000" stop="20250201041500 +0000">
 		<title>Frasier</title>
@@ -576,8 +576,8 @@
 	</programme>
 	<programme channel="C4" start="20250202100000 +0000" stop="20250202130000 +0000">
 		<title>Live: Sunday Brunch</title>
-		<desc>Dylan Llewellyn chats about the new series of Big Boys. Kim Wilde tells us about her new album. Manic Street Preachers perform. Plus: chat with funk pioneers Cymande.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<desc>Dylan Llewellyn chats about the new series of Big Boys. Kim Wilde tells us about her new album. Manic Street Preachers perform. Plus: chat with Iain Stirling and funk pioneers Cymande.</desc>
+		<icon src="https://ic.c4assets.com/vps/sunday-brunch/1AF570AA-BB65-4BAD-993E90A026D9B0BF.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250202130000 +0000" stop="20250202133000 +0000">
 		<title>The Simpsons</title>
@@ -651,7 +651,7 @@
 	</programme>
 	<programme channel="C4" start="20250203000500 +0000" stop="20250203010000 +0000">
 		<title>New: Walter Presents: Fatal...</title>
-		<desc>...Crossing: Danish crime thriller. Danger swirls when a scandal-ridden journalist can't resist looking into a cold case about girls who went missing in the 1980s. In Danish/subs. (Ep1)</desc>
+		<desc>...Crossing: Norwegian crime thriller. Danger swirls when a scandal-ridden journalist can't resist looking into a cold case about girls who went missing in the 1980s. In Danish/subs. (Ep1)</desc>
 		<icon src="https://ic.c4assets.com/vps/fatal-crossing-yr-1/07FF5E9D-81A2-4D0D-92A343BF1EFCB349.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250203010000 +0000" stop="20250203015000 +0000">
@@ -3774,37 +3774,37 @@
 		<desc>...List It: In Hamilton, Scott and Jaqui's once-perfect pad is now a domestic battleground. With compromise in short supply, can Kirstie nail it with the extra space they need? (S10 Ep4)</desc>
 		<icon src="https://ic.c4assets.com/vps/love-it-or-list-it-s10-tx4---hamilton/CBE5013E-85D8-4D89-895E3A22BCA5BA32.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="4S" start="20250130210000 +0000" stop="20250130220000 +0000">
-		<title>Manhunt</title>
-		<desc>A known criminal reportedly carrying a gun is heading for a Manchester music concert. Specialist police units race to find and neutralise the threat before he enters the venue. (Ep3/3)</desc>
-		<icon src="https://ic.c4assets.com/vps/manhunt/631A274B-AE24-4A42-8EBB4FB610BA9B65.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4S" start="20250130220000 +0000" stop="20250130233000 +0000">
+	<programme channel="4S" start="20250130210000 +0000" stop="20250130223000 +0000">
 		<title>Catching a Killer: A Stab in...</title>
 		<desc>...the Dark: A 21-year-old man is found dead after being knocked off his bike, chased and stabbed. This documentary tells the gripping inside story of the police's murder investigation.</desc>
 		<icon src="https://ic.c4assets.com/vps/catching-a-killer-series-2/12A2962D-DC5A-4581-94885E514CFAB512.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="4S" start="20250130233000 +0000" stop="20250131003500 +0000">
-		<title>Celebrity Gogglebox</title>
-		<desc>Gyles Brandreth, Joanna Lumley, Judi Love and Micah Richards are just some of the celebs watching Stranger Things, This Is MY House, Million Pound Pawn, and lots of other great TV. (S4 Ep2)</desc>
-		<icon src="https://ic.c4assets.com/brands/celebrity-gogglebox/series-4/episode-2/d9cba74b-f131-4821-93f7-610d4b30218f.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4S" start="20250131003500 +0000" stop="20250131013500 +0000">
-		<title>Gogglebox</title>
-		<desc>The Goggleboxers watch Wheel of Fortune, Trigger Point, Love Is Blind, Boarders, Michael McIntyre's Big Show, BBC News on Donald Trump and more. (S23 Ep2)</desc>
-		<icon src="https://ic.c4assets.com/brands/gogglebox/series-23/episode-2/bdca4202-1885-4af0-8ca2-0e7f8dc00853.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4S" start="20250131013500 +0000" stop="20250131034500 +0000">
-		<title>Misery</title>
-		<desc>(1990) Thriller with Kathy Bates and James Caan. An obsessed fan rescues her favourite writer from a car crash, but then imprisons him... It's the hobbling that really curls the toes!</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4S" start="20250131034500 +0000" stop="20250131045500 +0000">
+	<programme channel="4S" start="20250130223000 +0000" stop="20250131000000 +0000">
 		<title>24 Hours in Police Custody:...</title>
 		<desc>...The Predator: A hook-up via a gay dating app leads to an accusation of rape. Bedfordshire Police investigate. But cases of male rape are notoriously difficult to prosecute.</desc>
 		<icon src="https://ic.c4assets.com/brands/24-hours-in-police-custody/series-3/episode-4/ee662a30-7664-4469-bab1-ad1bc2c2d4de.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="4S" start="20250131045500 +0000" stop="20250131090000 +0000">
+	<programme channel="4S" start="20250131000000 +0000" stop="20250131010500 +0000">
+		<title>Celebrity Gogglebox</title>
+		<desc>Gyles Brandreth, Joanna Lumley, Judi Love and Micah Richards are just some of the celebs watching Stranger Things, This Is MY House, Million Pound Pawn, and lots of other great TV. (S4 Ep2)</desc>
+		<icon src="https://ic.c4assets.com/brands/celebrity-gogglebox/series-4/episode-2/d9cba74b-f131-4821-93f7-610d4b30218f.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4S" start="20250131010500 +0000" stop="20250131020500 +0000">
+		<title>Gogglebox</title>
+		<desc>The Goggleboxers watch Wheel of Fortune, Trigger Point, Love Is Blind, Boarders, Michael McIntyre's Big Show, BBC News on Donald Trump and more. (S23 Ep2)</desc>
+		<icon src="https://ic.c4assets.com/brands/gogglebox/series-23/episode-2/bdca4202-1885-4af0-8ca2-0e7f8dc00853.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4S" start="20250131020500 +0000" stop="20250131040500 +0000">
+		<title>Misery</title>
+		<desc>(1990) Thriller with Kathy Bates and James Caan. An obsessed fan rescues her favourite writer from a car crash, but then imprisons him... It's the hobbling that really curls the toes!</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4S" start="20250131040500 +0000" stop="20250131043500 +0000">
+		<title>Travel Man: 48 Hours in Malmö</title>
+		<desc>Rose Matafeo joins Joe Lycett for mischief in Malmö. They visit the world's first twisting tower and the Disgusting Food Museum before sampling insects and a spirit made from beaver glands.</desc>
+		<icon src="https://ic.c4assets.com/vps/travel-man-s13/31371AD8-77D1-420E-A6C4A34990B1A27E.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4S" start="20250131043500 +0000" stop="20250131090000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/4seven_logo_2018.svg/130px-4seven_logo_2018.svg.png" />
