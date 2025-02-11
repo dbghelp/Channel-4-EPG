@@ -3442,7 +3442,7 @@
 	<programme channel="F4" start="20250213210000 +0000" stop="20250213225000 +0000">
 		<title>Crush</title>
 		<desc>(2022) Romcom with Rowan Blanchard. When a high-school artist is accused of being Banksy-wannabe 'King Pun', she must clear her name. She's even forced to join the track team. #sonotcool.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/crush-2022/0C833F3D-E0D5-4851-AD82280761211F22.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20250213225000 +0000" stop="20250214003500 +0000">
 		<title>Walking and Talking</title>
@@ -3519,9 +3519,14 @@
 		<desc>(1992) Comedy starring Whoopi Goldberg. A casino singer who witnesses a Mob murder goes into hiding at a convent, where she soon has the choir rocking. With Maggie Smith.</desc>
 		<icon src="https://ic.c4assets.com/vps/sister-act/4a4c4841-34df-4cce-a84c-cdbcdd99f918.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="F4" start="20250215164000 +0000" stop="20250215185500 +0000">
+	<programme channel="F4" start="20250215164000 +0000" stop="20250215185000 +0000">
 		<title>Sister Act 2: Back in the Habit</title>
 		<desc>(1993) Comedy sequel starring Whoopi Goldberg and Lauryn Hill. Deloris - who's now made it big in Vegas - goes back undercover as a teacher to help a struggling school choir find its voice.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20250215185000 +0000" stop="20250215185500 +0000">
+		<title>We Live in Time Interview Special</title>
+		<desc>Stars Andrew Garfield and Florence Pugh - along with director John Crowley - talk about making the Film4-backed romantic drama We Live in Time.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20250215185500 +0000" stop="20250215210000 +0000">
