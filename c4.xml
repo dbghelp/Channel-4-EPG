@@ -131,7 +131,7 @@
 	</programme>
 	<programme channel="C4" start="20250224190000 +0000" stop="20250224200000 +0000">
 		<title>Channel 4 News</title>
-		<desc>Channel 4's flagship news programme. Including the weather.</desc>
+		<desc>President Macron heads to the US to stop Trump sacrificing Ukraine to Putin. Ex-Labour MP Mike Amesbury is jailed for punching a constituent. And how net zero's driving UK economic growth.</desc>
 		<icon src="https://ic.c4assets.com/vps/channel-4-news/95BDDBDD-F2DC-44AE-B95A3ABEC581C62C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250224200000 +0000" stop="20250224210000 +0000">
@@ -2291,7 +2291,7 @@
 	</programme>
 	<programme channel="E4" start="20250301150500 +0000" stop="20250301160500 +0000">
 		<title>Ramsay's Kitchen Nightmares USA</title>
-		<desc>The Secret Garden: Gordon Ramsay visits a romantic French restaurant in California, where temperamental chef Michel Bardavid's complicated cuisine is keeping the customers away. (S1 Ep5/10)</desc>
+		<desc>Lela's: In California, Gordon Ramsay visits Lela's, a fine dining restaurant run by inexperienced owner Lela and young chef Ricky. Can Gordon save them from complete disaster? (S1 Ep6/10)</desc>
 		<icon src="https://ic.c4assets.com/vps/ramsays-kitchen-nightmares-usa/bbee6d73-fb12-40d4-aa48-fbb173e7c54c.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20250301160500 +0000" stop="20250301170500 +0000">
@@ -2361,7 +2361,7 @@
 	</programme>
 	<programme channel="E4" start="20250302041000 +0000" stop="20250302050000 +0000">
 		<title>Ramsay's Kitchen Nightmares USA</title>
-		<desc>Gordon Ramsay visits The Olde Stone Mill in Tuckahoe, New York. The restaurant has been beautifully restored, but owner Dean struggles to get customers through the door. (S1 Ep9/10)</desc>
+		<desc>The Olde Stone Mill: Gordon Ramsay visits The Olde Stone Mill in Tuckahoe, New York. The restaurant has been restored, but owner Dean cannot get customers through the door. (S1 Ep9/10)</desc>
 		<icon src="https://ic.c4assets.com/vps/ramsays-kitchen-nightmares-usa/bbee6d73-fb12-40d4-aa48-fbb173e7c54c.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20250302050000 +0000" stop="20250302060000 +0000">
@@ -2376,7 +2376,7 @@
 	</programme>
 	<programme channel="E4" start="20250302072000 +0000" stop="20250302081500 +0000">
 		<title>Ramsay's Kitchen Nightmares USA</title>
-		<desc>Lela's: In California, Gordon Ramsay visits Lela's, a fine dining restaurant run by inexperienced owner Lela and young chef Ricky. Can Gordon save them from complete disaster? (S1 Ep6/10)</desc>
+		<desc>The Secret Garden: Gordon Ramsay visits a romantic French restaurant in California, where temperamental chef Michel Bardavid's complicated cuisine is keeping the customers away. (S1 Ep5/10)</desc>
 		<icon src="https://ic.c4assets.com/vps/ramsays-kitchen-nightmares-usa/bbee6d73-fb12-40d4-aa48-fbb173e7c54c.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20250302081500 +0000" stop="20250302092000 +0000">
@@ -2391,7 +2391,7 @@
 	</programme>
 	<programme channel="E4" start="20250302102000 +0000" stop="20250302112000 +0000">
 		<title>Ramsay's Kitchen Nightmares USA</title>
-		<desc>Gordon Ramsay visits The Olde Stone Mill in Tuckahoe, New York. The restaurant has been beautifully restored, but owner Dean struggles to get customers through the door. (S1 Ep9/10)</desc>
+		<desc>The Olde Stone Mill: Gordon Ramsay visits The Olde Stone Mill in Tuckahoe, New York. The restaurant has been restored, but owner Dean cannot get customers through the door. (S1 Ep9/10)</desc>
 		<icon src="https://ic.c4assets.com/vps/ramsays-kitchen-nightmares-usa/bbee6d73-fb12-40d4-aa48-fbb173e7c54c.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20250302112000 +0000" stop="20250302125000 +0000">
@@ -3584,10 +3584,15 @@
 		<desc>(1985) Sci-fi adventure starring Dennis Quaid and Louis Gossett Jr. A human and his alien enemy find themselves stranded alone on a hostile planet, where they must work together to survive.</desc>
 		<icon src="https://ic.c4assets.com/vps/enemy-mine-1985/D381BB29-190D-4DDB-8F5E81A440B1ED94.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="F4" start="20250301165000 +0000" stop="20250301191000 +0000">
+	<programme channel="F4" start="20250301165000 +0000" stop="20250301190500 +0000">
 		<title>School of Rock</title>
 		<desc>(2003) Jack Black cranks the comedy up to 11. A slacker rock musician blags his way into a posh school and enrols a bunch of 10-year-olds into a full-scale Battle of the Bands.</desc>
 		<icon src="https://ic.c4assets.com/vps/school-of-rock-film/19851143-b01f-4647-99b5-a46762ed0dd7.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20250301190500 +0000" stop="20250301191000 +0000">
+		<title>Suffragette Interview Special</title>
+		<desc>Writer Abi Morgan, director Sarah Gavron and star Anne-Marie Duff talk about their powerful period political drama Suffragette.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20250301191000 +0000" stop="20250301210000 +0000">
 		<title>Made in Italy</title>
