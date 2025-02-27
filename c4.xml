@@ -572,7 +572,7 @@
 	<programme channel="C4" start="20250302100000 +0000" stop="20250302130000 +0000">
 		<title>Live: Sunday Brunch</title>
 		<desc>Jon Ronson tells us about his UK tour. Megan McKenna chats about her new cookbook. There's live music from Antony Szmierek. Plus: Jake Kenny-Byrne and Liz Pichon.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/sunday-brunch/1AF570AA-BB65-4BAD-993E90A026D9B0BF.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250302130000 +0000" stop="20250302133000 +0000">
 		<title>The Simpsons</title>
@@ -3715,9 +3715,9 @@
 		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/4seven_logo_2018.svg/130px-4seven_logo_2018.svg.png" />
 	</programme>
 	<programme channel="4S" start="20250228090000 +0000" stop="20250228093000 +0000">
-		<title>Four in a Bed</title>
-		<desc>The week's competition comes to a close with door handle debates, self-catering squabbles and a torrent of tears on payment day.</desc>
-		<icon src="https://ic.c4assets.com/brands/four-in-a-bed/series-18/episode-45/d4eb5890-b60a-4f6a-b0a9-6d8cb222ae78.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<title>Jamie's One-Pan Wonders</title>
+		<desc>Jamie Oliver cooks super-speedy smoked salmon pasta, a loaded beef burger with sweet red peppers, pickles and mustard, and gorgeously soft and sticky toffee apple buns. (Ep7)</desc>
+		<icon src="https://ic.c4assets.com/brands/jamies-one-pan-wonders/series-1/episode-7/5cf52641-0ca3-4c6e-a320-949399af6ef5.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20250228093000 +0000" stop="20250228103000 +0000">
 		<title>Sun, Sea and Selling Houses</title>
