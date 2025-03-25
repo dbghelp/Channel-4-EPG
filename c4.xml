@@ -472,7 +472,7 @@
 	<programme channel="C4" start="20250327210000 +0000" stop="20250327220000 +0000">
 		<title>New: 24 Hours in A&amp;E</title>
 		<desc>After a car mounts the pavement, pedestrians with serious injuries are brought into A&amp;E. Jodie's cut her leg on glass on a night out. And is 61-year-old Crispin having a stroke? (S34 Ep7)</desc>
-		<icon src="https://ic.c4assets.com/vps/24-hours-in-a-e/C793C212-5470-4E26-94B8C5D981363D54.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/24-hours-in-a-e-nottingham/EBA0303F-E25F-4061-AA2E4956588A8E41.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250327220000 +0000" stop="20250327230500 +0000">
 		<title>New: Kill List: Hunted by...</title>
@@ -782,7 +782,7 @@
 	<programme channel="C4" start="20250329174500 +0000" stop="20250329181500 +0000">
 		<title>Channel 4 News</title>
 		<desc>Channel 4's flagship news programme. Including the weather.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/channel-4-news/95BDDBDD-F2DC-44AE-B95A3ABEC581C62C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250329181500 +0000" stop="20250329191000 +0000">
 		<title>Titanic in Colour</title>
@@ -939,9 +939,14 @@
 		<desc>Jamie Oliver showcases some of his favourite springtime celebration meals, from spicy green chicken curry and silky spinach and goat's cheese risotto, to his epic rhubarb and custard tart.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20250330171000 +0000" stop="20250330184000 +0000">
+	<programme channel="C4" start="20250330171000 +0000" stop="20250330174000 +0000">
 		<title>Channel 4 News</title>
 		<desc>Channel 4's flagship news programme. Including the weather.</desc>
+		<icon src="https://ic.c4assets.com/vps/channel-4-news/95BDDBDD-F2DC-44AE-B95A3ABEC581C62C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="C4" start="20250330174000 +0000" stop="20250330184000 +0000">
+		<title>New: Hotel Chocolat Unwrapped</title>
+		<desc>Inside the wonderful world of Hotel Chocolat. A new line of savoury pastries and a fiery maple chocolate flavour are tested. And a plan to take the US by storm starts to take shape. (Ep1)</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250330184000 +0000" stop="20250330200000 +0000">
@@ -952,7 +957,7 @@
 	<programme channel="C4" start="20250330200000 +0000" stop="20250330210000 +0000">
 		<title>New: Tempting Fortune</title>
 		<desc>Paddy McGuinness hosts as 12 people face temptation in the Malaysian jungle, for a share of £300k. A sealed bid to win a luxury night away from camp leads to outrageous spending. (S2 Ep5/8)</desc>
-		<icon src="https://ic.c4assets.com/vps/tempting-fortune-series-2/155A8806-FB74-40D3-A8E070BE831ABB6C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/tempting-fortune-series-2/431A825B-036C-400F-897C8CE541163C8F.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250330210000 +0000" stop="20250330213000 +0000">
 		<title>New: Dreamers</title>
@@ -1142,7 +1147,7 @@
 	<programme channel="C4" start="20250331180000 +0000" stop="20250331190000 +0000">
 		<title>Channel 4 News</title>
 		<desc>Channel 4's flagship news programme. Including the weather.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/channel-4-news/95BDDBDD-F2DC-44AE-B95A3ABEC581C62C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250331190000 +0000" stop="20250331200000 +0000">
 		<title>Jamie's Air Fryer Meals</title>
@@ -1522,7 +1527,7 @@
 	<programme channel="E4" start="20250326210000 +0000" stop="20250326220000 +0000">
 		<title>New: Love Triangle UK</title>
 		<desc>Brand new series: After an intense journey, the love triangles part ways, forcing the singles to make their choice... who will they pursue a relationship with in the real world? (S2 Ep9/10)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/love-triangle-series-2/8B057B83-03CA-4CB0-A24878B8BB1E728C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20250326220000 +0000" stop="20250326230500 +0000">
 		<title>Gogglebox</title>
@@ -1547,7 +1552,7 @@
 	<programme channel="E4" start="20250327023500 +0000" stop="20250327033000 +0000">
 		<title>Love Triangle UK</title>
 		<desc>Brand new series: After an intense journey, the love triangles part ways, forcing the singles to make their choice... who will they pursue a relationship with in the real world? (S2 Ep9/10)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/love-triangle-series-2/8B057B83-03CA-4CB0-A24878B8BB1E728C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20250327033000 +0000" stop="20250327035500 +0000">
 		<title>Abbott Elementary</title>
@@ -3402,7 +3407,7 @@
 	<programme channel="F4" start="20250328151500 +0000" stop="20250328170000 +0000">
 		<title>Two Way Stretch</title>
 		<desc>(1960) Comedy. Peter Sellers, Bernard Cribbins and David Lodge star as criminals happily incarcerated in a prison run like a home-from-home for old lags and rascals by a liberal governor.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/two-way-stretch/7afb71cb-6e07-47cb-940a-0b7990d0330a.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20250328170000 +0000" stop="20250328190500 +0000">
 		<title>Fantastic Voyage</title>
@@ -3892,7 +3897,7 @@
 	<programme channel="4S" start="20250328011000 +0000" stop="20250328021500 +0000">
 		<title>24 Hours in A&amp;E</title>
 		<desc>After a car mounts the pavement, pedestrians with serious injuries are brought into A&amp;E. Jodie's cut her leg on glass on a night out. And is 61-year-old Crispin having a stroke? (S34 Ep7)</desc>
-		<icon src="https://ic.c4assets.com/vps/24-hours-in-a-e/C793C212-5470-4E26-94B8C5D981363D54.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/24-hours-in-a-e-nottingham/EBA0303F-E25F-4061-AA2E4956588A8E41.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20250328021500 +0000" stop="20250328031500 +0000">
 		<title>Super Surgeons: A Chance at Life</title>
@@ -4327,7 +4332,7 @@
 	<programme channel="4S" start="20250331210000 +0000" stop="20250331220000 +0000">
 		<title>24 Hours in A&amp;E</title>
 		<desc>After a car mounts the pavement, pedestrians with serious injuries are brought into A&amp;E. Jodie's cut her leg on glass on a night out. And is 61-year-old Crispin having a stroke? (S34 Ep7)</desc>
-		<icon src="https://ic.c4assets.com/vps/24-hours-in-a-e/C793C212-5470-4E26-94B8C5D981363D54.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/24-hours-in-a-e-nottingham/EBA0303F-E25F-4061-AA2E4956588A8E41.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20250331220000 +0000" stop="20250331230500 +0000">
 		<title>Super Surgeons: A Chance at Life</title>
