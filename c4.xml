@@ -1547,7 +1547,7 @@
 	<programme channel="E4" start="20250403053000 +0000" stop="20250403055500 +0000">
 		<title>Modern Family</title>
 		<desc>Lifetime Supply: After missing a call from the doctor, Phil contemplates the worst. Javier - Manny's biological father - turns up to take his son to the horse races. (S3 Ep11)</desc>
-		<icon src="https://ic.c4assets.com/brands/modern-family/series-3/episode-11/d6b4ca36-4252-4761-a825-1a4da6624106.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20250403055500 +0000" stop="20250403060000 +0000">
 		<title>Rude(ish) Tube Shorts</title>
@@ -1737,12 +1737,12 @@
 	<programme channel="E4" start="20250404050000 +0000" stop="20250404053000 +0000">
 		<title>Modern Family</title>
 		<desc>Egg Drop: Jay and Claire take control of their kids' school projects from Manny and Luke, while Haley and Gloria help Phil with a real estate presentation. (S3 Ep12)</desc>
-		<icon src="https://ic.c4assets.com/brands/modern-family/series-3/episode-12/eabead61-6d3a-4780-b866-c55e4798ed89.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20250404053000 +0000" stop="20250404055500 +0000">
 		<title>Modern Family</title>
 		<desc>Little Bo Bleep: The family help Claire prepare for her upcoming televised debate with Duane Bailey for the town council seat, but will they do more harm than good? (S3 Ep13)</desc>
-		<icon src="https://ic.c4assets.com/brands/modern-family/series-3/episode-13/b3a98f6a-9d30-422b-88b3-349afa42c5fc.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20250404055500 +0000" stop="20250404060000 +0000">
 		<title>Rude(ish) Tube Shorts</title>
@@ -4344,10 +4344,15 @@
 		<desc>In the glorious foothills of the Pyrenees, Trish overhauls a guest bedroom. At Château Domaine De Le Barde, chef Tim crafts a unique handmade barbeque. (S5 Ep5)</desc>
 		<icon src="https://ic.c4assets.com/vps/chateau-diy-series-8/23DD057D-7A62-4951-ADBA6E7BB97EC4D4.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="4S" start="20250407160000 +0000" stop="20250407180000 +0000">
+	<programme channel="4S" start="20250407160000 +0000" stop="20250407170000 +0000">
 		<title>A Place in the Sun: What...</title>
 		<desc>...Happened Next?: Ben Hillman catches up with John and Daniel who bought a town house in Cádiz. Jean Johansson visits Kate in Paphos to see how she's getting on in her apartment. (S1 Ep2)</desc>
 		<icon src="https://ic.c4assets.com/brands/a-place-in-the-sun-what-happened-next/series-1/episode-10/6d2c6317-162f-4cd0-b147-19d0578d0290.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4S" start="20250407170000 +0000" stop="20250407180000 +0000">
+		<title>Location, Location, Location</title>
+		<desc>Kirstie Allsopp and Phil Spencer are in north London and Hertfordshire, helping a pair of first-timers and a three-generation family who want to leave the city behind. (S32 Ep4)</desc>
+		<icon src="https://ic.c4assets.com/brands/location-location-location/series-25/episode-1/4962262d-8bc8-4fa7-a2e4-87faa3fdf069.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20250407180000 +0000" stop="20250407184500 +0000">
 		<title>A Place in the Sun</title>
