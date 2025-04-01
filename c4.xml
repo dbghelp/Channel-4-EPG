@@ -126,7 +126,7 @@
 	</programme>
 	<programme channel="C4" start="20250401180000 +0000" stop="20250401190000 +0000">
 		<title>Channel 4 News</title>
-		<desc>Channel 4's flagship news programme. Including the weather.</desc>
+		<desc>Ahead of Donald Trump's new raft of tariffs, the PM warns against a knee jerk response. And the creator of Black Mirror on what to do when fact is more surreal than fiction.</desc>
 		<icon src="https://ic.c4assets.com/vps/channel-4-news/95BDDBDD-F2DC-44AE-B95A3ABEC581C62C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250401190000 +0000" stop="20250401200000 +0000">
@@ -444,10 +444,15 @@
 		<desc>...Happened Next?: Laura Hamilton visits Dawn and Steve at their dream town house in Mijas Pueblo. Ben Hillman catches up with Graham and Yvonne at their apartment in Alvor. (S1 Ep10)</desc>
 		<icon src="https://ic.c4assets.com/brands/a-place-in-the-sun-what-happened-next/series-1/episode-8/76892b81-0807-42e6-a782-0ce7e711f9f3.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20250403180000 +0000" stop="20250403190000 +0000">
+	<programme channel="C4" start="20250403180000 +0000" stop="20250403185500 +0000">
 		<title>Channel 4 News</title>
 		<desc>Channel 4's flagship news programme. Including the weather.</desc>
 		<icon src="https://ic.c4assets.com/vps/channel-4-news/95BDDBDD-F2DC-44AE-B95A3ABEC581C62C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="C4" start="20250403185500 +0000" stop="20250403190000 +0000">
+		<title>DEC Myanmar Earthquake Appeal</title>
+		<desc>An appeal on behalf of the Disasters Emergency Committee to help those affected by the earthquake in Myanmar.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250403190000 +0000" stop="20250403200000 +0000">
 		<title>New: Bad Dog Academy</title>
@@ -460,8 +465,8 @@
 		<icon src="https://ic.c4assets.com/vps/24-hours-in-a-e-nottingham/8941143C-0D4A-41C9-8B670F43B053EC9C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250403210000 +0000" stop="20250403220000 +0000">
-		<title>New: Dispatches Special</title>
-		<desc>A special Dispatches investigation.</desc>
+		<title>New: Delivered to a Predator:...</title>
+		<desc>...Al Fayed's Fixer: Dispatches: Reporter Cathy Newman investigates and tracks down the woman who facilitated Mohamed Al Fayed's rape and sexual abuse of women at Harrods for over a decade.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250403220000 +0000" stop="20250403230500 +0000">
@@ -737,7 +742,7 @@
 	<programme channel="C4" start="20250405093000 +0000" stop="20250405110000 +0000">
 		<title>F1 Japanese GP Qualifying...</title>
 		<desc>...Highlights: Suzuka is a firm favourite with the drivers where Qualifying can quickly become a rollercoaster of twists and turns. The margins are fine, so who'll make it to pole?</desc>
-		<icon src="https://ic.c4assets.com/vps/formula-1/BF8C7881-1719-47C2-A7C3810B3AAC7036.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/f1-production-2025/BD2DEFFE-CB02-4F57-B6244529DAFDB0A2.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250405110000 +0000" stop="20250405131000 +0000">
 		<title>The Karate Kid Part III</title>
@@ -902,7 +907,7 @@
 	<programme channel="C4" start="20250406120000 +0000" stop="20250406143000 +0000">
 		<title>F1 Japanese GP Highlights</title>
 		<desc>McLaren appear to be the team to beat this year, with Norris and Piastri having one win each. Can anyone challenge at Suzuka? Hamilton won the Sprint Race in China, just saying...</desc>
-		<icon src="https://ic.c4assets.com/vps/formula-1/BF8C7881-1719-47C2-A7C3810B3AAC7036.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/f1-production-2025/E1B7255C-9ABF-41A8-BB82734A0C88AC89.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250406143000 +0000" stop="20250406150500 +0000">
 		<title>Four in a Bed</title>
@@ -2872,7 +2877,7 @@
 	<programme channel="M4" start="20250404200000 +0000" stop="20250404210000 +0000">
 		<title>New: Helsinki Crimes</title>
 		<desc>Brand new series: Second series of the Finnish crime thriller from Walter Presents. A rapper is shot at a party. Timo worries about Pauliina's social life. In Finnish/subs. (S2 Ep3/6)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/helsinki-crimes-yr-2/25F3F66A-CA77-4E75-B32EE12FDF641931.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="M4" start="20250404210000 +0000" stop="20250404220500 +0000">
 		<title>24 Hours in A&amp;E</title>
@@ -3132,7 +3137,7 @@
 	<programme channel="M4" start="20250406200000 +0000" stop="20250406210000 +0000">
 		<title>New: The Emergency Ward</title>
 		<desc>Brand new series: Dr Williams fears for a cheerleader who's landed on her head. Dr Dunne expects the worst when he unwraps the bandages from a man's arm after a car accident. (S5 Ep7)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/emergency-ward-the-yr-5/1360A5A7-AB40-4B1A-83BDA0E82C9DA037.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="M4" start="20250406210000 +0000" stop="20250406220500 +0000">
 		<title>24 Hours in A&amp;E</title>
@@ -3257,7 +3262,7 @@
 	<programme channel="M4" start="20250407200000 +0000" stop="20250407210000 +0000">
 		<title>New: Castle Secrets</title>
 		<desc>Brand new series - Escape from Colditz, Art Asylum, Death not Dishonour: In a German fortress, prisoners of war devise a plan. And an Indian fort weaves legends of love and sacrifice. (Ep8)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/castle-secrets-yr-1/389F2E98-6350-4A24-88D5E6B19B5370DA.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="M4" start="20250407210000 +0000" stop="20250407220500 +0000">
 		<title>Nazi Treasure Hunters</title>
@@ -4350,9 +4355,9 @@
 		<icon src="https://ic.c4assets.com/brands/a-place-in-the-sun-what-happened-next/series-1/episode-10/6d2c6317-162f-4cd0-b147-19d0578d0290.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20250407170000 +0000" stop="20250407180000 +0000">
-		<title>Location, Location, Location</title>
-		<desc>Kirstie Allsopp and Phil Spencer are in north London and Hertfordshire, helping a pair of first-timers and a three-generation family who want to leave the city behind. (S32 Ep4)</desc>
-		<icon src="https://ic.c4assets.com/brands/location-location-location/series-25/episode-1/4962262d-8bc8-4fa7-a2e4-87faa3fdf069.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<title>Kirstie and Phil's Love It or...</title>
+		<desc>...List It: Kirstie Allsopp and Phil Spencer meet James and Graham, who can't agree on what to do with their dinky 17th-century cottage in the Surrey village of Cranleigh. (S2 Ep6/8)</desc>
+		<icon src="https://ic.c4assets.com/brands/kirstie-and-phils-love-it-or-list-it/series-2/episode-6/ba3b97b7-4383-4781-8517-3cce5cff3917.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20250407180000 +0000" stop="20250407184500 +0000">
 		<title>A Place in the Sun</title>
