@@ -126,7 +126,7 @@
 	</programme>
 	<programme channel="C4" start="20250408180000 +0000" stop="20250408190000 +0000">
 		<title>Channel 4 News</title>
-		<desc>Channel 4's flagship news programme. Including the weather.</desc>
+		<desc>As the markets steady their nerves after days of heavy losses, what's the global economic outlook? Plus: the Prisons Ombudsman talks about the 'inhumane practices' which he says must end.</desc>
 		<icon src="https://ic.c4assets.com/vps/channel-4-news/95BDDBDD-F2DC-44AE-B95A3ABEC581C62C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250408190000 +0000" stop="20250408200000 +0000">
@@ -620,8 +620,8 @@
 		<icon src="https://ic.c4assets.com/brands/a-place-in-the-sun-what-happened-next/series-1/episode-20/320a8fa2-f3a2-4f8a-933c-baf09d97b822.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250411180000 +0000" stop="20250411190000 +0000">
-		<title>Channel 4 News</title>
-		<desc>Channel 4's flagship news programme. Including the weather.</desc>
+		<title>Trump's New World: What It...</title>
+		<desc>...Means for You: A Channel 4 News special looking at how President Donald Trump's sweeping tariffs could affect your own personal finances, from pensions to mortgage rates.</desc>
 		<icon src="https://ic.c4assets.com/vps/channel-4-news/95BDDBDD-F2DC-44AE-B95A3ABEC581C62C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250411190000 +0000" stop="20250411200000 +0000">
@@ -952,7 +952,7 @@
 	<programme channel="C4" start="20250413233500 +0000" stop="20250414003500 +0000">
 		<title>New: Walter Presents: Cold Summer</title>
 		<desc>A Simple Story: Italian crime thriller. In 1990s Bari, persistent Sergeant Pietro Fenoglio senses that the mafia are about to kick off a clan war. Could he be right? In Italian/subs. (Ep1)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/cold-summer-yr-1/A4B8C79E-75A8-4E1F-AC5D24E74447F54E.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250414003500 +0000" stop="20250414010000 +0000">
 		<title>The Change</title>
@@ -3407,7 +3407,7 @@
 	<programme channel="F4" start="20250410224000 +0000" stop="20250411011500 +0000">
 		<title>Radical</title>
 		<desc>(2023) Uplifting, fact-based drama with Eugenio Derbez. An inspirational teacher literally and figuratively turns his class upside down in a Mexican border town. In Spanish/subs.</desc>
-		<icon src="https://ic.c4assets.com/vps/radical/15E75720-16DC-469A-B83DDB718AB17E27.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/radical-2023/15E75720-16DC-469A-B83DDB718AB17E27.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20250411011500 +0000" stop="20250411030000 +0000">
 		<title>Hush</title>
@@ -4294,50 +4294,50 @@
 		<desc>No programme</desc>
 		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/4seven_logo_2018.svg/130px-4seven_logo_2018.svg.png" />
 	</programme>
-	<programme channel="4S" start="20250414080000 +0000" stop="20250414083000 +0000">
-		<title>Four in a Bed</title>
-		<desc>The competition kicks off at The Art Bank in Kirkcudbrightshire, where Mandy and Suzanne hope a dash of artistic flair will win them the week.</desc>
-		<icon src="https://ic.c4assets.com/vps/four-in-a-bed-series-17---the-art-bank/1C25B891-8213-4A10-AFD0D06ABA3AE179.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4S" start="20250414083000 +0000" stop="20250414093000 +0000">
+	<programme channel="4S" start="20250414080000 +0000" stop="20250414090000 +0000">
 		<title>Chateau DIY</title>
 		<desc>Tim and Krys rush to finish a new deluxe BBQ on time. Janet and Philip start work on their ambitious tower suite project. (S5 Ep6)</desc>
 		<icon src="https://ic.c4assets.com/vps/chateau-diy-series-8/4745929B-F6B7-461B-8C66BB4B710C6497.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="4S" start="20250414093000 +0000" stop="20250414100000 +0000">
-		<title>Come Dine with Me</title>
-		<desc>Hertfordshire. The first host, bargain hunter Heidi, serves up an adventurous Asian menu. But will her cheap meat and a game that mimics her shopping habits satisfy her guests? (Ep1/5)</desc>
-		<icon src="https://ic.c4assets.com/brands/come-dine-with-me/series-45/episode-21/cf20fca0-d18a-4fa1-a979-c1f47cd63738.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4S" start="20250414100000 +0000" stop="20250414103000 +0000">
-		<title>Come Dine with Me</title>
-		<desc>Hertfordshire. Sylvia serves up Mediterranean seafood and Spanish chicken, on a fancy dress 80s night featuring a showstopping Madonna tribute and dance moves nobody was expecting. (Ep2/5)</desc>
-		<icon src="https://ic.c4assets.com/brands/come-dine-with-me/series-45/episode-22/4c52c198-3810-4647-8d3a-3a5dd6420c2b.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4S" start="20250414103000 +0000" stop="20250414110000 +0000">
-		<title>Come Dine with Me</title>
-		<desc>Hertfordshire. Showbiz journalist Benjy serves up airline-inspired grub on a night where he captains a plane taking his guests to Gran Canaria - and his gran is the glam cabin crew. (Ep3/5)</desc>
-		<icon src="https://ic.c4assets.com/brands/come-dine-with-me/series-45/episode-23/8b68a4c6-e382-476f-8bd9-8ac84f51f8e5.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4S" start="20250414110000 +0000" stop="20250414113000 +0000">
-		<title>Come Dine with Me</title>
-		<desc>Hertfordshire. Guide leader Nicky plans a menu inspired by her dream visit to Asia, on a night featuring complicated cooking, geographical grub and a newspaper fashion show. (Ep4/5)</desc>
-		<icon src="https://ic.c4assets.com/brands/come-dine-with-me/series-45/episode-24/d95f719d-d6dd-4410-9de9-190c0e2c725e.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4S" start="20250414113000 +0000" stop="20250414120000 +0000">
-		<title>Come Dine with Me</title>
-		<desc>Hertfordshire. Party-loving Mark hosts the final night with a Greek theme, featuring an action-packed obstacle course around his kitchen and an emotional moment. (Ep5/5)</desc>
-		<icon src="https://ic.c4assets.com/brands/come-dine-with-me/series-45/episode-25/405c795d-d7db-44cc-a7c4-653e0e27b4f0.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4S" start="20250414120000 +0000" stop="20250414130000 +0000">
+	<programme channel="4S" start="20250414090000 +0000" stop="20250414100000 +0000">
 		<title>A Place in the Sun</title>
 		<desc>Sue and Tony want a holiday bolthole in the French city of Carcassonne. With a property already on their radar, can any of Craig Rowe's options for their £100k win them over?</desc>
 		<icon src="https://ic.c4assets.com/vps/a-place-in-the-sun-2023/11080674-00B3-4C2C-A9634037E9D3A636.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="4S" start="20250414130000 +0000" stop="20250414140000 +0000">
+	<programme channel="4S" start="20250414100000 +0000" stop="20250414110000 +0000">
 		<title>A Place in the Sun: What...</title>
 		<desc>...Happened Next?: Lee Juggurnauth sees how Liz and Ian are getting on at their Greek villa. Jasmine Harman revisits Lisa and Paul, who found their dream home in Torrevieja. (S1 Ep6)</desc>
 		<icon src="https://ic.c4assets.com/brands/a-place-in-the-sun-what-happened-next/series-1/episode-19/ee1aca96-ae93-47ec-a6d9-5b6eeb432feb.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4S" start="20250414110000 +0000" stop="20250414113000 +0000">
+		<title>Come Dine with Me</title>
+		<desc>Hertfordshire. The first host, bargain hunter Heidi, serves up an adventurous Asian menu. But will her cheap meat and a game that mimics her shopping habits satisfy her guests? (Ep1/5)</desc>
+		<icon src="https://ic.c4assets.com/brands/come-dine-with-me/series-45/episode-21/cf20fca0-d18a-4fa1-a979-c1f47cd63738.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4S" start="20250414113000 +0000" stop="20250414120000 +0000">
+		<title>Come Dine with Me</title>
+		<desc>Hertfordshire. Sylvia serves up Mediterranean seafood and Spanish chicken, on a fancy dress 80s night featuring a showstopping Madonna tribute and dance moves nobody was expecting. (Ep2/5)</desc>
+		<icon src="https://ic.c4assets.com/brands/come-dine-with-me/series-45/episode-22/4c52c198-3810-4647-8d3a-3a5dd6420c2b.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4S" start="20250414120000 +0000" stop="20250414123000 +0000">
+		<title>Come Dine with Me</title>
+		<desc>Hertfordshire. Showbiz journalist Benjy serves up airline-inspired grub on a night where he captains a plane taking his guests to Gran Canaria - and his gran is the glam cabin crew. (Ep3/5)</desc>
+		<icon src="https://ic.c4assets.com/brands/come-dine-with-me/series-45/episode-23/8b68a4c6-e382-476f-8bd9-8ac84f51f8e5.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4S" start="20250414123000 +0000" stop="20250414130000 +0000">
+		<title>Come Dine with Me</title>
+		<desc>Hertfordshire. Guide leader Nicky plans a menu inspired by her dream visit to Asia, on a night featuring complicated cooking, geographical grub and a newspaper fashion show. (Ep4/5)</desc>
+		<icon src="https://ic.c4assets.com/brands/come-dine-with-me/series-45/episode-24/d95f719d-d6dd-4410-9de9-190c0e2c725e.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4S" start="20250414130000 +0000" stop="20250414133000 +0000">
+		<title>Come Dine with Me</title>
+		<desc>Hertfordshire. Party-loving Mark hosts the final night with a Greek theme, featuring an action-packed obstacle course around his kitchen and an emotional moment. (Ep5/5)</desc>
+		<icon src="https://ic.c4assets.com/brands/come-dine-with-me/series-45/episode-25/405c795d-d7db-44cc-a7c4-653e0e27b4f0.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4S" start="20250414133000 +0000" stop="20250414140000 +0000">
+		<title>A Place in the Sun</title>
+		<desc>Mark and Caroline want a bolthole on Spain's stunning Orihuela Costa that works for all the family and is close to the golf courses. Scarlette Douglas shows them what their £100k can buy.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20250414140000 +0000" stop="20250414150000 +0000">
 		<title>A New Life in the Sun</title>
