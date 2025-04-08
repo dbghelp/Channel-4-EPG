@@ -3559,10 +3559,15 @@
 		<desc>No programme</desc>
 		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/150px-Film4_logo_2018.svg.png" />
 	</programme>
-	<programme channel="F4" start="20250414070000 +0000" stop="20250414100000 +0000">
+	<programme channel="F4" start="20250414070000 +0000" stop="20250414073000 +0000">
 		<title>LumoTV: Veneer</title>
 		<desc>Life seems to be passing middle-aged Mimi by until an incident at work shakes her out of her comfort zone and her life is irrevocably changed.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20250414073000 +0000" stop="20250414100000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/150px-Film4_logo_2018.svg.png" />
 	</programme>
 	<programme channel="F4" start="20250414100000 +0000" stop="20250414115000 +0000">
 		<title>The Land that Time Forgot</title>
