@@ -137,7 +137,7 @@
 	<programme channel="C4" start="20250409200000 +0000" stop="20250409210000 +0000">
 		<title>New: Grand Designs</title>
 		<desc>Kathryn, who's lived on the same London street for 60 years, is building a mirror image of her Edwardian home, right next door, but with a 21st-century twist.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/grand-designs-series-24---originations/B2ED47F9-399F-4C2E-A06A4FF867C3CE7B.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250409210000 +0000" stop="20250409220500 +0000">
 		<title>New: Building Britain's Superhomes</title>
@@ -307,7 +307,7 @@
 	<programme channel="C4" start="20250410220000 +0000" stop="20250410230500 +0000">
 		<title>New: World's Toughest Drive: My...</title>
 		<desc>...African Adventure: A powerful film about the mental and physical struggles of life with Parkinson's, and the story of ex-army officer Guy Deacon as he crosses Africa raising awareness.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/world's-toughest-drive-my-african-adventure/04F17C47-BE20-46F7-BD5F6CE2198A8A5F.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250410230500 +0000" stop="20250411000000 +0000">
 		<title>Ramsay's Kitchen Nightmares USA</title>
@@ -617,7 +617,7 @@
 	<programme channel="C4" start="20250412193000 +0000" stop="20250412210000 +0000">
 		<title>F1 Bahrain GP Qualifying...</title>
 		<desc>...Highlights: McLaren have looked like the team to beat so far this year. Can they be challenged for pole position in Bahrain? Lee McKenzie, David Coulthard and Lawrence Barretto present.</desc>
-		<icon src="https://ic.c4assets.com/vps/formula-1/BF8C7881-1719-47C2-A7C3810B3AAC7036.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/f1-production-2025/1ED82E56-303F-4FA3-B99A58AA3C2FF7BB.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250412210000 +0000" stop="20250413000500 +0000">
 		<title>Gangs of New York</title>
@@ -782,7 +782,7 @@
 	<programme channel="C4" start="20250413210500 +0000" stop="20250413233500 +0000">
 		<title>F1 Bahrain GP Highlights</title>
 		<desc>Can Yuki Tsunoda challenge McLaren's dominance in only his second race for Red Bull? Or could Ferrari take the chequered flag? And still so many more questions to answer this season...</desc>
-		<icon src="https://ic.c4assets.com/vps/formula-1/BF8C7881-1719-47C2-A7C3810B3AAC7036.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/f1-production-2025/5A548C81-9704-444A-B48D332E5978236D.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250413233500 +0000" stop="20250414003500 +0000">
 		<title>New: Walter Presents: Cold Summer</title>
@@ -3414,10 +3414,15 @@
 		<desc>(1996) Comedy starring Faye Dunaway and Rupert Everett. A hotel owner's attempt to upgrade her star rating is undermined by the arrival of a master thief and his light-fingered orangutan.</desc>
 		<icon src="https://ic.c4assets.com/vps/dunston-checks-in/fd9208c9-575a-44be-9262-f12c759c387f.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="F4" start="20250412114500 +0000" stop="20250412134000 +0000">
+	<programme channel="F4" start="20250412114500 +0000" stop="20250412133000 +0000">
 		<title>Jingle All the Way</title>
 		<desc>(1996) Brian Levant's festive all-action comedy. Arnold Schwarzenegger is on a mission to get his son (Jake Lloyd) the must-have Christmas toy, Turbo Man. But it's sold out everywhere...</desc>
 		<icon src="https://ic.c4assets.com/vps/jingle-all-the-way/968FA67B-9951-4C21-84F8DBC01883E6C6.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20250412133000 +0000" stop="20250412134000 +0000">
+		<title>Widows Interview Special</title>
+		<desc>Cast members Viola Davis, Michelle Rodriguez and Daniel Kaluuya and director Steve McQueen talk about making the gritty and emotional heist drama Widows.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20250412134000 +0000" stop="20250412153000 +0000">
 		<title>Stormbreaker</title>
@@ -3907,7 +3912,7 @@
 	<programme channel="4S" start="20250411200000 +0000" stop="20250411210000 +0000">
 		<title>Grand Designs</title>
 		<desc>Kathryn, who's lived on the same London street for 60 years, is building a mirror image of her Edwardian home, right next door, but with a 21st-century twist.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/grand-designs-series-24---originations/B2ED47F9-399F-4C2E-A06A4FF867C3CE7B.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20250411210000 +0000" stop="20250411220500 +0000">
 		<title>Building Britain's Superhomes</title>
@@ -4007,7 +4012,7 @@
 	<programme channel="4S" start="20250412190000 +0000" stop="20250412200000 +0000">
 		<title>Grand Designs</title>
 		<desc>Kathryn, who's lived on the same London street for 60 years, is building a mirror image of her Edwardian home, right next door, but with a 21st-century twist.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/grand-designs-series-24---originations/B2ED47F9-399F-4C2E-A06A4FF867C3CE7B.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20250412200000 +0000" stop="20250412210000 +0000">
 		<title>8 Out of 10 Cats Does Countdown</title>
