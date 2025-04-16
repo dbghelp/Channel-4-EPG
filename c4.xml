@@ -432,7 +432,7 @@
 	<programme channel="C4" start="20250418190000 +0000" stop="20250418200000 +0000">
 		<title>New: Britain's Best Buys?...</title>
 		<desc>...What's the Big Deal: Natalie works up a sweat to see if natural deodorants are worth the hype. Plus: why are we fired up over home pizza ovens? And do 'smart scales' really work? (Ep3/4)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/what’s-the-big-deal-britain’s-best-buys/F6EA5EC7-EC27-44E6-9554819AE17F59CE.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250418200000 +0000" stop="20250418210000 +0000">
 		<title>New: Gogglebox</title>
@@ -612,7 +612,7 @@
 	<programme channel="C4" start="20250419203000 +0000" stop="20250419220000 +0000">
 		<title>F1 Saudi Arabian GP Qualifying...</title>
 		<desc>...Highlights: The Jeddah Corniche is the fastest street circuit on the calendar. With an average speed of 250kmh, even the tiniest error can mean an early bath. Who will take pole?</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/f1-production-2025/66566660-13F2-4CBC-8DD35540160EB44E.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250419220000 +0000" stop="20250420000500 +0000">
 		<title>Senna</title>
@@ -767,7 +767,7 @@
 	<programme channel="C4" start="20250420213000 +0000" stop="20250421000000 +0000">
 		<title>F1 Saudi Arabian GP Highlights</title>
 		<desc>Welcome to the first street circuit of the 2025 season... and it's also the fastest! Verstappen has won exactly half of the races held here since 2021. Can anyone challenge him this year?</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/f1-production-2025/EC615C0C-1FD5-44A6-A5FF984837D186B5.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250421000000 +0000" stop="20250421005000 +0000">
 		<title>Ramsay's Kitchen Nightmares USA</title>
@@ -917,7 +917,7 @@
 	<programme channel="C4" start="20250421200000 +0000" stop="20250421210000 +0000">
 		<title>999: The Critical List</title>
 		<desc>At Royal Blackburn Hospital, the critical list team juggle urgent life or death cases. Repeat patient Tazeen has needles stuck in his neck and an 11-year-old could lose a testicle. (Ep 1)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/tx1-the-critical-list/FEB3CBA1-17C1-477A-A033CAC3C92CA770.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250421210000 +0000" stop="20250421220500 +0000">
 		<title>Gogglebox</title>
@@ -1052,7 +1052,7 @@
 	<programme channel="C4" start="20250422170000 +0000" stop="20250422180000 +0000">
 		<title>A Place in the Sun</title>
 		<desc>The new run continues. Fiona and Andy look for their perfect place in the sun-kissed town of Mojácar for their £210k. Will a beachfront bolthole with not one but four pools be the one?</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/brands/a-place-in-the-sun/8af4cb26-27fc-46ff-8770-2bed8d0114ca.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250422180000 +0000" stop="20250422190000 +0000">
 		<title>Channel 4 News</title>
@@ -3459,14 +3459,24 @@
 		<desc>(2009) Martial arts adventure. Justin Chatwin stars as the leader of a mystical band of warriors who are out to save the world from the ancient demon Lord Piccolo. With James Marsters.</desc>
 		<icon src="https://ic.c4assets.com/vps/dragonball-evolution/750699bc-e455-4609-beca-5b9510346d0e.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="F4" start="20250421114000 +0000" stop="20250421135000 +0000">
+	<programme channel="F4" start="20250421114000 +0000" stop="20250421134500 +0000">
 		<title>Evolution</title>
 		<desc>(2001) Scary sci-fi comedy. Can David Duchovny, Julianne Moore and Orlando Jones save humanity from a rapidly evolving, predatory alien species? Well, DD used to be Fox Mulder, so...</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="F4" start="20250421135000 +0000" stop="20250421172500 +0000">
+	<programme channel="F4" start="20250421134500 +0000" stop="20250421135000 +0000">
+		<title>Independence Day: Resurgence...</title>
+		<desc>...Interview Special: Director Roland Emmerich and stars Jeff Goldblum, Liam Hemsworth and Charlotte Gainsbourg talk about making the sci-fi sequel Independence Day: Resurgence.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20250421135000 +0000" stop="20250421172000 +0000">
 		<title>The Great Escape</title>
 		<desc>(1963) Classic - no, wait - iconic World War II movie starring Steve McQueen, James Garner and Richard Attenborough. Allied soldiers plan a daring escape from a German prisoner of war camp.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20250421172000 +0000" stop="20250421172500 +0000">
+		<title>Independence Day: Resurgence...</title>
+		<desc>...Interview Special: Director Roland Emmerich and stars Jeff Goldblum, Liam Hemsworth and Charlotte Gainsbourg talk about making the sci-fi sequel Independence Day: Resurgence.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20250421172500 +0000" stop="20250421200000 +0000">
@@ -3872,7 +3882,7 @@
 	<programme channel="4S" start="20250419023500 +0000" stop="20250419033000 +0000">
 		<title>Britain's Best Buys? What's the...</title>
 		<desc>...Big Deal: Natalie works up a sweat to see if natural deodorants are worth the hype. Plus: why are home pizza ovens getting us so fired up? And do 'smart scales' actually work? (Ep3/4)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/what’s-the-big-deal-britain’s-best-buys/F6EA5EC7-EC27-44E6-9554819AE17F59CE.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20250419033000 +0000" stop="20250419035500 +0000">
 		<title>Devon and Cornwall</title>
@@ -4287,7 +4297,7 @@
 	<programme channel="4S" start="20250422210000 +0000" stop="20250422220000 +0000">
 		<title>999: The Critical List</title>
 		<desc>At Royal Blackburn Hospital, the critical list team juggle urgent life or death cases. Repeat patient Tazeen has needles stuck in his neck and an 11-year-old could lose a testicle. (Ep 1)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/tx1-the-critical-list/FEB3CBA1-17C1-477A-A033CAC3C92CA770.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20250422220000 +0000" stop="20250422230500 +0000">
 		<title>Building Britain's Superhomes</title>
