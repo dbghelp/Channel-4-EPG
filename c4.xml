@@ -282,7 +282,7 @@
 	<programme channel="C4" start="20250418210000 +0000" stop="20250418220500 +0000">
 		<title>New: Big Fat Quiz: Best Bits</title>
 		<desc>From Richard Ayoade and Alan Carr to Claudia Winkleman and Mel Giedroyc, strap in for some spectacular quizzing fails, in a special compilation episode with Jimmy Carr and co. (Ep3/4)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/the-big-fat-quiz---compilations/394F6B84-F983-4B03-B6F04DE5A38FBCA4.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250418220500 +0000" stop="20250418231000 +0000">
 		<title>8 Out of 10 Cats Does Countdown</title>
@@ -539,15 +539,10 @@
 		<desc>Secrets of a Successful Marriage: Homer teaches a marriage guidance class but divulges a load of secrets about Marge and ends up in the doghouse. (S5 Ep22/22)</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20250420075500 +0000" stop="20250420082500 +0000">
-		<title>The Simpsons</title>
-		<desc>Deep Space Homer: NASA recruit Homer and Barney to make the organisation more appealing to the common man. When Barney falls off the wagon, Homer gets chosen to go into space. (S5 Ep15/22)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="C4" start="20250420082500 +0000" stop="20250420090000 +0000">
-		<title>The Simpsons</title>
-		<desc>Homer Loves Flanders: Homer realises that he likes Flanders and starts to hang around with him all the time. Unfortunately, Flanders realises that he's not so keen on Homer... (S5 Ep16/22)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	<programme channel="C4" start="20250420075500 +0000" stop="20250420090000 +0000">
+		<title>The Great Big Tiny Design...</title>
+		<desc>...Challenge with Sandi Toksvig: The miniaturists compete to create miniature toiletries for a 1920s bathroom, including tiny perfume bottles and shaving brushes. (Ep2/8)</desc>
+		<icon src="https://ic.c4assets.com/brands/the-great-big-tiny-design-challenge/series-1/episode-2/8fc3a9c1-2567-4f2d-90b3-fcbafb324f46.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250420090000 +0000" stop="20250420120000 +0000">
 		<title>Live: Sunday Brunch</title>
@@ -569,12 +564,17 @@
 		<desc>The Fat Blue Line: Fat Tony is framed, and Chief Wiggum must exonerate him. Homer uses his backside as a pickpocketing decoy. (S31 Ep3/22)</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20250420133000 +0000" stop="20250420144000 +0000">
-		<title>The Great Big Tiny Design...</title>
-		<desc>...Challenge with Sandi Toksvig: The miniaturists compete to create miniature toiletries for a 1920s bathroom, including tiny perfume bottles and shaving brushes. (Ep2/8)</desc>
-		<icon src="https://ic.c4assets.com/brands/the-great-big-tiny-design-challenge/series-1/episode-2/8fc3a9c1-2567-4f2d-90b3-fcbafb324f46.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	<programme channel="C4" start="20250420133000 +0000" stop="20250420140000 +0000">
+		<title>The Simpsons</title>
+		<desc>Deep Space Homer: NASA recruit Homer and Barney to make the organisation more appealing to the common man. When Barney falls off the wagon, Homer gets chosen to go into space. (S5 Ep15/22)</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20250420144000 +0000" stop="20250420173000 +0000">
+	<programme channel="C4" start="20250420140000 +0000" stop="20250420143500 +0000">
+		<title>The Simpsons</title>
+		<desc>Homer Loves Flanders: Homer realises that he likes Flanders and starts to hang around with him all the time. Unfortunately, Flanders realises that he's not so keen on Homer... (S5 Ep16/22)</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="C4" start="20250420143500 +0000" stop="20250420173000 +0000">
 		<title>Oliver!</title>
 		<desc>(1968) Carol Reed's evergreen musical based on Charles Dickens' Oliver Twist, with Mark Lester starring as the young orphan in Victorian London. With Ron Moody and Oliver Reed.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
@@ -752,7 +752,7 @@
 	<programme channel="C4" start="20250421190000 +0000" stop="20250421200000 +0000">
 		<title>New: Secrets of Supermarket Buyers</title>
 		<desc>Aldi vs Lidl: Denise van Outen takes a middle-aisle meander to reveal the secret ploys behind Aldi and Lidl's rivalry - from wine and wagyu beef to special offers and loyalty prizes. (Ep2)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/aldi-vs-lidl/CA0CC727-78C0-4AEE-9144A8BE77212532.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250421200000 +0000" stop="20250421210000 +0000">
 		<title>New: 999: The Critical List</title>
@@ -907,7 +907,7 @@
 	<programme channel="C4" start="20250422200000 +0000" stop="20250422210000 +0000">
 		<title>New: George Clarke's Amazing...</title>
 		<desc>...Spaces: George follows the build of a life-changing camper van and a deliciously clever cupcake-inspired build. Plus: Portugal's thinnest house squeezed between two churches. (S13 Ep5)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/george-clarke's-amazing-spaces-13/49E12516-0378-4446-9240B2A51AE7338A.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250422210000 +0000" stop="20250422220500 +0000">
 		<title>New: Barristers: Fighting for...</title>
@@ -2567,7 +2567,7 @@
 	<programme channel="M4" start="20250418200000 +0000" stop="20250418210000 +0000">
 		<title>New: Helsinki Crimes</title>
 		<desc>Brand new series: Second series of the Finnish crime thriller from Walter Presents. A strange naked home intruder isn't interested in violence or theft. In Finnish/subs.( S2 Ep5/6)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/helsinki-crimes-yr-2/30DD0DEE-D723-419B-A1D83D7B2998468B.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="M4" start="20250418210000 +0000" stop="20250418220000 +0000">
 		<title>24 Hours in A&amp;E</title>
@@ -3492,7 +3492,7 @@
 	<programme channel="F4" start="20250422200000 +0000" stop="20250422215500 +0000">
 		<title>The Artifice Girl</title>
 		<desc>(2022) Franklin Ritch's strikingly claustrophobic AI thriller about the virtues of having a virtual nine-year-old girl luring on-line predators from the shadows. With Tatum Matthews.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/artifice-girl-the-2022/1FF425BF-A76D-4CC2-9DAED8BB03B0AE68.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20250422215500 +0000" stop="20250422234500 +0000">
 		<title>Firestarter</title>
@@ -3752,7 +3752,7 @@
 	<programme channel="4S" start="20250419001000 +0000" stop="20250419011500 +0000">
 		<title>Big Fat Quiz: Best Bits</title>
 		<desc>From Richard Ayoade and Alan Carr to Claudia Winkleman and Mel Giedroyc, strap in for some spectacular quizzing fails, in a special compilation episode with Jimmy Carr and co. (Ep3/4)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/the-big-fat-quiz---compilations/394F6B84-F983-4B03-B6F04DE5A38FBCA4.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20250419011500 +0000" stop="20250419023500 +0000">
 		<title>The Great Celebrity Bake Off...</title>
@@ -3842,7 +3842,7 @@
 	<programme channel="4S" start="20250419210000 +0000" stop="20250419220500 +0000">
 		<title>Big Fat Quiz: Best Bits</title>
 		<desc>From Richard Ayoade and Alan Carr to Claudia Winkleman and Mel Giedroyc, strap in for some spectacular quizzing fails, in a special compilation episode with Jimmy Carr and co. (Ep3/4)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/the-big-fat-quiz---compilations/394F6B84-F983-4B03-B6F04DE5A38FBCA4.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20250419220500 +0000" stop="20250419230500 +0000">
 		<title>24 Hours in A&amp;E</title>
@@ -3977,7 +3977,7 @@
 	<programme channel="4S" start="20250420220000 +0000" stop="20250420230500 +0000">
 		<title>Big Fat Quiz: Best Bits</title>
 		<desc>From Richard Ayoade and Alan Carr to Claudia Winkleman and Mel Giedroyc, strap in for some spectacular quizzing fails, in a special compilation episode with Jimmy Carr and co. (Ep3/4)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/the-big-fat-quiz---compilations/394F6B84-F983-4B03-B6F04DE5A38FBCA4.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20250420230500 +0000" stop="20250421010000 +0000">
 		<title>13 Going on 30</title>
@@ -4067,7 +4067,7 @@
 	<programme channel="4S" start="20250421230500 +0000" stop="20250422001000 +0000">
 		<title>Big Fat Quiz: Best Bits</title>
 		<desc>From Richard Ayoade and Alan Carr to Claudia Winkleman and Mel Giedroyc, strap in for some spectacular quizzing fails, in a special compilation episode with Jimmy Carr and co. (Ep3/4)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/the-big-fat-quiz---compilations/394F6B84-F983-4B03-B6F04DE5A38FBCA4.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20250422001000 +0000" stop="20250422011000 +0000">
 		<title>Love My Face</title>
@@ -4167,7 +4167,7 @@
 	<programme channel="4S" start="20250422190000 +0000" stop="20250422200000 +0000">
 		<title>Secrets of Supermarket Buyers</title>
 		<desc>Aldi vs Lidl: Denise van Outen takes a middle-aisle meander to reveal the secret ploys behind Aldi and Lidl's rivalry - from wine and wagyu beef to special offers and loyalty prizes. (Ep2)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/aldi-vs-lidl/CA0CC727-78C0-4AEE-9144A8BE77212532.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20250422200000 +0000" stop="20250422210000 +0000">
 		<title>24 Hours in A&amp;E</title>
@@ -4282,7 +4282,7 @@
 	<programme channel="4S" start="20250423180000 +0000" stop="20250423190000 +0000">
 		<title>George Clarke's Amazing Spaces</title>
 		<desc>George follows the build of a life-changing camper van for a family and a deliciously clever cupcake-inspired build. Plus: Portugal's thinnest house squeezed between two churches. (S13 Ep5)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/george-clarke's-amazing-spaces-13/49E12516-0378-4446-9240B2A51AE7338A.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20250423190000 +0000" stop="20250423200000 +0000">
 		<title>The Dog House</title>
