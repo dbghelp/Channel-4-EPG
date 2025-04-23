@@ -126,7 +126,7 @@
 	</programme>
 	<programme channel="C4" start="20250423180000 +0000" stop="20250423190000 +0000">
 		<title>Channel 4 News</title>
-		<desc>Channel 4's flagship news programme. Including the weather.</desc>
+		<desc>JD Vance warns Russia and Ukraine that the American government will 'walk away' unless they agree to a ceasefire deal. And Rachel Reeves is in Washington pushing for a trade deal.</desc>
 		<icon src="https://ic.c4assets.com/vps/channel-4-news/95BDDBDD-F2DC-44AE-B95A3ABEC581C62C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250423190000 +0000" stop="20250423200000 +0000">
@@ -292,7 +292,7 @@
 	<programme channel="C4" start="20250424190000 +0000" stop="20250424200000 +0000">
 		<title>New: Bad Dog Academy</title>
 		<desc>A lockdown cockapoo called Sunny's incessant barking is driving everyone crazy. But what is poor Sunny trying to say? And can trainer Victoria teach Maggie the collie to slow down? (S2 Ep4)</desc>
-		<icon src="https://ic.c4assets.com/vps/bad-dog-academy/4DF96486-E3AA-40D1-BECC27892B2EAA9A.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/bad-dog-academy-series-2/A5FDD7CC-DBB6-42C2-9AF76D198DE096BC.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250424200000 +0000" stop="20250424210000 +0000">
 		<title>New: Trump Revolution: 100 Days...</title>
@@ -3436,12 +3436,17 @@
 	</programme>
 	<programme channel="F4" start="20250427100000 +0000" stop="20250427114000 +0000">
 		<title>The Lavender Hill Mob</title>
-		<desc>(1951) Ealing comedy. Alec Guinness plays a clerk who has been responsible for transporting a bank's gold supplies for the last 20 years. But now he has decided to steal £1,000,000 of it.</desc>
+		<desc>(1951) Classic Ealing comedy starring Alec Guinness as a mild-mannered bank clerk who assembles a gang to hijack a million quid's worth of gold. Which is when their problems really start...</desc>
 		<icon src="https://ic.c4assets.com/vps/the-lavender-hill-mob/acab82ea-ef00-4b22-9ca2-97b5561a2583.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="F4" start="20250427114000 +0000" stop="20250427133500 +0000">
+	<programme channel="F4" start="20250427114000 +0000" stop="20250427133000 +0000">
 		<title>Patrick</title>
 		<desc>(2018) Feel-good British family comedy. Sarah's (Beattie Edmondson) chaotic life gets even more complicated when she inherits a naughty pug from her nan.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20250427133000 +0000" stop="20250427133500 +0000">
+		<title>Film4 Interview Programmes:...</title>
+		<desc>...Talking Film: Stars and directors talk about the experience of making movies in this compendium of personal and practical reflections.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20250427133500 +0000" stop="20250427151500 +0000">
