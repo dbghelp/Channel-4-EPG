@@ -126,7 +126,7 @@
 	</programme>
 	<programme channel="C4" start="20250527180000 +0000" stop="20250527190000 +0000">
 		<title>Channel 4 News</title>
-		<desc>Channel 4's flagship news programme. Including the weather.</desc>
+		<desc>Live as Liverpool reacts to the Premier League trophy celebrations turning to horror. Nigel Farage challenges the PM to a debate in a working men's club. And King Charles on tour.</desc>
 		<icon src="https://ic.c4assets.com/vps/channel-4-news/95BDDBDD-F2DC-44AE-B95A3ABEC581C62C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250527190000 +0000" stop="20250527200000 +0000">
@@ -1461,8 +1461,8 @@
 	</programme>
 	<programme channel="E4" start="20250528150000 +0000" stop="20250528153000 +0000">
 		<title>The Simpsons</title>
-		<desc>My Sister, My Sitter: Lisa starts a new career as a babysitter. All is going well, until Marge and Homer employ her to look after Bart and Maggie... (S8 Ep17/25)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<desc>Undercover Burns: Mr Burns goes undercover to see what the employees really think of him, and becomes their friends - to Smithers' alarm... (S32 Ep1)</desc>
+		<icon src="https://ic.c4assets.com/vps/simpsons-the-yr-32/AABD7DCE-F92F-4FA0-89E283D31A7BD05A.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20250528153000 +0000" stop="20250528160000 +0000">
 		<title>The Simpsons</title>
@@ -2017,7 +2017,7 @@
 	<programme channel="E4" start="20250531085000 +0000" stop="20250531095000 +0000">
 		<title>Made in Chelsea</title>
 		<desc>Brand new series: Is Tristan and Sam's friendship beyond repair? Can Demi reunite Jazz and Lauren? Will Gareth notice anything different about Ollie? And what's Tabitha planning? (S29 Ep10)</desc>
-		<icon src="https://ic.c4assets.com/vps/made-in-chelsea-series-29/6C024B25-6E7D-403F-80803731369BAF16.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/made-in-chelsea-series-29/B2D1147A-447D-4477-996CA8CAE6FEB74A.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20250531095000 +0000" stop="20250531105000 +0000">
 		<title>Ramsay's Kitchen Nightmares USA</title>
@@ -3692,12 +3692,17 @@
 	<programme channel="F4" start="20250602122000 +0000" stop="20250602141500 +0000">
 		<title>The Iron Petticoat</title>
 		<desc>(1956) Comedy with Katharine Hepburn and Bob Hope. A Russian captain defects to London, falls for the charms of Major Lockwood, and tries to convince him of the beauty of communism.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/brands/the-iron-petticoat/32b09f0f-a41c-4254-aa86-db21b6889337.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="F4" start="20250602141500 +0000" stop="20250602162000 +0000">
+	<programme channel="F4" start="20250602141500 +0000" stop="20250602161000 +0000">
 		<title>Cat Ballou</title>
 		<desc>(1965) Oscar-winning comedy western starring Jane Fonda and Lee Marvin. She's trying to defend her father's ranch from developers, he's the drunken gunslinger she hires for the job.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20250602161000 +0000" stop="20250602162000 +0000">
+		<title>The Banshees of Inisherin...</title>
+		<desc>...Interview Special: The In Bruges team of Colin Farrell, Brendan Gleeson and writer/director Martin McDonagh talk about making their new film together, The Banshees of Inisherin.</desc>
+		<icon src="https://ic.c4assets.com/brands/film4-interview-specials/series-7/04b39862-81a5-40ea-a0a6-21f2210e251a.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20250602162000 +0000" stop="20250602181000 +0000">
 		<title>River of No Return</title>
@@ -4700,7 +4705,7 @@
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4M" start="20250528120000 +0000" stop="20250528130000 +0000">
-		<title>Don't Tell The Bride</title>
+		<title>Don't Tell the Bride</title>
 		<desc>The One with Joe Swash: What's better than a soap wedding? Nothing, according to Dele, who's organised an EastEnders-themed do for bride Tracy.</desc>
 		<icon src="https://ic.c4assets.com/brands/dont-tell-the-bride/series-9/episode-5/fdd046b4-0134-4ee7-95eb-ea75aa7f8179.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
@@ -4781,8 +4786,8 @@
 	</programme>
 	<programme channel="4M" start="20250529012000 +0000" stop="20250529015000 +0000">
 		<title>Impractical Jokers</title>
-		<desc>Starfart Macchiato: The guys pose as driving school instructors. Later, they sit down with a laptop and coffee and repeatedly blast fart noises from their computer. (S1 Ep11)</desc>
-		<icon src="https://ic.c4assets.com/brands/impractical-jokers/series-1/episode-11/88b69b7a-3777-4fb8-a0e1-49da08962563.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<desc>Theater del Absurdo: The guys raise donations for bizarre charities, eat food off other people's plates at a Chinese restaurant, and provide unsolicited advice to shoppers. (S1 Ep14)</desc>
+		<icon src="https://ic.c4assets.com/brands/impractical-jokers/series-1/episode-14/408f8494-06e4-4480-b7e4-2c32ebc0fe58.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4M" start="20250529015000 +0000" stop="20250529060500 +0000">
 		<title>No programme</title>
