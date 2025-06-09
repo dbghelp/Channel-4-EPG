@@ -3629,10 +3629,15 @@
 		<desc>No programme</desc>
 		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/150px-Film4_logo_2018.svg.png" />
 	</programme>
-	<programme channel="F4" start="20250615100000 +0000" stop="20250615115000 +0000">
+	<programme channel="F4" start="20250615100000 +0000" stop="20250615114000 +0000">
 		<title>Hue &amp; Cry</title>
 		<desc>(1947) The very first Ealing comedy is set in the post-war East End. A boy tries to catch a gang of thieves who are using his favourite comic to communicate their dastardly deeds.</desc>
 		<icon src="https://ic.c4assets.com/vps/hue-and-cry/b8da6556-bc00-4ce7-a8d3-305a34848d35.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20250615114000 +0000" stop="20250615115000 +0000">
+		<title>The Banshees of Inisherin...</title>
+		<desc>...Interview Special: The In Bruges team of Colin Farrell, Brendan Gleeson and writer/director Martin McDonagh talk about making their new film together, The Banshees of Inisherin.</desc>
+		<icon src="https://ic.c4assets.com/brands/film4-interview-specials/series-7/04b39862-81a5-40ea-a0a6-21f2210e251a.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20250615115000 +0000" stop="20250615133500 +0000">
 		<title>The Borrowers</title>
@@ -3649,10 +3654,15 @@
 		<desc>(2021) Heartfelt fact-based comedy-drama. Kevin Hart stars as a widower who is suddenly sprung into single fatherhood after his wife dies a day after giving birth.</desc>
 		<icon src="https://ic.c4assets.com/vps/fatherhood/30903ec1-d897-40eb-a0e8-ed3fb5ebe71f.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="F4" start="20250615173500 +0000" stop="20250615200000 +0000">
+	<programme channel="F4" start="20250615173500 +0000" stop="20250615195000 +0000">
 		<title>Bumblebee</title>
 		<desc>(2018) High-octane sci-fi action adventure starring Hailee Steinfeld. When Charlie drives home a clapped-out VW Beetle, she gets more than she bargained for: a huge robotic alien.</desc>
 		<icon src="https://ic.c4assets.com/vps/bumblebee/59a2b799-75d7-41bd-8e2e-9a1d00fd0911.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20250615195000 +0000" stop="20250615200000 +0000">
+		<title>The Banshees of Inisherin...</title>
+		<desc>...Interview Special: The In Bruges team of Colin Farrell, Brendan Gleeson and writer/director Martin McDonagh talk about making their new film together, The Banshees of Inisherin.</desc>
+		<icon src="https://ic.c4assets.com/brands/film4-interview-specials/series-7/04b39862-81a5-40ea-a0a6-21f2210e251a.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20250615200000 +0000" stop="20250615215500 +0000">
 		<title>Venom: Let There Be Carnage</title>
@@ -5307,7 +5317,7 @@
 	<programme channel="4M" start="20250615190000 +0000" stop="20250615200000 +0000">
 		<title>New: Taskmaster Bleeped</title>
 		<desc>Rosie Ramsey reveals a talent for trotting. Mathew Baynton spectacularly forfeits any remaining dignity, and in a not-unrelated event, Alex Horne's shoes are doused in yoghurt. (S19 Ep7/10)</desc>
-		<icon src="https://ic.c4assets.com/vps/taskmaster-series-19-bleeped-versions-of-75957/8EF32B89-20FD-4C01-BCAFAF20FFF86884.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/taskmaster-series-10-19-bleeped-versions-of-75957/93CEE4D1-B0EE-4FED-9925D37AEE6CF780.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4M" start="20250615200000 +0000" stop="20250615220000 +0000">
 		<title>Big Fat Quiz of the Year</title>
