@@ -289,15 +289,15 @@
 		<desc>Channel 4's flagship news programme. Including the weather.</desc>
 		<icon src="https://ic.c4assets.com/vps/channel-4-news/95BDDBDD-F2DC-44AE-B95A3ABEC581C62C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20250621154500 +0000" stop="20250621183500 +0000">
-		<title>Live: UEFA U21s: Quarter Final 1</title>
-		<desc>Jules Breach, Joe Cole and Jermain Defoe present live coverage of the first quarter final from the U21 Euros in Slovakia. The winners of Group C face the runners-up from Group D.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	<programme channel="C4" start="20250621154500 +0000" stop="20250621181500 +0000">
+		<title>Live: UEFA U21s: Portugal v...</title>
+		<desc>...Netherlands: Quarter Final. Portugal have steamrolled their way into the knockout stages and might be considered the favourites here. But they've never beaten the Dutch at the U21 Euros.</desc>
+		<icon src="https://ic.c4assets.com/vps/uefa-u21-euros---quarter-final-1/DBE6FD3E-2A7E-4A07-A5A66AF2EE83125B.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20250621183500 +0000" stop="20250621212500 +0000">
-		<title>Live: UEFA U21s: Quarter Final 2</title>
-		<desc>Jules Breach, Joe Cole and Jermain Defoe present live coverage of the second quarter final from the U21 Euros in Slovakia. The winners of Group A face the runners-up from Group B.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	<programme channel="C4" start="20250621181500 +0000" stop="20250621212500 +0000">
+		<title>Live: UEFA U21s: Spain v England</title>
+		<desc>Quarter Final. Lee Carsley's England are through to the knockouts - but it didn't all go to plan. Can they pick themselves up and put on a good show against pre-tournament favourites Spain?</desc>
+		<icon src="https://ic.c4assets.com/vps/uefa-u21-euros---quarter-final-2/8C500734-E1E3-4190-A2055BBABD87201B.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250621212500 +0000" stop="20250621230000 +0000">
 		<title>New: Rhod Gilbert: The Book of...</title>
@@ -425,14 +425,14 @@
 		<icon src="https://ic.c4assets.com/vps/channel-4-news/95BDDBDD-F2DC-44AE-B95A3ABEC581C62C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250622154500 +0000" stop="20250622183500 +0000">
-		<title>Live: UEFA U21s: Quarter Final 3</title>
-		<desc>Jules Breach, Joe Cole and Jermain Defoe present live coverage of the third quarter final from the UEFA European Under-21 Championships, at the slick, modern DAC Aréna in Dunajská Streda.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<title>Live: UEFA U21s: Denmark v France</title>
+		<desc>Quarter Final. This highly-experienced France side are in good form, but the Danes unexpectedly won their group after just two games, so could this be tighter than we might have expected?</desc>
+		<icon src="https://ic.c4assets.com/vps/uefa-u21-euros---quarter-final-3/A6DABC5B-54DB-4F5F-8FC6C084EA71EC12.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250622183500 +0000" stop="20250622212500 +0000">
-		<title>Live: UEFA U21s: Quarter Final 4</title>
-		<desc>Jules Breach, Joe Cole and Jermain Defoe present live coverage of the last quarter final from the UEFA European Under-21 Championships, at the Tatran Arena in Presov.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<title>Live: UEFA U21s: Germany v Italy</title>
+		<desc>Quarter Final. A legendary rivalry and Europe's two most successful football nations. It couldn't be juicier. Italy finished their group unbeaten, but Germany look like the team to beat...</desc>
+		<icon src="https://ic.c4assets.com/vps/uefa-u21-euros---quarter-final-4/99FCD7F2-3A0C-4332-90D5ED07DBFBE314.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250622212500 +0000" stop="20250622222500 +0000">
 		<title>New: The Handmaid's Tale</title>
