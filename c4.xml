@@ -125,8 +125,8 @@
 		<icon src="https://ic.c4assets.com/vps/sun-sea-and-selling-houses-series-8/1AAE519B-92F1-47EE-B2C494E2BE41F099.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250624180000 +0000" stop="20250624190000 +0000">
-		<title>Channel 4 News</title>
-		<desc>Channel 4's flagship news programme. Including the weather.</desc>
+		<title>Trump Declares Ceasefire: C4...</title>
+		<desc>...News Special. Channel 4's flagship news programme with all the latest from the Middle East as President Trump declares a ceasefire in the Israel-Iran conflict.</desc>
 		<icon src="https://ic.c4assets.com/vps/channel-4-news/95BDDBDD-F2DC-44AE-B95A3ABEC581C62C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250624190000 +0000" stop="20250624200000 +0000">
@@ -1344,10 +1344,15 @@
 		<desc>Bazzini: Award-winning chef Paul runs Italian joint Bazzini in New Jersey, but he didn't realise how difficult running a restaurant would be. Can Gordon turn it around? (S3 Ep3/13)</desc>
 		<icon src="https://ic.c4assets.com/brands/ramsays-kitchen-nightmares-usa/series-3/episode-3/ef6a0f0b-5d36-4f39-a791-1f4d041aa60c.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20250625040500 +0000" stop="20250625050000 +0000">
+	<programme channel="E4" start="20250625040500 +0000" stop="20250625043500 +0000">
 		<title>Brooklyn Nine-Nine</title>
 		<desc>Ava: Jeffords asks Peralta to take care of his pregnant wife when she drops by at the precinct while he and Diaz are out seeking information on a murder case. (S3 Ep8)</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="E4" start="20250625043500 +0000" stop="20250625050000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/E4_logo_2018.svg/120px-E4_logo_2018.svg.png" />
 	</programme>
 	<programme channel="E4" start="20250625050000 +0000" stop="20250625053000 +0000">
 		<title>Hollyoaks</title>
@@ -2927,7 +2932,7 @@
 	<programme channel="M4" start="20250627190000 +0000" stop="20250627200000 +0000">
 		<title>New: PopMaster TV</title>
 		<desc>Brand new series: Ken Bruce hosts the fifth heat as he tests more music lovers, all hoping to give a smash hit performance and book their spot in the Grand Final. (S4 Ep5/9)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/popmaster-series-3/5ACB57D9-BD29-46BB-9586B80DEA84B4FA.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="M4" start="20250627200000 +0000" stop="20250627220000 +0000">
 		<title>New: The Sommerdahl Murders</title>
@@ -3307,7 +3312,7 @@
 	<programme channel="M4" start="20250630190000 +0000" stop="20250630200000 +0000">
 		<title>New: PopMaster TV</title>
 		<desc>Brand new series: Ken Bruce hosts heat six, as five more players prove they know their Boyzone from their Britney. Who'll come out tops and secure their place in the Grand Final? (S4 Ep6/9)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/popmaster-series-3/E587DAA9-778A-474D-87A157137D3E4CC4.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="M4" start="20250630200000 +0000" stop="20250630210000 +0000">
 		<title>Matt Baker: Our Farm in the Dales</title>
@@ -3529,9 +3534,14 @@
 		<desc>(2022) Family comedy with Michael Peña. A young lad discovers that his slacker dad is a superhero. And before he's got used to the idea, he must foil a villain's plot to bring his dad down.</desc>
 		<icon src="https://ic.c4assets.com/brands/secret-headquarters/series-1/9bfde258-6d73-4390-8d23-b5c6485769e3.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="F4" start="20250628152000 +0000" stop="20250628174500 +0000">
+	<programme channel="F4" start="20250628152000 +0000" stop="20250628174000 +0000">
 		<title>Steel Magnolias</title>
 		<desc>(1989) Star-studded tragi-comedy with Julia Roberts, Daryl Hannah, Dolly Parton and more. Six Southern belles console and cajole each other through life in a Louisiana beauty parlour.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20250628174000 +0000" stop="20250628174500 +0000">
+		<title>Film4 Interview Programmes:...</title>
+		<desc>...Talking Film: Stars and directors talk about the experience of making movies in this compendium of personal and practical reflections.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20250628174500 +0000" stop="20250628200000 +0000">
