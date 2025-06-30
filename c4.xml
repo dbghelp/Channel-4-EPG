@@ -102,7 +102,7 @@
 	<programme channel="C4" start="20250630131000 +0000" stop="20250630140000 +0000">
 		<title>Countdown</title>
 		<desc>Colin Murray, Rachel Riley and Susie Dent host, with Neil Delamere in Dictionary Corner, as contestants race against the clock to pit their wits against vowels, consonants and numbers.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/brands/countdown/78bbcd36-2d9a-48ec-bde5-885e13fa2b9b.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250630140000 +0000" stop="20250630150000 +0000">
 		<title>A Place in the Sun</title>
@@ -126,7 +126,7 @@
 	</programme>
 	<programme channel="C4" start="20250630180000 +0000" stop="20250630190000 +0000">
 		<title>Channel 4 News</title>
-		<desc>Channel 4's flagship news programme. Including the weather.</desc>
+		<desc>The government battles a revolt over welfare reforms. A Bristol cold case is solved with a guilty verdict for a 92-year-old killer. And how worried should we be with the latest heatwave?</desc>
 		<icon src="https://ic.c4assets.com/vps/channel-4-news/95BDDBDD-F2DC-44AE-B95A3ABEC581C62C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250630190000 +0000" stop="20250630200000 +0000">
@@ -142,7 +142,7 @@
 	<programme channel="C4" start="20250630210000 +0000" stop="20250630220500 +0000">
 		<title>New: Crime Scene Cleaners</title>
 		<desc>Blood, brains and biohazards are all in a day's work for the crime scene cleaners as they head under the police tape with bodycams, specialist skills and expert forensic analysis. (Ep1)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/crime-scene-cleaners/AFD2BC6C-072B-4FFC-BEB599549E131251.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250630220500 +0000" stop="20250630230500 +0000">
 		<title>New: Life &amp; Murder of Nicole...</title>
@@ -192,7 +192,7 @@
 	<programme channel="C4" start="20250701044500 +0000" stop="20250701052500 +0000">
 		<title>Countdown</title>
 		<desc>Colin Murray, Rachel Riley and Susie Dent host, with Neil Delamere in Dictionary Corner, as contestants race against the clock to pit their wits against vowels, consonants and numbers.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/brands/countdown/78bbcd36-2d9a-48ec-bde5-885e13fa2b9b.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250701052500 +0000" stop="20250701055000 +0000">
 		<title>Cheers</title>
@@ -464,40 +464,40 @@
 		<desc>...Houses: Margaret showcases a £17m manor in Jersey, complete with Versace-style reception rooms, a wine cellar and a labyrinth garden. And there's a tense valuation in Cornwall. (S3 Ep6)</desc>
 		<icon src="https://ic.c4assets.com/vps/britain-s-most-expensive-houses-series-3/C7B26275-DBAF-4CC6-8ECD6FB8D37D0928.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20250702210000 +0000" stop="20250702220000 +0000">
+	<programme channel="C4" start="20250702210000 +0000" stop="20250702220500 +0000">
+		<title>New: Gaza: Doctors Under Attack</title>
+		<desc>A forensic investigation into Israeli military attacks on hospitals in Gaza. The film also examines allegations of the targeting and abuse of doctors and healthcare workers in Gaza.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="C4" start="20250702220500 +0000" stop="20250702230500 +0000">
 		<title>Celebrity Gogglebox</title>
 		<desc>What do Britain's favourite famous faces think of Bake Off: The Professionals, Noel Edmonds' Kiwi Adventure, Celebrity Puzzling and Olivia Attwood: The Price of Perfection? (S7 Ep4)</desc>
 		<icon src="https://ic.c4assets.com/vps/celebrity-gogglebox-series-7/CBF8D96C-CBBF-48DF-A32E3115A034B26E.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20250702220000 +0000" stop="20250702230500 +0000">
+	<programme channel="C4" start="20250702230500 +0000" stop="20250703000000 +0000">
 		<title>Celebrity Gogglebox for Stand...</title>
 		<desc>...Up To Cancer: Celebrities join the Gogglebox regulars to react to our top telly in this special episode for Stand Up To Cancer. (S24 Ep7)</desc>
 		<icon src="https://ic.c4assets.com/vps/celebrity-gogglebox-for-stand-up-to-cancer/47643ADC-487E-432C-86D411884F5CD6E7.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20250702230500 +0000" stop="20250703000500 +0000">
+	<programme channel="C4" start="20250703000000 +0000" stop="20250703005500 +0000">
 		<title>Crime Scene Cleaners</title>
 		<desc>Blood, brains and biohazards are all in a day's work for the crime scene cleaners as they head under the police tape with bodycams, specialist skills and expert forensic analysis. (Ep1)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/crime-scene-cleaners/AFD2BC6C-072B-4FFC-BEB599549E131251.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20250703000500 +0000" stop="20250703005500 +0000">
+	<programme channel="C4" start="20250703005500 +0000" stop="20250703014000 +0000">
 		<title>Ramsay's Hotel Hell</title>
 		<desc>In Loudonville, Ohio, Gordon tries to rescue the struggling Landoll's Mohican Castle, a custom-built, multi-million-dollar hotel set in 1100 acres, and its overworked owner. (S3 Ep8/8)</desc>
 		<icon src="https://ic.c4assets.com/brands/ramsays-hotel-hell/series-3/episode-8/e2a22c59-8c0a-4639-86f2-20c9bcd7e91b.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20250703005500 +0000" stop="20250703024500 +0000">
+	<programme channel="C4" start="20250703014000 +0000" stop="20250703033000 +0000">
 		<title>American Woman</title>
 		<desc>(2018) Emotional drama starring Sienna Miller. A woman must raise her grandson after her daughter disappears. With Christina Hendricks and Aaron Paul.</desc>
 		<icon src="https://ic.c4assets.com/vps/american-woman/903aabb1-802a-4ab0-b95d-ad4bbe523d28.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20250703024500 +0000" stop="20250703030000 +0000">
-		<title>Iris Prize Best British Shorts</title>
-		<desc>Making Up: In late-1980s East End London, a drag queen diagnosed with a hereditary illness must reconcile with his estranged daughter. Selected for the LGBTQ+ film festival award.</desc>
-		<icon src="https://ic.c4assets.com/vps/making-up/8043EDA4-360F-4727-B2D7BD40BED285D9.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="C4" start="20250703030000 +0000" stop="20250703035000 +0000">
-		<title>Ireland: Coast &amp; Country</title>
-		<desc>Explore the captivating Emerald Isle through the people who call it home, from foraging with vermouth makers on Valentia Island to the ancient tradition of The Winterage. (Ep2)</desc>
-		<icon src="https://ic.c4assets.com/brands/ireland-coast-country/series-1/episode-2/ea170ee5-12ec-453c-adeb-ac36f89b9e57.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	<programme channel="C4" start="20250703033000 +0000" stop="20250703035000 +0000">
+		<title>Kirstie's Fill Your House for Free</title>
+		<desc>Kirstie Allsopp and her design team transform a drab dwelling into a dream home.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250703035000 +0000" stop="20250703044500 +0000">
 		<title>George Clarke's Amazing Spaces</title>
@@ -731,7 +731,7 @@
 	</programme>
 	<programme channel="C4" start="20250704112500 +0000" stop="20250704123500 +0000">
 		<title>Live: F1 British GP Practice 1</title>
-		<desc>McLaren's Lando Norris, Mercerdes' George Russell, Haas' Oliver Bearman and Ferrari's Lewis Hamilton all start their campaign to wow the home fans at the iconic British GP from Silverstone.</desc>
+		<desc>Lando Norris absolutely nailed it last time out in Austria, dominating proceedings from practice through Qualifying to the chequered flag. So he heads to his home GP in supreme form.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250704123500 +0000" stop="20250704130500 +0000">
@@ -891,7 +891,7 @@
 	</programme>
 	<programme channel="C4" start="20250705102500 +0000" stop="20250705120000 +0000">
 		<title>Live: F1 British GP Practice 3</title>
-		<desc>Lee McKenzie presents the final practice session of the British Grand Prix as the drivers gear up for Qualifying.</desc>
+		<desc>British drivers make up half of the top six in the standings. Excitement at Silverstone will be building as Norris, Russell and Hamilton take to the track for the final practice session.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250705120000 +0000" stop="20250705130000 +0000">
@@ -901,7 +901,7 @@
 	</programme>
 	<programme channel="C4" start="20250705130000 +0000" stop="20250705161000 +0000">
 		<title>Live: F1 British GP Qualifying</title>
-		<desc>Last year, Mercedes' George Russell claimed pole position. Can he do it again? Or will 2025's key protagonists, McLaren's Lando Norris and Oscar Piastri, lead the way?</desc>
+		<desc>George Russell claimed pole at his home GP last year. More recently, Lando Norris got P1 in Austria. Then there's that other guy... you know... Lewis Hamilton. Bring it on at Silverstone.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250705161000 +0000" stop="20250705171000 +0000">
@@ -917,7 +917,7 @@
 	<programme channel="C4" start="20250705181000 +0000" stop="20250705184000 +0000">
 		<title>Channel 4 News</title>
 		<desc>Channel 4's flagship news programme. Including the weather.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/channel-4-news/95BDDBDD-F2DC-44AE-B95A3ABEC581C62C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250705184000 +0000" stop="20250705210000 +0000">
 		<title>The Day After Tomorrow</title>
@@ -926,12 +926,12 @@
 	</programme>
 	<programme channel="C4" start="20250705210000 +0000" stop="20250705233000 +0000">
 		<title>Oasis: Supersonic</title>
-		<desc>(2016) Music documentary. As fans prepare for their 2025 tour in the summer sunsheeeiiiiine, Noel and Liam Gallagher look back on Oasis's chaotic journey to superstardom in the 1990s.</desc>
+		<desc>(2016) Acclaimed music documentary. Noel and Liam Gallagher try to remember where they were while they were getting high during Oasis's chaotic journey to superstardom in the 1990s.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250705233000 +0000" stop="20250706003000 +0000">
 		<title>F1 British GP Qualifying...</title>
-		<desc>...Highlights: Last year, Mercedes' George Russell claimed pole position. Can he do it again? Or will 2025's key protagonists, McLaren's Lando Norris and Oscar Piastri, lead the way?</desc>
+		<desc>...Highlights: Russell claimed pole at his home GP last year. More recently, Norris got P1 in Austria. Then there's that other guy... you know... Lewis Hamilton. Bring it on at Silverstone.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250706003000 +0000" stop="20250706023000 +0000">
@@ -1016,23 +1016,23 @@
 	</programme>
 	<programme channel="C4" start="20250706123000 +0000" stop="20250706133000 +0000">
 		<title>Live: F1 British GP Build Up</title>
-		<desc>Steve Jones, Lee McKenzie and the legendary C4 team are joined for the first time by ex-team principal Claire Williams for thrilling live coverage of the British Grand Prix at Silverstone.</desc>
+		<desc>In Austria, three British drivers finished in the top five. Norris took the chequered flag, narrowing his deficit to Piastri to just 15 points in the standings. Good signs for Silverstone.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250706133000 +0000" stop="20250706160000 +0000">
 		<title>Live: F1 British Grand Prix</title>
-		<desc>Lewis Hamilton earned an emotional home win here last year. This time, George Russell and Lando Norris will be determined to do likewise. But there's only one top step...</desc>
+		<desc>And it's lights out at Silverstone. Hamilton earned an emotional home win here last year. This time, Russell and Norris will be determined to do likewise. But there's only one top step...</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250706160000 +0000" stop="20250706170000 +0000">
 		<title>Live: F1 British GP Reaction</title>
-		<desc>Join Steve Jones, Lee McKenzie and the C4 team for live reaction from the British GP at Silverstone. Expect expert analysis, interviews and in-depth discussion of all the key moments.</desc>
+		<desc>Join Steve Jones, Lee McKenzie and the C4 team for live reaction from Silverstone. Expect expert analysis, interviews and in-depth discussion of all the key moments. And maybe a home win...</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250706170000 +0000" stop="20250706173000 +0000">
 		<title>Channel 4 News</title>
 		<desc>Channel 4's flagship news programme. Including the weather.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/channel-4-news/95BDDBDD-F2DC-44AE-B95A3ABEC581C62C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250706173000 +0000" stop="20250706180000 +0000">
 		<title>Kirstie and Phil's Love It or...</title>
@@ -1057,7 +1057,7 @@
 	<programme channel="C4" start="20250706210000 +0000" stop="20250706220500 +0000">
 		<title>New: The Handmaid's Tale</title>
 		<desc>The Handmaid's Tale: The last ever episode. There are revelations and reunions, and important decisions to be made, in the aftermath of the dramatic events in Boston. (S6 Ep10)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/handmaid-s-tale-yr-6-the/D1FE90D0-D781-4134-A67237F95BFDBCB1.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250706220500 +0000" stop="20250706231000 +0000">
 		<title>Celebrity Gogglebox</title>
@@ -1066,7 +1066,7 @@
 	</programme>
 	<programme channel="C4" start="20250706231000 +0000" stop="20250707000500 +0000">
 		<title>F1 British GP Highlights</title>
-		<desc>Can a British driver delight their home fans with a podium finish? Or will Verstappen claim his third victory here? Steve Jones presents highlights of the British GP from Silverstone.</desc>
+		<desc>Can a British driver delight the home fans with a podium finish? Lando Norris is having a fantastic season, and he won in Austria last week. And Russell and Hamilton are hardly slouches...</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250707000500 +0000" stop="20250707005500 +0000">
@@ -3842,7 +3842,7 @@
 	<programme channel="4S" start="20250702002000 +0000" stop="20250702012000 +0000">
 		<title>Crime Scene Cleaners</title>
 		<desc>Blood, brains and biohazards are all in a day's work for the crime scene cleaners as they head under the police tape with bodycams, specialist skills and expert forensic analysis. (Ep1)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/crime-scene-cleaners/AFD2BC6C-072B-4FFC-BEB599549E131251.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20250702012000 +0000" stop="20250702022000 +0000">
 		<title>Britain's Most Expensive Houses</title>
@@ -3952,7 +3952,7 @@
 	<programme channel="4S" start="20250702220500 +0000" stop="20250702230500 +0000">
 		<title>Crime Scene Cleaners</title>
 		<desc>Blood, brains and biohazards are all in a day's work for the crime scene cleaners as they head under the police tape with bodycams, specialist skills and expert forensic analysis. (Ep1)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/crime-scene-cleaners/AFD2BC6C-072B-4FFC-BEB599549E131251.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20250702230500 +0000" stop="20250703001000 +0000">
 		<title>24 Hours in A&amp;E</title>
@@ -4067,7 +4067,7 @@
 	<programme channel="4S" start="20250703210000 +0000" stop="20250703220500 +0000">
 		<title>Crime Scene Cleaners</title>
 		<desc>Blood, brains and biohazards are all in a day's work for the crime scene cleaners as they head under the police tape with bodycams, specialist skills and expert forensic analysis. (Ep1)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/crime-scene-cleaners/AFD2BC6C-072B-4FFC-BEB599549E131251.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20250703220500 +0000" stop="20250703230500 +0000">
 		<title>In the Footsteps of Killers</title>
