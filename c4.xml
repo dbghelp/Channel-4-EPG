@@ -3524,19 +3524,34 @@
 		<desc>No programme</desc>
 		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/150px-Film4_logo_2018.svg.png" />
 	</programme>
-	<programme channel="F4" start="20250713100000 +0000" stop="20250713130000 +0000">
+	<programme channel="F4" start="20250713100000 +0000" stop="20250713125000 +0000">
 		<title>Howards End</title>
 		<desc>(1992) Anthony Hopkins, Helena Bonham Carter and Emma Thompson star in James Ivory's adaptation of EM Forster's novel about two families, love, treachery and revenge.</desc>
 		<icon src="https://ic.c4assets.com/brands/howards-end/series-1/05a6be91-85a8-4e6e-ac0c-390fd6d5f67b.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="F4" start="20250713130000 +0000" stop="20250713153500 +0000">
+	<programme channel="F4" start="20250713125000 +0000" stop="20250713130000 +0000">
+		<title>Bohemian Rhapsody Interview...</title>
+		<desc>...Special: Rami Malek discusses playing Freddie Mercury in the rock biopic about the rise of the band Queen.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20250713130000 +0000" stop="20250713152500 +0000">
 		<title>The Karate Kid</title>
 		<desc>(1984) Kung fu thriller with Ralph Macchio and Pat Morita. Elderly handyman Mr Miyagi teaches new-kid-at-school Daniel how to stand up to the school bully. It all hinges on the crane kick.</desc>
 		<icon src="https://ic.c4assets.com/vps/the-karate-kid-1984/0acfbae6-b7c1-46e7-8054-0875ef56db4d.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="F4" start="20250713153500 +0000" stop="20250713175500 +0000">
+	<programme channel="F4" start="20250713152500 +0000" stop="20250713153500 +0000">
+		<title>Bohemian Rhapsody Interview...</title>
+		<desc>...Special: Rami Malek discusses playing Freddie Mercury in the rock biopic about the rise of the band Queen.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20250713153500 +0000" stop="20250713174500 +0000">
 		<title>The Devil Wears Prada</title>
 		<desc>(2006) Comedy-drama starring Anne Hathaway and Meryl Streep. A naive young woman lands a job as assistant to one of New York's most important, but ruthless and cynical, magazine editors.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20250713174500 +0000" stop="20250713175500 +0000">
+		<title>Bohemian Rhapsody Interview...</title>
+		<desc>...Special: Rami Malek discusses playing Freddie Mercury in the rock biopic about the rise of the band Queen.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20250713175500 +0000" stop="20250713200000 +0000">
