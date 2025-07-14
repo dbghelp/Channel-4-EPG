@@ -126,7 +126,7 @@
 	</programme>
 	<programme channel="C4" start="20250714180000 +0000" stop="20250714190000 +0000">
 		<title>Channel 4 News</title>
-		<desc>Channel 4's flagship news programme. Including the weather.</desc>
+		<desc>President Trump says the US will sell 'top of the line' weapons to Ukraine via NATO, and threatens Russia with tariffs if there's no deal to end their war in Ukraine.</desc>
 		<icon src="https://ic.c4assets.com/vps/channel-4-news/95BDDBDD-F2DC-44AE-B95A3ABEC581C62C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250714190000 +0000" stop="20250714200000 +0000">
@@ -292,7 +292,7 @@
 	<programme channel="C4" start="20250715190000 +0000" stop="20250715200000 +0000">
 		<title>New: Bake Off: The Professionals</title>
 		<desc>It's the quarter-final and the teams create savoury sweet desserts and extraterrestrial showpieces with jelly art desserts. Who'll fly into the semi-final? (S10 Ep8/10)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/bake-off-the-professionals-8-10/F6FEAE41-43F5-4C68-A6E29FF11C21BA95.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250715200000 +0000" stop="20250715210000 +0000">
 		<title>New: The Couple Next Door</title>
@@ -964,14 +964,14 @@
 		<desc>Deliciously dark drama. Charlotte and Jacob's romantic trip to Antwerp takes an erotic but dangerous turn when a third person arrives. And the hospital launches an investigation. (S2 Ep3/6)</desc>
 		<icon src="https://ic.c4assets.com/vps/the-couple-next-door-2/F6CE6A17-ED37-4BEB-B22ACB5369812CE5.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20250720025500 +0000" stop="20250720030500 +0000">
-		<title>Find It, Fix It, Flog It</title>
-		<desc>In Norfolk, Henry Cole and Simon O'Brien meet upcycler and bike enthusiast Simon. Their finds include a filing cabinet, a trunk and a classic bicycle.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="C4" start="20250720030500 +0000" stop="20250720033500 +0000">
+	<programme channel="C4" start="20250720025500 +0000" stop="20250720032500 +0000">
 		<title>999: On the Front Line</title>
 		<desc>Paramedics treat a man who has been stabbed, a young man who's had 13 seizures in one day and a patient who's allegedly assaulted someone.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="C4" start="20250720032500 +0000" stop="20250720033500 +0000">
+		<title>Find It, Fix It, Flog It</title>
+		<desc>In Norfolk, Henry Cole and Simon O'Brien meet upcycler and bike enthusiast Simon. Their finds include a filing cabinet, a trunk and a classic bicycle.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250720033500 +0000" stop="20250720040000 +0000">
@@ -1027,7 +1027,7 @@
 	<programme channel="C4" start="20250720075500 +0000" stop="20250720090000 +0000">
 		<title>Bake Off: The Professionals</title>
 		<desc>It's the quarter-final and the teams create savoury sweet desserts and extraterrestrial showpieces with jelly art desserts. Who'll fly into the semi-final? (S10 Ep8/10)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/bake-off-the-professionals-8-10/F6FEAE41-43F5-4C68-A6E29FF11C21BA95.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250720090000 +0000" stop="20250720120000 +0000">
 		<title>Live: Sunday Brunch</title>
