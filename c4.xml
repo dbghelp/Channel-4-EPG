@@ -125,8 +125,8 @@
 		<icon src="https://ic.c4assets.com/brands/sun-sea-and-selling-houses/series-6/episode-1/619794f8-209e-437b-8e70-15e71852d935.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250818180000 +0000" stop="20250818190000 +0000">
-		<title>Channel 4 News</title>
-		<desc>Channel 4's flagship news programme. Including the weather.</desc>
+		<title>Trump Zelenskyy Summit C4 News...</title>
+		<desc>...Special: Live from Washington as the Ukrainian president meets with Donald Trump.</desc>
 		<icon src="https://ic.c4assets.com/vps/channel-4-news/95BDDBDD-F2DC-44AE-B95A3ABEC581C62C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250818190000 +0000" stop="20250818200000 +0000">
@@ -445,8 +445,8 @@
 		<icon src="https://ic.c4assets.com/vps/channel-4-news/95BDDBDD-F2DC-44AE-B95A3ABEC581C62C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250820190000 +0000" stop="20250820200000 +0000">
-		<title>New: George Clarke's Kitchen vs...</title>
-		<desc>...Garden: In Bristol, George and Luke help a couple decide whether to prioritise their dream kitchen or Japanese garden. Which will get the bigger budget: outdoor zen or a new oven? (Ep2)</desc>
+		<title>New: George Clarke's Beautiful...</title>
+		<desc>...Builds: In Bristol, George and Luke help a couple decide whether to prioritise their dream kitchen or Japanese garden. Which will get the bigger budget: outdoor zen or a new oven? (Ep2)</desc>
 		<icon src="https://ic.c4assets.com/vps/tx02---george-clarke-s-kitchen-vs-garden---bristol/D6634119-EC58-4B81-8D107EF9292E958B.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250820200000 +0000" stop="20250820210000 +0000">
@@ -917,7 +917,7 @@
 	<programme channel="C4" start="20250823174000 +0000" stop="20250823181000 +0000">
 		<title>Channel 4 News</title>
 		<desc>Channel 4's flagship news programme. Including the weather.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/channel-4-news/95BDDBDD-F2DC-44AE-B95A3ABEC581C62C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250823181000 +0000" stop="20250823191000 +0000">
 		<title>Our Farm Next Door: Amanda,...</title>
@@ -1061,13 +1061,13 @@
 	</programme>
 	<programme channel="C4" start="20250824155500 +0000" stop="20250824170000 +0000">
 		<title>Grand Designs</title>
-		<desc>Does good architecture have the power to heal? Kevin revisits Elinor and Born, who in 2017 built a clean-aired, hypoallergenic house, motivated by their two sons' extreme allegies.</desc>
+		<desc>Does good architecture have the power to heal? Kevin revisits Elinor and Born, who in 2017 built a clean-aired, hypoallergenic house, motivated by their two sons' extreme allergies.</desc>
 		<icon src="https://ic.c4assets.com/vps/grand-designs-series-24---revisit/22B975F6-1C72-4D44-976800C460C73F06.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250824170000 +0000" stop="20250824173000 +0000">
 		<title>Channel 4 News</title>
 		<desc>Channel 4's flagship news programme. Including the weather.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/channel-4-news/95BDDBDD-F2DC-44AE-B95A3ABEC581C62C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250824173000 +0000" stop="20250824183000 +0000">
 		<title>Our Tiny Islands</title>
@@ -3679,10 +3679,15 @@
 		<desc>(2020) Madcap adventure-comedy adaptation of the iconic video game starring Jim Carrey. The super-fast ring enthusiast hedgehog Sonic must evade an evil, moustachioed scientist.</desc>
 		<icon src="https://ic.c4assets.com/vps/sonic-the-hedgehog/8abd6b4b-f2a9-4d09-8d3d-0ffbf94154a4.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="F4" start="20250824154500 +0000" stop="20250824180500 +0000">
+	<programme channel="F4" start="20250824154500 +0000" stop="20250824180000 +0000">
 		<title>Starman</title>
 		<desc>(1984) John Carpenter's sci-fi romance with Jeff Bridges and Karen Allen. An alien is stranded on Earth, where he assumes the form of a widow's dead husband - and finds the locals hostile.</desc>
 		<icon src="https://ic.c4assets.com/vps/starman/80b295f2-2bc5-411e-a5ee-12bf3f83b070.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20250824180000 +0000" stop="20250824180500 +0000">
+		<title>The Lighthouse Interview Special</title>
+		<desc>Actors Willem Dafoe and Robert Pattinson talk to Film4 about going to extremes in the eerie drama from the director of The Witch, Robert Eggers.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20250824180500 +0000" stop="20250824200000 +0000">
 		<title>Taxi</title>
@@ -3770,7 +3775,7 @@
 		<icon src="https://ic.c4assets.com/brands/a-place-in-the-sun/series-16/episode-25/5d4b95cf-97a6-4d2c-9c06-86b691824a32.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20250818180000 +0000" stop="20250818190000 +0000">
-		<title>George Clarke's Kitchen vs Garden</title>
+		<title>George Clarke's Beautiful Builds</title>
 		<desc>It's countertops versus treetops as George helps families choose between kitchen and garden renovations. In Essex, can married couple Gemma and Scott see the wood for the trees? (Ep1)</desc>
 		<icon src="https://ic.c4assets.com/vps/george-clarke-s-kitchen-vs-garden/A1765F27-5184-4907-9B2958D1A5077E50.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
@@ -4070,7 +4075,7 @@
 		<icon src="https://ic.c4assets.com/brands/chateau-diy/series-2/episode-9/2bc4a02a-4060-4504-925d-3cae5bc3aa19.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20250821110000 +0000" stop="20250821120000 +0000">
-		<title>George Clarke's Kitchen vs Garden</title>
+		<title>George Clarke's Beautiful Builds</title>
 		<desc>In Bristol, George and Luke help a couple decide whether to prioritise their dream kitchen or Japanese garden. Which will get the bigger budget: outdoor zen or a new oven? (Ep2)</desc>
 		<icon src="https://ic.c4assets.com/vps/tx02---george-clarke-s-kitchen-vs-garden---bristol/D6634119-EC58-4B81-8D107EF9292E958B.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
