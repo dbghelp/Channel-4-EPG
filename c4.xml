@@ -142,12 +142,12 @@
 	<programme channel="C4" start="20250902213500 +0000" stop="20250902223500 +0000">
 		<title>New: The Jury Australia: Death...</title>
 		<desc>...on the Staircase: Following the jury's heated debate, the trial continues as the defence casts doubt on the prosecution. Suddenly, the final decision is in the hands of the jury. (Ep4/5)</desc>
-		<icon src="https://ic.c4assets.com/vps/the-jury-death-on-the-staircase/D9F167CC-C9C9-4830-B4B0BAA25A0B9E8E.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/first-dates-series-11/5A443CC4-D5EF-4859-B3069EF7F0D5A871.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250902223500 +0000" stop="20250902233500 +0000">
-		<title>First Dates</title>
-		<desc>A reality TV star seeks romance. A free spirit wrestles with commitment. One dater hopes for nice gifts. And a nervous first-timer and a confident dater lose the thread. (S24 Ep9)</desc>
-		<icon src="https://ic.c4assets.com/vps/first-dates-series-11/5A443CC4-D5EF-4859-B3069EF7F0D5A871.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<title>The Jury Australia: Death on...</title>
+		<desc>...the Staircase: Following the jury's heated debate, the trial continues as the defence casts doubt on the prosecution. Suddenly, the final decision is in the hands of the jury. (Ep4/5)</desc>
+		<icon src="https://ic.c4assets.com/vps/the-jury-death-on-the-staircase/D9F167CC-C9C9-4830-B4B0BAA25A0B9E8E.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250902233500 +0000" stop="20250903003000 +0000">
 		<title>Love Cheats: The Fireman Fraudster</title>
@@ -294,15 +294,15 @@
 		<desc>Howard and Sarah build a sleek, angled, metallic floating home on a tidal estuary near Worthing. But with the constant tidal shifts disrupting construction, will it sink or swim?</desc>
 		<icon src="https://ic.c4assets.com/vps/grand-designs-series-22/805A7C3A-E11B-40E6-86D712B705831D44.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20250903210000 +0000" stop="20250903222000 +0000">
-		<title>New: The Jury Australia: Death...</title>
-		<desc>...on the Staircase: The restaged criminal trial reaches a gripping conclusion, as the jury hold an emotional debate. Do they find Shaun guilty or not guilty of manslaughter? (Ep5/5)</desc>
-		<icon src="https://ic.c4assets.com/vps/the-jury-death-on-the-staircase/4F07F3A2-53B0-47B5-82B4041FAC5059AA.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="C4" start="20250903222000 +0000" stop="20250903234500 +0000">
+	<programme channel="C4" start="20250903210000 +0000" stop="20250903223500 +0000">
 		<title>The Great British Bake Off</title>
 		<desc>Bake Off is back! A fresh batch of bakers take on Cake Week, as they make fiddly fondant fancies and a Signature Swiss roll. Who'll be having their cake and eating it? (S16 Ep1/10)</desc>
 		<icon src="https://ic.c4assets.com/vps/the-great-british-bake-off-series-9/58FB17FB-F56C-48FF-836DCF3AEA06C9BC.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="C4" start="20250903223500 +0000" stop="20250903234500 +0000">
+		<title>New: The Jury Australia: Death...</title>
+		<desc>...on the Staircase: The restaged criminal trial reaches a gripping conclusion, as the jury hold an emotional debate. Do they find Shaun guilty or not guilty of manslaughter? (Ep5/5)</desc>
+		<icon src="https://ic.c4assets.com/vps/the-jury-death-on-the-staircase/4F07F3A2-53B0-47B5-82B4041FAC5059AA.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250903234500 +0000" stop="20250904003500 +0000">
 		<title>Ramsay's Kitchen Nightmares USA</title>
