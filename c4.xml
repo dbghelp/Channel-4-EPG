@@ -742,7 +742,7 @@
 	<programme channel="C4" start="20250906171000 +0000" stop="20250906174000 +0000">
 		<title>Channel 4 News</title>
 		<desc>Channel 4's flagship news programme. Including the weather.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/channel-4-news/95BDDBDD-F2DC-44AE-B95A3ABEC581C62C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250906174000 +0000" stop="20250906191000 +0000">
 		<title>F1 Italian GP Qualifying...</title>
@@ -902,7 +902,7 @@
 	<programme channel="C4" start="20250907170000 +0000" stop="20250907173000 +0000">
 		<title>Channel 4 News</title>
 		<desc>Channel 4's flagship news programme. Including the weather.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/channel-4-news/95BDDBDD-F2DC-44AE-B95A3ABEC581C62C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250907173000 +0000" stop="20250907190000 +0000">
 		<title>F1 Italian GP Highlights</title>
@@ -971,8 +971,8 @@
 	</programme>
 	<programme channel="C4" start="20250908053000 +0000" stop="20250908055500 +0000">
 		<title>The King of Queens</title>
-		<desc>Pole Lox: Doug talks Carrie into taking a pole dancing class at the gym and is surprised when she enjoys the workout. (S8 Ep1/23)</desc>
-		<icon src="https://ic.c4assets.com/brands/the-king-of-queens/series-8/episode-1/82fe247f-43b2-4e46-a1ef-2fc833a048f5.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<desc>Present Tense: The Heffernans hate an anniversary gift from the Palmers so much that they stage a robbery to get rid of it. (S8 Ep17/23)</desc>
+		<icon src="https://ic.c4assets.com/brands/the-king-of-queens/series-8/episode-17/12f552a6-65c0-4867-88f5-ade3c5ce164e.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250908055500 +0000" stop="20250908062000 +0000">
 		<title>The King of Queens</title>
@@ -1027,7 +1027,7 @@
 	<programme channel="C4" start="20250908110500 +0000" stop="20250908111000 +0000">
 		<title>Channel 4 News Summary</title>
 		<desc>Channel 4's midday news summary.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/channel-4-news/95BDDBDD-F2DC-44AE-B95A3ABEC581C62C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250908111000 +0000" stop="20250908121000 +0000">
 		<title>A New Life in the Sun</title>
@@ -1067,7 +1067,7 @@
 	<programme channel="C4" start="20250908180000 +0000" stop="20250908190000 +0000">
 		<title>Channel 4 News</title>
 		<desc>Channel 4's flagship news programme. Including the weather.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/channel-4-news/95BDDBDD-F2DC-44AE-B95A3ABEC581C62C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250908190000 +0000" stop="20250908200000 +0000">
 		<title>New: Jamie: Eat Yourself Healthy</title>
@@ -1994,12 +1994,7 @@
 		<desc>The Preventa Mode: As Valentine's Day approaches, Barry is shocked when an attractive teaching assistant agrees to go out with him. (S7 Ep14)</desc>
 		<icon src="https://ic.c4assets.com/brands/the-goldbergs/series-7/episode-14/44f2fa34-0c5a-4ecc-b0c9-0fad23bf7461.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20250906065500 +0000" stop="20250906072500 +0000">
-		<title>The Goldbergs</title>
-		<desc>Dave Kim's Party: With Dave Kim's parents out of town for the weekend, Adam decides to throw a giant party to impress Brea. (S7 Ep15)</desc>
-		<icon src="https://ic.c4assets.com/brands/the-goldbergs/series-7/episode-15/85841d1f-70f7-4201-a566-71b0f77e2cd1.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20250906072500 +0000" stop="20250906084000 +0000">
+	<programme channel="E4" start="20250906065500 +0000" stop="20250906084000 +0000">
 		<title>Lego Masters Australia</title>
 		<desc>Brand new series - What's on the Box?: From SpongeBob to Baywatch, the six teams recreate an instantly recognisable scene from an iconic TV show. But who'll be a ratings flop? (S6 Ep7/12)</desc>
 		<icon src="https://ic.c4assets.com/vps/lego-masters-australia-yr-6---what-s-on-the-box/B67E6387-FC95-4013-93E5615EBABA7610.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
@@ -2131,7 +2126,7 @@
 	</programme>
 	<programme channel="E4" start="20250907041000 +0000" stop="20250907043500 +0000">
 		<title>The Goldbergs</title>
-		<desc>Game Night: When he connects with the most popular girl in school, Adam turns to the cool new guidance counsellor for advice. (S7 Ep12)</desc>
+		<desc>Game Night: When he befriends the most popular girl in school, Adam turns to the cool new guidance counsellor for advice. (S7 Ep12)</desc>
 		<icon src="https://ic.c4assets.com/brands/the-goldbergs/series-7/episode-12/7d1a41ef-9940-43fd-94c8-4299cec6d0bd.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20250907043500 +0000" stop="20250907050000 +0000">
