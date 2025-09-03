@@ -126,7 +126,7 @@
 	</programme>
 	<programme channel="C4" start="20250903180000 +0000" stop="20250903190000 +0000">
 		<title>Channel 4 News</title>
-		<desc>Channel 4's flagship news programme. Including the weather.</desc>
+		<desc>Health secretary Wes Streeting on Angela Rayner's tax situation. And after the arrest of comedian Graham Linehan, what are the limits of free speech?</desc>
 		<icon src="https://ic.c4assets.com/vps/channel-4-news/95BDDBDD-F2DC-44AE-B95A3ABEC581C62C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250903190000 +0000" stop="20250903200000 +0000">
@@ -462,7 +462,7 @@
 	<programme channel="C4" start="20250905210000 +0000" stop="20250905213500 +0000">
 		<title>New: Mitchell and Webb Are Not...</title>
 		<desc>...Helping: Mitchell and Webb return with rising comedy stars in an inventive and very sweary new sketch show, from foul-mouthed family feuding to the world's most dangerous suitcase. (Ep1)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/mitchell-webb-sketch-show/2D3EE393-186A-4AA1-93E89AADC476F902.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250905213500 +0000" stop="20250905232500 +0000">
 		<title>American Pie</title>
@@ -732,7 +732,7 @@
 	<programme channel="C4" start="20250907145500 +0000" stop="20250907152500 +0000">
 		<title>Four in a Bed</title>
 		<desc>A giant sloth serves gin to the B&amp;Bers as Gig and Lyndsey host the week's final visit at their West Yorkshire B&amp;B, The Cross Inn. But is it all just for show, or do they always go all-out?</desc>
-		<icon src="https://ic.c4assets.com/brands/four-in-a-bed/series-18/episode-79/2a70ff09-7533-4d5d-b9d1-3344b1736094.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/four-in-a-bed-series-16---the-cross-inn/E06999B9-32E8-41E9-A19EB6A180073610.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250907152500 +0000" stop="20250907155500 +0000">
 		<title>Four in a Bed</title>
@@ -942,7 +942,7 @@
 	<programme channel="C4" start="20250909000500 +0000" stop="20250909003000 +0000">
 		<title>Mitchell and Webb Are Not Helping</title>
 		<desc>Mitchell and Webb return with rising comedy stars in an inventive, wide-ranging and very sweary sketch show, from foul-mouthed family feuding to the world's most dangerous suitcase. (Ep1/6)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/mitchell-webb-sketch-show/2D3EE393-186A-4AA1-93E89AADC476F902.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250909003000 +0000" stop="20250909010000 +0000">
 		<title>Travel Man: 48 Hours in Dublin</title>
@@ -2197,7 +2197,7 @@
 	<programme channel="E4" start="20250908200000 +0000" stop="20250908210000 +0000">
 		<title>New: Celebs Go Dating</title>
 		<desc>Brand new series: Sam tries to make it up to Mahan after their last date. Donna dates Lego-loving Mike. And has Liv finally met someone she can take to the end of agency gala? (S14 Ep17/20)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/celebs-go-dating-series-14/EF042EEF-BDD4-4DB0-B1667765239A3F5B.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20250908210000 +0000" stop="20250908220500 +0000">
 		<title>Gogglebox</title>
@@ -2227,7 +2227,7 @@
 	<programme channel="E4" start="20250909013500 +0000" stop="20250909023000 +0000">
 		<title>Celebs Go Dating</title>
 		<desc>Brand new series: Sam tries to make it up to Mahan after their last date. Donna dates Lego-loving Mike. And has Liv finally met someone she can take to the end of agency gala? (S14 Ep17/20)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/celebs-go-dating-series-14/EF042EEF-BDD4-4DB0-B1667765239A3F5B.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20250909023000 +0000" stop="20250909032500 +0000">
 		<title>First Dates</title>
@@ -2922,7 +2922,7 @@
 	<programme channel="M4" start="20250906185500 +0000" stop="20250906192500 +0000">
 		<title>Four in a Bed</title>
 		<desc>Sharmin and Sarah host the week's final visit at their expansive 35-room hotel in Perth, where the breakfast setup confuses everyone.</desc>
-		<icon src="https://ic.c4assets.com/vps/four-in-a-bed-series-18/12FB5BDC-50E6-4B06-9D59C6F434F75780.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/four-in-a-bed-series-18/8F8A4AA8-65E0-485A-8FCF0DB157285B7B.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="M4" start="20250906192500 +0000" stop="20250906200000 +0000">
 		<title>Four in a Bed</title>
@@ -4002,7 +4002,7 @@
 	<programme channel="4S" start="20250906001000 +0000" stop="20250906004500 +0000">
 		<title>Mitchell and Webb Are Not Helping</title>
 		<desc>Mitchell and Webb return with rising comedy stars in an inventive, wide-ranging and very sweary sketch show, from foul-mouthed family feuding to the world's most dangerous suitcase. (Ep1/6)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/mitchell-webb-sketch-show/2D3EE393-186A-4AA1-93E89AADC476F902.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20250906004500 +0000" stop="20250906021500 +0000">
 		<title>The Great British Bake Off</title>
@@ -4182,7 +4182,7 @@
 	<programme channel="4S" start="20250907120000 +0000" stop="20250907123000 +0000">
 		<title>Four in a Bed</title>
 		<desc>A giant sloth serves gin to the B&amp;Bers as Gig and Lyndsey host the week's final visit at their West Yorkshire B&amp;B, The Cross Inn. But is it all just for show, or do they always go all-out?</desc>
-		<icon src="https://ic.c4assets.com/brands/four-in-a-bed/series-18/episode-79/2a70ff09-7533-4d5d-b9d1-3344b1736094.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/four-in-a-bed-series-16---the-cross-inn/E06999B9-32E8-41E9-A19EB6A180073610.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20250907123000 +0000" stop="20250907130000 +0000">
 		<title>Four in a Bed</title>
