@@ -3574,20 +3574,35 @@
 		<desc>No programme</desc>
 		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/150px-Film4_logo_2018.svg.png" />
 	</programme>
-	<programme channel="F4" start="20250908100000 +0000" stop="20250908120000 +0000">
+	<programme channel="F4" start="20250908100000 +0000" stop="20250908115000 +0000">
 		<title>Gideon of Scotland Yard</title>
 		<desc>(1958) Drama. Jack Hawkins stars as Police Inspector Gideon, who faces outrage and danger in his quest to bring London's criminals to justice. With Anna Massey, John Loder and Cyril Cusack.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="F4" start="20250908120000 +0000" stop="20250908152500 +0000">
+	<programme channel="F4" start="20250908115000 +0000" stop="20250908120000 +0000">
+		<title>The Electrical Life of Louis...</title>
+		<desc>...Wain Interview Special: Stars Benedict Cumberbatch and Claire Foy talk about making director Will Sharpe's eccentric biopic of artist and inventor Louis Wain.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20250908120000 +0000" stop="20250908152000 +0000">
 		<title>Far from the Madding Crowd</title>
 		<desc>(1967) Julie Christie and Terence Stamp star in John Schlesinger's adaptation of Thomas Hardy's novel. Bathsheba is not short of suitors, but will marrying any of them lead to happiness?</desc>
 		<icon src="https://ic.c4assets.com/vps/far-from-the-madding-crowd/4fb0874c-7879-40e9-9556-7007ce03d7dc.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="F4" start="20250908152500 +0000" stop="20250908174500 +0000">
+	<programme channel="F4" start="20250908152000 +0000" stop="20250908152500 +0000">
+		<title>The Personal History of David...</title>
+		<desc>...Copperfield Interview Special: Director Armando Iannucci and actor Dev Patel, who stars in the title role, talk about bringing Charles Dickens' beloved novel to the screen.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20250908152500 +0000" stop="20250908173500 +0000">
 		<title>Nicholas Nickleby</title>
 		<desc>(1947) Drama with Derek Bond, based on Charles Dickens' novel. After his father dies, Nicholas seeks the help of his cold, avaricious, scheming uncle. Predictably, it doesn't go well.</desc>
 		<icon src="https://ic.c4assets.com/vps/nicholas-nickleby/9bc976cf-fb73-4967-817e-a269bc8bca8d.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20250908173500 +0000" stop="20250908174500 +0000">
+		<title>Django Unchained Interview Special</title>
+		<desc>Director Quentin Tarantino and stars Samuel L Jackson, Christoph Waltz, Jamie Foxx and Kerry Washington talk about making the western adventure set against a backdrop of slavery.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20250908174500 +0000" stop="20250908200000 +0000">
 		<title>Charlie's Angels</title>
@@ -3629,10 +3644,15 @@
 		<desc>(1952) Drama starring Ralph Richardson as a pioneering aviator determined to break the sound barrier, even if it means risking the lives of those closest to him. Directed by David Lean.</desc>
 		<icon src="https://ic.c4assets.com/vps/the-sound-barrier/8F6FA469-DDED-4833-83E46395D2029A14.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="F4" start="20250909173000 +0000" stop="20250909200000 +0000">
+	<programme channel="F4" start="20250909173000 +0000" stop="20250909195000 +0000">
 		<title>Jumanji: Welcome to the Jungle</title>
 		<desc>(2017) Fantasy adventure sequel with Dwayne Johnson, Karen Gillan, Kevin Hart and Jack Black. Four teenagers are sucked into the Jumanji video game to complete a dangerous quest.</desc>
 		<icon src="https://ic.c4assets.com/vps/jumanji-welcome-to-the-jungle/737F1DA8-389B-4EE4-BD873F4C6A48217D.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20250909195000 +0000" stop="20250909200000 +0000">
+		<title>Django Unchained Interview Special</title>
+		<desc>Director Quentin Tarantino and stars Samuel L Jackson, Christoph Waltz, Jamie Foxx and Kerry Washington talk about making the western adventure set against a backdrop of slavery.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20250909200000 +0000" stop="20250909225000 +0000">
 		<title>The Killing Fields</title>
