@@ -1189,15 +1189,20 @@
 		<desc>The Ornithophobia Diffusion: Leonard and Penny attempt to spend time together as friends without anybody else around, while Sheldon faces his fear of birds. (S5 Ep9)</desc>
 		<icon src="https://ic.c4assets.com/brands/the-big-bang-theory/series-5/episode-9/125e29f4-c794-4d53-a678-0fb9e1415914.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20250906141500 +0000" stop="20250906163000 +0000">
+	<programme channel="E4" start="20250906141500 +0000" stop="20250906162500 +0000">
 		<title>Home Alone</title>
 		<desc>(1990) Classic family comedy starring Macaulay Culkin. A boy's parents forget to take him on holiday with them. Then two inept burglars turn up. Can our resourceful young hero outwit them?</desc>
 		<icon src="https://ic.c4assets.com/vps/home-alone/ef32551e-0ccb-417b-88d6-29682e0ecdea.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20250906163000 +0000" stop="20250906170000 +0000">
+	<programme channel="E4" start="20250906162500 +0000" stop="20250906163000 +0000">
 		<title>The Simpsons</title>
 		<desc>Dangerous Curves: Homer and Marge head to a log cabin for the weekend and reminisce about their early courtship. (S20 Ep5/21)</desc>
 		<icon src="https://ic.c4assets.com/vps/dangerous-curves/451DF638-DC61-4FA4-B06000824D44FCFE.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="E4" start="20250906163000 +0000" stop="20250906170000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/E4_logo_2018.svg/120px-E4_logo_2018.svg.png" />
 	</programme>
 	<programme channel="E4" start="20250906170000 +0000" stop="20250906173000 +0000">
 		<title>The Simpsons</title>
@@ -3736,7 +3741,7 @@
 	</programme>
 	<programme channel="4S" start="20250906235500 +0000" stop="20250907010000 +0000">
 		<title>Gogglebox</title>
-		<desc>A brand new series begins with Coronation Street, Educating Yorkshire, The Great British Bake Off, The Inheritance, Stranded on Honeymoon Island, The Guest and The Dog House (S26 Ep1)</desc>
+		<desc>A brand new series begins with Coronation Street, Educating Yorkshire, The Great British Bake Off, The Inheritance, Stranded on Honeymoon Island, The Guest and The Dog House. (S26 Ep1)</desc>
 		<icon src="https://ic.c4assets.com/vps/gogglebox-series-26/CE38F03A-FFE5-4C4C-9D06BE8B83FB489F.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20250907010000 +0000" stop="20250907020000 +0000">
