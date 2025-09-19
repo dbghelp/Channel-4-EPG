@@ -131,7 +131,7 @@
 	</programme>
 	<programme channel="C4" start="20250919180000 +0000" stop="20250919190000 +0000">
 		<title>Channel 4 News</title>
-		<desc>Channel 4's flagship news programme. Including the weather.</desc>
+		<desc>America's late-night TV hosts push back against Trump's threats on compliant comedy. Alarming figures concerning doctors and sexual misconduct. The Taliban frees an elderly British couple.</desc>
 		<icon src="https://ic.c4assets.com/vps/channel-4-news/95BDDBDD-F2DC-44AE-B95A3ABEC581C62C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250919190000 +0000" stop="20250919200000 +0000">
@@ -141,7 +141,7 @@
 	</programme>
 	<programme channel="C4" start="20250919200000 +0000" stop="20250919210000 +0000">
 		<title>New: Gogglebox</title>
-		<desc>This time the Goggleboxers watched: The Inheritance, Long Lost Family, Unknown Number: The High School Catfish, The Yorkshire Vet, Dish It Out and Street Cops: Catching the Yobs. (S26 Ep3)</desc>
+		<desc>This time the Goggleboxers watch: The Inheritance, Long Lost Family, Unknown Number: The High School Catfish, The Yorkshire Vet, Dish It Out and Street Cops: Catching the Yobs. (S26 Ep3)</desc>
 		<icon src="https://ic.c4assets.com/vps/gogglebox-series-26/262078CE-4C93-4921-A8D194C0E1B75BF3.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250919210000 +0000" stop="20250919213500 +0000">
@@ -1930,9 +1930,9 @@
 		<icon src="https://ic.c4assets.com/vps/married-at-first-sight-uk-s10-series-5---wedding-5-hm-1-3-4-start/D2839394-9C74-4F23-AD426AB059D81993.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20250923211000 +0000" stop="20250923221000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/E4_logo_2018.svg/120px-E4_logo_2018.svg.png" />
+		<title>New: Bring It!</title>
+		<desc>Demanding dance coach Miss D and her elite Dancing Dolls prepare for a fierce competition, but will spotty performances and personal scraps prematurely scupper their chances? (S1 Ep1)</desc>
+		<icon src="https://ic.c4assets.com/vps/bring-it!-yr-1/3D1BB7EE-03A2-48F4-99BFDD001BC3D781.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20250923221000 +0000" stop="20250923231500 +0000">
 		<title>Naked Attraction</title>
@@ -3389,10 +3389,15 @@
 		<desc>(1957) Classic western with Glenn Ford and Van Heflin. The capture of a murderous stagecoach robber propels an impoverished local rancher on a perilous journey. Directed by Delmer Daves.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="F4" start="20250924115000 +0000" stop="20250924140000 +0000">
+	<programme channel="F4" start="20250924115000 +0000" stop="20250924135500 +0000">
 		<title>The Man from Colorado</title>
 		<desc>(1948) Western. When a sadistic Union colonel (Glenn Ford) becomes a federal judge after the Civil War, his friend (William Holden) takes the deputy job to try and temper his actions.</desc>
 		<icon src="https://ic.c4assets.com/vps/the-man-from-colorado/b698ab25-ff4f-45af-a408-5b8ef20c59dc.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20250924135500 +0000" stop="20250924140000 +0000">
+		<title>Mission: Impossible - Fallout...</title>
+		<desc>...Interview Special: Tom Cruise, Rebecca Ferguson, Henry Cavill, Simon Pegg, Vanessa Kirby and director Christopher McQuarrie talk about making the sixth instalment in the thriller series.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20250924140000 +0000" stop="20250924161000 +0000">
 		<title>Kind Hearts and Coronets</title>
