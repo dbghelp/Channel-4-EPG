@@ -131,7 +131,7 @@
 	</programme>
 	<programme channel="C4" start="20250926180000 +0000" stop="20250926190000 +0000">
 		<title>Channel 4 News</title>
-		<desc>Channel 4's flagship news programme. Including the weather.</desc>
+		<desc>The PM outlines plans for new digital ID cards. Meanwhile, dozens of delegates walk out of Benjamin Netanyahu's speech at the UN, as he declares that Israel must 'finish the job' in Gaza.</desc>
 		<icon src="https://ic.c4assets.com/vps/channel-4-news/95BDDBDD-F2DC-44AE-B95A3ABEC581C62C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250926190000 +0000" stop="20250926200000 +0000">
@@ -1259,10 +1259,15 @@
 		<desc>Undercover Burns: Mr Burns goes undercover to see what the employees really think of him, and becomes their friends - to Smithers' alarm... (S32 Ep1)</desc>
 		<icon src="https://ic.c4assets.com/vps/simpsons-the-yr-32/AABD7DCE-F92F-4FA0-89E283D31A7BD05A.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20250926183000 +0000" stop="20250926200000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/E4_logo_2018.svg/120px-E4_logo_2018.svg.png" />
+	<programme channel="E4" start="20250926183000 +0000" stop="20250926190000 +0000">
+		<title>The Simpsons</title>
+		<desc>I, Carumbus: The Simpsons go to Ancient Rome. Homer's a gladiator, and Bart becomes madder than Caligula. (S32 Ep2)</desc>
+		<icon src="https://ic.c4assets.com/vps/simpsons-the-yr-32/6431816B-BD08-49FD-A28BC6EDC1CF24BD.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="E4" start="20250926190000 +0000" stop="20250926200000 +0000">
+		<title>First Dates</title>
+		<desc>Tory Jessie is far from conservative when it comes to talking about sex and politics. How will she get on with journalist Josh? Ex-roadie Winston meets glam gran Donna. (S16 Ep1)</desc>
+		<icon src="https://ic.c4assets.com/brands/first-dates/series-13/episode-1/b2760833-59e1-452e-8476-eca4341fcfc8.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20250926200000 +0000" stop="20250926214500 +0000">
 		<title>Married at First Sight UK</title>
@@ -1284,45 +1289,35 @@
 		<desc>Brand new series: Two more singles get wed, but could a bride's pursuit of perfection jeopardise love? Plus: more honeymoon hubbub as one groom threatens the chance of romance. (S10 Ep5)</desc>
 		<icon src="https://ic.c4assets.com/vps/married-at-first-sight-uk-s10-series-5---weddings-8-hm-5-hm-6-7-start/18035D00-FE5C-45BF-95252AE29A9A8B31.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20250927014500 +0000" stop="20250927022500 +0000">
+	<programme channel="E4" start="20250927014500 +0000" stop="20250927023500 +0000">
 		<title>Below Deck</title>
 		<desc>Grenadian Nightmare: Anthony buckles under pressure. A familiar face shakes up the interior. And Fraser and Barbie's drama threatens to ruin a crew day off. (S11 Ep10/17)</desc>
 		<icon src="https://ic.c4assets.com/vps/below-deck-yr-11---grenadian-nightmare/5B7255D1-461F-4524-AA3AED03910B79C8.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20250927022500 +0000" stop="20250927023500 +0000">
+	<programme channel="E4" start="20250927023500 +0000" stop="20250927030000 +0000">
 		<title>The Big Bang Theory</title>
 		<desc>The Locomotive Manipulation: Love is in the air when Amy convinces Sheldon to join her for a romantic train trip to Napa Valley to celebrate Valentine's Day. (S7 Ep15)</desc>
 		<icon src="https://ic.c4assets.com/brands/the-big-bang-theory/series-7/episode-15/9adbb82c-0bc8-426e-9828-5971b6da720d.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20250927023500 +0000" stop="20250927025000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/E4_logo_2018.svg/120px-E4_logo_2018.svg.png" />
-	</programme>
-	<programme channel="E4" start="20250927025000 +0000" stop="20250927031500 +0000">
+	<programme channel="E4" start="20250927030000 +0000" stop="20250927032500 +0000">
 		<title>The Big Bang Theory</title>
 		<desc>The Indecision Amalgamation: Raj has a dating dilemma. Penny can't decide whether to accept a role in a terrible film. Sheldon chooses between two gaming systems. (S7 Ep19)</desc>
 		<icon src="https://ic.c4assets.com/brands/the-big-bang-theory/series-7/episode-19/e65e404a-a98e-4618-aeba-1e382c11c2b9.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20250927031500 +0000" stop="20250927034000 +0000">
+	<programme channel="E4" start="20250927032500 +0000" stop="20250927035000 +0000">
 		<title>The Big Bang Theory</title>
 		<desc>The First Pitch Insufficiency: Howard's nervous when NASA ask him to throw the first pitch at a baseball game. Sheldon claims his and Amy's relationship is the best in the gang. (S8 Ep3)</desc>
 		<icon src="https://ic.c4assets.com/brands/the-big-bang-theory/series-8/episode-3/b8e586dd-fda9-40cc-a73b-b293a523db9a.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20250927034000 +0000" stop="20250927040500 +0000">
+	<programme channel="E4" start="20250927035000 +0000" stop="20250927041500 +0000">
 		<title>The Big Bang Theory</title>
 		<desc>The Prom Equivalency: The girls decide to re-enact their high school proms with their current partners on the roof of the apartment building. (S8 Ep8)</desc>
 		<icon src="https://ic.c4assets.com/brands/the-big-bang-theory/series-8/episode-8/d6d2e55e-7072-4b2c-82ab-357d3c0b4674.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20250927040500 +0000" stop="20250927043000 +0000">
+	<programme channel="E4" start="20250927041500 +0000" stop="20250927050000 +0000">
 		<title>The Big Bang Theory</title>
 		<desc>The Septum Deviation: When Leonard has to have minor surgery on his nose, Sheldon is the one who seems to need sympathy. Raj is upset when his parents split up. (S8 Ep9)</desc>
 		<icon src="https://ic.c4assets.com/brands/the-big-bang-theory/series-8/episode-9/b5bc43e0-240e-4dc3-9957-25c0f353c531.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20250927043000 +0000" stop="20250927050000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/E4_logo_2018.svg/120px-E4_logo_2018.svg.png" />
 	</programme>
 	<programme channel="E4" start="20250927050000 +0000" stop="20250927053000 +0000">
 		<title>The Goldbergs</title>
@@ -2206,7 +2201,7 @@
 	</programme>
 	<programme channel="E4" start="20251002130000 +0000" stop="20251002133000 +0000">
 		<title>Brooklyn Nine-Nine</title>
-		<desc>Captain Holt has had his pie taken. It's enough to leave anyone shaken. Track it down he must. The filling and crust. But who was it who did this dastardly break-in? #NationalPoetryDay</desc>
+		<desc>Captain Holt has had his pie taken. It's enough to leave anyone shaken. Track it down he must. The filling and crust. But who did this dastardly break-in? #NationalPoetryDay</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20251002133000 +0000" stop="20251002140000 +0000">
