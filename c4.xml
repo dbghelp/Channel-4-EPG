@@ -381,8 +381,8 @@
 	</programme>
 	<programme channel="C4" start="20250928090000 +0000" stop="20250928120000 +0000">
 		<title>Live: Sunday Brunch</title>
-		<desc>Joanna Page tells us about her memoir. Gareth Malone gives us the lowdown on his tour. Elizabeth Day chats about her new book. And there's music from Tom Speight.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<desc>Joanna Page tells us about her memoir. Gareth Malone gives us the lowdown on his tour. Elizabeth Day talks about her new book. Kojey Radical chats new music. And Tom Speight performs.</desc>
+		<icon src="https://ic.c4assets.com/vps/sunday-brunch/3A2162EF-ED57-48FD-96C2ED73D12DC232.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250928120000 +0000" stop="20250928122500 +0000">
 		<title>The Simpsons</title>
@@ -607,12 +607,12 @@
 	<programme channel="C4" start="20250929200000 +0000" stop="20250929210500 +0000">
 		<title>New: Lucy Letby: Murder or Mistake</title>
 		<desc>Lucy Letby's serving 15 life sentences for the murder and attempted murder of multiple infants, but says she's innocent. This series covers both sides of Letby's case. (Ep1/2)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/lucy-letby/FBF2721E-2B80-44EC-BEB5C9657DCC4898.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250929210500 +0000" stop="20250929220500 +0000">
 		<title>New: Lucy Letby: Murder or Mistake</title>
 		<desc>The concluding part of this bold series that covers both sides of nurse Lucy Letby's conviction for the murder and attempted murder of multiple infants. (Ep2/2)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/lucy-letby/EC567C9C-F775-44C6-BC3475BFE720BE61.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20250929220500 +0000" stop="20250929230500 +0000">
 		<title>24 Hours in A&amp;E</title>
@@ -1254,40 +1254,50 @@
 		<desc>Large Marge: Marge accidentally gets breast implants. (S14 Ep4/22)</desc>
 		<icon src="https://ic.c4assets.com/vps/simpsons-the-year-3-year-14-premiere---large-marge/83D4A646-9903-4D98-B5A480C1FA9E216D.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20250926180000 +0000" stop="20250926195000 +0000">
-		<title>Married at First Sight UK</title>
-		<desc>Brand new series: MAFS UK is back, as a fresh batch of singles marry strangers! Our first couples get wed, but will an unexpected surprise and a potential ick threaten harmony? (S10 Ep1)</desc>
-		<icon src="https://ic.c4assets.com/vps/married-at-first-sight-uk-s10-series-5---sten-wedding-1-2/65726D38-4EC5-4EED-B8EFB3614E4AF1A5.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	<programme channel="E4" start="20250926180000 +0000" stop="20250926183000 +0000">
+		<title>The Simpsons</title>
+		<desc>Undercover Burns: Mr Burns goes undercover to see what the employees really think of him, and becomes their friends - to Smithers' alarm... (S32 Ep1)</desc>
+		<icon src="https://ic.c4assets.com/vps/simpsons-the-yr-32/AABD7DCE-F92F-4FA0-89E283D31A7BD05A.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20250926195000 +0000" stop="20250926213500 +0000">
+	<programme channel="E4" start="20250926183000 +0000" stop="20250926200000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/E4_logo_2018.svg/120px-E4_logo_2018.svg.png" />
+	</programme>
+	<programme channel="E4" start="20250926200000 +0000" stop="20250926214500 +0000">
 		<title>Married at First Sight UK</title>
 		<desc>Brand new series: There's a showstopping entrance and a major wobble as more strangers say 'I do'. And our first newly-weds jet off on their honeymoons, but are cracks forming? (S10 Ep2)</desc>
 		<icon src="https://ic.c4assets.com/vps/married-at-first-sight-uk-s10-series-5---wedding-3-4-hm-1-2-start/1B18D6FE-98B2-4E6C-AF7223AF26BAB791.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20250926213500 +0000" stop="20250926225000 +0000">
+	<programme channel="E4" start="20250926214500 +0000" stop="20250926230000 +0000">
 		<title>Married at First Sight UK</title>
 		<desc>Brand new series: More strangers get wed, but will a frosty first impression leave one bride out in the cold? And will there be harmonious honeymoons for our fresh newly-weds? (S10 Ep3)</desc>
 		<icon src="https://ic.c4assets.com/vps/married-at-first-sight-uk-s10-series-5---wedding-5-hm-1-3-4-start/D2839394-9C74-4F23-AD426AB059D81993.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20250926225000 +0000" stop="20250927002000 +0000">
+	<programme channel="E4" start="20250926230000 +0000" stop="20250927003000 +0000">
 		<title>Married at First Sight UK</title>
 		<desc>Brand new series: More singles take the leap of faith. Sparks fly for some, but one bride riles up her in-laws before she's even got down the aisle! Plus: more honeymoon hoo-ha. (S10 Ep4)</desc>
 		<icon src="https://ic.c4assets.com/vps/married-at-first-sight-uk-s10-series-5---wedding-6-7-hm-3-hm-5-starts/8D3964E8-7E43-408E-96ABF99003028382.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20250927002000 +0000" stop="20250927013500 +0000">
+	<programme channel="E4" start="20250927003000 +0000" stop="20250927014500 +0000">
 		<title>Married at First Sight UK</title>
 		<desc>Brand new series: Two more singles get wed, but could a bride's pursuit of perfection jeopardise love? Plus: more honeymoon hubbub as one groom threatens the chance of romance. (S10 Ep5)</desc>
 		<icon src="https://ic.c4assets.com/vps/married-at-first-sight-uk-s10-series-5---weddings-8-hm-5-hm-6-7-start/18035D00-FE5C-45BF-95252AE29A9A8B31.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20250927013500 +0000" stop="20250927022500 +0000">
+	<programme channel="E4" start="20250927014500 +0000" stop="20250927022500 +0000">
 		<title>Below Deck</title>
 		<desc>Grenadian Nightmare: Anthony buckles under pressure. A familiar face shakes up the interior. And Fraser and Barbie's drama threatens to ruin a crew day off. (S11 Ep10/17)</desc>
 		<icon src="https://ic.c4assets.com/vps/below-deck-yr-11---grenadian-nightmare/5B7255D1-461F-4524-AA3AED03910B79C8.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20250927022500 +0000" stop="20250927025000 +0000">
+	<programme channel="E4" start="20250927022500 +0000" stop="20250927023500 +0000">
 		<title>The Big Bang Theory</title>
 		<desc>The Locomotive Manipulation: Love is in the air when Amy convinces Sheldon to join her for a romantic train trip to Napa Valley to celebrate Valentine's Day. (S7 Ep15)</desc>
 		<icon src="https://ic.c4assets.com/brands/the-big-bang-theory/series-7/episode-15/9adbb82c-0bc8-426e-9828-5971b6da720d.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="E4" start="20250927023500 +0000" stop="20250927025000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/E4_logo_2018.svg/120px-E4_logo_2018.svg.png" />
 	</programme>
 	<programme channel="E4" start="20250927025000 +0000" stop="20250927031500 +0000">
 		<title>The Big Bang Theory</title>
@@ -1310,9 +1320,9 @@
 		<icon src="https://ic.c4assets.com/brands/the-big-bang-theory/series-8/episode-9/b5bc43e0-240e-4dc3-9957-25c0f353c531.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20250927043000 +0000" stop="20250927050000 +0000">
-		<title>Modern Family</title>
-		<desc>A Stereotypical Day: Jay goes out of his way to make a good impression on the new neighbours. (S8 Ep2)</desc>
-		<icon src="https://ic.c4assets.com/vps/modern-family-yr-8---a-stereotypical-day/B9832834-B069-448E-BF57A2DC54AEFDDB.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/E4_logo_2018.svg/120px-E4_logo_2018.svg.png" />
 	</programme>
 	<programme channel="E4" start="20250927050000 +0000" stop="20250927053000 +0000">
 		<title>The Goldbergs</title>
@@ -1722,7 +1732,7 @@
 	<programme channel="E4" start="20250929212500 +0000" stop="20250929223500 +0000">
 		<title>New: Made in Chelsea</title>
 		<desc>Brand new series: A devastated Jack confronts Livvy and Kit. Tabitha sets her sights on Arman. Jazz confides in Jules. And will Beks and Olly's holiday fling fizzle out in London? (S30 Ep3)</desc>
-		<icon src="https://ic.c4assets.com/vps/made-in-chelsea-series-30/57D48566-1A3B-442C-8767D55049EC3EAD.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/made-in-chelsea-series-30/C4650AB7-8B4E-4EDC-963FA4AB785AE90F.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20250929223500 +0000" stop="20250929233500 +0000">
 		<title>Gogglebox</title>
@@ -1737,7 +1747,7 @@
 	<programme channel="E4" start="20250930010000 +0000" stop="20250930020000 +0000">
 		<title>Made in Chelsea</title>
 		<desc>Brand new series: A devastated Jack confronts Livvy and Kit. Tabitha sets her sights on Arman. Jazz confides in Jules. And will Beks and Olly's holiday fling fizzle out in London? (S30 Ep3)</desc>
-		<icon src="https://ic.c4assets.com/vps/made-in-chelsea-series-30/57D48566-1A3B-442C-8767D55049EC3EAD.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/made-in-chelsea-series-30/C4650AB7-8B4E-4EDC-963FA4AB785AE90F.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20250930020000 +0000" stop="20250930024500 +0000">
 		<title>Below Deck</title>
@@ -4127,12 +4137,12 @@
 	<programme channel="4S" start="20251001222000 +0000" stop="20251001232000 +0000">
 		<title>Lucy Letby: Murder or Mistake </title>
 		<desc>Lucy Letby's serving 15 life sentences for the murder and attempted murder of multiple infants, but says she's innocent. This series covers both sides of Letby's case. (Ep1/2)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/lucy-letby/FBF2721E-2B80-44EC-BEB5C9657DCC4898.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20251001232000 +0000" stop="20251002002000 +0000">
 		<title>Lucy Letby: Murder or Mistake </title>
 		<desc>The concluding part of this bold series that covers both sides of nurse Lucy Letby's conviction for the murder and attempted murder of multiple infants. (Ep2/2)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/lucy-letby/EC567C9C-F775-44C6-BC3475BFE720BE61.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20251002002000 +0000" stop="20251002012000 +0000">
 		<title>Gogglebox</title>
