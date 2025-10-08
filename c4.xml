@@ -131,7 +131,7 @@
 	</programme>
 	<programme channel="C4" start="20251008180000 +0000" stop="20251008190000 +0000">
 		<title>Channel 4 News</title>
-		<desc>Channel 4's flagship news programme. Including the weather.</desc>
+		<desc>Peace talks between Israel and Hamas continue. Tory leader Kemi Badenoch pledges to scrap stamp duty if elected. And the former head of the FBI pleads not guilty of lying to Congress.</desc>
 		<icon src="https://ic.c4assets.com/vps/channel-4-news/95BDDBDD-F2DC-44AE-B95A3ABEC581C62C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20251008190000 +0000" stop="20251008200000 +0000">
@@ -586,8 +586,8 @@
 	</programme>
 	<programme channel="C4" start="20251011142500 +0000" stop="20251011152500 +0000">
 		<title>Location, Location, Location</title>
-		<desc>Phil Spencer catches up with Poppy and Mike, who were renting their perfect home... that wasn't for sale. And are Hayley and James still living the dream in their 'unicorn' home? (S37 Ep6)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<desc>Kirstie Allsopp and Phil Spencer catch up with mum and daughter Linda and Laura, who were looking for a Bristol bolthole, and Ranald and Marjorie, who were upsizing in Glasgow. (S38 Ep5)</desc>
+		<icon src="https://ic.c4assets.com/brands/location-location-location/series-29/episode-11/28ec9456-544d-48b2-9980-f817c0c01b4a.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20251011152500 +0000" stop="20251011163000 +0000">
 		<title>Kirstie and Phil's Love It or...</title>
@@ -947,7 +947,7 @@
 	<programme channel="C4" start="20251013210000 +0000" stop="20251013220500 +0000">
 		<title>New: Social Media Monsters</title>
 		<desc>Stories of serious crimes linked to social media. When businesswoman Justine Wright lets an employee go, it sparks a decade-long stalking campaign against Justine and others. (Ep2)</desc>
-		<icon src="https://ic.c4assets.com/vps/social-media-monsters/D892AF4A-6002-47A2-A2164AF7E89B8C2F.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/social-media-monsters/0B1E74CF-AA63-443E-8A2E471BD6709E04.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20251013220500 +0000" stop="20251013230500 +0000">
 		<title>Educating Yorkshire</title>
@@ -1961,12 +1961,12 @@
 	</programme>
 	<programme channel="E4" start="20251012200000 +0000" stop="20251012211000 +0000">
 		<title>New: Married at First Sight UK</title>
-		<desc>Brand new series: The final newly-weds embark on their honeymoons; will physical intimacy lead to a deeper connection? And a badly behaved husband receives a word of warning. (S10 Ep15)</desc>
+		<desc>Brand new series: The final newly-weds embark on their honeymoons! Meanwhile, a badly behaved husband receives a warning, and will physical intimacy lead to a deeper connection? (S10 Ep15)</desc>
 		<icon src="https://ic.c4assets.com/vps/married-at-first-sight-uk-s10-series-5/A2D58D20-63A8-4425-A3203A2BDEC9409D.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20251012211000 +0000" stop="20251012215000 +0000">
 		<title>New: MAFS UK: It's Official!...</title>
-		<desc>...With Lucinda Light: Brand new series - Lucinda dissects all the drama and finds out what her guests really think about the biggest MAFS UK 2025 moments! (S3 Ep4)</desc>
+		<desc>...With Lucinda Light: Brand new series - Gogglebox's Marcus and Mica chat all-things intruder as three new couples get wed. And new bride April fills us in on becoming Mrs Hotdog. (S3 Ep4)</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20251012215000 +0000" stop="20251012225000 +0000">
@@ -1981,7 +1981,7 @@
 	</programme>
 	<programme channel="E4" start="20251013005500 +0000" stop="20251013014500 +0000">
 		<title>Married at First Sight UK</title>
-		<desc>Brand new series: The final newly-weds embark on their honeymoons; will physical intimacy lead to a deeper connection? And a badly behaved husband receives a word of warning. (S10 Ep15)</desc>
+		<desc>Brand new series: The final newly-weds embark on their honeymoons! Meanwhile, a badly behaved husband receives a warning, and will physical intimacy lead to a deeper connection? (S10 Ep15)</desc>
 		<icon src="https://ic.c4assets.com/vps/married-at-first-sight-uk-s10-series-5/A2D58D20-63A8-4425-A3203A2BDEC9409D.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20251013014500 +0000" stop="20251013023500 +0000">
@@ -4192,7 +4192,7 @@
 	<programme channel="4S" start="20251014000500 +0000" stop="20251014011000 +0000">
 		<title>Social Media Monsters</title>
 		<desc>Stories of serious crimes linked to social media. When businesswoman Justine Wright lets an employee go, it sparks a decade-long stalking campaign against Justine and others. (Ep2)</desc>
-		<icon src="https://ic.c4assets.com/vps/social-media-monsters/D892AF4A-6002-47A2-A2164AF7E89B8C2F.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/social-media-monsters/0B1E74CF-AA63-443E-8A2E471BD6709E04.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20251014011000 +0000" stop="20251014021000 +0000">
 		<title>24 Hours in A&amp;E</title>
