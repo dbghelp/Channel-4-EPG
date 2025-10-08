@@ -787,7 +787,7 @@
 	<programme channel="C4" start="20251013000000 +0000" stop="20251013005500 +0000">
 		<title>Worlds Apart</title>
 		<desc>Twelve strangers - young and old - take on an epic treasure hunt across Japan. Paired into intergenerational teams, who'll bridge the age gap and find the clues to win £50,000? (Ep1/5)</desc>
-		<icon src="https://ic.c4assets.com/vps/worlds-apart/291EF0D9-F793-4D48-B697C8C01C9901D9.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/worlds-apart/7CC36A25-F82D-48CA-9948D5AFD1AE1D09.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20251013005500 +0000" stop="20251013014500 +0000">
 		<title>Ramsay's Kitchen Nightmares USA</title>
@@ -3364,10 +3364,15 @@
 		<desc>(1997) Family fantasy comedy-adventure starring Jim Broadbent and Celia Imrie. A family of miniscule people live beneath the floorboards of a regular-sized family's house.</desc>
 		<icon src="https://ic.c4assets.com/vps/the-borrowers-1997/80B5961E-06BC-4EBD-B9391D6376C05DA0.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="F4" start="20251012133000 +0000" stop="20251012154000 +0000">
+	<programme channel="F4" start="20251012133000 +0000" stop="20251012153500 +0000">
 		<title>Tooth Fairy</title>
 		<desc>(2010) Family fantasy comedy. Dwayne Johnson stars as a tough ice hockey player who is transformed into a real-life fairy as punishment for telling a child that tooth fairies don't exist.</desc>
 		<icon src="https://ic.c4assets.com/vps/tooth-fairy/5bc80d7c-0ff1-417e-bace-f183a1cdb414.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20251012153500 +0000" stop="20251012154000 +0000">
+		<title>Bridge of Spies Interview Special</title>
+		<desc>Director Steven Spielberg and stars Tom Hanks and Mark Rylance talk about making their Cold War espionage drama.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20251012154000 +0000" stop="20251012174500 +0000">
 		<title>Turner &amp; Hooch</title>
@@ -3832,7 +3837,7 @@
 	<programme channel="4S" start="20251011001000 +0000" stop="20251011012000 +0000">
 		<title>Worlds Apart</title>
 		<desc>Twelve strangers - young and old - take on an epic treasure hunt across Japan. Paired into intergenerational teams, who'll bridge the age gap and find the clues to win £50,000? (Ep1/5)</desc>
-		<icon src="https://ic.c4assets.com/vps/worlds-apart/291EF0D9-F793-4D48-B697C8C01C9901D9.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/worlds-apart/7CC36A25-F82D-48CA-9948D5AFD1AE1D09.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20251011012000 +0000" stop="20251011015000 +0000">
 		<title>Mitchell and Webb Are Not Helping</title>
