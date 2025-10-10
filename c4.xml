@@ -377,7 +377,7 @@
 	<programme channel="C4" start="20251012090000 +0000" stop="20251012120000 +0000">
 		<title>Live: Sunday Brunch</title>
 		<desc>Mark Ronson and Natalie Cassidy chat about their respective new books. Professor Brian Cox gives us the lowdown on his tour. Plus: Adrian Dunbar, Sigma, Dizzee Rascal and Coco.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/sunday-brunch/3A2162EF-ED57-48FD-96C2ED73D12DC232.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20251012120000 +0000" stop="20251012122500 +0000">
 		<title>The Simpsons</title>
@@ -2920,24 +2920,24 @@
 		<icon src="https://ic.c4assets.com/vps/the-dog-house-series-4/92792D5B-377F-4063-92E366BA8C6390AE.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="M4" start="20251014200000 +0000" stop="20251014210000 +0000">
-		<title>Home Greek Home</title>
-		<desc>Sarah Moore's house renovation on Skiathos is under pressure. With only five weeks to go until the tourist season begins, builders double up as speedboat drivers. (Ep2/6)</desc>
-		<icon src="https://ic.c4assets.com/brands/home-greek-home/series-1/episode-2/6356030e-9cd8-4640-b866-22ff7cbd2b98.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<title>24 Hours in A&amp;E</title>
+		<desc>A look at three patients who have suffered potentially life-changing injuries, including a partially severed hand, a long-standing stab wound, and a serious quad-bike accident. (S20 Ep7)</desc>
+		<icon src="https://ic.c4assets.com/brands/24-hours-in-ae/series-19/episode-18/3948e227-8745-4ef7-b11a-2813d1e067ad.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="M4" start="20251014210000 +0000" stop="20251014220500 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/More4_logo_2018.svg/200px-More4_logo_2018.svg.png" />
-	</programme>
-	<programme channel="M4" start="20251014220500 +0000" stop="20251014231000 +0000">
 		<title>24 Hours in A&amp;E</title>
 		<desc>Harriet, who's 13, is rushed to St George's after being knocked off her bike, and 12-year-old Adam has a deep wound in his groin after falling from a tree and impaling his leg. (S23 Ep2)</desc>
 		<icon src="https://ic.c4assets.com/brands/24-hours-in-ae/series-19/episode-19/c647edae-f2d6-46a8-85c3-e1f201d88ac9.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="M4" start="20251014231000 +0000" stop="20251015001500 +0000">
+	<programme channel="M4" start="20251014220500 +0000" stop="20251014231000 +0000">
 		<title>999: On the Front Line</title>
 		<desc>The paramedics are called out to a woman who's had a seizure on a bus, a man who's too weak to reach his oxygen supply, and a young woman with terminal cancer who's collapsed. (S10 Ep2)</desc>
 		<icon src="https://ic.c4assets.com/brands/999-on-the-front-line/series-6/episode-22/31b6df09-50d1-4a02-85d0-379f91ed1914.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="M4" start="20251014231000 +0000" stop="20251015001500 +0000">
+		<title>Home Greek Home</title>
+		<desc>Sarah Moore's house renovation on Skiathos is under pressure. With only five weeks to go until the tourist season begins, builders double up as speedboat drivers. (Ep2/6)</desc>
+		<icon src="https://ic.c4assets.com/brands/home-greek-home/series-1/episode-2/6356030e-9cd8-4640-b866-22ff7cbd2b98.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="M4" start="20251015001500 +0000" stop="20251015012000 +0000">
 		<title>24 Hours in A&amp;E</title>
