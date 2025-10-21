@@ -297,7 +297,7 @@
 	<programme channel="C4" start="20251022190000 +0000" stop="20251022200000 +0000">
 		<title>New: Location, Location, Location</title>
 		<desc>We revisit picky postcoder Rupreet and Sundeep at their ever-growing Harrow home, and Laura and Euan, who got their Glasgow gaff for £432,100 to mark the countdown to moving in. (S44 Ep7)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/location-location-location-27---revisit-north-harrow-glasgow/15944AA9-32F9-414A-9B927067ACE78EAF.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20251022200000 +0000" stop="20251022210000 +0000">
 		<title>New: Grand Designs</title>
@@ -3389,10 +3389,15 @@
 		<desc>...of Water: (2015) Surreal animated adventure. When the recipe for Mr Krabs' Krabby Patties vanishes, Bikini Bottom is plunged into anarchy. So SpongeBob sets out to put things right.</desc>
 		<icon src="https://ic.c4assets.com/vps/the-spongebob-movie-sponge-out-of-water/47a988b9-c61d-4b1f-a7bf-e0c20a26eb8c.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="F4" start="20251025133500 +0000" stop="20251025154500 +0000">
+	<programme channel="F4" start="20251025133500 +0000" stop="20251025154000 +0000">
 		<title>Home Alone</title>
 		<desc>(1990) Classic family comedy starring Macaulay Culkin. A boy's parents forget to take him on holiday with them. Then two inept burglars turn up. Can our resourceful young hero outwit them?</desc>
 		<icon src="https://ic.c4assets.com/vps/home-alone/ef32551e-0ccb-417b-88d6-29682e0ecdea.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20251025154000 +0000" stop="20251025154500 +0000">
+		<title>Last Night in Soho Interview...</title>
+		<desc>...Special: Director Edgar Wright and co-writer Krysty Wilson-Cairns discuss travelling through time and recreating the past to make the ingenious and atmospheric psychological thriller.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20251025154500 +0000" stop="20251025174000 +0000">
 		<title>Playing with Fire</title>
@@ -3424,9 +3429,14 @@
 		<desc>No programme</desc>
 		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/150px-Film4_logo_2018.svg.png" />
 	</programme>
-	<programme channel="F4" start="20251026110000 +0000" stop="20251026135500 +0000">
+	<programme channel="F4" start="20251026110000 +0000" stop="20251026135000 +0000">
 		<title>Tora! Tora! Tora!</title>
 		<desc>(1970) Oscar-winning drama portraying the bombing of Pearl Harbor, from both American and Japanese perspectives. With Joseph Cotten and So Yamamura.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20251026135000 +0000" stop="20251026135500 +0000">
+		<title>Last Night in Soho Interview...</title>
+		<desc>...Special: Director Edgar Wright and co-writer Krysty Wilson-Cairns discuss travelling through time and recreating the past to make the ingenious and atmospheric psychological thriller.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20251026135500 +0000" stop="20251026161500 +0000">
@@ -3464,19 +3474,19 @@
 		<desc>No programme</desc>
 		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/150px-Film4_logo_2018.svg.png" />
 	</programme>
-	<programme channel="F4" start="20251027080000 +0000" stop="20251027083000 +0000">
+	<programme channel="F4" start="20251027080000 +0000" stop="20251027110000 +0000">
 		<title>LumoTV: Deaf Funny</title>
 		<desc>Comedy sketch show in BSL with a variety of characters, including a fitness fanatic, a police officer and a football manager.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="F4" start="20251027083000 +0000" stop="20251027110000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/150px-Film4_logo_2018.svg.png" />
-	</programme>
-	<programme channel="F4" start="20251027110000 +0000" stop="20251027130000 +0000">
+	<programme channel="F4" start="20251027110000 +0000" stop="20251027125500 +0000">
 		<title>Yesterday's Enemy</title>
 		<desc>(1959) Wartime drama with Stanley Baker. The captain of a British army patrol deciphers secret enemy battle plans, but does so at a great moral cost.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20251027125500 +0000" stop="20251027130000 +0000">
+		<title>Last Night in Soho Interview...</title>
+		<desc>...Special: Director Edgar Wright and co-writer Krysty Wilson-Cairns discuss travelling through time and recreating the past to make the ingenious and atmospheric psychological thriller.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20251027130000 +0000" stop="20251027145500 +0000">
@@ -3822,7 +3832,7 @@
 	<programme channel="4S" start="20251023190000 +0000" stop="20251023200000 +0000">
 		<title>Location, Location, Location</title>
 		<desc>We revisit picky postcoder Rupreet and Sundeep at their ever-growing Harrow home, and Laura and Euan, who got their Glasgow gaff for £432,100 to mark the countdown to moving in. (S44 Ep7)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/location-location-location-27---revisit-north-harrow-glasgow/15944AA9-32F9-414A-9B927067ACE78EAF.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20251023200000 +0000" stop="20251023210000 +0000">
 		<title>Grand Designs</title>
@@ -4057,7 +4067,7 @@
 	<programme channel="4S" start="20251025190000 +0000" stop="20251025200000 +0000">
 		<title>Location, Location, Location</title>
 		<desc>We revisit picky postcoder Rupreet and Sundeep at their ever-growing Harrow home, and Laura and Euan, who got their Glasgow gaff for £432,100 to mark the countdown to moving in. (S44 Ep7)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/location-location-location-27---revisit-north-harrow-glasgow/15944AA9-32F9-414A-9B927067ACE78EAF.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20251025200000 +0000" stop="20251025210000 +0000">
 		<title>Grand Designs</title>
@@ -4167,7 +4177,7 @@
 	<programme channel="4S" start="20251026150000 +0000" stop="20251026160000 +0000">
 		<title>Location, Location, Location</title>
 		<desc>We revisit picky postcoder Rupreet and Sundeep at their ever-growing Harrow home, and Laura and Euan, who got their Glasgow gaff for £432,100 to mark the countdown to moving in. (S44 Ep7)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/location-location-location-27---revisit-north-harrow-glasgow/15944AA9-32F9-414A-9B927067ACE78EAF.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20251026160000 +0000" stop="20251026170000 +0000">
 		<title>A Place in the Sun</title>
