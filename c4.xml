@@ -131,7 +131,7 @@
 	</programme>
 	<programme channel="C4" start="20251023180000 +0000" stop="20251023190000 +0000">
 		<title>Channel 4 News</title>
-		<desc>Channel 4's flagship news programme. Including the weather.</desc>
+		<desc>The only British soldier ever charged over Bloody Sunday is acquitted. A Gaza child visits the UK for medical treatment. And the US farmers caught up in the soy bean trade war with China.</desc>
 		<icon src="https://ic.c4assets.com/vps/channel-4-news/95BDDBDD-F2DC-44AE-B95A3ABEC581C62C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20251023190000 +0000" stop="20251023200000 +0000">
@@ -306,7 +306,7 @@
 	</programme>
 	<programme channel="C4" start="20251024200000 +0000" stop="20251024210000 +0000">
 		<title>New: Gogglebox</title>
-		<desc>The brand-new series continues. What do Britain's sharpest armchair critics think of the biggest and best shows on TV this week? (S26 Ep8)</desc>
+		<desc>This time on the 'Box, The Celebrity Traitors, Strictly Come Dancing, Hollyoaks, Dragons' Den, Beat the Chasers, Celebrity Help! My House Is Haunted and BBC News (Prince Andrew). (S26 Ep8)</desc>
 		<icon src="https://ic.c4assets.com/vps/gogglebox-series-26/0C4DC891-69D0-4147-9EC5842E775B7EDE.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20251024210000 +0000" stop="20251024220500 +0000">
@@ -524,29 +524,24 @@
 		<desc>The Saga of Carl: Homer, Moe, Lenny and Carl win the lottery, but Carl runs off to Iceland with the winnings. (S24 Ep21/22)</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20251026051500 +0000" stop="20251026060000 +0000">
+	<programme channel="C4" start="20251026051500 +0000" stop="20251026053500 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Channel_4_%28On_Demand%29_2023.svg/150px-Channel_4_%28On_Demand%29_2023.svg.png" />
 	</programme>
-	<programme channel="C4" start="20251026060000 +0000" stop="20251026061500 +0000">
+	<programme channel="C4" start="20251026053500 +0000" stop="20251026060000 +0000">
+		<title>The Simpsons</title>
+		<desc>The Fabulous Faker Boy: Bart doesn't want to go to piano lessons, until he meets his beautiful teacher... Homer loses the last two hairs on his head. (S24 Ep20/22)</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="C4" start="20251026060000 +0000" stop="20251026062500 +0000">
 		<title>Cheers</title>
 		<desc>Truce or Consequences: Carla and Diane stop bickering when Diane admits that she needs a friend, but Carla can't resist the temptation to take advantage of her vulnerability. (S1 Ep8/22)</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20251026061500 +0000" stop="20251026062500 +0000">
-		<title>The Simpsons</title>
-		<desc>Pulpit Friction: A trendy new reverend recruits Homer as a deacon. Dry cleaners accidentally swap Marge's wedding dress for one of Krusty's clown costumes. (S24 Ep18/22)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="C4" start="20251026062500 +0000" stop="20251026063500 +0000">
+	<programme channel="C4" start="20251026062500 +0000" stop="20251026065000 +0000">
 		<title>Cheers</title>
 		<desc>Coach Returns to Action: Coach develops a foolproof technique for wooing women and astonishes everyone with his success, including Sam, who becomes his rival for neighbour Nina. (S1 Ep9/22)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="C4" start="20251026063500 +0000" stop="20251026065000 +0000">
-		<title>The Simpsons</title>
-		<desc>The Fabulous Faker Boy: Bart doesn't want to go to piano lessons, until he meets his beautiful teacher... Homer loses the last two hairs on his head. (S24 Ep20/22)</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20251026065000 +0000" stop="20251026072000 +0000">
@@ -716,7 +711,7 @@
 	</programme>
 	<programme channel="C4" start="20251027094000 +0000" stop="20251027111000 +0000">
 		<title>F1 Mexican GP Highlights</title>
-		<desc>Will McLaren continue their winning streak, or will Max Verstappen strike back in style? F1 heads to one of the world's most vibrant cities to find out. With Ariana Bravo and Alice Powell.</desc>
+		<desc>Verstappen took the win in Texas, taking a step closer to the McLaren duo in the standings. Norris took eight points out of Piastri's lead. Will there be a shuffle at the top in Mexico?</desc>
 		<icon src="https://ic.c4assets.com/vps/f1-production-2025/41ED5650-DDDE-4D2D-84D53451A6390D41.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20251027111000 +0000" stop="20251027120500 +0000">
@@ -946,7 +941,7 @@
 	</programme>
 	<programme channel="C4" start="20251028221500 +0000" stop="20251028231500 +0000">
 		<title>Gogglebox</title>
-		<desc>The brand-new series continues. What do Britain's sharpest armchair critics think of the biggest and best shows on TV this week? (S26 Ep8)</desc>
+		<desc>This time on the 'Box, The Celebrity Traitors, Strictly Come Dancing, Hollyoaks, Dragons' Den, Beat the Chasers, Celebrity Help! My House is Haunted and BBC News (Prince Andrew). (S26 Ep8)</desc>
 		<icon src="https://ic.c4assets.com/vps/gogglebox-series-26/0C4DC891-69D0-4147-9EC5842E775B7EDE.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20251028231500 +0000" stop="20251029002000 +0000">
@@ -1690,19 +1685,14 @@
 		<icon src="https://ic.c4assets.com/brands/the-goldbergs/series-9/episode-1/17bfd85d-4b62-448c-b3ba-33645ad892d5.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20251026052000 +0000" stop="20251026060000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/E4_logo_2018.svg/120px-E4_logo_2018.svg.png" />
-	</programme>
-	<programme channel="E4" start="20251026060000 +0000" stop="20251026062000 +0000">
-		<title>Hollyoaks Omnibus</title>
-		<desc>Tony prepares to marry Diane, but secrets threaten to turn his dream day into one nobody will forget, as a life hangs in the balance. Meanwhile, a hunt for answers leads to Brookside Close.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20251026062000 +0000" stop="20251026071000 +0000">
 		<title>The Goldbergs</title>
 		<desc>Horse Play: As Beverly disrupts Adam's college admission plans, Erica discovers that her future father-in-law blames her for a prank she didn't pull. (S9 Ep2)</desc>
 		<icon src="https://ic.c4assets.com/brands/the-goldbergs/series-9/episode-2/f12b292b-b687-474e-ae74-1c2b84d9a61b.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="E4" start="20251026060000 +0000" stop="20251026071000 +0000">
+		<title>Hollyoaks Omnibus</title>
+		<desc>Tony prepares to marry Diane, but secrets threaten to turn his dream day into one nobody will forget, as a life hangs in the balance. Meanwhile, a hunt for answers leads to Brookside Close.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20251026071000 +0000" stop="20251026083000 +0000">
 		<title>The Great British Bake Off</title>
@@ -1957,7 +1947,7 @@
 	<programme channel="E4" start="20251027210000 +0000" stop="20251027224000 +0000">
 		<title>New: Married at First Sight UK</title>
 		<desc>Brand new series: It's Commitment Ceremony time and some couples reap the rewards from their time away. But for others, turmoil takes hold... is one marriage beyond repair? (S10 Ep24)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/married-at-first-sight-uk-s10-series-5/A2D58D20-63A8-4425-A3203A2BDEC9409D.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20251027224000 +0000" stop="20251027234500 +0000">
 		<title>New: Made in Chelsea</title>
@@ -1972,7 +1962,7 @@
 	<programme channel="E4" start="20251028005000 +0000" stop="20251028022500 +0000">
 		<title>Married at First Sight UK</title>
 		<desc>Brand new series: It's Commitment Ceremony time and some couples reap the rewards from their time away. But for others, turmoil takes hold... is one marriage beyond repair? (S10 Ep24)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/married-at-first-sight-uk-s10-series-5/A2D58D20-63A8-4425-A3203A2BDEC9409D.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20251028022500 +0000" stop="20251028025000 +0000">
 		<title>Hollyoaks Does Come Dine with Me</title>
@@ -2032,7 +2022,7 @@
 	<programme channel="E4" start="20251028075000 +0000" stop="20251028093500 +0000">
 		<title>Married at First Sight UK</title>
 		<desc>Brand new series: It's Commitment Ceremony time and some couples reap the rewards from their time away. But for others, turmoil takes hold... is one marriage beyond repair? (S10 Ep24)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/married-at-first-sight-uk-s10-series-5/A2D58D20-63A8-4425-A3203A2BDEC9409D.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20251028093500 +0000" stop="20251028100000 +0000">
 		<title>The Simpsons</title>
@@ -2102,7 +2092,7 @@
 	<programme channel="E4" start="20251028160000 +0000" stop="20251028173500 +0000">
 		<title>Married at First Sight UK</title>
 		<desc>Brand new series: It's Commitment Ceremony time and some couples reap the rewards from their time away. But for others, turmoil takes hold... is one marriage beyond repair? (S10 Ep24)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/married-at-first-sight-uk-s10-series-5/A2D58D20-63A8-4425-A3203A2BDEC9409D.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20251028173500 +0000" stop="20251028180000 +0000">
 		<title>The Big Bang Theory</title>
@@ -2137,7 +2127,7 @@
 	<programme channel="E4" start="20251028210000 +0000" stop="20251028222500 +0000">
 		<title>New: Married at First Sight UK</title>
 		<desc>Brand new series: It's time for spouse swapping and bed hopping! Absence makes one groom's heart grow especially fonder, but tests one relationship to the brink of destruction. (S10 Ep25)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/married-at-first-sight-uk-s10-series-5/A2D58D20-63A8-4425-A3203A2BDEC9409D.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20251028222500 +0000" stop="20251028233000 +0000">
 		<title>First Dates</title>
@@ -2152,7 +2142,7 @@
 	<programme channel="E4" start="20251029003500 +0000" stop="20251029020000 +0000">
 		<title>Married at First Sight UK</title>
 		<desc>Brand new series: It's time for spouse swapping and bed hopping! Absence makes one groom's heart grow especially fonder, but tests one relationship to the brink of destruction. (S10 Ep25)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/married-at-first-sight-uk-s10-series-5/A2D58D20-63A8-4425-A3203A2BDEC9409D.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20251029020000 +0000" stop="20251029022500 +0000">
 		<title>Hollyoaks Does Come Dine with Me</title>
@@ -2227,7 +2217,7 @@
 	<programme channel="E4" start="20251029075000 +0000" stop="20251029091500 +0000">
 		<title>Married at First Sight UK</title>
 		<desc>Brand new series: It's time for spouse swapping and bed hopping! Absence makes one groom's heart grow especially fonder, but tests one relationship to the brink of destruction. (S10 Ep25)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/married-at-first-sight-uk-s10-series-5/A2D58D20-63A8-4425-A3203A2BDEC9409D.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20251029091500 +0000" stop="20251029093000 +0000">
 		<title>Rude(ish) Tube Shorts</title>
@@ -2302,7 +2292,7 @@
 	<programme channel="E4" start="20251029160000 +0000" stop="20251029173000 +0000">
 		<title>Married at First Sight UK</title>
 		<desc>Brand new series: It's time for spouse swapping and bed hopping! Absence makes one groom's heart grow especially fonder, but tests one relationship to the brink of destruction. (S10 Ep25)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/married-at-first-sight-uk-s10-series-5/A2D58D20-63A8-4425-A3203A2BDEC9409D.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20251029173000 +0000" stop="20251029180000 +0000">
 		<title>The Big Bang Theory</title>
@@ -2332,7 +2322,7 @@
 	<programme channel="E4" start="20251029200000 +0000" stop="20251029211500 +0000">
 		<title>New: Married at First Sight UK</title>
 		<desc>Brand new series: In the aftermath of partner swaps, the dinner party serves up romantic realisations for some but plummeting problems for others. Is this the end for one couple? (S10 Ep26)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/married-at-first-sight-uk-s10-series-5/A2D58D20-63A8-4425-A3203A2BDEC9409D.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20251029211500 +0000" stop="20251029222000 +0000">
 		<title>Gogglebox</title>
@@ -2352,7 +2342,7 @@
 	<programme channel="E4" start="20251030002500 +0000" stop="20251030015000 +0000">
 		<title>Married at First Sight UK</title>
 		<desc>Brand new series: In the aftermath of partner swaps, the dinner party serves up romantic realisations for some but plummeting problems for others. Is this the end for one couple? (S10 Ep26)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/married-at-first-sight-uk-s10-series-5/A2D58D20-63A8-4425-A3203A2BDEC9409D.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20251030015000 +0000" stop="20251030022000 +0000">
 		<title>Hollyoaks Does Come Dine with Me</title>
@@ -2956,7 +2946,7 @@
 	</programme>
 	<programme channel="M4" start="20251027210000 +0000" stop="20251027220000 +0000">
 		<title>New: Sailing the Shipping...</title>
-		<desc>...Forecast with The Rev Richard Coles: Brand new series - On the Faroe Islands, Richard has a tour-de-force in surviving and thriving, and meets the singer of the metal band Hamferð. (Ep2)</desc>
+		<desc>...Forecast with The Rev Richard Coles: Brand new series - On the Faroe Islands, Richard has a tour-de-force in surviving and thriving, and meets the singer of the metal band Hamferd. (Ep2)</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="M4" start="20251027220000 +0000" stop="20251027232000 +0000">
@@ -2971,7 +2961,7 @@
 	</programme>
 	<programme channel="M4" start="20251028002000 +0000" stop="20251028012000 +0000">
 		<title>Sailing the Shipping Forecast...</title>
-		<desc>...with The Rev Richard Coles: Brand new series - On the rugged Faroe Islands, Richard has a tour-de-force in surviving and thriving, and meets the singer of doom metal band, Hamferð. (Ep2)</desc>
+		<desc>...with The Rev Richard Coles: Brand new series - On the rugged Faroe Islands, Richard has a tour-de-force in surviving and thriving, and meets the singer of doom metal band, Hamferd. (Ep2)</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="M4" start="20251028012000 +0000" stop="20251028022500 +0000">
@@ -3527,7 +3517,7 @@
 	<programme channel="F4" start="20251029210000 +0000" stop="20251029225000 +0000">
 		<title>Late Night with the Devil</title>
 		<desc>(2023) Unsettling found-footage horror with David Dastmalchian. A has-been host tries to save his 70s talk show using a demonically possessed 13-year-old girl. Really, what could go wrong?</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/late-night-with-the-devil-2023/82D85C98-446F-4FEA-B9383FDB86491857.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20251029225000 +0000" stop="20251030011000 +0000">
 		<title>Angel Has Fallen</title>
@@ -3746,7 +3736,7 @@
 	</programme>
 	<programme channel="4S" start="20251024220500 +0000" stop="20251024230500 +0000">
 		<title>Gogglebox</title>
-		<desc>The brand-new series continues. What do Britain's sharpest armchair critics think of the biggest and best shows on TV this week? (S26 Ep8)</desc>
+		<desc>This time on the 'Box, The Celebrity Traitors, Strictly Come Dancing, Hollyoaks, Dragons' Den, Beat the Chasers, Celebrity Help! My House is Haunted and BBC News (Prince Andrew). (S26 Ep8)</desc>
 		<icon src="https://ic.c4assets.com/vps/gogglebox-series-26/0C4DC891-69D0-4147-9EC5842E775B7EDE.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20251024230500 +0000" stop="20251025001000 +0000">
@@ -3891,7 +3881,7 @@
 	</programme>
 	<programme channel="4S" start="20251026033500 +0000" stop="20251026043000 +0000">
 		<title>Gogglebox</title>
-		<desc>The brand-new series continues. What do Britain's sharpest armchair critics think of the biggest and best shows on TV this week? (S26 Ep8)</desc>
+		<desc>This time on the 'Box, The Celebrity Traitors, Strictly Come Dancing, Hollyoaks, Dragons' Den, Beat the Chasers, Celebrity Help! My House is Haunted and BBC News (Prince Andrew). (S26 Ep8)</desc>
 		<icon src="https://ic.c4assets.com/vps/gogglebox-series-26/0C4DC891-69D0-4147-9EC5842E775B7EDE.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20251026043000 +0000" stop="20251026050000 +0000">
@@ -3991,7 +3981,7 @@
 	</programme>
 	<programme channel="4S" start="20251026210000 +0000" stop="20251026220000 +0000">
 		<title>Gogglebox</title>
-		<desc>The brand-new series continues. What do Britain's sharpest armchair critics think of the biggest and best shows on TV this week? (S26 Ep8)</desc>
+		<desc>This time on the 'Box, The Celebrity Traitors, Strictly Come Dancing, Hollyoaks, Dragons' Den, Beat the Chasers, Celebrity Help! My House is Haunted and BBC News (Prince Andrew). (S26 Ep8)</desc>
 		<icon src="https://ic.c4assets.com/vps/gogglebox-series-26/0C4DC891-69D0-4147-9EC5842E775B7EDE.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20251026220000 +0000" stop="20251026230500 +0000">
@@ -4106,7 +4096,7 @@
 	</programme>
 	<programme channel="4S" start="20251027220000 +0000" stop="20251027230000 +0000">
 		<title>Gogglebox</title>
-		<desc>The brand-new series continues. What do Britain's sharpest armchair critics think of the biggest and best shows on TV this week? (S26 Ep8)</desc>
+		<desc>This time on the 'Box, The Celebrity Traitors, Strictly Come Dancing, Hollyoaks, Dragons' Den, Beat the Chasers, Celebrity Help! My House is Haunted and BBC News (Prince Andrew). (S26 Ep8)</desc>
 		<icon src="https://ic.c4assets.com/vps/gogglebox-series-26/0C4DC891-69D0-4147-9EC5842E775B7EDE.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20251027230000 +0000" stop="20251028000500 +0000">
@@ -4216,7 +4206,7 @@
 	</programme>
 	<programme channel="4S" start="20251028212000 +0000" stop="20251028222000 +0000">
 		<title>Gogglebox</title>
-		<desc>The brand-new series continues. What do Britain's sharpest armchair critics think of the biggest and best shows on TV this week? (S26 Ep8)</desc>
+		<desc>This time on the 'Box, The Celebrity Traitors, Strictly Come Dancing, Hollyoaks, Dragons' Den, Beat the Chasers, Celebrity Help! My House is Haunted and BBC News (Prince Andrew). (S26 Ep8)</desc>
 		<icon src="https://ic.c4assets.com/vps/gogglebox-series-26/0C4DC891-69D0-4147-9EC5842E775B7EDE.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20251028222000 +0000" stop="20251028232000 +0000">
@@ -4356,7 +4346,7 @@
 	</programme>
 	<programme channel="4S" start="20251030020000 +0000" stop="20251030030000 +0000">
 		<title>Gogglebox</title>
-		<desc>The brand-new series continues. What do Britain's sharpest armchair critics think of the biggest and best shows on TV this week? (S26 Ep8)</desc>
+		<desc>This time on the 'Box, The Celebrity Traitors, Strictly Come Dancing, Hollyoaks, Dragons' Den, Beat the Chasers, Celebrity Help! My House is Haunted and BBC News (Prince Andrew). (S26 Ep8)</desc>
 		<icon src="https://ic.c4assets.com/vps/gogglebox-series-26/0C4DC891-69D0-4147-9EC5842E775B7EDE.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20251030030000 +0000" stop="20251030040500 +0000">
