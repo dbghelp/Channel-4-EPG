@@ -3424,14 +3424,24 @@
 		<desc>(2014) Jamie Foxx stars in this reboot of the 1982 musical. Orphan Annie is transported to post-2008 recession-hit New York, where she becomes the ward of a germaphobe running for mayor.</desc>
 		<icon src="https://ic.c4assets.com/vps/annie-2014/0B7D831D-CA62-4B34-B6EE6D8CFA07CE0A.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="F4" start="20251115153000 +0000" stop="20251115180000 +0000">
+	<programme channel="F4" start="20251115153000 +0000" stop="20251115175000 +0000">
 		<title>Steel Magnolias</title>
 		<desc>(1989) Star-studded tragi-comedy with Julia Roberts, Daryl Hannah, Dolly Parton and more. Six Southern belles console and cajole each other through life in a Louisiana beauty parlour.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="F4" start="20251115180000 +0000" stop="20251115210000 +0000">
+	<programme channel="F4" start="20251115175000 +0000" stop="20251115180000 +0000">
+		<title>Ex Machina Interview Special</title>
+		<desc>Director Alex Garland and stars Domhnall Gleeson and Alicia Vikander talk about making their provocative sci-fi thriller.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20251115180000 +0000" stop="20251115205000 +0000">
 		<title>Independence Day</title>
 		<desc>(1996) Blockbusting landmark sci-fi action-thriller starring Will Smith and Jeff Goldblum. A US Air Force pilot and a scientist battle aliens who are spectacularly destroying our planet.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20251115205000 +0000" stop="20251115210000 +0000">
+		<title>Ex Machina Interview Special</title>
+		<desc>Director Alex Garland and stars Domhnall Gleeson and Alicia Vikander talk about making their provocative sci-fi thriller.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20251115210000 +0000" stop="20251115233500 +0000">
@@ -3870,14 +3880,14 @@
 		<icon src="https://ic.c4assets.com/vps/come-dine-with-me/54db6618-031c-42b9-addc-f0b06b9bbd43.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20251115140000 +0000" stop="20251115150000 +0000">
-		<title>A Place in the Sun</title>
-		<desc>Alexis and her husband are approaching retirement and want to make Spain's Costa Blanca their permanent home. Can Craig Rowe find the perfect place for their £250k?</desc>
-		<icon src="https://ic.c4assets.com/brands/a-place-in-the-sun/series-17/episode-83/abb589ed-79de-4bf9-a73e-9b97e4587c19.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<title>Location, Location, Location</title>
+		<desc>Kirstie and Phil help first-time buyers in Manchester. Robyn and Alice want a classic Corrie redbrick. Steph and Christopher have been outbid 10 times in Didsbury and Chorlton. (S38 Ep2)</desc>
+		<icon src="https://ic.c4assets.com/brands/location-location-location/series-30/episode-2/c75e2478-f588-41ab-bff9-a71a51d4f46d.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20251115150000 +0000" stop="20251115160000 +0000">
-		<title>A Place in the Sun</title>
-		<desc>Bob and Vida want to buy a holiday bolthole on the west coast of the Peloponnese that one day could become their permanent home. Can Laura Hamilton find the perfect place for their £300k?</desc>
-		<icon src="https://ic.c4assets.com/vps/a-place-in-the-sun-2022/7DB07998-4C10-4770-8F8F346D96F370A0.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<title>Kirstie and Phil's Love It or...</title>
+		<desc>...List It: In the village of Clifford, Kirstie and Phil meet Vic and Paul. From the outside, their idyllic home looks perfect for a family, but appearances can be deceptive. (S4 Ep5/8)</desc>
+		<icon src="https://ic.c4assets.com/brands/kirstie-and-phils-love-it-or-list-it/series-4/a785592c-32c9-4c72-9678-42ab31c553ed.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20251115160000 +0000" stop="20251115170000 +0000">
 		<title>A Place in the Sun</title>
@@ -4155,9 +4165,9 @@
 		<icon src="https://ic.c4assets.com/vps/the-big-fat-quiz-of-everything-2025/BBB75557-E9BA-400B-8BB0F1085417D3D9.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20251118020500 +0000" stop="20251118030500 +0000">
-		<title>Emergency Helicopter Medics</title>
-		<desc>A decorator's had a nasty fall and may have a bleed on the brain. A motorcyclist is given ketamine after breaking a leg. And Doreen has been trampled by a foal. (S5 Ep4)</desc>
-		<icon src="https://ic.c4assets.com/vps/helicopter-medics-series-5/7EE015A4-1D44-4E80-98ECD446B7975E2D.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<title>Sky Coppers</title>
+		<desc>Behind the scenes with the West Midlands Police Drone Unit, who work on the ground, but hunt criminals from the sky, from a suspected dealer to an illicit cannabis farm. (S1 Ep1/6)</desc>
+		<icon src="https://ic.c4assets.com/brands/sky-coppers/series-1/episode-1/031f0834-24d0-4493-9d9e-54ea8fadef49.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20251118030500 +0000" stop="20251118040500 +0000">
 		<title>Murder Case: The Digital...</title>
