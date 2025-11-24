@@ -3474,20 +3474,25 @@
 		<desc>(1955) William Holden and Kim Novak star in this sweltering tale of deception, betrayal and illicit love in small-town Kansas.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="F4" start="20251126131500 +0000" stop="20251126145500 +0000">
-		<title>Hangman's Knot</title>
-		<desc>(1952) Civil War-era Western. A unit of Confederate soldiers attack a Union troop to steal gold. Learning that the war is over, they must finish the mission in disguise.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="F4" start="20251126145500 +0000" stop="20251126164500 +0000">
+	<programme channel="F4" start="20251126131500 +0000" stop="20251126150500 +0000">
 		<title>Arizona Raiders</title>
 		<desc>(1965) William Whitney's brutal western. Two former Confederate rebels are offered their freedom if they can track, catch or even kill their former gang mates. Starring Audie Murphy.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="F4" start="20251126164500 +0000" stop="20251126184000 +0000">
+	<programme channel="F4" start="20251126150500 +0000" stop="20251126164500 +0000">
+		<title>Hangman's Knot</title>
+		<desc>(1952) Civil War-era Western. A unit of Confederate soldiers attack a Union troop to steal gold. Learning that the war is over, they must finish the mission in disguise.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20251126164500 +0000" stop="20251126183000 +0000">
 		<title>The Blue Lamp</title>
 		<desc>(1950) Gritty noir thriller from Ealing Studios. A rookie PC hunts a vicious killer across blitz-battered London. With Jimmy Hanley, Dirk Bogarde and Jack Warner as PC George Dixon.</desc>
 		<icon src="https://ic.c4assets.com/vps/the-blue-lamp/7ee9633c-8f89-40e4-b496-c0047deea377.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20251126183000 +0000" stop="20251126184000 +0000">
+		<title>Film4 Interview Programmes:...</title>
+		<desc>...Talking Film: Stars and directors talk about making movies in this compendium of personal and practical reflections. Features Danny Boyle, Amy Schumer, Chiwetel Ejiofor and more.</desc>
+		<icon src="https://ic.c4assets.com/brands/film4-interview-specials/series-5/episode-2/339c4ec6-2325-42f5-915f-df62cf6116c1.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20251126184000 +0000" stop="20251126210000 +0000">
 		<title>Hunter Killer</title>
