@@ -126,7 +126,7 @@
 	</programme>
 	<programme channel="C4" start="20251126190000 +0000" stop="20251126195500 +0000">
 		<title>Budget Special: Channel 4 News</title>
-		<desc>Channel 4's flagship news programme. Including the weather.</desc>
+		<desc>All the Budget news, reaction and analysis as Rachel Reeves launches a flurry of tax hikes and the two-child benefit cap is lifted. And a leaked phone call embarrasses the US and Russia.</desc>
 		<icon src="https://ic.c4assets.com/vps/channel-4-news/95BDDBDD-F2DC-44AE-B95A3ABEC581C62C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20251126195500 +0000" stop="20251126200000 +0000">
@@ -785,9 +785,9 @@
 		<icon src="https://ic.c4assets.com/brands/undercover-boss-usa/series-4/episode-14/330320bc-87fc-4215-9df7-1af64a73dfcc.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20251201031500 +0000" stop="20251201041000 +0000">
-		<title>Secrets of the Middle Aisle at...</title>
-		<desc>...Christmas: Denise Van Outen discovers how Lidl and Aldi are taking on the big-name stores with their festive middle aisles. Can you have a lavish Christmas on the cheap? (Ep2/2)</desc>
-		<icon src="https://ic.c4assets.com/brands/secrets-of-the-middle-aisle/series-1/episode-2/ee529075-993e-46e7-8df4-7c7fe1d3d4bf.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<title>Cancer Detectives: Finding the...</title>
+		<desc>...Cures: Three trailblazing scientists take on cancer, changing peoples' lives right now. Can Prof Sarah Blagden's breakthrough vaccine stop lung cancer before it even starts? (Ep1/3)</desc>
+		<icon src="https://ic.c4assets.com/vps/curing-cancer/062B8883-0827-478B-A7CC8096383C158C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20251201041000 +0000" stop="20251201050000 +0000">
 		<title>Couples Come Dine with Me</title>
@@ -905,9 +905,9 @@
 		<icon src="https://ic.c4assets.com/vps/channel-4-news/95BDDBDD-F2DC-44AE-B95A3ABEC581C62C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20251201195500 +0000" stop="20251201200000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Channel_4_%28On_Demand%29_2023.svg/150px-Channel_4_%28On_Demand%29_2023.svg.png" />
+		<title>Chloe's Story: Stand Up To Cancer</title>
+		<desc>A short film for Stand Up To Cancer. After a harrowing year of life-changing treatment for stomach cancer, Chloe awaits the most important call of her life: is she finally cancer-free?</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20251201200000 +0000" stop="20251201210000 +0000">
 		<title>New: Inside the World's Most...</title>
@@ -945,9 +945,9 @@
 		<icon src="https://ic.c4assets.com/vps/the-lodge-2019/D9543E27-BE39-4DE0-8D37C72A057F5660.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20251202034500 +0000" stop="20251202035000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Channel_4_%28On_Demand%29_2023.svg/150px-Channel_4_%28On_Demand%29_2023.svg.png" />
+		<title>Chloe's Story: Stand Up To Cancer</title>
+		<desc>A short film for Stand Up To Cancer. After a harrowing year of life-changing treatment for stomach cancer, Chloe awaits the most important call of her life: is she finally cancer-free?</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20251202035000 +0000" stop="20251202044500 +0000">
 		<title>Couples Come Dine with Me</title>
@@ -1065,9 +1065,9 @@
 		<icon src="https://ic.c4assets.com/vps/channel-4-news/95BDDBDD-F2DC-44AE-B95A3ABEC581C62C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20251202195500 +0000" stop="20251202200000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Channel_4_%28On_Demand%29_2023.svg/150px-Channel_4_%28On_Demand%29_2023.svg.png" />
+		<title>Yuvraj's Story: Stand Up To Cancer</title>
+		<desc>A short film for Stand Up To Cancer. After beating blood cancer, 10-year-old Yuvraj faces a new battle with life-changing complications - and incredible courage.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20251202200000 +0000" stop="20251202210000 +0000">
 		<title>The Great Celebrity Bake Off...</title>
@@ -1110,9 +1110,9 @@
 		<icon src="https://ic.c4assets.com/vps/double-your-money/E3C6725B-9DAA-48DA-BA09A377AA7346D9.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20251203032500 +0000" stop="20251203033000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Channel_4_%28On_Demand%29_2023.svg/150px-Channel_4_%28On_Demand%29_2023.svg.png" />
+		<title>Yuvraj's Story: Stand Up To Cancer</title>
+		<desc>A short film for Stand Up To Cancer. After beating blood cancer, 10-year-old Yuvraj faces a new battle with life-changing complications - and incredible courage.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20251203033000 +0000" stop="20251203042500 +0000">
 		<title>Couples Come Dine with Me</title>
@@ -3232,7 +3232,7 @@
 	<programme channel="M4" start="20251201220000 +0000" stop="20251201230500 +0000">
 		<title>Night Coppers</title>
 		<desc>The cops are called to an incident at a petrol station. There's a complicated domestic dispute about missing teeth. A disgruntled drunk targets a security guard's nether regions. (S2 Ep2)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/night-coppers-series-2/F79A97A1-5DB7-4802-8C7F7CF0734A8EE3.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="M4" start="20251201230500 +0000" stop="20251202000500 +0000">
 		<title>999: On the Front Line</title>
