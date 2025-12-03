@@ -24,181 +24,6 @@
 		<display-name>E4 Extra</display-name>
 		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/E4_Extra_logo_2022.svg/220px-E4_Extra_logo_2022.svg.png" />
 	</channel>
-	<programme channel="C4" start="20251202055500 +0000" stop="20251202063500 +0000">
-		<title>Countdown</title>
-		<desc>Another chance to catch yesterday's new episode, with Harry Aikines-Aryeetey. Colin Murray, Rachel Riley and Susie Dent host.</desc>
-		<icon src="https://ic.c4assets.com/brands/countdown/78bbcd36-2d9a-48ec-bde5-885e13fa2b9b.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="C4" start="20251202063500 +0000" stop="20251202070000 +0000">
-		<title>The King of Queens</title>
-		<desc>Offtrack... Bedding: Doug goes looking for his father at a model train convention, but instead sees his mother with a very seductive Arthur Spooner. (S7 Ep6/22)</desc>
-		<icon src="https://ic.c4assets.com/brands/the-king-of-queens/series-7/episode-6/bfc19ed8-21ed-49b6-ab4e-fb2b00c483e3.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="C4" start="20251202070000 +0000" stop="20251202072500 +0000">
-		<title>The King of Queens</title>
-		<desc>Awed Couple: Doug and Carrie decide to find new friends in an attempt to annoy Deacon and his wife. But it's not that simple... (S7 Ep8/22)</desc>
-		<icon src="https://ic.c4assets.com/brands/the-king-of-queens/series-7/episode-8/81cad8e1-8934-401a-8385-f4e35dbca0ca.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="C4" start="20251202072500 +0000" stop="20251202075000 +0000">
-		<title>The King of Queens</title>
-		<desc>Cologne Ranger: Carrie hates Doug's new aftershave, so he starts wearing it in secret. (S7 Ep9/22)</desc>
-		<icon src="https://ic.c4assets.com/brands/the-king-of-queens/series-7/episode-9/6968d5b4-7c2b-4b5c-b53f-8157b28ce986.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="C4" start="20251202075000 +0000" stop="20251202081500 +0000">
-		<title>Everybody Loves Raymond</title>
-		<desc>Someone's Cranky: Robert has a run-in with a bull. (S4 Ep21)</desc>
-		<icon src="https://ic.c4assets.com/brands/everybody-loves-raymond/series-4/episode-21/a23462e9-e275-4504-a19b-73e6ef77d253.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="C4" start="20251202081500 +0000" stop="20251202084000 +0000">
-		<title>Everybody Loves Raymond</title>
-		<desc>Bad Moon Rising: Ray's clumsy attempts to help alleviate Debra's PMT only make things much worse. (S4 Ep22)</desc>
-		<icon src="https://ic.c4assets.com/brands/everybody-loves-raymond/series-4/episode-22/b32e6d1a-998a-4870-80aa-ff7854011386.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="C4" start="20251202084000 +0000" stop="20251202091000 +0000">
-		<title>Everybody Loves Raymond</title>
-		<desc>Confronting the Attacker: Robert loses his nerve at work and decides on a career change to a safer option: telemarketing. (S4 Ep23)</desc>
-		<icon src="https://ic.c4assets.com/brands/everybody-loves-raymond/series-4/episode-23/dd0b7277-c760-4f77-9a43-54d7bbc431b3.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="C4" start="20251202091000 +0000" stop="20251202094000 +0000">
-		<title>Frasier</title>
-		<desc>Frasier Grinch: Frasier's excited that his son Frederick is coming for Christmas, but Martin thinks a proper Christmas should mean more than just educational presents. (S3 Ep9)</desc>
-		<icon src="https://ic.c4assets.com/brands/frasier/series-3/episode-9/191896cd-f474-416b-b0f9-5fbacb32e916.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="C4" start="20251202094000 +0000" stop="20251202101000 +0000">
-		<title>Frasier</title>
-		<desc>It's Hard to Say Goodbye If You Won't Leave: Frasier realises that he has strong feelings for Kate, just as she announces that she's moving to Chicago... (S3 Ep10)</desc>
-		<icon src="https://ic.c4assets.com/brands/frasier/series-3/episode-10/a06e5fea-8853-48fc-9407-ff7e4db530fc.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="C4" start="20251202101000 +0000" stop="20251202104000 +0000">
-		<title>Frasier</title>
-		<desc>The Friend: Frasier realises that he hasn't made any friends since moving to Seattle, so he sets out to meet someone new. (S3 Ep11)</desc>
-		<icon src="https://ic.c4assets.com/brands/frasier/series-3/episode-11/dac4834a-b41c-4c9b-8edf-711ec2fe160d.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="C4" start="20251202104000 +0000" stop="20251202111000 +0000">
-		<title>Frasier</title>
-		<desc>Come Lie with Me: When Joe stays overnight with Daphne, Frasier is shocked and Niles is... well, you can imagine. (S3 Ep12)</desc>
-		<icon src="https://ic.c4assets.com/brands/frasier/series-3/episode-12/5c6d310f-9637-48fe-80b0-d157cf1eb908.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="C4" start="20251202111000 +0000" stop="20251202120500 +0000">
-		<title>American Pickers</title>
-		<desc>The Superfan: Mike makes a big-league offer on an ultra-rare vintage Edison invention. And a mega stash of beer-related memorabilia stokes Frank's Oktoberfest mojo. (S14 Ep3)</desc>
-		<icon src="https://ic.c4assets.com/vps/american-pickers-yr-14---the-superfan/6B58DACC-6DCE-47E5-B7D0EA40F904F36B.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="C4" start="20251202120500 +0000" stop="20251202121000 +0000">
-		<title>Channel 4 News Summary</title>
-		<desc>Channel 4's midday news summary.</desc>
-		<icon src="https://ic.c4assets.com/vps/channel-4-news/95BDDBDD-F2DC-44AE-B95A3ABEC581C62C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="C4" start="20251202121000 +0000" stop="20251202131000 +0000">
-		<title>Chateau DIY at Christmas</title>
-		<desc>At Château de Dohem, it's all hands on decking the halls as Janet and Philip complete their transformation. And Terry and Ashley create indoor snow by bringing down a ceiling. (S3 Ep2/5)</desc>
-		<icon src="https://ic.c4assets.com/brands/chateau-diy/series-5/episode-2/bd601de0-d628-43fa-bbcc-c979b8b55655.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="C4" start="20251202131000 +0000" stop="20251202141000 +0000">
-		<title>Christmas at Harewood House</title>
-		<desc>The team at Harewood House create a 'Long Live the Christmas Tree' installation with cutting-edge artists showcasing their interpretation of the festivities. (Ep2/3)</desc>
-		<icon src="https://ic.c4assets.com/brands/christmas-at/series-2/episode-2/2860af95-df74-4b22-a92e-d27992b9b57c.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="C4" start="20251202141000 +0000" stop="20251202150000 +0000">
-		<title>Countdown</title>
-		<desc>Colin Murray, Rachel Riley and Susie Dent host, with Harry Aikines-Aryeetey in Dictionary Corner, as contestants race the clock to pit their wits against vowels, consonants and numbers.</desc>
-		<icon src="https://ic.c4assets.com/brands/countdown/78bbcd36-2d9a-48ec-bde5-885e13fa2b9b.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="C4" start="20251202150000 +0000" stop="20251202160000 +0000">
-		<title>A Place in the Sun</title>
-		<desc>Barbara and Butch have £90k to spend on a holiday home in beautiful Lucca in Tuscany. Will any of Ben Hillman's five options make them want to Lucc-again?</desc>
-		<icon src="https://ic.c4assets.com/vps/a-place-in-the-sun-2022---lucca-italy/23AE2D46-9969-4A00-AD52C6D08EACAA35.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="C4" start="20251202160000 +0000" stop="20251202170000 +0000">
-		<title>Kirstie's Handmade Christmas</title>
-		<desc>Kirstie Allsopp brings the Yuletide joy with some fabulously magical festive crafts, including wire decorations, miniature walnut dioramas and a choux pastry wreath.</desc>
-		<icon src="https://ic.c4assets.com/brands/kirsties-handmade-christmas/series-1014/episode-1/0e02f4ff-c17b-4e2d-841f-615815c24c74.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="C4" start="20251202170000 +0000" stop="20251202180000 +0000">
-		<title>The Great B&amp;B Challenge</title>
-		<desc>The new series continues. As the battle moves to the breakfast table, a delayed bakery run stresses out Jo and Guy. And an early arrival leads Nicole and Brett to rip up bed sheets. (Ep7)</desc>
-		<icon src="https://ic.c4assets.com/vps/a-new-life-in-the-sun-win-a-bnb/ADE73DC4-808D-4F6A-AC1B9E63912CDCE2.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="C4" start="20251202180000 +0000" stop="20251202190000 +0000">
-		<title>A Place in the Sun</title>
-		<desc>Sue and Tony want a holiday bolthole in the French city of Carcassonne. With a property already on their radar, can any of Craig Rowe's options for their £100k win them over?</desc>
-		<icon src="https://ic.c4assets.com/vps/a-place-in-the-sun-2023/11080674-00B3-4C2C-A9634037E9D3A636.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="C4" start="20251202190000 +0000" stop="20251202195500 +0000">
-		<title>Channel 4 News</title>
-		<desc>Channel 4's flagship news programme. Including the weather.</desc>
-		<icon src="https://ic.c4assets.com/vps/channel-4-news/95BDDBDD-F2DC-44AE-B95A3ABEC581C62C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="C4" start="20251202195500 +0000" stop="20251202200000 +0000">
-		<title>Yuvraj's Story: Stand Up To Cancer</title>
-		<desc>A short film for Stand Up To Cancer. After beating blood cancer, 10-year-old Yuvraj faces a new battle with life-changing complications - and incredible courage.</desc>
-		<icon src="https://ic.c4assets.com/brands/stand-up-to-cancer-personal-stories/275fa085-fb7c-4aa7-b4e6-a2359e50a3a8.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="C4" start="20251202200000 +0000" stop="20251202210000 +0000">
-		<title>The Great Celebrity Bake Off...</title>
-		<desc>...for Stand Up To Cancer: Jodie Whittaker, Paloma Faith, Munya Chawawa and Spencer Matthews recreate Prue and Paul in biscuit form, and make cake pops and a twisted New York favourite.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="C4" start="20251202210000 +0000" stop="20251202215500 +0000">
-		<title>New: Say Nothing</title>
-		<desc>Land of Password, Wink and Nod: Lola Petticrew stars in a gripping story of murder and memory during the Troubles in Northern Ireland. Dolours helps a friend out of the hospital. (Ep2/9)</desc>
-		<icon src="https://ic.c4assets.com/vps/say-nothing-yr-1---land-of-password-wink-and-nod/6639BC36-A963-415A-AB315B806D72FF19.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="C4" start="20251202215500 +0000" stop="20251202225000 +0000">
-		<title>New: Say Nothing</title>
-		<desc>I'll Be Seeing You: A gripping story of murder and memory during the Troubles in Northern Ireland. For Dolours, the line between friend and enemy begins to blur. (Ep3/9)</desc>
-		<icon src="https://ic.c4assets.com/vps/say-nothing-yr-1---i-ll-be-seeing-you/AA34ADA2-D451-4299-9F5A80C87F072D73.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="C4" start="20251202225000 +0000" stop="20251202235500 +0000">
-		<title>24 Hours in A&amp;E</title>
-		<desc>A little boy has a stone up his nose from playing football. A 92-year-old got trapped under her car. And World War II hero Norman, who's 95, has a dangerously low heart rate. (S35 Ep3)</desc>
-		<icon src="https://ic.c4assets.com/vps/24-hours-in-a-e-nottingham/8A85CFD3-2C26-4603-81EF0A0CD76D99B8.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="C4" start="20251202235500 +0000" stop="20251203005000 +0000">
-		<title>Rescue: Extreme Medics</title>
-		<desc>The air ambulance attends a high-speed collision and a minibus crash by Loch Lomond. And a man has a severe injury from a circular saw after trying to chop wood. (S2 Ep2)</desc>
-		<icon src="https://ic.c4assets.com/brands/rescue-extreme-medics/series-2/episode-2/4ad86bdf-3b26-4b9d-87d2-0aeaff8f6afe.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="C4" start="20251203005000 +0000" stop="20251203014500 +0000">
-		<title>The Last Leg</title>
-		<desc>Chris McCausland, Rose Ayling-Ellis and Adam Buxton dissect the week's news with Adam Hills, Josh Widdicombe and Alex Brooker. (S33 Ep7)</desc>
-		<icon src="https://ic.c4assets.com/vps/the-last-leg-series-33/931312AD-6CBC-42C7-97914DFC2802776D.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="C4" start="20251203014500 +0000" stop="20251203023000 +0000">
-		<title>Ramsay's Kitchen Nightmares USA</title>
-		<desc>Jack's Waterfront: In Michigan, Gordon Ramsay visits a lakeside restaurant in a summer hotspot, where the food fails to match the fantastic views. Can Gordon turn the tide? (S2 Ep5)</desc>
-		<icon src="https://ic.c4assets.com/brands/ramsays-kitchen-nightmares-usa/series-2/episode-5/866c9519-fbc8-466b-ae7e-ada624c16bac.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="C4" start="20251203023000 +0000" stop="20251203032500 +0000">
-		<title>Double the Money</title>
-		<desc>It's the semi-final and the teams must turn £4000 into £8000 in just three weeks. Can a party bus get the money rolling in? And will one team's food festival bring in the dough? (Ep5/6)</desc>
-		<icon src="https://ic.c4assets.com/vps/double-your-money/E3C6725B-9DAA-48DA-BA09A377AA7346D9.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="C4" start="20251203032500 +0000" stop="20251203033000 +0000">
-		<title>Yuvraj's Story: Stand Up To Cancer</title>
-		<desc>A short film for Stand Up To Cancer. After beating blood cancer, 10-year-old Yuvraj faces a new battle with life-changing complications - and incredible courage.</desc>
-		<icon src="https://ic.c4assets.com/brands/stand-up-to-cancer-personal-stories/275fa085-fb7c-4aa7-b4e6-a2359e50a3a8.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="C4" start="20251203033000 +0000" stop="20251203042500 +0000">
-		<title>Couples Come Dine with Me</title>
-		<desc>In Blackpool, Antonio and ex-redcoat Jason serve controversial sushi, there's an eyebrow-raising discovery at firefighter Daz and Kim's place, and foodies Martin and Kate serve Thai treats.</desc>
-		<icon src="https://ic.c4assets.com/vps/couples-come-dine-with-me/4fb5ddfc-ff9e-4434-948a-40e66d2e697a.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="C4" start="20251203042500 +0000" stop="20251203045000 +0000">
-		<title>A Place in the Sun</title>
-		<desc>Amando and Vanessa love holidaying on Tenerife and want to buy their very own home there to enjoy with their three children. Laura Hamilton shows them what they can get for their £185k.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="C4" start="20251203045000 +0000" stop="20251203050000 +0000">
-		<title>Sunday Brunch</title>
-		<desc>Some extra brunch as Tim Lovejoy and Simon Rimmer host the food and chat show.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="C4" start="20251203050000 +0000" stop="20251203055500 +0000">
-		<title>Kirstie and Phil's Love It or...</title>
-		<desc>...List It: In Harrogate, Kirstie Allsopp and Phil Spencer meet the Pogson family, who need a functional multigenerational space for their children and a grandparent. (S3 Ep4/7)</desc>
-		<icon src="https://ic.c4assets.com/vps/kirstie-and-phils-love-it-or-list-it/9c4f40ec-7e2e-4969-930f-1626f044106e.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
 	<programme channel="C4" start="20251203055500 +0000" stop="20251203063500 +0000">
 		<title>Countdown</title>
 		<desc>Another chance to catch yesterday's new episode, with Harry Aikines-Aryeetey in Dictionary Corner. Colin Murray, Rachel Riley and Susie Dent host.</desc>
@@ -1184,219 +1009,174 @@
 		<desc>Another chance to watch yesterday's new episode, with Nisha Katona in Dictionary Corner. Colin Murray, Rachel Riley and Susie Dent host.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20251202060000 +0000" stop="20251202063000 +0000">
-		<title>Hollyoaks</title>
-		<desc>Mercedes and Ste find themselves on a path of self-destruction while the McQueens support Sienna - but drama soon follows...</desc>
-		<icon src="https://ic.c4assets.com/vps/hollyoaks-xxxiii-2025/9654D9AC-3D00-4A6E-BFA8C50E2EB68EF7.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	<programme channel="C4" start="20251209063500 +0000" stop="20251209070000 +0000">
+		<title>The King of Queens</title>
+		<desc>Buy Curious: Doug and Carrie compete with Lou Ferrigno to buy their dead neighbour's house. (S7 Ep22/22)</desc>
+		<icon src="https://ic.c4assets.com/brands/the-king-of-queens/series-7/episode-22/5e5d1e98-a9c6-4f94-adf9-c97d2d45c13c.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20251202063000 +0000" stop="20251202065500 +0000">
-		<title>Hollyoaks</title>
-		<desc>Mercedes and Ste spiral as loved ones step in to help. Donny's concerns over Dodger continue to grow. And there's turmoil for one family.</desc>
-		<icon src="https://ic.c4assets.com/vps/hollyoaks-xxxiii-2025---lime-no.-6650/B0240938-A321-4F4A-9D131A419A6242C5.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	<programme channel="C4" start="20251209070000 +0000" stop="20251209072500 +0000">
+		<title>The King of Queens</title>
+		<desc>Vocal Discord: When Doug and Carrie see a transcript of one of their arguments, they decide that marriage counselling might not be a bad idea. (S8 Ep2/23)</desc>
+		<icon src="https://ic.c4assets.com/brands/the-king-of-queens/series-8/episode-2/bcb2e52d-2001-4eea-992e-44438347a35e.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20251202065500 +0000" stop="20251202070000 +0000">
-		<title>Rude(ish) Tube Shorts</title>
-		<desc>A short, cheeky clip featuring animals and food, from the always hilarious Tube that is Rude.</desc>
+	<programme channel="C4" start="20251209072500 +0000" stop="20251209075000 +0000">
+		<title>The King of Queens</title>
+		<desc>Consummate Professional: Carrie finds out that Doug once lied about getting a job to impress her. (S8 Ep3/23)</desc>
+		<icon src="https://ic.c4assets.com/brands/the-king-of-queens/series-8/episode-3/4f5c2331-3b6c-4fb3-bd9d-b8d80bba4dda.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="C4" start="20251209075000 +0000" stop="20251209081500 +0000">
+		<title>Everybody Loves Raymond</title>
+		<desc>Stefania Arrives: Robert gets a surprise visit from the gorgeous Stefania and her father. Robert fell for her in Rome, but will the holiday romance continue? (S5 Ep17)</desc>
+		<icon src="https://ic.c4assets.com/brands/everybody-loves-raymond/series-5/episode-17/afb759a6-ab78-4236-a1d2-96e7484c5917.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="C4" start="20251209081500 +0000" stop="20251209084000 +0000">
+		<title>Everybody Loves Raymond</title>
+		<desc>Humm Vac: Marie and Debra have a housekeeping war after Ray buys a cutting-edge vacuum cleaner from an attractive saleswoman. (S5 Ep18)</desc>
+		<icon src="https://ic.c4assets.com/brands/everybody-loves-raymond/series-5/episode-18/223a4736-eb08-44c9-8c26-d81073031b23.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="C4" start="20251209084000 +0000" stop="20251209091000 +0000">
+		<title>Everybody Loves Raymond</title>
+		<desc>The Canister: Tempers flare when Marie accuses Debra of not returning a borrowed canister that holds sentimental value - but Debra insists that she's already given it back. (S5 Ep19)</desc>
+		<icon src="https://ic.c4assets.com/brands/everybody-loves-raymond/series-5/episode-19/19d47cce-e52c-4219-99b2-30e3e4be1e75.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="C4" start="20251209091000 +0000" stop="20251209094000 +0000">
+		<title>Frasier</title>
+		<desc>Dad Loves Sherry, the Boys Just Whine: Frasier and Niles are surprised by Martin's reaction to being dumped by his girlfriend, Maureen. (S4 Ep9)</desc>
+		<icon src="https://ic.c4assets.com/brands/frasier/series-4/episode-9/7f251397-16e9-4e84-ae02-b0af9b31239d.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="C4" start="20251209094000 +0000" stop="20251209101000 +0000">
+		<title>Frasier</title>
+		<desc>Liar! Liar!: Frasier finds himself in a precarious situation when he attempts to sort out an old high school acquaintance's troubled marriage. (S4 Ep10)</desc>
+		<icon src="https://ic.c4assets.com/brands/frasier/series-4/episode-10/88e32e31-7ccd-490e-b888-251f0621fdc6.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="C4" start="20251209101000 +0000" stop="20251209104000 +0000">
+		<title>Frasier</title>
+		<desc>Three Days of the Condo: Frasier stands for Condo Board President because he's unhappy about how the building is run. Niles lends his apartment to Martin and Sherry. (S4 Ep11)</desc>
+		<icon src="https://ic.c4assets.com/brands/frasier/series-4/episode-11/f86f7eaf-464d-4f24-85bf-efa81acb52ef.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="C4" start="20251209104000 +0000" stop="20251209111000 +0000">
+		<title>Frasier</title>
+		<desc>Death and the Dog: On a quiet day at the radio station, Frasier tells a depressed caller about Eddie's recent run-in with the dog therapist. (S4 Ep12)</desc>
+		<icon src="https://ic.c4assets.com/brands/frasier/series-4/episode-12/4b34ba29-ea2d-4c5e-afee-b9b7be377451.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="C4" start="20251209111000 +0000" stop="20251209120500 +0000">
+		<title>American Pickers</title>
+		<desc>On the Road Again: Mike and Danielle embark on an epic and emotional 600-mile road trip in a 1935 Auburn convertible, to bring the car back to the widow of its previous owner. (S14 Ep8)</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20251202070000 +0000" stop="20251202075500 +0000">
+	<programme channel="C4" start="20251209120500 +0000" stop="20251209121000 +0000">
+		<title>Channel 4 News Summary</title>
+		<desc>Channel 4's midday news summary.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="C4" start="20251209121000 +0000" stop="20251209131000 +0000">
+		<title>Chateau DIY at Christmas</title>
+		<desc>Can Alison and Zion complete their ensuite before guests arrive? Trish hosts her first ever culinary workshop. Jon and Carmen prepare for their lavish festive medieval banquet. (S4 Ep2/5)</desc>
+		<icon src="https://ic.c4assets.com/vps/chateau-diy-xmas-series-9/CDADB047-5AE9-432F-A3207B5C816DAAA1.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="C4" start="20251209131000 +0000" stop="20251209141000 +0000">
+		<title>Jamie's Easy Christmas</title>
+		<desc>Jamie Oliver shows us how to make our Christmas dinner extra-special the easy way, with a salmon gravadlax starter and some gnarly new ways to do the turkey, roasties and Brussels. (Ep2/2)</desc>
+		<icon src="https://ic.c4assets.com/brands/jamies-easy-christmas/series-1/episode-2/fbc4db45-5654-4f89-84cf-69370eba83cf.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="C4" start="20251209141000 +0000" stop="20251209150000 +0000">
+		<title>Countdown</title>
+		<desc>Colin Murray, Rachel Riley and Susie Dent host, with Nisha Katona in Dictionary Corner, as contestants race against the clock to pit their wits against vowels, consonants and numbers.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="C4" start="20251209150000 +0000" stop="20251209160000 +0000">
+		<title>A Place in the Sun</title>
+		<desc>Marcia and Ron love Crete's climate, beautiful beaches and the friendly people, and dream of owning a holiday home there. Can Lee Juggurnauth make their wishes a reality for their £255k?</desc>
+		<icon src="https://ic.c4assets.com/vps/a-place-in-the-sun-2022---crete/70884374-53EC-407C-BBF9A8793F02FA95.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="C4" start="20251209160000 +0000" stop="20251209170000 +0000">
+		<title>Kirstie's Handmade Christmas</title>
+		<desc>The sweet smell of festive flavours fills the air, as the culinary crafters compete in Kirstie's Christmas hamper competition. (S11 Ep5)</desc>
+		<icon src="https://ic.c4assets.com/brands/kirsties-handmade-christmas/series-1015/episode-5/75f97bce-4be9-4cf8-b800-de470d661887.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="C4" start="20251209170000 +0000" stop="20251209180000 +0000">
+		<title>The Great B&amp;B Challenge</title>
+		<desc>The new series continues. The second couple host the VIPs, while the other pairs continue to build their business plans by visiting a stylish B&amp;B and a local fruit farm. (Ep12)</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="C4" start="20251209180000 +0000" stop="20251209190000 +0000">
+		<title>A Place in the Sun</title>
+		<desc>Gary and Alison are looking for a rural holiday home in the Haute-Vienne area of central France. Can Laura Hamilton find them the perfect place for their budget of £100k?</desc>
+		<icon src="https://ic.c4assets.com/vps/a-place-in-the-sun-2023---limoges-france/E0C89BFC-6CB7-405C-90525F8822F97CDB.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="C4" start="20251209190000 +0000" stop="20251209195500 +0000">
+		<title>Channel 4 News</title>
+		<desc>Channel 4's flagship news programme. Including the weather.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="C4" start="20251209195500 +0000" stop="20251209200000 +0000">
+		<title>Becca's Story: Stand Up To Cancer</title>
+		<desc>A short film for Stand Up To Cancer. Becca had a zest for life and dreamed of becoming a doctor. But shortly after qualifying, she was diagnosed with an aggressive form of ovarian cancer.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="C4" start="20251209200000 +0000" stop="20251209210000 +0000">
+		<title>New: Castle Howard: A Very...</title>
+		<desc>...British Christmas: Two of Britain's top designers spend 2025 transforming Yorkshire's spectacular Castle Howard into a festive Wizard of Oz extravaganza for a very special Christmas.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="C4" start="20251209210000 +0000" stop="20251209220000 +0000">
+		<title>New: 24 Hours in Police Custody</title>
+		<desc>A Family Vendetta (Part 2/2): The landmark series that captures real-life drama at its most intense, following police detectives around the clock as they investigate major crimes.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="C4" start="20251209220000 +0000" stop="20251209220500 +0000">
+		<title>New: A Little Bit of Stand Up...</title>
+		<desc>...To Cancer: Dermot Murnaghan hosts the daily round-up of SU2C 2025 with the latest campaign headlines, celebrity challenges and emotional moments, as the week of fundraising gathers pace.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="C4" start="20251209220500 +0000" stop="20251209230000 +0000">
+		<title>New: Say Nothing</title>
+		<desc>Evil Little Maniacs: A gripping story of murder and memory during the Troubles in Northern Ireland. The Price sisters bring the fight to London. (Ep5/9)</desc>
+		<icon src="https://ic.c4assets.com/vps/say-nothing-yr-1---evil-little-maniacs/D733A72D-403C-4446-88C6D989266EE1E6.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="C4" start="20251209230000 +0000" stop="20251209235500 +0000">
+		<title>New: Say Nothing</title>
+		<desc>Do No Harm: Lola Petticrew stars in a gripping story of murder and memory during the Troubles in Northern Ireland. Dolours and Marian discover a new weapon: their bodies. (Ep6/9)</desc>
+		<icon src="https://ic.c4assets.com/vps/say-nothing-yr-1---do-no-harm/D197FBC2-5377-4AC0-AE6C37B997F36268.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="C4" start="20251209235500 +0000" stop="20251210002500 +0000">
+		<title>UNTOLD: Are We Dating the Same Guy</title>
+		<desc>Online groups that help UK women to find out the truth about the men who they're dating are growing. Are they a force for good? Or do they spread lies with harmful real-world consequences?</desc>
+		<icon src="https://ic.c4assets.com/vps/red-flags/5B0F7B4D-82EE-4074-9A28B8D36E97D61F.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="C4" start="20251210002500 +0000" stop="20251210012000 +0000">
+		<title>The Last Leg</title>
+		<desc>Adam Hills, Josh Widdicombe and Alex Brooker pick over the week's news, with Noel Fielding and Amy Gledhill. (S33 Ep8)</desc>
+		<icon src="https://ic.c4assets.com/brands/the-last-leg/7399247a-97c5-4edb-aafa-2e34a9b26c40.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="C4" start="20251210012000 +0000" stop="20251210031500 +0000">
+		<title>Monday</title>
+		<desc>(2020) Romcom-cum-romtradge about what can happen when a steamy holiday fling morphs into something more permanent. And it ain't necessarily good. Starring Sebastian Stan and Denise Gough.</desc>
+		<icon src="https://ic.c4assets.com/vps/monday-2020/13C30E5E-F4FF-4E1B-B0F285EBE8CBCD75.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="C4" start="20251210031500 +0000" stop="20251210032000 +0000">
+		<title>Becca's Story: Stand Up To Cancer</title>
+		<desc>A short film for Stand Up To Cancer. Becca had a zest for life and dreamed of becoming a doctor. But shortly after qualifying, she was diagnosed with an aggressive form of ovarian cancer.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="C4" start="20251210032000 +0000" stop="20251210041000 +0000">
+		<title>Undercover Boss USA</title>
+		<desc>Doug Guller, the CEO of restaurant chain Bikinis Sports Bar and Grill, goes undercover, posing as a reality show contestant, to work alongside staff in his Texas-based company. (S6 Ep11/13)</desc>
+		<icon src="https://ic.c4assets.com/vps/undercover-boss-usa/1ba510d6-4118-4085-a6f9-10058576c105.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="C4" start="20251210041000 +0000" stop="20251210050000 +0000">
 		<title>Ramsay's Kitchen Nightmares USA</title>
-		<desc>Sebastian's: Gordon Ramsay visits Sebastian's, a pizzeria in Los Angeles. The customers are scarce and the debt is mounting. Can Gordon turn the restaurant's fortunes around? (S1 Ep7)</desc>
-		<icon src="https://ic.c4assets.com/vps/ramsays-kitchen-nightmares-usa/bbee6d73-fb12-40d4-aa48-fbb173e7c54c.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<desc>Casa Roma: Gordon visits Casa Roma, the oldest restaurant in Lancaster, California. Although the bar is a success, the restaurant is failing and has had 20 chefs in two years. (S2 Ep8)</desc>
+		<icon src="https://ic.c4assets.com/vps/ramsay-s-kitchen-nightmares-usa/ACC67491-7057-4D44-8CBE6436C39CA144.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20251202075500 +0000" stop="20251202083000 +0000">
-		<title>The Goldbergs</title>
-		<desc>Mini Murray: Barry wants money to buy an expensive new pair of basketball shoes, so Murray hires him to work at his furniture shop so he can earn it. (S1 Ep3)</desc>
-		<icon src="https://ic.c4assets.com/vps/the-goldbergs/d278b844-3e47-4bf9-8eec-230b9d8ccbf0.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	<programme channel="C4" start="20251210050000 +0000" stop="20251210055500 +0000">
+		<title>Kirstie and Phil's Love It or...</title>
+		<desc>...List It: In Long Eaton, Derbyshire, Kirstie Allsopp and Phil Spencer help the Tuck family, who can't decide whether to renovate or sell their cramped three-bedroom semi. (S3 Ep2/7)</desc>
+		<icon src="https://ic.c4assets.com/vps/kirstie-and-phils-love-it-or-list-it/9c4f40ec-7e2e-4969-930f-1626f044106e.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20251202083000 +0000" stop="20251202085500 +0000">
-		<title>The Goldbergs</title>
-		<desc>Why're You Hitting Yourself?: Determined to get Pops to settle down, Beverly plays matchmaker for her father and pairs him up with a woman called Sophia. (S1 Ep4)</desc>
-		<icon src="https://ic.c4assets.com/vps/the-goldbergs/6b057243-7859-4ebd-8166-a6dabe7d2ba2.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20251202085500 +0000" stop="20251202093000 +0000">
-		<title>The Simpsons</title>
-		<desc>'Tis the 30th Season: After a terrible Black Friday when Marge can't buy the right gifts, can the Simpsons have a relaxing Christmas in Florida? (S30 Ep10/23)</desc>
-		<icon src="https://ic.c4assets.com/brands/the-simpsons/series-30/episode-10/31b3c1f5-b381-46d8-b1cb-9a4d847d1011.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20251202093000 +0000" stop="20251202100000 +0000">
-		<title>The Simpsons</title>
-		<desc>Mad About the Toy: A startling secret from Grampa's past takes him to Texas to find a long-lost life. (S30 Ep11/23)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20251202100000 +0000" stop="20251202103000 +0000">
-		<title>The Big Bang Theory</title>
-		<desc>The Veracity Elasticity: Leonard is upset when he finds out that Penny has been moving his collectables out of Sheldon's old room and into storage behind his back. (S10 Ep7)</desc>
-		<icon src="https://ic.c4assets.com/brands/the-big-bang-theory/series-10/episode-7/f6ddef17-9852-453b-b2d6-6cbf0e64869d.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20251202103000 +0000" stop="20251202105500 +0000">
-		<title>The Big Bang Theory</title>
-		<desc>The Brain Bowl Incubation: Sheldon tries to convince Amy that they should procreate. Raj feels embarrassed about what the new woman in his life does for a living. (S10 Ep8)</desc>
-		<icon src="https://ic.c4assets.com/brands/the-big-bang-theory/series-10/episode-8/0f6b9e27-f794-468b-8fd1-1d50695d458b.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20251202105500 +0000" stop="20251202113000 +0000">
-		<title>Modern Family</title>
-		<desc>Strangers in the Night: When Alex tells Phil and Claire she has a boyfriend, they worry that they've put too much pressure on her and that she's made up an imaginary boyfriend. (S6 Ep9)</desc>
-		<icon src="https://ic.c4assets.com/brands/modern-family/series-6/episode-9/3b051a53-8d85-487c-b2f2-1c4c41be591e.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20251202113000 +0000" stop="20251202115500 +0000">
-		<title>Modern Family</title>
-		<desc>Haley's 21st Birthday: The family take Haley to a bar to celebrate her 21st birthday. Can Claire convince Haley to see her as a friend, rather than as her uptight mum? (S6 Ep10)</desc>
-		<icon src="https://ic.c4assets.com/brands/modern-family/series-6/episode-10/6bb1199a-3846-4e69-9c3a-bed472a5e811.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20251202115500 +0000" stop="20251202123000 +0000">
-		<title>The Big Bang Theory</title>
-		<desc>The Precious Fragmentation: The gang squabble over a ring that they believe was used in The Lord of the Rings movies, and Sheldon seems to be turning into Gollum. (S3 Ep17)</desc>
-		<icon src="https://ic.c4assets.com/brands/the-big-bang-theory/series-3/episode-17/71fbbe02-e9df-4646-b3ae-383218cd2236.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20251202123000 +0000" stop="20251202125500 +0000">
-		<title>The Big Bang Theory</title>
-		<desc>The Pants Alternative: Sheldon is awarded a prestigious prize but is scared of collecting the award at a ceremony because he knows he'll have to make a speech. (S3 Ep18)</desc>
-		<icon src="https://ic.c4assets.com/brands/the-big-bang-theory/series-3/episode-18/1ebf7117-9d99-4dc0-a977-91aabb171444.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20251202125500 +0000" stop="20251202133000 +0000">
-		<title>The Big Bang Theory</title>
-		<desc>The Wheaton Recurrence: Leonard tells Penny that he loves her. The gang go bowling and find that Sheldon's enemy, Wil Wheaton, is playing in the opposing team. (S3 Ep19)</desc>
-		<icon src="https://ic.c4assets.com/brands/the-big-bang-theory/series-3/episode-19/0946e9b9-130c-4adc-9337-757b06e4b2bd.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20251202133000 +0000" stop="20251202135500 +0000">
-		<title>The Big Bang Theory</title>
-		<desc>The Spaghetti Catalyst: Sheldon hides his friendship with Penny from Leonard, but it isn't long before his double life is exposed. Can he remain friends with both of them? (S3 Ep20)</desc>
-		<icon src="https://ic.c4assets.com/brands/the-big-bang-theory/series-3/episode-20/b752ed47-f692-447a-9b37-9333c3ba6836.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20251202135500 +0000" stop="20251202143000 +0000">
-		<title>Young Sheldon</title>
-		<desc>A High-Pitched Buzz and Training Wheels: Sheldon dismantles the fridge to stop it making an annoying humming noise but must pay for the damage he's done. (S2 Ep1/22)</desc>
-		<icon src="https://ic.c4assets.com/brands/young-sheldon/series-2/episode-1/2358ed00-8910-4e13-a794-3c862403ade8.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20251202143000 +0000" stop="20251202145500 +0000">
-		<title>Young Sheldon</title>
-		<desc>A Rival Prodigy and Sir Isaac Neutron: When Sheldon's mentor Dr John Sturgis bonds with Paige, another 10-year-old genius, Sheldon is overcome with jealousy. (S2 Ep2/22)</desc>
-		<icon src="https://ic.c4assets.com/brands/young-sheldon/series-2/episode-2/9e3c35b7-939e-4589-99b7-18de28ef2e1d.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20251202145500 +0000" stop="20251202152500 +0000">
-		<title>The Simpsons</title>
-		<desc>D'oh Canada: Lisa goes to Canada and refuses to leave. Marge desperately tries to get her back. (S30 Ep21/23)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20251202152500 +0000" stop="20251202155500 +0000">
-		<title>The Simpsons</title>
-		<desc>Crystal Blue-Haired Persuasion: Marge sells crystals and makes a fortune. Bart's grades take a mysterious turn for the better. (S30 Ep23/23)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20251202155500 +0000" stop="20251202163000 +0000">
-		<title>The Big Bang Theory</title>
-		<desc>The Thespian Catalyst: Sheldon lectures at the university but worries that the students don't seem to like him. Raj fantasises about his best friend's girlfriend. (S4 Ep14)</desc>
-		<icon src="https://ic.c4assets.com/brands/the-big-bang-theory/series-4/episode-14/ed9e092b-8eaa-4cac-839b-d724ac978914.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20251202163000 +0000" stop="20251202165500 +0000">
-		<title>The Big Bang Theory</title>
-		<desc>The Benefactor Factor: A wealthy benefactor at the university makes Leonard consider how far he's willing to go in the name of science. (S4 Ep15)</desc>
-		<icon src="https://ic.c4assets.com/brands/the-big-bang-theory/series-4/episode-15/f4de2b90-0591-42e9-986d-d1d9041791a1.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20251202165500 +0000" stop="20251202173000 +0000">
-		<title>The Big Bang Theory</title>
-		<desc>The Cohabitation Formulation: Howard is torn between taking things to the next level with Bernadette and pleasing his mother. Leonard rekindles his relationship with Priya. (S4 Ep16)</desc>
-		<icon src="https://ic.c4assets.com/brands/the-big-bang-theory/series-4/episode-16/a39739d6-af14-48f5-a6c5-66774c212df8.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20251202173000 +0000" stop="20251202180000 +0000">
-		<title>The Big Bang Theory</title>
-		<desc>The Toast Derivation: Sheldon is surprised and disturbed to find out that it's really Leonard who is at the centre of their group of friends and not him. (S4 Ep17)</desc>
-		<icon src="https://ic.c4assets.com/brands/the-big-bang-theory/series-4/episode-17/fbc9b0d2-83ca-4902-abb3-137e47f691ca.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20251202180000 +0000" stop="20251202183000 +0000">
-		<title>The Simpsons</title>
-		<desc>Homer Loves Flanders: Homer realises that he likes Flanders and starts to hang around with him all the time. Unfortunately, Flanders realises that he's not so keen on Homer... (S5 Ep16/22)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20251202183000 +0000" stop="20251202190000 +0000">
-		<title>The Simpsons</title>
-		<desc>Bart Gets an Elephant: Bart wins an elephant, but Homer can't afford its upkeep and decides to sell it to an ivory dealer... (S5 Ep17/22)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20251202190000 +0000" stop="20251202193000 +0000">
-		<title>Hollyoaks</title>
-		<desc>Ste tries to do the right thing, but a text leads Lucas to jump to conclusions. Elsewhere, a resident fights to keep the past hidden and Liberty tries to pull her family back together.</desc>
-		<icon src="https://ic.c4assets.com/vps/hollyoaks-xxxiii-2025---lime-no.-6651/80113C74-71B8-4DD2-85EBB893C2A27AA8.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20251202193000 +0000" stop="20251202200000 +0000">
-		<title>The Simpsons</title>
-		<desc>Insane Clown Poppy: Homer and Bart take Lisa to a book fair, where Krusty meets his long-lost daughter (guest star Drew Barrymore). But it doesn't go well... (S12 Ep3/21)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20251202200000 +0000" stop="20251202210000 +0000">
-		<title>America's Next Top Model</title>
-		<desc>Daniella Issa Helayel: The remaining models are steeped in local culture in Marrakech, with a lesson in tea-tray dancing and some local grub including eyeballs and goat's brain. (S16 Ep11)</desc>
-		<icon src="https://ic.c4assets.com/vps/americas-next-top-model-yr-16---daniella-issa-helayel/65B8ACAF-2215-4B44-AA8157D9EFCF2811.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20251202210000 +0000" stop="20251202230000 +0000">
-		<title>Gogglebox 2022</title>
-		<desc>Some of the best TV moments of 2022: from Strictly to Coronation Street, Frozen Planet II, Bad Sisters and Britain's Got Talent. Watched by some of the country's best-loved households.</desc>
-		<icon src="https://ic.c4assets.com/brands/gogglebox/series-20/episode-15/d0a3d594-4c4e-4623-98e5-21fd6f4da08b.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20251202230000 +0000" stop="20251203000500 +0000">
-		<title>First Dates</title>
-		<desc>Bina, who runs a bridal business, hopes to find a man who's husband material. And will adventurer Stephen run a mile when he finds out that his date Dina wants to start a family? (S9 Ep13)</desc>
-		<icon src="https://ic.c4assets.com/brands/first-dates/series-8/episode-25/d7a1bde2-5793-47ed-9abc-da22ea4b74a1.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20251203000500 +0000" stop="20251203004000 +0000">
-		<title>The Big Bang Theory</title>
-		<desc>The Love Spell Potential: When the girls' trip to Las Vegas falls through, the guys invite them to a Dungeons &amp; Dragons night that changes Sheldon and Amy's relationship. (S6 Ep23)</desc>
-		<icon src="https://ic.c4assets.com/brands/the-big-bang-theory/series-6/episode-23/552d6ece-9fc2-43bb-b363-d9762af97c68.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20251203004000 +0000" stop="20251203010500 +0000">
-		<title>The Big Bang Theory</title>
-		<desc>The Bon Voyage Reaction: Leonard is offered an exciting job opportunity that will keep him out of the country for several months. Raj pushes the boundaries of his relationship. (S6 Ep24)</desc>
-		<icon src="https://ic.c4assets.com/brands/the-big-bang-theory/series-6/episode-24/e93e7bf0-1ceb-4b8f-ad83-42f37fd4b639.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20251203010500 +0000" stop="20251203020500 +0000">
-		<title>Naked Attraction</title>
-		<desc>Gym addict Sophie from Surrey is looking for a change from the usual body-builder types who lack sparkle, while Dom seeks his perfect man to waltz him down the aisle. (S2 Ep6)</desc>
-		<icon src="https://ic.c4assets.com/brands/naked-attraction/series-2/episode-6/2cdf08b5-9deb-4c1e-9647-52129b2ce096.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20251203020500 +0000" stop="20251203023000 +0000">
-		<title>Modern Family</title>
-		<desc>Grill, Interrupted: Jay's birthday brings everyone together, and Phil is beside himself over the super-cool gift he got for Jay: a high-tech outdoor grill. (S6 Ep19)</desc>
-		<icon src="https://ic.c4assets.com/brands/modern-family/series-6/episode-19/d4f9c712-0e4b-4605-9502-d01a2bf9b9a0.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20251203023000 +0000" stop="20251203025500 +0000">
-		<title>Young Sheldon</title>
-		<desc>A High-Pitched Buzz and Training Wheels: Sheldon dismantles the fridge to stop it making an annoying humming noise but must pay for the damage he's done. (S2 Ep1/22)</desc>
-		<icon src="https://ic.c4assets.com/brands/young-sheldon/series-2/episode-1/2358ed00-8910-4e13-a794-3c862403ade8.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20251203025500 +0000" stop="20251203031500 +0000">
-		<title>Young Sheldon</title>
-		<desc>A Rival Prodigy and Sir Isaac Neutron: When Sheldon's mentor Dr John Sturgis bonds with Paige, another 10-year-old genius, Sheldon is overcome with jealousy. (S2 Ep2/22)</desc>
-		<icon src="https://ic.c4assets.com/brands/young-sheldon/series-2/episode-2/9e3c35b7-939e-4589-99b7-18de28ef2e1d.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20251203031500 +0000" stop="20251203034000 +0000">
-		<title>Modern Family</title>
-		<desc>SuperShowerBabyBowl: Jay is hosting a Super Bowl party, while Claire hosts a baby shower for Haley - and they're both at Jay's house. What could possibly go wrong? (S10 Ep15)</desc>
-		<icon src="https://ic.c4assets.com/brands/modern-family/series-10/episode-15/937b4483-c117-4026-9ef1-87df91f9202b.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20251203034000 +0000" stop="20251203040500 +0000">
-		<title>The Goldbergs</title>
-		<desc>The Other Smother: While attempting to micro-manage Barry and Erica's search for college places, Beverly is pitted against a rival meddling mother. (S1 Ep13)</desc>
-		<icon src="https://ic.c4assets.com/vps/the-goldbergs/2024f936-8648-420d-8ae7-0de4e0f2fc2f.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20251203040500 +0000" stop="20251203043000 +0000">
-		<title>The Goldbergs</title>
-		<desc>You Opened the Door: Adam reluctantly agrees to take dancing lessons from Beverly because he is planning to attend the school dance with Dana. (S1 Ep14)</desc>
-		<icon src="https://ic.c4assets.com/vps/the-goldbergs/5dc0a157-ea3a-4869-8472-ac6e58145a38.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20251203043000 +0000" stop="20251203045500 +0000">
-		<title>The Neighborhood</title>
-		<desc>Welcome to the New Deal: When Calvin is overwhelmed by work, Dave volunteers to counsel him, while logging hours that he needs for his therapist certification. (S5 Ep4)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20251203045500 +0000" stop="20251203052000 +0000">
-		<title>The Neighborhood</title>
-		<desc>Welcome to the Art of Negotiation: When Dave is up for promotion, Calvin tries to help him negotiate a raise from his penny-pinching new boss. (S5 Ep5)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20251203052000 +0000" stop="20251203060000 +0000">
-		<title>The Neighborhood</title>
-		<desc>Welcome to the Hot Prospect: When Calvin stumbles upon a big business opportunity, he must convince Malcolm to help him to seal the deal. (S5 Ep6)</desc>
+	<programme channel="C4" start="20251210055500 +0000" stop="20251210063500 +0000">
+		<title>Countdown</title>
+		<desc>Another chance to catch yesterday's new episode, with Nisha Katona in Dictionary Corner. Colin Murray, Rachel Riley and Susie Dent host.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20251203060000 +0000" stop="20251203063000 +0000">
@@ -2569,130 +2349,225 @@
 		<desc>Welcome to the Milestone: Calvin struggles to find a birthday gift for Tina. Gemma tries to get some VIP tickets, through a connection to actor Jerry O'Connell. (S5 Ep17)</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="M4" start="20251202085500 +0000" stop="20251202100000 +0000">
-		<title>Escape to the Chateau at Christmas</title>
-		<desc>Dick and Angel prepare for a magical Christmas at the chateau, with festive treats for family and friends, including Dick's walnut wine and a supersized Christmas tree. (S5 Ep7/7)</desc>
-		<icon src="https://ic.c4assets.com/brands/escape-to-the-chateau/series-4/episode-7/366bf87c-dfb8-41ca-bb92-0db83218af76.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	<programme channel="E4" start="20251209060000 +0000" stop="20251209063000 +0000">
+		<title>Hollyoaks</title>
+		<desc>Theresa returns to the village with her eyes set on Dodger, while Donny faces some hard home truths. And Lucas's bid for Dillon's attention reaches a concerning new height.</desc>
+		<icon src="https://ic.c4assets.com/vps/hollyoaks-xxxiii-2025---lime-no.-6652/53D23BAF-8AA7-4D25-BEBBAE08FA19BDE5.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="M4" start="20251202100000 +0000" stop="20251202110000 +0000">
-		<title>Chateau DIY</title>
-		<desc>At Château de Bourneau, Erin and JB desperately rush to complete their turret art room renovations. In the Dordogne, Nick and Nicole begin major work on their chateau. (S5 Ep2)</desc>
-		<icon src="https://ic.c4assets.com/vps/chateau-diy-series-8/F1C5B4C3-E647-488B-9AA63389A3A0EDF2.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="M4" start="20251202110000 +0000" stop="20251202120000 +0000">
-		<title>The Great House Giveaway</title>
-		<desc>In Castle Donington, Danielle and Alessio transform a damp cottage with no kitchen into a modern holiday let. There's a lot to unearth, including a hidden Victorian inglenook. (S4 Ep15)</desc>
-		<icon src="https://ic.c4assets.com/brands/the-great-house-giveaway/series-3/episode-15/937c7f0e-e423-4b63-ab3a-5fdc80c21d02.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="M4" start="20251202120000 +0000" stop="20251202130500 +0000">
-		<title>The Great House Giveaway</title>
-		<desc>Model Alaw and technical engineer Harri fix up a Wrexham terrace with no kitchen or bathroom, that hasn't been touched since the day it was built. Can they flip it for a profit? (S5 Ep3)</desc>
-		<icon src="https://ic.c4assets.com/vps/the-great-house-giveaway-series-3/C7F5F6C6-6B7B-4BB9-A425E4C05C86C80F.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="M4" start="20251202130500 +0000" stop="20251202133500 +0000">
-		<title>A Place in the Sun</title>
-		<desc>Lian and Dave want a holiday home in Spain's Almería province. Ben Hillman shows them some impressive properties for their £80,000 budget, but are any of them the perfect place?</desc>
+	<programme channel="E4" start="20251209063000 +0000" stop="20251209065500 +0000">
+		<title>Hollyoaks</title>
+		<desc>Theresa risks her own safety to help a spiralling Mercedes. And a resident worries about what a scorned ex is capable of...</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="M4" start="20251202133500 +0000" stop="20251202144000 +0000">
-		<title>A Place in the Sun</title>
-		<desc>Retired couple Stephen and Janis want to move to the western Costa del Sol. Having sold their Buckinghamshire home, the pressure's on for Jasmine Harman to find their dream place for £150k.</desc>
-		<icon src="https://ic.c4assets.com/vps/a-place-in-the-sun/b575826b-0e0f-4c5c-9235-5adb1280550b.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	<programme channel="E4" start="20251209065500 +0000" stop="20251209070000 +0000">
+		<title>Rude(ish) Tube Shorts</title>
+		<desc>A short, cheeky clip featuring animals and food, from the always hilarious Tube that is Rude.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="M4" start="20251202144000 +0000" stop="20251202151000 +0000">
-		<title>Come Dine with Me</title>
-		<desc>Sussex. Part-time comedian Rod hopes to impress his guests with his extensive dinner party experience. But will some bovine booing and enthusiastic plate licking ruin his chances? (Ep1/5)</desc>
-		<icon src="https://ic.c4assets.com/brands/come-dine-with-me/series-46/episode-1/8b114adf-6f06-4b93-a3ff-d0e330094573.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	<programme channel="E4" start="20251209070000 +0000" stop="20251209080000 +0000">
+		<title>Ramsay's Kitchen Nightmares USA</title>
+		<desc>Sabatiello's: Gordon Ramsay sets his sights on Sabatiello's, an Italian restaurant in Connecticut that's better known for its owner Sammy's tantrums than the food. (S2 Ep3)</desc>
+		<icon src="https://ic.c4assets.com/vps/ramsay-s-kitchen-nightmares-usa/ACC67491-7057-4D44-8CBE6436C39CA144.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="M4" start="20251202151000 +0000" stop="20251202154000 +0000">
-		<title>Come Dine with Me</title>
-		<desc>Sussex. Mystic and animal communicator Josie serves up an evening of spiritual shenanigans, assisted by her best friend, Mimi the cat. But will her guests be soothed or spooked? (Ep2/5)</desc>
-		<icon src="https://ic.c4assets.com/brands/come-dine-with-me/series-46/episode-2/970532c0-f755-4ff3-9823-e93bf114c853.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	<programme channel="E4" start="20251209080000 +0000" stop="20251209083000 +0000">
+		<title>The Goldbergs</title>
+		<desc>The Other Smother: While attempting to micro-manage Barry and Erica's search for college places, Beverly is pitted against a rival meddling mother. (S1 Ep13)</desc>
+		<icon src="https://ic.c4assets.com/vps/the-goldbergs/2024f936-8648-420d-8ae7-0de4e0f2fc2f.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="M4" start="20251202154000 +0000" stop="20251202161000 +0000">
-		<title>Come Dine with Me</title>
-		<desc>Sussex. Food hub charity director Paula takes inspiration from her job for her recycle and reuse themed evening, featuring an aquacotta starter and an impressive pud. (Ep3/5)</desc>
-		<icon src="https://ic.c4assets.com/brands/come-dine-with-me/series-46/episode-3/2f919dde-db71-4166-b193-d1a9bd1db7b0.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	<programme channel="E4" start="20251209083000 +0000" stop="20251209090000 +0000">
+		<title>The Goldbergs</title>
+		<desc>You Opened the Door: Adam reluctantly agrees to take dancing lessons from Beverly because he is planning to attend the school dance with Dana. (S1 Ep14)</desc>
+		<icon src="https://ic.c4assets.com/vps/the-goldbergs/5dc0a157-ea3a-4869-8472-ac6e58145a38.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="M4" start="20251202161000 +0000" stop="20251202164000 +0000">
-		<title>Come Dine with Me</title>
-		<desc>Sussex. Vegan solicitor Hassan's menu is inspired by his love of Asian food, but a spice slip-up has some of his guests hot and bothered. Can dessert make up for his chilli chaos? (Ep4/5)</desc>
-		<icon src="https://ic.c4assets.com/brands/come-dine-with-me/series-46/episode-4/0de326ca-32c2-4289-a637-63e173494150.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	<programme channel="E4" start="20251209090000 +0000" stop="20251209093000 +0000">
+		<title>The Simpsons</title>
+		<desc>D'oh Canada: Lisa goes to Canada and refuses to leave. Marge desperately tries to get her back. (S30 Ep21/23)</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="M4" start="20251202164000 +0000" stop="20251202171500 +0000">
-		<title>Come Dine with Me</title>
-		<desc>Sussex. Jewellery entrepreneur Sarah tops off the week with some simple and nutritious food. But will a dodgy dessert and tears at the table take the shine off her evening? (Ep5/5)</desc>
-		<icon src="https://ic.c4assets.com/brands/come-dine-with-me/series-46/episode-5/9680db13-4f1e-4052-acc9-37bf31653a16.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	<programme channel="E4" start="20251209093000 +0000" stop="20251209100000 +0000">
+		<title>The Simpsons</title>
+		<desc>Crystal Blue-Haired Persuasion: Marge sells crystals and makes a fortune. Bart's grades take a mysterious turn for the better. (S30 Ep23/23)</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="M4" start="20251202171500 +0000" stop="20251202175000 +0000">
-		<title>Four in a Bed</title>
-		<desc>Jenny and Johnny welcome their rivals to BnB at 43 in Richmond, North Yorkshire. But there's a mark on Kelly and Serena's toilet. At dinner, Debra and Jamie reveal their regal connections.</desc>
-		<icon src="https://ic.c4assets.com/brands/four-in-a-bed/series-14/episode-6/eca01d34-48eb-4fb7-a78f-459c5cea7ea4.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	<programme channel="E4" start="20251209100000 +0000" stop="20251209103000 +0000">
+		<title>The Big Bang Theory</title>
+		<desc>The Comic-Con Conundrum: Cut off from his father's fortune, Raj appoints Sheldon to organise his finances. Penny considers joining the guys at Comic-Con. (S10 Ep17)</desc>
+		<icon src="https://ic.c4assets.com/brands/the-big-bang-theory/series-10/episode-17/282f3e05-984d-4b98-97a6-2a6d23350b83.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="M4" start="20251202175000 +0000" stop="20251202182000 +0000">
-		<title>Four in a Bed</title>
-		<desc>The second visit of the week is to Sutton Park in Blackpool, run by Stewart and Gill. Kelly and Serena are blown away by the bling, but Debra and Jamie have cleanliness concerns.</desc>
-		<icon src="https://ic.c4assets.com/brands/four-in-a-bed/series-14/episode-7/a22c3446-1062-409b-b68e-513d24880810.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	<programme channel="E4" start="20251209103000 +0000" stop="20251209110000 +0000">
+		<title>The Big Bang Theory</title>
+		<desc>The Escape Hatch Identification: Leonard and Penny offer Sheldon's old room to Raj when he's forced to move out of his flat, leading to unexpected conflict. (S10 Ep18)</desc>
+		<icon src="https://ic.c4assets.com/brands/the-big-bang-theory/series-10/episode-18/d9ef401c-4902-46ae-8cbf-02da8e899a37.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="M4" start="20251202182000 +0000" stop="20251202185500 +0000">
-		<title>Four in a Bed</title>
-		<desc>Debra and Jamie host at Tottington Manor in Edburton, West Sussex. But Gill doesn't like the countryside setting or her room, and low scores at feedback lead to cries of foul play.</desc>
-		<icon src="https://ic.c4assets.com/brands/four-in-a-bed/series-14/episode-8/d9a98af6-19f6-42b4-9390-7435d2ec266f.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	<programme channel="E4" start="20251209110000 +0000" stop="20251209113000 +0000">
+		<title>Modern Family</title>
+		<desc>Integrity: Phil and Jay run an errand together to pick up Lily's hand-me-down princess castle for Joe. Phil is upset that Claire won't let him buy a videogame console. (S6 Ep21)</desc>
+		<icon src="https://ic.c4assets.com/brands/modern-family/series-6/episode-21/7f939938-5e5b-4c49-b7aa-9ca7e9382ef7.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="M4" start="20251202185500 +0000" stop="20251202192500 +0000">
-		<title>Four in a Bed</title>
-		<desc>The final visit is to Flynn's Pub and Guesthouse in Hackney, east London, where friends Serena and Kelly claim to have the cleanest and most stylish rooms at a price unmatched in the area.</desc>
-		<icon src="https://ic.c4assets.com/brands/four-in-a-bed/series-14/episode-9/47ecc035-c1f5-4839-9431-cc9a1078525b.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	<programme channel="E4" start="20251209113000 +0000" stop="20251209120000 +0000">
+		<title>Modern Family</title>
+		<desc>Patriot Games: Alex faces her worst nightmare: having to share the Valedictorian title with her number one competitor, Sunjay. (S6 Ep22)</desc>
+		<icon src="https://ic.c4assets.com/brands/modern-family/series-6/episode-22/2a680a09-2a7f-4b06-a7e9-fae52f558942.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="M4" start="20251202192500 +0000" stop="20251202195500 +0000">
-		<title>Four in a Bed</title>
-		<desc>It's the final day of the competition and the B&amp;Bers meet for the last time. After dramatic discoveries and cutting comments, the payments are revealed and the winner is announced.</desc>
-		<icon src="https://ic.c4assets.com/brands/four-in-a-bed/series-14/episode-10/5cfbf1c2-bc82-4d64-91d0-5fa821bb422e.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	<programme channel="E4" start="20251209120000 +0000" stop="20251209123000 +0000">
+		<title>The Big Bang Theory</title>
+		<desc>The Thespian Catalyst: Sheldon lectures at the university but worries that the students don't seem to like him. Raj fantasises about his best friend's girlfriend. (S4 Ep14)</desc>
+		<icon src="https://ic.c4assets.com/brands/the-big-bang-theory/series-4/episode-14/ed9e092b-8eaa-4cac-839b-d724ac978914.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="M4" start="20251202195500 +0000" stop="20251202210000 +0000">
-		<title>Grand Designs</title>
-		<desc>Gretta plans to build a Malaysian-inspired pavilion, designed by her nephew, on her sister and brother-in-law's land in Ely. Will this family affair and story of renewal end in harmony?</desc>
-		<icon src="https://ic.c4assets.com/vps/grand-designs-series-20---ely-tx4-sept-2021/5FB869AA-4DBE-4026-93898B777466C22D.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	<programme channel="E4" start="20251209123000 +0000" stop="20251209130000 +0000">
+		<title>The Big Bang Theory</title>
+		<desc>The Benefactor Factor: A wealthy benefactor at the university makes Leonard consider how far he's willing to go in the name of science. (S4 Ep15)</desc>
+		<icon src="https://ic.c4assets.com/brands/the-big-bang-theory/series-4/episode-15/f4de2b90-0591-42e9-986d-d1d9041791a1.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="M4" start="20251202210000 +0000" stop="20251202220000 +0000">
-		<title>Our Farm Next Door: Amanda,...</title>
-		<desc>...Clive and Kids: The Owens continue to turn an abandoned farmhouse into a 21st-century home. With permission to extend into the barn, there's now even more work to do! (S2 Ep1)</desc>
-		<icon src="https://ic.c4assets.com/vps/amanda-owen-our-farm-next-door/810A6459-FF57-49C8-8076D985FEA242CB.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	<programme channel="E4" start="20251209130000 +0000" stop="20251209133000 +0000">
+		<title>The Big Bang Theory</title>
+		<desc>The Cohabitation Formulation: Howard is torn between taking things to the next level with Bernadette and pleasing his mother. Leonard rekindles his relationship with Priya. (S4 Ep16)</desc>
+		<icon src="https://ic.c4assets.com/brands/the-big-bang-theory/series-4/episode-16/a39739d6-af14-48f5-a6c5-66774c212df8.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="M4" start="20251202220000 +0000" stop="20251202230500 +0000">
-		<title>Our Tiny Islands</title>
-		<desc>From awe-inspiring archipelagos to hidden havens, what's life like on a teeny-tiny island? We explore Fair Isle, uninhabited Cockle Island and the Isles of Scilly. (Ep1/4)</desc>
-		<icon src="https://ic.c4assets.com/vps/our-tiny-islands/FB5CA09C-E765-48BD-A87A1C8616505F5E.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	<programme channel="E4" start="20251209133000 +0000" stop="20251209140000 +0000">
+		<title>The Big Bang Theory</title>
+		<desc>The Toast Derivation: Sheldon is surprised and disturbed to find out that it's really Leonard who is at the centre of their group of friends and not him. (S4 Ep17)</desc>
+		<icon src="https://ic.c4assets.com/brands/the-big-bang-theory/series-4/episode-17/fbc9b0d2-83ca-4902-abb3-137e47f691ca.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="M4" start="20251202230500 +0000" stop="20251203001000 +0000">
-		<title>999: On the Front Line</title>
-		<desc>Paramedics are called to a motorcyclist who has collided with a deer, a man with a bruised bottom, and a woman experiencing heart palpitations. (S7 Ep3)</desc>
-		<icon src="https://ic.c4assets.com/brands/999-on-the-front-line/series-5/episode-23/ac7bb9c6-6008-4ad4-a51f-8b563078d25f.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	<programme channel="E4" start="20251209140000 +0000" stop="20251209143000 +0000">
+		<title>Young Sheldon</title>
+		<desc>A Race of Superhumans and a Letter to Alf: Sheldon agrees to help Missy with her maths homework. Georgie joins a bible study group to get closer to Veronica. (S2 Ep11/22)</desc>
+		<icon src="https://ic.c4assets.com/brands/young-sheldon/series-2/episode-11/89a96f1d-4904-41c2-8db5-eecd8aff3512.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="M4" start="20251203001000 +0000" stop="20251203011500 +0000">
-		<title>Emergency Helicopter Medics</title>
-		<desc>The heli-medics help a teen motorcyclist who's been hit by a car and catapulted into the air. A holiday fitness workout ends in CPR. And a lorry driver is trapped in his cabin. (S4 Ep4)</desc>
-		<icon src="https://ic.c4assets.com/brands/emergency-helicopter-medics/series-5/episode-4/cea06dc1-4e68-4ad7-9219-d62ed4ad50b7.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	<programme channel="E4" start="20251209143000 +0000" stop="20251209150000 +0000">
+		<title>Young Sheldon</title>
+		<desc>A Tummy Ache and a Whale of a Metaphor: Sheldon spends some days in hospital, but he's the world's worst patient and his behaviour takes a toll on everyone. (S2 Ep12/22)</desc>
+		<icon src="https://ic.c4assets.com/brands/young-sheldon/series-2/episode-12/30b5b9fb-e72e-4dd6-bd78-cde377460e37.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="M4" start="20251203011500 +0000" stop="20251203022000 +0000">
-		<title>24 Hours in A&amp;E</title>
-		<desc>Leon's been in a head-on collision with a car. Graham's sustained a rugby injury and has lost feeling in his limbs. Elliott, who's four, has a foreign object stuck up his nose. (S14 Ep6/9)</desc>
-		<icon src="https://ic.c4assets.com/brands/24-hours-in-ae/series-14/episode-8/c7a1c01a-afa6-4f91-961b-ac779e4361b6.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	<programme channel="E4" start="20251209150000 +0000" stop="20251209153000 +0000">
+		<title>The Simpsons</title>
+		<desc>The Wreck of the Relationship: Homer and Bart take part in a father-son therapy exercise on a ship. While they're away, Marge gets involved in Homer's fantasy football league. (S26 Ep2/22)</desc>
+		<icon src="https://ic.c4assets.com/brands/the-simpsons/series-26/episode-2/37f70237-1d98-476a-b82b-5bddd50a63f9.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="M4" start="20251203022000 +0000" stop="20251203032500 +0000">
-		<title>24 Hours in A&amp;E</title>
-		<desc>Zach, who's 25, has severed four of his fingers in a building site accident. Daquon, who's 10, was hit by a motorbike on his way to school and has a badly broken arm. (S14 Ep8/9)</desc>
-		<icon src="https://ic.c4assets.com/brands/24-hours-in-ae/series-14/episode-10/d2f4e095-7217-4afd-8083-395e7a966366.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	<programme channel="E4" start="20251209153000 +0000" stop="20251209160000 +0000">
+		<title>The Simpsons</title>
+		<desc>Super Franchise Me: Marge opens a catering franchise after her sandwiches become a hit at the school. But then another franchise opens right across the street. (S26 Ep3/22)</desc>
+		<icon src="https://ic.c4assets.com/brands/the-simpsons/series-26/episode-3/ce8cb300-c024-4941-a5b6-8bb562bd8162.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="M4" start="20251203032500 +0000" stop="20251203035500 +0000">
-		<title>Food Unwrapped</title>
-		<desc>More favourite investigations. Kate and Helen get the scoop on vanilla. In the Netherlands, Matt explores the myth that Edam balls were once used as emergency cannon balls! (S17 Ep4)</desc>
-		<icon src="https://ic.c4assets.com/brands/food-unwrapped/series-15/episode-24/d2f3b7fb-4476-4a51-b82c-6bc89b2c9031.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	<programme channel="E4" start="20251209160000 +0000" stop="20251209163000 +0000">
+		<title>The Big Bang Theory</title>
+		<desc>The Flaming Spittoon Acquisition: Stuart from the comic book shop invites Amy out on a date. Consumed by jealousy, Sheldon then asks her to be his girlfriend. (S5 Ep10)</desc>
+		<icon src="https://ic.c4assets.com/brands/the-big-bang-theory/series-5/episode-10/84e16dc6-5e5e-40b5-b541-6a5cdcc6c43b.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="M4" start="20251203035500 +0000" stop="20251203085500 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/More4_logo_2018.svg/200px-More4_logo_2018.svg.png" />
+	<programme channel="E4" start="20251209163000 +0000" stop="20251209170000 +0000">
+		<title>The Big Bang Theory</title>
+		<desc>The Speckerman Recurrence: Leonard confronts the man who bullied him in high school, while Penny realises that she did her fair share of tormenting in the past. (S5 Ep11)</desc>
+		<icon src="https://ic.c4assets.com/brands/the-big-bang-theory/series-5/episode-11/9747d4a7-b4cc-4356-a6b8-2ee7502c0aa4.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="E4" start="20251209170000 +0000" stop="20251209173000 +0000">
+		<title>The Big Bang Theory</title>
+		<desc>The Shiny Trinket Maneuver: When Sheldon is dismissive of Amy's career, Penny, Raj and Leonard teach him that sometimes it's a good idea to pretend to care about things. (S5 Ep12)</desc>
+		<icon src="https://ic.c4assets.com/brands/the-big-bang-theory/series-5/episode-12/31df95cf-1300-4148-80cc-ac02a4a0b83a.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="E4" start="20251209173000 +0000" stop="20251209180000 +0000">
+		<title>The Big Bang Theory</title>
+		<desc>The Recombination Hypothesis: In the 100th episode of the US sitcom, Leonard and Penny agree to give their relationship another chance, but they soon start to argue again. (S5 Ep13)</desc>
+		<icon src="https://ic.c4assets.com/brands/the-big-bang-theory/series-5/episode-13/df0af7ca-188c-451d-adc1-00555b0cb40a.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="E4" start="20251209180000 +0000" stop="20251209183000 +0000">
+		<title>The Simpsons</title>
+		<desc>Homer vs Dignity: Homer asks Mr Burns for a pay rise after the family have to dress up as a mariachi band and sing for their dinner. But Mr Burns has a better idea... (S12 Ep5/21)</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="E4" start="20251209183000 +0000" stop="20251209190000 +0000">
+		<title>The Simpsons</title>
+		<desc>The Computer Wore Menace Shoes: After Homer publishes damaging rumours on 'Mr X's Web Page', he ends up on a Prisoner-style island, complete with guest star Patrick McGoohan. (S12 Ep6/21)</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="E4" start="20251209190000 +0000" stop="20251209193000 +0000">
+		<title>Hollyoaks</title>
+		<desc>Darren extends an olive branch to Tony. Cleo receives some bittersweet news. And a resident opens up about recent abuse.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="E4" start="20251209193000 +0000" stop="20251209200000 +0000">
+		<title>The Simpsons</title>
+		<desc>New Kids on the Blecch: After cheating in the Springfield Marathon, Bart is rescued from an angry mob by a record producer and is recruited for a new boy band. (S12 Ep14/21)</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="E4" start="20251209200000 +0000" stop="20251209210000 +0000">
+		<title>The Great Celebrity Bake Off...</title>
+		<desc>...for Stand Up To Cancer: Greg James, Fern Brady, Spice Girl Mel B and Dermot O'Leary take on iced buns, a family classic and a celebrity doppelgänger in biscuit form.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="E4" start="20251209210000 +0000" stop="20251209220000 +0000">
+		<title>Gogglebox</title>
+		<desc>Great Expectations and Rise and Fall are on the box this time. And Wild Isles, Tempting Fortune, Married at First Sight Australia and Dance 100. (S21 Ep6)</desc>
+		<icon src="https://ic.c4assets.com/brands/gogglebox/series-21/episode-6/8111d253-6153-4071-9c7f-3927b680a875.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="E4" start="20251209220000 +0000" stop="20251209230500 +0000">
+		<title>New: Dating Naked UK</title>
+		<desc>Brand new series - The Naked Newbie: Radical dating show presented by Rylan Clark. Heads are turned as a new naked arrival upsets the singletons' budding connections (S1 Ep2)</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="E4" start="20251209230500 +0000" stop="20251210000500 +0000">
+		<title>Naked Attraction</title>
+		<desc>Zoe is struggling to find someone who shares her enthusiasm for the natural look. Derry is worried that his jet-set lifestyle is ruining his chances of finding love. (S4 Ep2)</desc>
+		<icon src="https://ic.c4assets.com/brands/naked-attraction/series-3/episode-6/4fea7199-c143-4d20-942b-ffa4430edd90.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="E4" start="20251210000500 +0000" stop="20251210003500 +0000">
+		<title>The Big Bang Theory</title>
+		<desc>The Thanksgiving Decoupling: Howard takes the gang to his mother's house for Thanksgiving to protect himself from his grumpy father-in-law who has also been invited. (S7 Ep9)</desc>
+		<icon src="https://ic.c4assets.com/brands/the-big-bang-theory/series-7/episode-9/6dfc379b-3a4d-45c4-95d7-c5208652ecd4.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="E4" start="20251210003500 +0000" stop="20251210010000 +0000">
+		<title>The Big Bang Theory</title>
+		<desc>The Discovery Dissipation: Sheldon feels guilty when he gets attention for his accidental discovery of a new element. Raj stays with Howard and Bernadette for a week. (S7 Ep10)</desc>
+		<icon src="https://ic.c4assets.com/brands/the-big-bang-theory/series-7/episode-10/c7ceb393-b7f8-4850-8662-e1e70df39980.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="E4" start="20251210010000 +0000" stop="20251210020500 +0000">
+		<title>First Dates</title>
+		<desc>Dental nurse Jade hopes to get her teeth into a tall alpha male. She meets strapping, handsome tree surgeon Tom. And female sumo wrestler Sharran dates ex-bingo-caller David. (S10 Ep4)</desc>
+		<icon src="https://ic.c4assets.com/brands/first-dates/series-10/episode-8/f916430e-902c-4d85-8e0b-6f0ebcf25320.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="E4" start="20251210020500 +0000" stop="20251210023000 +0000">
+		<title>The Simpsons</title>
+		<desc>Lisa the Tree Hugger: A dramatic rooftop protest at Krusty Burger inspires Lisa to become an eco-radical - especially when she sees how cute one of the protestors is... (S12 Ep4/21)</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="E4" start="20251210023000 +0000" stop="20251210025500 +0000">
+		<title>Young Sheldon</title>
+		<desc>A Race of Superhumans and a Letter to Alf: Sheldon agrees to help Missy with her maths homework. Georgie joins a bible study group to get closer to Veronica. (S2 Ep11/22)</desc>
+		<icon src="https://ic.c4assets.com/brands/young-sheldon/series-2/episode-11/89a96f1d-4904-41c2-8db5-eecd8aff3512.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="E4" start="20251210025500 +0000" stop="20251210032000 +0000">
+		<title>Young Sheldon</title>
+		<desc>A Tummy Ache and a Whale of a Metaphor: Sheldon spends some days in hospital, but he's the world's worst patient and his behaviour takes a toll on everyone. (S2 Ep12/22)</desc>
+		<icon src="https://ic.c4assets.com/brands/young-sheldon/series-2/episode-12/30b5b9fb-e72e-4dd6-bd78-cde377460e37.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="E4" start="20251210032000 +0000" stop="20251210034500 +0000">
+		<title>Modern Family</title>
+		<desc>Can't Elope: Haley and Dylan's plan to quietly elope before the babies are born does not go as hoped. Jay tries to get his new business off the ground by courting an Insta celeb. (S10 Ep20)</desc>
+		<icon src="https://ic.c4assets.com/brands/modern-family/series-10/episode-20/c01bf1ab-33ce-457d-82e5-9f52dcccf313.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="E4" start="20251210034500 +0000" stop="20251210041000 +0000">
+		<title>The Goldbergs</title>
+		<desc>Livin' on a Prayer: Murray is feted by his old high school for his sporting prowess. Barry throws a party to impress his friends while his parents are away. (S1 Ep23)</desc>
+		<icon src="https://ic.c4assets.com/vps/the-goldbergs/87d0a460-39f3-4836-b46a-458e0361ef5c.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="E4" start="20251210041000 +0000" stop="20251210043500 +0000">
+		<title>The Goldbergs</title>
+		<desc>Love Is a Mix Tape: Adam tries to express his feelings for Dana by making her a mix tape, but disaster strikes when the tape falls into Beverly's hands. (S2 Ep1)</desc>
+		<icon src="https://ic.c4assets.com/vps/the-goldbergs/bf989e96-f8b9-4020-88d1-8409d818eb05.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="E4" start="20251210043500 +0000" stop="20251210050000 +0000">
+		<title>The Neighborhood</title>
+		<desc>Welcome to the Future: Calvin and Marty struggle to secure investment in their new business. Gemma's annoyed when Dave invites his boss to Grover's 13th birthday party. (S5 Ep18)</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="E4" start="20251210050000 +0000" stop="20251210052500 +0000">
+		<title>The Neighborhood</title>
+		<desc>Welcome to the New Do: When her usual stylist isn't available, Gemma decides to use Tina's hairdresser for an important work event. (S5 Ep19)</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="E4" start="20251210052500 +0000" stop="20251210060000 +0000">
+		<title>The Big Bang Theory</title>
+		<desc>The Thanksgiving Decoupling: Howard takes the gang to his mother's house for Thanksgiving to protect himself from his grumpy father-in-law who has also been invited. (S7 Ep9)</desc>
+		<icon src="https://ic.c4assets.com/brands/the-big-bang-theory/series-7/episode-9/6dfc379b-3a4d-45c4-95d7-c5208652ecd4.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="M4" start="20251203085500 +0000" stop="20251203100000 +0000">
 		<title>Escape to the Chateau at Christmas</title>
@@ -3449,50 +3324,130 @@
 		<desc>This special episode looks back at some favourite choc-based investigations from the Food Unwrapped archives, from dark and white chocolate to the gooey bit in After Eights.</desc>
 		<icon src="https://ic.c4assets.com/brands/food-unwrapped/series-8/episode-28/9f80c1a0-62c7-4b91-828c-c53bcf2e2940.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="F4" start="20251202110000 +0000" stop="20251202125000 +0000">
-		<title>Arizona Raiders</title>
-		<desc>(1965) William Whitney's brutal western. Two former Confederate rebels are offered their freedom if they can track, catch or even kill their former gang mates. Starring Audie Murphy.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="F4" start="20251202125000 +0000" stop="20251202150000 +0000">
-		<title>Cover Girl</title>
-		<desc>(1944) Rita Hayworth and Gene Kelly star in Charles Vidor's Technicolor comedy musical about a chorus girl's rise to fame. Featuring songs and a score from Jerome Kern and Ira Gershwin.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="F4" start="20251202150000 +0000" stop="20251202170500 +0000">
-		<title>Gift Horse</title>
-		<desc>(1952) War drama. Trevor Howard plays the captain of an ageing US warship, gifted to the British navy, which is chosen to lead the raid on Saint-Nazaire in 1942. With Richard Attenborough.</desc>
-		<icon src="https://ic.c4assets.com/vps/the-gift-horse/d4c22cbf-0b23-4c7b-99a8-81c5382609ad.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="F4" start="20251202170500 +0000" stop="20251202184500 +0000">
-		<title>The Moonraker</title>
-		<desc>(1958) Romantic thriller. George Baker stars as a heroic Cavalier horseman, beating off the Roundhead foe as he single-handedly smuggles the country's aristocracy to safety in France.</desc>
-		<icon src="https://ic.c4assets.com/vps/the-moonraker/29581183-3367-4cdb-ae0f-0a2060044811.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="F4" start="20251202184500 +0000" stop="20251202210000 +0000">
-		<title>Instant Family</title>
-		<desc>(2018) Comedy. Mark Wahlberg and Rose Byrne star as a couple whose orderly lives are disrupted when they foster three kids. Based on director Sean Anders' own experience.</desc>
-		<icon src="https://ic.c4assets.com/vps/instant-family/d02224d1-755d-4abc-803d-c992b8fd2212.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="F4" start="20251202210000 +0000" stop="20251202224500 +0000">
-		<title>Transporter 2</title>
-		<desc>(2005) Violent action-thriller starring Jason Statham as the tough courier Frank Martin, who's hired to guard a government drugs czar's son. But his mission soon lurches towards disaster.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="F4" start="20251202224500 +0000" stop="20251203015000 +0000">
-		<title>Inglourious Basterds</title>
-		<desc>(2009) Quentin Tarantino's World War II action-adventure. Jewish American soldiers go Nazi-hunting in occupied France. With Brad Pitt, Diane Kruger, Christoph Waltz and Michael Fassbender.</desc>
-		<icon src="https://ic.c4assets.com/vps/inglourious-basterds-2009/39778B87-776E-4AAE-ACFBA4632063BB09.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="F4" start="20251203015000 +0000" stop="20251203034500 +0000">
-		<title>A Private Function</title>
-		<desc>(1984) Michael Palin and Maggie Smith star in Alan Bennett's comedy set in food-rationed post-war Britain. In 1947, an illegally owned pig is secretly being fattened for a royal feast.</desc>
-		<icon src="https://ic.c4assets.com/vps/private-function-a/DD49F6C7-0F75-4691-831544AC629EFEB5.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="F4" start="20251203034500 +0000" stop="20251203110000 +0000">
+	<programme channel="M4" start="20251209035000 +0000" stop="20251209085500 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
-		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/150px-Film4_logo_2018.svg.png" />
+		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/More4_logo_2018.svg/200px-More4_logo_2018.svg.png" />
+	</programme>
+	<programme channel="M4" start="20251209085500 +0000" stop="20251209100000 +0000">
+		<title>Chateau DIY</title>
+		<desc>Nick and Nicole hope to create a little bit of magic with a Narnia-inspired secret doorway. Chateau shoppers Lucy and Tim begin their fairytale quest to find the perfect chateau. (S5 Ep8)</desc>
+		<icon src="https://ic.c4assets.com/vps/chateau-diy-series-8/AA46F844-51F9-421C-B9DE220B7B331C05.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="M4" start="20251209100000 +0000" stop="20251209110000 +0000">
+		<title>Chateau DIY</title>
+		<desc>Ben and Vanessa take plastering to new heights with their handmade ceiling frescos. And it's decision time for Lucy and Tim... which chateau will become their forever home? (S5 Ep9)</desc>
+		<icon src="https://ic.c4assets.com/vps/chateau-diy-series-8/E00DC268-6220-46C9-A8B3954338BB6F24.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="M4" start="20251209110000 +0000" stop="20251209120000 +0000">
+		<title>The Great House Giveaway</title>
+		<desc>In Halifax, Nikkola and Duane set out to fix up an old stone terrace with stunning views, but soon get stuck between a rock and a hard place... (S5 Ep11)</desc>
+		<icon src="https://ic.c4assets.com/vps/the-great-house-giveaway-series-3/39C55978-5232-4261-8837A6BF2BB0FE9B.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="M4" start="20251209120000 +0000" stop="20251209130500 +0000">
+		<title>The Great House Giveaway</title>
+		<desc>In Clynderwen, Ffion and Georgia fix up a terrace that's still full of stuff when they get the keys. Can they make a profit in a volatile market? (S5 Ep7)</desc>
+		<icon src="https://ic.c4assets.com/vps/the-great-house-giveaway-series-3/7EE7B6DF-466C-4796-9EB5CBCF49C98344.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="M4" start="20251209130500 +0000" stop="20251209133500 +0000">
+		<title>A Place in the Sun</title>
+		<desc>Maria and Paul dream of owning a home away from home among the Andalusian countryside, to escape the English winters. Can Craig Rowe find 'the one' for their budget of £270k?</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="M4" start="20251209133500 +0000" stop="20251209144000 +0000">
+		<title>A Place in the Sun</title>
+		<desc>Newly engaged couple Lyndsey and Paul from Glasgow want to kick-start the next chapter of their lives together by buying a family holiday home in the beautiful Spanish area around Oliva.</desc>
+		<icon src="https://ic.c4assets.com/vps/a-place-in-the-sun/b575826b-0e0f-4c5c-9235-5adb1280550b.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="M4" start="20251209144000 +0000" stop="20251209151000 +0000">
+		<title>Come Dine with Me</title>
+		<desc>South London. The first host, security guard Michelle, serves a 'pineapple paradise' and her first attempt at a vegan meal. Will there be more dystopian dishes than blissful bites? (Ep1/5)</desc>
+		<icon src="https://ic.c4assets.com/brands/come-dine-with-me/series-46/episode-42/87a6d4fc-7ce5-479a-a567-37a15941bbb6.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="M4" start="20251209151000 +0000" stop="20251209154000 +0000">
+		<title>Come Dine with Me</title>
+		<desc>South London. Mike oozes confidence as he treats his guests to Caribbean food in full Elvis get-up. But will there be suspicious minds when he serves up shop-bought ice cream? (Ep2/5)</desc>
+		<icon src="https://ic.c4assets.com/brands/come-dine-with-me/series-46/episode-43/aefbdb17-9c21-4bc8-8ee6-d846bc710772.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="M4" start="20251209154000 +0000" stop="20251209161000 +0000">
+		<title>Come Dine with Me</title>
+		<desc>South London. Staar hopes to chill her guests out with meditation, crystals and a vegan menu. Can her earth mother vibes win them over, or will they remain confirmed carnivores? (Ep3/5)</desc>
+		<icon src="https://ic.c4assets.com/brands/come-dine-with-me/series-46/episode-44/8d7d0b8a-6fc9-48a1-812f-b605a3f1b1e6.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="M4" start="20251209161000 +0000" stop="20251209164000 +0000">
+		<title>Come Dine with Me</title>
+		<desc>South London. Super-organised Nesha goes all out with an authentic Jamaican menu and a classy-but-sexy dress code. She's bigged herself up all week but can she deliver on the night? (Ep4/5)</desc>
+		<icon src="https://ic.c4assets.com/brands/come-dine-with-me/series-46/episode-45/49b384ee-812b-4e6b-b890-2d0acae2ca13.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="M4" start="20251209164000 +0000" stop="20251209171500 +0000">
+		<title>Come Dine with Me</title>
+		<desc>South London. Events manager Rory tops off the week with an Asian-themed menu. Decked out in his finery, he pulls out all the stops, but will a dessert disaster scupper his chances? (Ep5/5)</desc>
+		<icon src="https://ic.c4assets.com/brands/come-dine-with-me/series-46/episode-46/2115ffcc-3909-4de1-a375-fac3da3f9c75.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="M4" start="20251209171500 +0000" stop="20251209175000 +0000">
+		<title>Four in a Bed</title>
+		<desc>The competition moves to France, where four sets of Brits compete to be crowned best value B&amp;B. First host Lisanne Ashton hopes to impress with her rustic rural guest house, Les Chimeres.</desc>
+		<icon src="https://ic.c4assets.com/vps/four-in-a-bed/59651473-5976-4ba1-8375-1a5bdf7a2d5d.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="M4" start="20251209175000 +0000" stop="20251209182000 +0000">
+		<title>Four in a Bed</title>
+		<desc>In France, eccentric royalist Tony Horton and his Armenian wife Shou Shou provide an unusual mix of vinegar tasting and royal regalia at Le Manoir in the Dordogne.</desc>
+		<icon src="https://ic.c4assets.com/vps/four-in-a-bed/59651473-5976-4ba1-8375-1a5bdf7a2d5d.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="M4" start="20251209182000 +0000" stop="20251209185500 +0000">
+		<title>Four in a Bed</title>
+		<desc>In France, Shaun Baggs and his partner Patrick Weaver host at Le Clos Rabelais. There are high kicks, low blows and some unfavourable feedback.</desc>
+		<icon src="https://ic.c4assets.com/vps/four-in-a-bed/59651473-5976-4ba1-8375-1a5bdf7a2d5d.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="M4" start="20251209185500 +0000" stop="20251209192500 +0000">
+		<title>Four in a Bed</title>
+		<desc>George and Linda offer their guests 'a little slice of England' at the Moulin de la Civiere in Brittany, where one guest goes potty for the Victorian loos.</desc>
+		<icon src="https://ic.c4assets.com/vps/four-in-a-bed/59651473-5976-4ba1-8375-1a5bdf7a2d5d.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="M4" start="20251209192500 +0000" stop="20251209195500 +0000">
+		<title>Four in a Bed</title>
+		<desc>It's the final day in France. Tensions run high as the B&amp;Bers discover how much they've been paid and settle some scores, before the winner is revealed.</desc>
+		<icon src="https://ic.c4assets.com/vps/four-in-a-bed/59651473-5976-4ba1-8375-1a5bdf7a2d5d.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="M4" start="20251209195500 +0000" stop="20251209210000 +0000">
+		<title>Grand Designs</title>
+		<desc>Tom and Danielle use their steam-bending skills to build a wavy wooden house full of twisty furniture in Cornwall. But with a relatively modest budget, have they taken on too much?</desc>
+		<icon src="https://ic.c4assets.com/vps/grand-designs/45ce6507-da99-4a70-946b-d27c32203cbd.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="M4" start="20251209210000 +0000" stop="20251209220000 +0000">
+		<title>Our Farm Next Door: Amanda,...</title>
+		<desc>...Clive and Kids: Builder Richard grapples with ceiling beams, while the new pet goats are causing chaos. And for the first time in over a year, Anty John's is scaffolding free. (S2 Ep2)</desc>
+		<icon src="https://ic.c4assets.com/vps/amanda-owen-our-farm-next-door/DBDD4AD4-7F0B-4C0F-B30FE9D8B7FB3426.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="M4" start="20251209220000 +0000" stop="20251209230500 +0000">
+		<title>Our Tiny Islands</title>
+		<desc>This episode peeks at Rathlin Island's puffins in Northern Ireland, explores Easdale's slate-sprinkled shores in Scotland, and samples Bardsey's spiritual solace in Wales. (Ep2/4)</desc>
+		<icon src="https://ic.c4assets.com/vps/our-tiny-islands/D668F757-5AA4-4016-95AFA4DBAD4A001D.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="M4" start="20251209230500 +0000" stop="20251210001000 +0000">
+		<title>24 Hours in A&amp;E</title>
+		<desc>Lawrence, who's 26, has been thrown 15 feet after being hit by a car. Angela, who's 63, was attacked by one of her cats as she shouted at a fox in her garden. (S10 Ep5/24)</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="M4" start="20251210001000 +0000" stop="20251210011500 +0000">
+		<title>Our Farm Next Door: Amanda,...</title>
+		<desc>...Clive and Kids: Builder Richard grapples with ceiling beams, while the new pet goats are causing chaos. And for the first time in over a year, Anty John's is scaffolding free. (S2 Ep2)</desc>
+		<icon src="https://ic.c4assets.com/vps/amanda-owen-our-farm-next-door/DBDD4AD4-7F0B-4C0F-B30FE9D8B7FB3426.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="M4" start="20251210011500 +0000" stop="20251210022000 +0000">
+		<title>24 Hours in A&amp;E</title>
+		<desc>Lawrence, who's 26, has been thrown 15 feet after being hit by a car. Angela, who's 63, was attacked by one of her cats as she shouted at a fox in her garden. (S10 Ep5/24)</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="M4" start="20251210022000 +0000" stop="20251210032500 +0000">
+		<title>24 Hours in A&amp;E</title>
+		<desc>Josh, who's 10, arrives at A&amp;E after an accident at school, unaware that his finger was cut off in the incident. Doctors must work out how to reattach it, and how to tell him. (S10 Ep6/24)</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="M4" start="20251210032500 +0000" stop="20251210035500 +0000">
+		<title>Food Unwrapped</title>
+		<desc>The team explore how the UK food industry is meeting the challenges of climate change - from cucumber wrapping and pumpkins at Halloween to beef production and meat substitutes. (S21 Ep1)</desc>
+		<icon src="https://ic.c4assets.com/brands/food-unwrapped/series-17/episode-1/28a9779d-daa9-4611-9af1-e4f58cad0676.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20251203110000 +0000" stop="20251203124000 +0000">
 		<title>Hangman's Knot</title>
@@ -3784,125 +3739,45 @@
 		<desc>(1982) British Connection. Michael Palin stars as a clergyman who returns from ten years in Africa in 1906 and has to find funding for a Mission for Fallen Women in London.</desc>
 		<icon src="https://ic.c4assets.com/vps/missionary-the/5E936F34-0D13-4A3D-95810D871129819D.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="4S" start="20251202090000 +0000" stop="20251202100000 +0000">
-		<title>American Pickers</title>
-		<desc>Grudge Match: It's Frank versus Mike as the guys take to the track for a grudge match drag race to find out who has the fastest ride. (S12 Ep12)</desc>
-		<icon src="https://ic.c4assets.com/vps/american-pickers-yr-12---grudge-match/B9D019C9-E11D-40FB-85AA93538002987F.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4S" start="20251202100000 +0000" stop="20251202110000 +0000">
-		<title>A Place in the Sun</title>
-		<desc>Mother and daughter Emma and Charlotte have £100,000 to spend on a Spanish holiday home in Antequera, where they plan to spend time as a family. Jasmine Harman lines up five top properties.</desc>
-		<icon src="https://ic.c4assets.com/brands/a-place-in-the-sun-2018-2019/series-1/episode-17/d8cc9330-0d61-4d31-8e5a-7da25c244db1.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4S" start="20251202110000 +0000" stop="20251202120000 +0000">
-		<title>A Place in the Sun</title>
-		<desc>John and Debbie are dreaming of a two-bedroom home that could one day become their permanent residence on the Costa Cálida in Spain. Lucy Alexander shows them what their money can buy.</desc>
-		<icon src="https://ic.c4assets.com/brands/a-place-in-the-sun/series-17/episode-21/dcb65575-f761-4078-8cdc-e7ff4e5c91a5.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4S" start="20251202120000 +0000" stop="20251202123000 +0000">
-		<title>Come Dine with Me</title>
-		<desc>East London. First to host is young-at-heart 59-year-old nightclub owner Vicki Pengilley. She hopes to win her guests over with a traditional roast dinner. (Ep1/5)</desc>
-		<icon src="https://ic.c4assets.com/vps/come-dine-with-me/a4364c8e-7259-49a9-b7ee-1e509e993904.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4S" start="20251202123000 +0000" stop="20251202130000 +0000">
-		<title>Come Dine with Me</title>
-		<desc>East London. City boy Ryan Waters is determined to win over his fellow contestants with a 'caveman diet'. Will Ryan's prehistoric menu prove a hit with his guests? (Ep2/5)</desc>
-		<icon src="https://ic.c4assets.com/vps/come-dine-with-me/a4364c8e-7259-49a9-b7ee-1e509e993904.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4S" start="20251202130000 +0000" stop="20251202133000 +0000">
-		<title>Come Dine with Me</title>
-		<desc>East London. Vintage clothes magnate and burlesque impresario Timothy Sanderson is determined to raise the stakes. But how will his fancy menu of scallops and venison fare? (Ep3/5)</desc>
-		<icon src="https://ic.c4assets.com/vps/come-dine-with-me/a4364c8e-7259-49a9-b7ee-1e509e993904.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4S" start="20251202133000 +0000" stop="20251202140000 +0000">
-		<title>Come Dine with Me</title>
-		<desc>East London. Designer Sarah Angold hopes to win by simply spending as much time as possible with her guests. But as she's already upset everyone, her plan might not work. (Ep4/5)</desc>
-		<icon src="https://ic.c4assets.com/vps/come-dine-with-me/a4364c8e-7259-49a9-b7ee-1e509e993904.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4S" start="20251202140000 +0000" stop="20251202143000 +0000">
-		<title>Come Dine with Me</title>
-		<desc>East London. On the last night, New Yorker January Jones-Omatajo attempts to win the £1000 prize with a US soul food-inspired menu. But her apple pie proves to be expensive. (Ep5/5)</desc>
-		<icon src="https://ic.c4assets.com/vps/come-dine-with-me/a4364c8e-7259-49a9-b7ee-1e509e993904.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4S" start="20251202143000 +0000" stop="20251202150000 +0000">
-		<title>Kirstie and Phil's Love It or...</title>
-		<desc>...List It: Brilliant Builds: The duo look back on one of their best budget-stretching renovations: a not-so-done-up Shropshire terrace. Did Kirstie's plan make the most of a small budget?</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4S" start="20251202150000 +0000" stop="20251202160000 +0000">
-		<title>Kirstie's Handmade Christmas</title>
-		<desc>Kirstie Allsopp brings the cheer with a wealth of joyful Christmas creations, and gives Festive HQ a glow-up. But which of her crafty helpers' decorations will be the star of her display?</desc>
-		<icon src="https://ic.c4assets.com/brands/kirsties-handmade-christmas/series-1016/episode-1/3465479c-4205-46d8-ba5b-6cb1644553d5.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4S" start="20251202160000 +0000" stop="20251202170000 +0000">
-		<title>The Great B&amp;B Challenge</title>
-		<desc>The second heat week begins. Just hours before their first guests arrive, three new couples take the keys to the properties that they'll run as B&amp;Bs. (Ep6)</desc>
-		<icon src="https://ic.c4assets.com/vps/a-new-life-in-the-sun-win-a-bnb/F9B89298-EC9B-4BA1-AA0142C12BC741C7.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4S" start="20251202170000 +0000" stop="20251202180000 +0000">
-		<title>A Place in the Sun</title>
-		<desc>Laura Hamilton helps Jan and her son Jordan find a holiday home near the thriving town of La Duquesa. Are any of Laura's options perfect enough for Jan to put in an offer?</desc>
-		<icon src="https://ic.c4assets.com/vps/a-place-in-the-sun-2023---la-duquesa/55BB5E6B-2C82-4306-869F184EE26A31D1.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4S" start="20251202180000 +0000" stop="20251202190000 +0000">
-		<title>Kirstie and Phil's Love It or...</title>
-		<desc>...List It: Kirstie Allsopp and Phil Spencer help a couple on the outskirts of Leeds. Karl loves their home's idyllic location, but Paul finds it too isolated and wants to move. (S3 Ep7/7)</desc>
-		<icon src="https://ic.c4assets.com/vps/kirstie-and-phils-love-it-or-list-it/9c4f40ec-7e2e-4969-930f-1626f044106e.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4S" start="20251202190000 +0000" stop="20251202200000 +0000">
-		<title>A Very British Hotel at Christmas</title>
-		<desc>An exclusive peek behind the scenes at Brown's, London's oldest luxury hotel, as it gears up for its busiest and most magical season.</desc>
-		<icon src="https://ic.c4assets.com/vps/a-very-british-hotel-at-christmas/E24E3625-103C-47C3-8CBAB37633EB7711.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4S" start="20251202200000 +0000" stop="20251202210000 +0000">
-		<title>Inside the World's Most...</title>
-		<desc>...Luxurious Yachts: A voyage behind the scenes of the status-symbol superyachts belonging to some of the world's wealthiest movers and shakers, from Monaco to the Netherlands. (S1 Ep3)</desc>
-		<icon src="https://ic.c4assets.com/vps/world-s-most-luxurious.../2E38924B-901F-42F0-9B412FB5F025CBB8.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4S" start="20251202210000 +0000" stop="20251202220000 +0000">
-		<title>24 Hours in A&amp;E</title>
-		<desc>Heather, who's 65, is rushed to Queen's after collapsing in the park. Long-serving member of the team Deanna speaks of her previous struggles with addiction. (S34 Ep4)</desc>
-		<icon src="https://ic.c4assets.com/vps/24-hours-in-a-e-nottingham/1258EE48-B6CE-4AF3-8CB8C5E2CF7FF34C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4S" start="20251202220000 +0000" stop="20251202230500 +0000">
-		<title>Emergency Helicopter Medics</title>
-		<desc>Air ambulance medics race to help a teen with major brain injury after a car collision. And 10-year-old Jack is confused and nauseous from a bang on the head. (S5 Ep5)</desc>
-		<icon src="https://ic.c4assets.com/vps/helicopter-medics-series-5/1F5FAB53-0288-4A3C-B125DB46CDCA7131.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4S" start="20251202230500 +0000" stop="20251203000500 +0000">
-		<title>Celebrity Gogglebox</title>
-		<desc>The celebs spend time on the sofa with George Clarke's Amazing Spaces, Swamp People: Serpent Invasion, The Woman in Black and the general election. (S6 Ep6)</desc>
-		<icon src="https://ic.c4assets.com/vps/celebrity-gogglebox-series-6/3B93B20C-0B00-4515-B2C13B826B0A7AB4.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4S" start="20251203000500 +0000" stop="20251203011000 +0000">
-		<title>Gogglebox</title>
-		<desc>The series continues with Stranger Things, Strictly, Celebrity Scam Interceptors, Malice, Songs of Praise, CBeebies Bedtime Stories and Animals on Drugs. (S26 Ep13)</desc>
-		<icon src="https://ic.c4assets.com/vps/gogglebox-series-26/EB1D42B9-926F-4072-9CBB3256604DED8E.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4S" start="20251203011000 +0000" stop="20251203021000 +0000">
-		<title>Cancer Detectives: Finding the...</title>
-		<desc>...Cures: Trailblazing scientists are taking on cancer. Neurosurgeon Richard Mair hopes to create a world-first trial helping, and even saving, people with deadly brain cancer. (Ep2/3)</desc>
-		<icon src="https://ic.c4assets.com/vps/curing-cancer/A078E4CA-9D8B-45C8-887CCE8757DEF654.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4S" start="20251203021000 +0000" stop="20251203031500 +0000">
-		<title>Game of Wool: Britain's Best...</title>
-		<desc>...Knitter: For Texture Week the knitters are challenged to create the ultimate slouchy cardigan, and ultra-realistic amigurumi food so lifelike that it looks good enough to eat. (Ep5)</desc>
-		<icon src="https://ic.c4assets.com/vps/the-game-of-wool/0276448B-EB55-49DC-817E10A28864CF5B.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4S" start="20251203031500 +0000" stop="20251203041000 +0000">
-		<title>The Great Celebrity Bake Off...</title>
-		<desc>...for Stand Up To Cancer: Jodie Whittaker, Paloma Faith, Munya Chawawa and Spencer Matthews recreate Prue and Paul in biscuit form, and make cake pops and a twisted New York favourite.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4S" start="20251203041000 +0000" stop="20251203044000 +0000">
-		<title>Jamie Cooks Christmas</title>
-		<desc>Jamie Oliver prepares a zingy smoked trout pâté with red cabbage slaw and a giant Yorkshire pudding, and creates a veggie extravaganza with his cracking Christmas cauliflower lasagne.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4S" start="20251203044000 +0000" stop="20251203090000 +0000">
+	<programme channel="F4" start="20251209033500 +0000" stop="20251209110000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
-		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/4seven_logo_2018.svg/130px-4seven_logo_2018.svg.png" />
+		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/150px-Film4_logo_2018.svg.png" />
+	</programme>
+	<programme channel="F4" start="20251209110000 +0000" stop="20251209131000 +0000">
+		<title>The Wrong Box</title>
+		<desc>(1966) Dark comedy with John Mills, Ralph Richardson and Michael Caine. Two brothers clash over money that their parents left to their last surviving child, with chaotic consequences.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20251209131000 +0000" stop="20251209163000 +0000">
+		<title>Far from the Madding Crowd</title>
+		<desc>(1967) Julie Christie and Terence Stamp star in John Schlesinger's adaptation of Thomas Hardy's novel. Bathsheba is not short of suitors, but will marrying any of them lead to happiness?</desc>
+		<icon src="https://ic.c4assets.com/vps/far-from-the-madding-crowd/4fb0874c-7879-40e9-9556-7007ce03d7dc.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20251209163000 +0000" stop="20251209184500 +0000">
+		<title>All the King's Men</title>
+		<desc>(1949) Drama with John Ireland. A local politician begins to lust for the kind of power he used to hold to account. He should be careful how he treats people on the way to the top...</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20251209184500 +0000" stop="20251209210000 +0000">
+		<title>Cowboys &amp; Aliens</title>
+		<desc>(2011) Sci-fi western starring Daniel Craig and Harrison Ford. A brutal cattle baron and his amnesiac enemy must cease their feuding when a town is attacked by aliens.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20251209210000 +0000" stop="20251209230500 +0000">
+		<title>Transporter 3</title>
+		<desc>(2008) Violent action-thriller with Jason Statham. Terrorists hire a courier to drive a kidnapped woman across Europe, on a journey that gets ever more dangerous.</desc>
+		<icon src="https://ic.c4assets.com/vps/transporter-3/317F20A6-767D-48D2-83346674B938436C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20251209230500 +0000" stop="20251210012000 +0000">
+		<title>Meet the Fockers</title>
+		<desc>(2004) Comedy sequel. What happens when an ex-CIA prude and ageing, sexually liberated hippies become in-laws? Robert De Niro, Barbara Streisand and Dustin Hoffman show you what happens.</desc>
+		<icon src="https://ic.c4assets.com/vps/meet-the-fockers/5be027d1-1392-4a23-a7f8-34a53212a987.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20251210012000 +0000" stop="20251210033500 +0000">
+		<title>Official Competition</title>
+		<desc>(2021) Film-world satire with Penélope Cruz, Antonio Banderas and Oscar Martínez. A maverick film director hires actors she knows will hate each other. Is there method in her madness?</desc>
+		<icon src="https://ic.c4assets.com/vps/official-competition-2021/6EB18E8D-6AB1-4426-A8A817E1DFEC6241.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20251203090000 +0000" stop="20251203100000 +0000">
 		<title>American Pickers</title>
@@ -4589,140 +4464,125 @@
 		<desc>Family animation. The Thomas family's cat Mog is feeling ignored on Christmas Eve, so she decides to spend the night on the roof. With the voices of Benedict Cumberbatch and Claire Foy.</desc>
 		<icon src="https://ic.c4assets.com/vps/mogs-christmas/c01c0016-9cd7-4347-837c-89c99b9df894.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="4M" start="20251202070500 +0000" stop="20251202073000 +0000">
-		<title>The Goldbergs</title>
-		<desc>Push It: Things are finally working out for Adam, until he receives a letter from NYU which could change everything. (S10 Ep21)</desc>
-		<icon src="https://ic.c4assets.com/brands/the-goldbergs/series-10/episode-21/2ddcf994-8ad3-43f8-8d52-9ec91d832f29.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4M" start="20251202073000 +0000" stop="20251202080000 +0000">
-		<title>The Goldbergs</title>
-		<desc>Bev to the Future: When Adam takes Beverly to her high school reunion, he tries to prevent a reality where she winds up with the wrong man. (S10 Ep22)</desc>
-		<icon src="https://ic.c4assets.com/brands/the-goldbergs/series-10/episode-22/d1b2e49c-1ef1-464b-b571-4d1479c5c530.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4M" start="20251202080000 +0000" stop="20251202083000 +0000">
-		<title>How I Met Your Mother</title>
-		<desc>Platonish: The gang recall the evening six months earlier when Barney accepted a series of romantic challenges from Lily and Robin. Bryan Cranston guests. (S9 Ep9)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4M" start="20251202083000 +0000" stop="20251202090000 +0000">
-		<title>How I Met Your Mother</title>
-		<desc>Mom and Dad: Seeing his mother and father together for the first time in years, Barney becomes convinced that he can reunite them. John Lithgow guest stars. (S9 Ep10)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4M" start="20251202090000 +0000" stop="20251202093000 +0000">
-		<title>The Big Bang Theory</title>
-		<desc>The Inspiration Deprivation: Amy has a meltdown when she feels the pressure of what it would mean for women everywhere if she were to win a Nobel Prize. (S12 Ep19)</desc>
-		<icon src="https://ic.c4assets.com/brands/the-big-bang-theory/series-12/episode-19/8911b6a2-458a-4a07-b8a9-67cbc7e0f2d5.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4M" start="20251202093000 +0000" stop="20251202100000 +0000">
-		<title>The Big Bang Theory</title>
-		<desc>The Decision Reverberation: Raj publishes a paper that suggests he may have discovered alien life. Penny encourages Leonard to stand up for himself. (S12 Ep20)</desc>
-		<icon src="https://ic.c4assets.com/brands/the-big-bang-theory/series-12/episode-20/cdfc725c-5003-41e5-b692-f0a12c0c70ca.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4M" start="20251202100000 +0000" stop="20251202110000 +0000">
-		<title>Couples Come Dine with Me</title>
-		<desc>In Cambridgeshire, big kids Wizz and Luke host a children's party-themed night, Diana and Mark do fine dining, and Ed and Steve serve an enormous trifle. Mmmm, trifle.</desc>
-		<icon src="https://ic.c4assets.com/vps/couples-come-dine-with-me/409f39a4-d527-4a2a-bb5f-cd38d1b2d2b6.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4M" start="20251202110000 +0000" stop="20251202120000 +0000">
-		<title>Couples Come Dine with Me</title>
-		<desc>There's a budding bromance, a Bryan Adams tribute singer and some impromptu am dram performances, as three couples compete to host the best dinner party in Cheltenham.</desc>
-		<icon src="https://ic.c4assets.com/vps/couples-come-dine-with-me/409f39a4-d527-4a2a-bb5f-cd38d1b2d2b6.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4M" start="20251202120000 +0000" stop="20251202130000 +0000">
-		<title>Ramsay's Kitchen Nightmares USA</title>
-		<desc>Classic American: Best pals Colleen and Naomi bought Classic American in New York together, but their inexperience is pushing their friendship to the edge. Can Gordon help? (S4 Ep2)</desc>
-		<icon src="https://ic.c4assets.com/vps/ramsays-kitchen-nightmares-usa/45924705-1187-4819-9606-d9529670621d.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4M" start="20251202130000 +0000" stop="20251202140000 +0000">
-		<title>Don't Tell the Bride Ireland</title>
-		<desc>The Thomas Shelby Wannabe One: Jane wants a country house wedding extravaganza, but Colm chooses a 1920s-themed reception at a race track featuring gangsters, gambling and the Charleston.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4M" start="20251202140000 +0000" stop="20251202150000 +0000">
-		<title>Don't Tell the Bride</title>
-		<desc>The One with the Party Boy Groom: Reluctant Lee devises Las Vegas-style nuptials, but it's not the family church in Norfolk that his bride Anna had in mind.</desc>
-		<icon src="https://ic.c4assets.com/brands/dont-tell-the-bride/series-2018/episode-1/1c6f962b-1a41-43a6-ab3f-5ef011975ed8.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4M" start="20251202150000 +0000" stop="20251202160000 +0000">
-		<title>Undercover Boss USA</title>
-		<desc>Bryon Stephens, the president and chief operating officer of Marco's Pizza, goes incognito among his employees to assess how the firm and its franchises are faring. (S7 Ep7/12)</desc>
-		<icon src="https://ic.c4assets.com/brands/undercover-boss-usa/series-7/episode-7/33aa9b8b-5680-42ad-8f41-a61913c9cdf2.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4M" start="20251202160000 +0000" stop="20251202170000 +0000">
-		<title>Ramsay's Kitchen Nightmares USA</title>
-		<desc>Classic American: Best pals Colleen and Naomi bought Classic American in New York together, but their inexperience is pushing their friendship to the edge. Can Gordon help? (S4 Ep2)</desc>
-		<icon src="https://ic.c4assets.com/vps/ramsays-kitchen-nightmares-usa/45924705-1187-4819-9606-d9529670621d.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4M" start="20251202170000 +0000" stop="20251202180000 +0000">
-		<title>Ramsay's Kitchen Nightmares USA</title>
-		<desc>Davide: In Boston, Gordon Ramsay visits Davide, an Italian restaurant that's been run into the ground by brothers Frank and Anthony. Can they learn to trust each other again? (S4 Ep5)</desc>
-		<icon src="https://ic.c4assets.com/vps/ramsays-kitchen-nightmares-usa/45924705-1187-4819-9606-d9529670621d.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4M" start="20251202180000 +0000" stop="20251202190000 +0000">
-		<title>Ramsay's Kitchen Nightmares USA</title>
-		<desc>Gordon Returns 2: Gordon Ramsay revisits two restaurants - Giuseppi's and Sante La Brea - to find out whether his advice has been put to good use. (S3 Ep13)</desc>
-		<icon src="https://ic.c4assets.com/vps/ramsays-kitchen-nightmares-usa/689a5eaf-e09d-4874-925e-fa546a542c05.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4M" start="20251202190000 +0000" stop="20251202193000 +0000">
-		<title>The Big Bang Theory</title>
-		<desc>The Dumpling Paradox: When Howard seduces Penny's friend and spends the night with her in Penny's flat, Penny asks if she can sleep on Leonard and Sheldon's sofa. (S1 Ep7)</desc>
-		<icon src="https://ic.c4assets.com/brands/the-big-bang-theory/series-1/episode-7/68d12c77-6892-48f7-85c4-e7c1c0558fcf.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4M" start="20251202193000 +0000" stop="20251202200000 +0000">
-		<title>The Big Bang Theory</title>
-		<desc>The Grasshopper Experiment: Raj panics when his parents arrange a blind date for him. But he discovers that he can talk to her - after a few drinks. (S1 Ep8)</desc>
-		<icon src="https://ic.c4assets.com/brands/the-big-bang-theory/series-1/episode-8/a406ffea-bfbc-4da1-9aed-ae040fa8ca99.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4M" start="20251202200000 +0000" stop="20251202203000 +0000">
-		<title>The Big Bang Theory</title>
-		<desc>The Cooper-Hofstadter Polarization: Sheldon and Leonard fall out when they're asked to collaborate at a physics conference. Penny tries to help but just makes things worse. (S1 Ep9)</desc>
-		<icon src="https://ic.c4assets.com/brands/the-big-bang-theory/series-1/episode-9/24bbab7b-5774-4c4c-9907-2445438f8eac.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4M" start="20251202203000 +0000" stop="20251202210000 +0000">
-		<title>The Big Bang Theory</title>
-		<desc>The Loobenfeld Decay: Leonard and Sheldon each tell a lie to avoid going to see Penny singing on stage in a production of Rent, but Sheldon's fib gets out of control. (S1 Ep10)</desc>
-		<icon src="https://ic.c4assets.com/brands/the-big-bang-theory/series-1/episode-10/c3956261-7256-4965-b2e3-f7d5b4d36efc.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4M" start="20251202210000 +0000" stop="20251202220000 +0000">
-		<title>8 Out of 10 Cats Does Countdown...</title>
-		<desc>...Christmas Special: Jimmy Carr hosts as Jon Richardson and Catherine Tate take on Sean Lock and Joe Wilkinson. Joe Lycett joins Susie Dent in Dictionary Corner. With Rachel Riley.</desc>
-		<icon src="https://ic.c4assets.com/brands/8-out-of-10-cats-does-countdown/series-10/episode-8/1db525aa-dda2-4e87-a4a7-0f69e558a9b8.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4M" start="20251202220000 +0000" stop="20251202230000 +0000">
-		<title>Taskmaster</title>
-		<desc>Down an Octave: Can Frank Skinner, Josh Widdicombe, Roisin Conaty, Romesh Ranganathan and Tim Key fill an egg cup with tears or work out how to play 'Taskmaster squash'? (S1 Ep4/6)</desc>
-		<icon src="https://ic.c4assets.com/brands/taskmaster/series-1/episode-4/499e1f4d-dbad-4662-b514-669df9b8eb17.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4M" start="20251202230000 +0000" stop="20251202233500 +0000">
-		<title>The Inbetweeners</title>
-		<desc>The Fashion Show: It's the start of term and Carli is organising a charity fashion show. It's only for the cool kids, so our heroes aren't involved - until a last-minute hitch. (S3 Ep1/6)</desc>
-		<icon src="https://ic.c4assets.com/brands/the-inbetweeners/series-3/episode-1/b7897ea6-f7c7-4e99-9c14-70b33a3f74aa.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4M" start="20251202233500 +0000" stop="20251203000500 +0000">
-		<title>The Inbetweeners</title>
-		<desc>The Gig and the Girlfriend: To impress a girl in the year below, Simon attends his first concert since he saw Take That with his mum. But Will, Jay and Neil tag along too. (S3 Ep2/6)</desc>
-		<icon src="https://ic.c4assets.com/brands/the-inbetweeners/series-3/episode-2/7a62e53e-4536-4fcc-9983-0449a94567c4.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4M" start="20251203000500 +0000" stop="20251203010500 +0000">
-		<title>Ramsay's Kitchen Nightmares USA</title>
-		<desc>Davide: In Boston, Gordon Ramsay visits Davide, an Italian restaurant that's been run into the ground by brothers Frank and Anthony. Can they learn to trust each other again? (S4 Ep5)</desc>
-		<icon src="https://ic.c4assets.com/vps/ramsays-kitchen-nightmares-usa/45924705-1187-4819-9606-d9529670621d.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4M" start="20251203010500 +0000" stop="20251203021000 +0000">
-		<title>8 Out of 10 Cats Does Countdown...</title>
-		<desc>...Christmas Special: Jimmy Carr hosts as Jon Richardson and Catherine Tate take on Sean Lock and Joe Wilkinson. Joe Lycett joins Susie Dent in Dictionary Corner. With Rachel Riley.</desc>
-		<icon src="https://ic.c4assets.com/brands/8-out-of-10-cats-does-countdown/series-10/episode-8/1db525aa-dda2-4e87-a4a7-0f69e558a9b8.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4M" start="20251203021000 +0000" stop="20251203030000 +0000">
-		<title>Taskmaster</title>
-		<desc>Down an Octave: Can Frank Skinner, Josh Widdicombe, Roisin Conaty, Romesh Ranganathan and Tim Key fill an egg cup with tears or work out how to play 'Taskmaster squash'? (S1 Ep4/6)</desc>
-		<icon src="https://ic.c4assets.com/brands/taskmaster/series-1/episode-4/499e1f4d-dbad-4662-b514-669df9b8eb17.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4M" start="20251203030000 +0000" stop="20251203070500 +0000">
+	<programme channel="4S" start="20251209045000 +0000" stop="20251209090000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
-		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/E4_Extra_logo_2022.svg/220px-E4_Extra_logo_2022.svg.png" />
+		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/4seven_logo_2018.svg/130px-4seven_logo_2018.svg.png" />
+	</programme>
+	<programme channel="4S" start="20251209090000 +0000" stop="20251209100000 +0000">
+		<title>American Pickers</title>
+		<desc>The Superfan: Mike makes a big-league offer on an ultra-rare vintage Edison invention. And a mega stash of beer-related memorabilia stokes Frank's Oktoberfest mojo. (S14 Ep3)</desc>
+		<icon src="https://ic.c4assets.com/vps/american-pickers-yr-14---the-superfan/6B58DACC-6DCE-47E5-B7D0EA40F904F36B.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4S" start="20251209100000 +0000" stop="20251209110000 +0000">
+		<title>A Place in the Sun</title>
+		<desc>Angela and Steve from Leicestershire have visited Lanzarote over 100 times and are now looking for a holiday home in Playa Blanca. Jasmine Harman shows them five options for their £225k.</desc>
+		<icon src="https://ic.c4assets.com/brands/a-place-in-the-sun-2018-2019/series-1/episode-22/10b432c5-cf91-435f-85c9-7f834a2e3d75.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4S" start="20251209110000 +0000" stop="20251209120000 +0000">
+		<title>A Place in the Sun</title>
+		<desc>Retirees Liz and Tony want to escape the British winters and explore beautiful Mallorca. Can Jean Johannson find their perfect Balearic bolthole for their £190k budget?</desc>
+		<icon src="https://ic.c4assets.com/vps/a-place-in-the-sun-2022---south-west-palma-mallorca/6468C3E6-4E1F-4065-8A871DD575DA605A.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4S" start="20251209120000 +0000" stop="20251209123000 +0000">
+		<title>Come Dine with Me</title>
+		<desc>Birmingham. Self-proclaimed domestic goddess Lisa plans a menu straight from her Malaysian roots, albeit with a few shortcuts... (Ep1/5)</desc>
+		<icon src="https://ic.c4assets.com/vps/come-dine-with-me/b114766e-4892-47ad-af8a-b3a655748f77.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4S" start="20251209123000 +0000" stop="20251209130000 +0000">
+		<title>Come Dine with Me</title>
+		<desc>Birmingham. Enigmatic shopping channel producer Martha hopes that her vegan feast will educate - as well as entertain - her guests. But how will the lack of meat go down? (Ep2/5)</desc>
+		<icon src="https://ic.c4assets.com/vps/come-dine-with-me/b114766e-4892-47ad-af8a-b3a655748f77.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4S" start="20251209130000 +0000" stop="20251209133000 +0000">
+		<title>Come Dine with Me</title>
+		<desc>Birmingham. On night three, 46-year-old Mark plans a menu of classic comfort food. The smitten host is keen to impress guest Martha but forgets a key ingredient. (Ep3/5)</desc>
+		<icon src="https://ic.c4assets.com/vps/come-dine-with-me/b114766e-4892-47ad-af8a-b3a655748f77.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4S" start="20251209133000 +0000" stop="20251209140000 +0000">
+		<title>Come Dine with Me</title>
+		<desc>Birmingham. Youth worker Sonia serves up a selection of restaurant favourites - but are they restaurant quality? (Ep4/5)</desc>
+		<icon src="https://ic.c4assets.com/vps/come-dine-with-me/b114766e-4892-47ad-af8a-b3a655748f77.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4S" start="20251209140000 +0000" stop="20251209143000 +0000">
+		<title>Come Dine with Me</title>
+		<desc>Birmingham. Aquarium designer Akil hopes to make a splash on the final day with a homemade seafood tempura starter and sea bass and scallops for the main course. (Ep5/5)</desc>
+		<icon src="https://ic.c4assets.com/vps/come-dine-with-me/b114766e-4892-47ad-af8a-b3a655748f77.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4S" start="20251209143000 +0000" stop="20251209150000 +0000">
+		<title>Kirstie and Phil's Love It or...</title>
+		<desc>...List It: Brilliant Builds: Kirstie and Phil look back at Kathleen and Tom's three-bed Victorian semi in Newcastle, where chaos reigned and discipline was desperately needed. (S2 Ep3)</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4S" start="20251209150000 +0000" stop="20251209160000 +0000">
+		<title>Kirstie's Handmade Christmas</title>
+		<desc>It's knitting needles at the ready, as four top knitters compete in Kirstie's best Christmas jumper competition. Plus: a masterclass in Fair Isle and how to re-use ribbons. (S11 Ep4)</desc>
+		<icon src="https://ic.c4assets.com/brands/kirsties-handmade-christmas/series-1015/episode-4/e70a9445-affe-45af-983b-36a61d1f3330.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4S" start="20251209160000 +0000" stop="20251209170000 +0000">
+		<title>The Great B&amp;B Challenge</title>
+		<desc>It's finals week, and the first couple move into the prize B&amp;B to host some very important guests, while the other couples gather vital inspiration for their business plans. (Ep11)</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4S" start="20251209170000 +0000" stop="20251209180000 +0000">
+		<title>A Place in the Sun</title>
+		<desc>Fiona and Andy look for a dream holiday home in the sun-kissed town of Mojácar for their £210k budget. Will a beachfront bolthole with not one but four pools be the perfect place for them?</desc>
+		<icon src="https://ic.c4assets.com/vps/a-place-in-the-sun-2023---mojacar/57B7806C-9B01-4459-A50BDEB65446AD12.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4S" start="20251209180000 +0000" stop="20251209190000 +0000">
+		<title>Kirstie and Phil's Love It or...</title>
+		<desc>...List It: Kirstie Allsopp and Phil Spencer help the Clayton-Fisher family from Walthamstow, who can't decide whether to sell their two-bed terrace or convert the loft. (S3 Ep3/7)</desc>
+		<icon src="https://ic.c4assets.com/vps/kirstie-and-phils-love-it-or-list-it/9c4f40ec-7e2e-4969-930f-1626f044106e.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4S" start="20251209190000 +0000" stop="20251209200000 +0000">
+		<title>Kirstie's Handmade Christmas</title>
+		<desc>Kirstie Allsopp counts down to Christmas with some clever crafts and magnificent makes, kicking things off with her best cake decorating competition. (S11 Ep1)</desc>
+		<icon src="https://ic.c4assets.com/brands/kirsties-handmade-christmas/series-1015/episode-1/e7bc2d4a-d00a-467f-bf3a-2b9cb51282c4.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4S" start="20251209200000 +0000" stop="20251209210000 +0000">
+		<title>Jamie's Cook-Ahead Christmas</title>
+		<desc>Jamie Oliver shows us how to prep in advance so no one misses any festive fun! From gnarly gravy to savvy stuffing and flavoured butters, Jamie makes a freeze-ahead-of-time feast. (Ep1/2)</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4S" start="20251209210000 +0000" stop="20251209220000 +0000">
+		<title>24 Hours in A&amp;E</title>
+		<desc>Some of the most memorable stories from south London A&amp;Es, including part-time wrestlers Kieran and James, and 79-year-old Carole, who's confused and may have had a stroke.</desc>
+		<icon src="https://ic.c4assets.com/vps/24-hours-in-a-e/2EDA4B25-82FA-4601-839C8D5F83337C7F.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4S" start="20251209220000 +0000" stop="20251209230000 +0000">
+		<title>The Sycamore Gap Mystery </title>
+		<desc>This series goes inside a community in turmoil and inside the police hunt to solve the Sycamore Gap tree mystery - a crime of extraordinary vandalism that shocked Britain. (Ep1/2)</desc>
+		<icon src="https://ic.c4assets.com/vps/sycamore-gap-tree/5382B69C-9C64-4435-8CCC36E954944A4E.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4S" start="20251209230000 +0000" stop="20251210000500 +0000">
+		<title>The Sycamore Gap Mystery </title>
+		<desc>Inside the police hunt to solve the Sycamore Gap tree mystery. A breakthrough leads to the arrests of friends Adam Carruthers and Daniel Graham. (Ep2/2)</desc>
+		<icon src="https://ic.c4assets.com/vps/sycamore-gap-tree/94C5059F-9BB2-4440-928FF99CF7E86E20.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4S" start="20251210000500 +0000" stop="20251210010500 +0000">
+		<title>24 Hours in Police Custody</title>
+		<desc>A Family Vendetta (Part 1/2): The landmark series that captures real-life drama at its most intense, following police detectives around the clock as they investigate major crimes.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4S" start="20251210010500 +0000" stop="20251210020500 +0000">
+		<title>24 Hours in Police Custody</title>
+		<desc>A Family Vendetta (Part 2/2): The landmark series that captures real-life drama at its most intense, following police detectives around the clock as they investigate major crimes.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4S" start="20251210020500 +0000" stop="20251210030500 +0000">
+		<title>Emergency Helicopter Medics</title>
+		<desc>The medics help Penny, who has had an anaphylactic shock from a wasp sting, and motocross rider Carl, who's had an accident and has dislocated his hip. (S5 Ep7)</desc>
+		<icon src="https://ic.c4assets.com/vps/helicopter-medics-series-5/A8B25701-F96C-419B-B00D1B2DA87D2574.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4S" start="20251210030500 +0000" stop="20251210040000 +0000">
+		<title>Rescue: Extreme Medics</title>
+		<desc>The trauma team rush to help a man who's fallen headlong down a remote hillside. A woman has a serious chainsaw cut. And a motorcyclist has crashed at high speed on the motorway. (S2 Ep3)</desc>
+		<icon src="https://ic.c4assets.com/brands/rescue-extreme-medics/series-2/episode-3/990580bc-8d86-4eea-8d27-602f300287c1.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4S" start="20251210040000 +0000" stop="20251210050000 +0000">
+		<title>Cancer Detectives: Finding the...</title>
+		<desc>...Cures: Pioneering scientists take on cancer. Can Professor Caroline Dive detect microscopic amounts of cancer in a patient's blood and catch dangerous tumours early? (Ep3/3)</desc>
+		<icon src="https://ic.c4assets.com/vps/curing-cancer/4A510D1D-2BEF-40DB-B5D78B229C6B647D.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4M" start="20251203070500 +0000" stop="20251203073000 +0000">
 		<title>The Goldbergs</title>
@@ -5568,5 +5428,140 @@
 		<title>Taskmaster</title>
 		<desc>Comedy game show. Doc Brown, Joe Wilkinson, Jon Richardson, Katherine Ryan and Richard Osman tackle tricky tasks, including a potato hole-in-one that will go down in TV history. (S2 Ep1/5)</desc>
 		<icon src="https://ic.c4assets.com/brands/taskmaster/series-2/episode-1/7fd93c6f-d190-4a6c-953b-80f7fe77b7a5.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4M" start="20251209030000 +0000" stop="20251209070500 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/E4_Extra_logo_2022.svg/220px-E4_Extra_logo_2022.svg.png" />
+	</programme>
+	<programme channel="4M" start="20251209070500 +0000" stop="20251209073000 +0000">
+		<title>The Goldbergs</title>
+		<desc>Stop Arguing and Start Thanking: When Beverly invites Murray's unreliable brother Marvin to visit at Thanksgiving, she reignites their long-standing feud. (S1 Ep9)</desc>
+		<icon src="https://ic.c4assets.com/vps/the-goldbergs/e2e2b595-6706-4e06-ba1a-470d42dfd681.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4M" start="20251209073000 +0000" stop="20251209080000 +0000">
+		<title>The Goldbergs</title>
+		<desc>Shopping: Erica's new job at a department store is put in jeopardy when Beverly takes advantage of her daughter's employee discount far too frequently. (S1 Ep10)</desc>
+		<icon src="https://ic.c4assets.com/vps/the-goldbergs/5ec01022-6852-460d-9070-e0bc511cb308.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4M" start="20251209080000 +0000" stop="20251209083000 +0000">
+		<title>How I Met Your Mother</title>
+		<desc>Vesuvius: On the morning of the wedding, Ted helps a stressed Barney decide which suit to wear. Lily thinks Robin isn't treating her big day with the gravity it deserves. (S9 Ep19)</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4M" start="20251209083000 +0000" stop="20251209090000 +0000">
+		<title>How I Met Your Mother</title>
+		<desc>Daisy: Marshall tries to work out where Lily went when she stormed out of the hotel on the night of their big fight. Robin is worried by Barney's pre-wedding behaviour. (S9 Ep20)</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4M" start="20251209090000 +0000" stop="20251209093000 +0000">
+		<title>The Big Bang Theory</title>
+		<desc>The Shiksa Indeterminacy: Leonard, Raj and Howard all fall heavily for Sheldon's twin sister, but when Leonard comes up with a plan to win her heart, it's derailed by Sheldon. (S1 Ep15)</desc>
+		<icon src="https://ic.c4assets.com/brands/the-big-bang-theory/series-1/episode-15/a6cdad17-a065-4745-af2f-06a9cd864375.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4M" start="20251209093000 +0000" stop="20251209100000 +0000">
+		<title>The Big Bang Theory</title>
+		<desc>The Peanut Reaction: Penny throws a surprise party for Leonard, with help from Howard and Raj, but Sheldon's indulgence in an electronics shop throws her off track. (S1 Ep16)</desc>
+		<icon src="https://ic.c4assets.com/brands/the-big-bang-theory/series-1/episode-16/7352da53-9ae9-41ae-ba58-4eae647860ca.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4M" start="20251209100000 +0000" stop="20251209110000 +0000">
+		<title>Couples Come Dine with Me</title>
+		<desc>Rob and Rich, and Simon and Lauren, take on former World's Strongest Man, Eddie The Beast Hall, and his wife Alex, as they compete to host the best dinner party in Stoke-on-Trent.</desc>
+		<icon src="https://ic.c4assets.com/vps/couples-come-dine-with-me/409f39a4-d527-4a2a-bb5f-cd38d1b2d2b6.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4M" start="20251209110000 +0000" stop="20251209120000 +0000">
+		<title>Couples Come Dine with Me</title>
+		<desc>In Berkshire, Emma and Sean host an OMG evening of acronyms, Sarb and Jasbir plan an authentic Indian night, and Mel and Tony serve up British classics - with a side order of squabbling...</desc>
+		<icon src="https://ic.c4assets.com/vps/couples-come-dine-with-me/409f39a4-d527-4a2a-bb5f-cd38d1b2d2b6.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4M" start="20251209120000 +0000" stop="20251209130000 +0000">
+		<title>Ramsay's Kitchen Nightmares USA</title>
+		<desc>Gordon Ramsay revisits three restaurants - Mojito, The Junction (formerly Flamangos) and Bazzini - to check in with the owners. Is he pleased with their progress? (S4 Ep13)</desc>
+		<icon src="https://ic.c4assets.com/vps/ramsays-kitchen-nightmares-usa/689a5eaf-e09d-4874-925e-fa546a542c05.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4M" start="20251209130000 +0000" stop="20251209140000 +0000">
+		<title>Don't Tell the Bride</title>
+		<desc>The One with the Party Boy Groom: Reluctant Lee devises Las Vegas-style nuptials, but it's not the family church in Norfolk that his bride Anna had in mind.</desc>
+		<icon src="https://ic.c4assets.com/brands/dont-tell-the-bride/series-2018/episode-1/1c6f962b-1a41-43a6-ab3f-5ef011975ed8.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4M" start="20251209140000 +0000" stop="20251209150000 +0000">
+		<title>Don't Tell the Bride</title>
+		<desc>The Titanic One: Essex couple Jas and Bobby are heading for rocky waters. One of them wants a quiet wedding, while the other favours a Titanic-style night to remember.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4M" start="20251209150000 +0000" stop="20251209160000 +0000">
+		<title>Undercover Boss USA</title>
+		<desc>Lowell Hawthorne, the president and CEO of Caribbean food producer Golden Krust, goes undercover among the workforce in his own company, to determine the state of the business. (S7 Ep12/12)</desc>
+		<icon src="https://ic.c4assets.com/brands/undercover-boss-usa/series-7/episode-12/fdd7ff2c-8078-4311-bb46-435616bb1ce0.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4M" start="20251209160000 +0000" stop="20251209170000 +0000">
+		<title>Ramsay's Kitchen Nightmares USA</title>
+		<desc>Gordon Ramsay revisits three restaurants - Mojito, The Junction (formerly Flamangos) and Bazzini - to check in with the owners. Is he pleased with their progress? (S4 Ep13)</desc>
+		<icon src="https://ic.c4assets.com/vps/ramsays-kitchen-nightmares-usa/689a5eaf-e09d-4874-925e-fa546a542c05.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4M" start="20251209170000 +0000" stop="20251209180000 +0000">
+		<title>Ramsay's Kitchen Nightmares USA</title>
+		<desc>The Burger Kitchen (Part 1/2): In the first half of a two-part Nightmare, Gordon tries to save a burger joint in LA, run by a dysfunctional family in a state of constant conflict. (S5 Ep3)</desc>
+		<icon src="https://ic.c4assets.com/brands/ramsays-kitchen-nightmares-usa/series-5/episode-3/6607c595-a587-461f-9f49-51a741e1e382.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4M" start="20251209180000 +0000" stop="20251209190000 +0000">
+		<title>Ramsay's Kitchen Nightmares USA</title>
+		<desc>Cafe Tavolini: In Bridgeport, Connecticut, Gordon Ramsay visits Cafe Tavolini, a restaurant that's being neglected as the couple who run it teeter on the edge of divorce. (S4 Ep6)</desc>
+		<icon src="https://ic.c4assets.com/vps/ramsays-kitchen-nightmares-usa/45924705-1187-4819-9606-d9529670621d.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4M" start="20251209190000 +0000" stop="20251209193000 +0000">
+		<title>The Big Bang Theory</title>
+		<desc>The Vartabedian Conundrum: Leonard goes to Penny for help when his relationship with Stephanie takes off faster than he'd like, but will he act on her advice? (S2 Ep10)</desc>
+		<icon src="https://ic.c4assets.com/brands/the-big-bang-theory/series-2/episode-10/3889bc58-86e1-46b7-95e4-cc4b7056f746.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4M" start="20251209193000 +0000" stop="20251209200000 +0000">
+		<title>The Big Bang Theory</title>
+		<desc>The Bath Item Gift Hypothesis: At Christmas, Leonard's hunky colleague starts dating Penny, while Sheldon's obsession with gift-giving etiquette torments everyone. (S2 Ep11)</desc>
+		<icon src="https://ic.c4assets.com/brands/the-big-bang-theory/series-2/episode-11/19e1f700-6fa8-4ac8-9f62-815626d49896.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4M" start="20251209200000 +0000" stop="20251209203000 +0000">
+		<title>The Big Bang Theory</title>
+		<desc>The Killer Robot Instability: Kripke challenges the boys to a robot duel, while Howard is devastated when Penny finally tells him what she thinks of his chauvinism. (S2 Ep12)</desc>
+		<icon src="https://ic.c4assets.com/brands/the-big-bang-theory/series-2/episode-12/48fe5fe1-5772-4e5f-b1ec-fe3af457a85e.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4M" start="20251209203000 +0000" stop="20251209210000 +0000">
+		<title>The Big Bang Theory</title>
+		<desc>The Friendship Algorithm: Sheldon develops a scientific procedure for making friends when he discovers that Kripke has control of a new supercomputer at the university. (S2 Ep13)</desc>
+		<icon src="https://ic.c4assets.com/brands/the-big-bang-theory/series-2/episode-13/5119b6fc-102a-4033-a103-168e9525e284.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4M" start="20251209210000 +0000" stop="20251209220000 +0000">
+		<title>8 Out of 10 Cats Does Countdown...</title>
+		<desc>...Christmas Special: Jimmy Carr hosts this festive edition as Sean Lock and Johnny Vegas take on Jon Richardson and Katherine Ryan. David O'Doherty joins Susie Dent. With Rachel Riley.</desc>
+		<icon src="https://ic.c4assets.com/vps/8-out-of-10-cats-does-countdown/d958c1e7-bfe9-4a92-88fc-f63618d8109d.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4M" start="20251209220000 +0000" stop="20251209230000 +0000">
+		<title>Taskmaster</title>
+		<desc>Comedy game show. Greg Davies judges our famous five. Jon Richardson gives his disturbing take on Three Blind Mice as he tries to create the best music video for a nursery rhyme. (S2 Ep2/5)</desc>
+		<icon src="https://ic.c4assets.com/brands/taskmaster/series-2/episode-2/2ee7bdd0-a3e2-4b38-9b95-fbf79a23dd9a.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4M" start="20251209230000 +0000" stop="20251209233000 +0000">
+		<title>Derry Girls</title>
+		<desc>It's July 12th and the Quinn family want to get out of Derry before the Orange Parades start. Aunt Sarah's tarot cards predict a disaster for their trip - and she might be right. (S1 Ep5/6)</desc>
+		<icon src="https://ic.c4assets.com/brands/derry-girls/series-1/episode-5/5c75039d-ae10-44b2-a375-d98a48677fe1.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4M" start="20251209233000 +0000" stop="20251210000000 +0000">
+		<title>Derry Girls</title>
+		<desc>Erin's over the moon when she becomes editor of the school magazine, Orla's obsessed with step aerobics, Da Gerry is in trouble with Ma Mary, and there's romance for Aunt Sarah. (S1 Ep6/6)</desc>
+		<icon src="https://ic.c4assets.com/brands/derry-girls/series-1/episode-6/82d4ca3b-5498-4fb5-b1bb-2c7be1029cf1.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4M" start="20251210000000 +0000" stop="20251210010000 +0000">
+		<title>Ramsay's Kitchen Nightmares USA</title>
+		<desc>The Burger Kitchen (Part 1/2): In the first half of a two-part Nightmare, Gordon tries to save a burger joint in LA, run by a dysfunctional family in a state of constant conflict. (S5 Ep3)</desc>
+		<icon src="https://ic.c4assets.com/brands/ramsays-kitchen-nightmares-usa/series-5/episode-3/6607c595-a587-461f-9f49-51a741e1e382.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4M" start="20251210010000 +0000" stop="20251210020000 +0000">
+		<title>8 Out of 10 Cats Does Countdown...</title>
+		<desc>...Christmas Special: Jimmy Carr hosts this festive edition as Sean Lock and Johnny Vegas take on Jon Richardson and Katherine Ryan. David O'Doherty joins Susie Dent. With Rachel Riley.</desc>
+		<icon src="https://ic.c4assets.com/vps/8-out-of-10-cats-does-countdown/d958c1e7-bfe9-4a92-88fc-f63618d8109d.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4M" start="20251210020000 +0000" stop="20251210030000 +0000">
+		<title>Taskmaster</title>
+		<desc>Comedy game show. Greg Davies judges our famous five. Jon Richardson gives his disturbing take on Three Blind Mice as he tries to create the best music video for a nursery rhyme. (S2 Ep2/5)</desc>
+		<icon src="https://ic.c4assets.com/brands/taskmaster/series-2/episode-2/2ee7bdd0-a3e2-4b38-9b95-fbf79a23dd9a.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 </tv>
