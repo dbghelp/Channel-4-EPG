@@ -134,7 +134,12 @@
 		<desc>...Launch: Adam Hills and Hannah Fry launch an extravaganza of comedy, entertainment and fundraising for SU2C 2025, from celebrity stunts to moving moments, plus a look at what's to come.</desc>
 		<icon src="https://ic.c4assets.com/vps/su2c-2025---live-launch/7CB100E5-6D0C-4AA9-874F81F4CDBFECE7.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20251212200000 +0000" stop="20251212211000 +0000">
+	<programme channel="C4" start="20251212200000 +0000" stop="20251212201000 +0000">
+		<title>A Message from King Charles III</title>
+		<desc>King Charles delivers a message during Stand Up To Cancer, driving awareness of cancer screening and sharing the importance of early diagnosis.</desc>
+		<icon src="https://ic.c4assets.com/vps/stand-up-to-cancer-2025/4B710306-44D5-4DD1-86D27BF247267575.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="C4" start="20251212201000 +0000" stop="20251212211000 +0000">
 		<title>Live: Cancer Clinic Live</title>
 		<desc>Davina McCall presents live from a one-off cancer clinic for SU2C at Addenbrooke's Hospital in Cambridge, as cameras follow patients through pivotal moments from test results to treatment.</desc>
 		<icon src="https://ic.c4assets.com/vps/su2c-2025---cancer-clinic-live/2EA14D11-E594-4875-8904703B1140462B.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
@@ -737,7 +742,7 @@
 	<programme channel="C4" start="20251216190000 +0000" stop="20251216200000 +0000">
 		<title>Channel 4 News</title>
 		<desc>Channel 4's flagship news programme. Including the weather.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/channel-4-news/95BDDBDD-F2DC-44AE-B95A3ABEC581C62C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20251216200000 +0000" stop="20251216210000 +0000">
 		<title>New: Bamburgh Castle: A Very...</title>
@@ -892,7 +897,7 @@
 	<programme channel="C4" start="20251217190000 +0000" stop="20251217200000 +0000">
 		<title>Channel 4 News</title>
 		<desc>Channel 4's flagship news programme. Including the weather.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/channel-4-news/95BDDBDD-F2DC-44AE-B95A3ABEC581C62C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20251217200000 +0000" stop="20251217210000 +0000">
 		<title>New: Inside Legoland at Christmas</title>
@@ -1052,7 +1057,7 @@
 	<programme channel="C4" start="20251218190000 +0000" stop="20251218200000 +0000">
 		<title>Channel 4 News</title>
 		<desc>Channel 4's flagship news programme. Including the weather.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/channel-4-news/95BDDBDD-F2DC-44AE-B95A3ABEC581C62C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20251218200000 +0000" stop="20251218210000 +0000">
 		<title>New: Inside Baileys at Christmas</title>
@@ -3814,7 +3819,12 @@
 		<desc>...Launch: Adam Hills and Hannah Fry launch an extravaganza of comedy, entertainment and fundraising for SU2C 2025, from celeb stunts to moving stories and a look at what's to come. Signed.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="4S" start="20251212200000 +0000" stop="20251212211000 +0000">
+	<programme channel="4S" start="20251212200000 +0000" stop="20251212201000 +0000">
+		<title>A Message from King Charles III</title>
+		<desc>King Charles delivers a message during Stand Up To Cancer, driving awareness of cancer screening and sharing the importance of early diagnosis. Signed.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4S" start="20251212201000 +0000" stop="20251212211000 +0000">
 		<title>Live: Cancer Clinic Live</title>
 		<desc>Davina McCall hosts live from a one-off cancer clinic for SU2C at Addenbrooke's Hospital in Cambridge, as cameras follow patients at pivotal moments from test results to treatment. Signed.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
