@@ -124,10 +124,15 @@
 		<desc>Angie and Alan want to fulfil their dream of buying their very first property together on Spain's beautiful Orihuela Costa. Can Jasmine Harman find the perfect place for their £60k?</desc>
 		<icon src="https://ic.c4assets.com/vps/a-place-in-the-sun-2023---in-and-around-orihuela-costa/CAE4B432-9096-480B-81D4F54CA2709C84.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20251215190000 +0000" stop="20251215200000 +0000">
+	<programme channel="C4" start="20251215190000 +0000" stop="20251215195500 +0000">
 		<title>Channel 4 News</title>
 		<desc>Channel 4's flagship news programme. Including the weather.</desc>
 		<icon src="https://ic.c4assets.com/vps/channel-4-news/95BDDBDD-F2DC-44AE-B95A3ABEC581C62C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="C4" start="20251215195500 +0000" stop="20251215200000 +0000">
+		<title>Shona's Story: Stand Up To Cancer</title>
+		<desc>A short film for Stand Up To Cancer. In a deeply moving story, a family face unimaginable heartbreak as Shona and her partner Will are both diagnosed with cancer.</desc>
+		<icon src="https://ic.c4assets.com/vps/su2c-2025---shona-s-story-appeal-film/FE997905-E148-4212-BCFF8632440A9991.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20251215200000 +0000" stop="20251215210000 +0000">
 		<title>New: Jamie's Cook-Ahead Christmas</title>
@@ -602,7 +607,7 @@
 	<programme channel="C4" start="20251218200000 +0000" stop="20251218210000 +0000">
 		<title>New: Inside Baileys at Christmas</title>
 		<desc>An exclusive look behind the scenes at Baileys in their busy run-up to Christmas, as they whip up a Chocolate Orange-flavoured version and make sure their cows feel chilled.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/baileys/5CD785E1-F44C-4E8B-A0DFC513FBD845B0.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20251218210000 +0000" stop="20251218220000 +0000">
 		<title>New: First Dates Beach Club</title>
