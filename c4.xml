@@ -3324,9 +3324,14 @@
 		<desc>(1996) Brian Levant's festive all-action comedy. Arnold Schwarzenegger is on a mission to get his son (Jake Lloyd) the must-have Christmas toy, Turbo Man. But it's sold out everywhere...</desc>
 		<icon src="https://ic.c4assets.com/vps/jingle-all-the-way/968FA67B-9951-4C21-84F8DBC01883E6C6.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="F4" start="20260110124500 +0000" stop="20260110144000 +0000">
+	<programme channel="F4" start="20260110124500 +0000" stop="20260110143500 +0000">
 		<title>Patrick</title>
 		<desc>(2018) Feel-good British family comedy. Sarah's (Beattie Edmondson) chaotic life gets even more complicated when she inherits a naughty pug from her nan.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20260110143500 +0000" stop="20260110144000 +0000">
+		<title>Film4 Interview Programmes:...</title>
+		<desc>...Talking Film: Stars and directors talk about the experience of making movies in this compendium of personal and practical reflections.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20260110144000 +0000" stop="20260110164500 +0000">
@@ -3374,10 +3379,15 @@
 		<desc>(2020) Cheeky comedy with Megan Fox. A young science prodigy (Gabriel Bateman) invents a piece of tech that lets him and his pet dog communicate with each other telepathically.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="F4" start="20260111145500 +0000" stop="20260111164500 +0000">
+	<programme channel="F4" start="20260111145500 +0000" stop="20260111163500 +0000">
 		<title>Sword of Sherwood Forest</title>
 		<desc>(1960) Adventure with Richard Greene, Peter Cushing and a young Oliver Reed. Can Robin Hood foil the villainous Sheriff of Nottingham's evil plan to murder the Archbishop of Canterbury?</desc>
 		<icon src="https://ic.c4assets.com/vps/sword-of-sherwood-forest/576EE539-C44F-49B5-B494B75A24422BD3.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20260111163500 +0000" stop="20260111164500 +0000">
+		<title>Film4 Interview Programmes:...</title>
+		<desc>...Talking Film: Stars and directors talk about making movies in this compendium of personal and practical reflections. Features Danny Boyle, Amy Schumer, Chiwetel Ejiofor and more.</desc>
+		<icon src="https://ic.c4assets.com/brands/film4-interview-specials/series-5/episode-2/339c4ec6-2325-42f5-915f-df62cf6116c1.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20260111164500 +0000" stop="20260111185500 +0000">
 		<title>Rat Race</title>
@@ -3429,10 +3439,15 @@
 		<desc>(1950) Western. John Wayne plays the commander of a Texan fort at which his ex-wife (Maureen O'Hara) pitches up. Can he win back her love by saving kidnapped children from Apache raiders?</desc>
 		<icon src="https://ic.c4assets.com/vps/rio-grande/a607c969-4835-4071-a612-f6cfd3fc602c.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="F4" start="20260112151500 +0000" stop="20260112170000 +0000">
+	<programme channel="F4" start="20260112151500 +0000" stop="20260112165500 +0000">
 		<title>Buchanan Rides Alone</title>
 		<desc>(1958) Western. Randolph Scott stars as a drifter who arrives in a small border town and tangles with a group of villains after helping a wealthy young Mexican, played by Manuel Rojas.</desc>
 		<icon src="https://ic.c4assets.com/vps/sink-the-bismarck/65264ecf-4094-4f71-b096-e9aa66a6c010.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20260112165500 +0000" stop="20260112170000 +0000">
+		<title>Film4 Interview Programmes:...</title>
+		<desc>...Talking Film: Stars and directors talk about the experience of making movies in this compendium of personal and practical reflections.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20260112170000 +0000" stop="20260112184500 +0000">
 		<title>Earth vs the Flying Saucers</title>
