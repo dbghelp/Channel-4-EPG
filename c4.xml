@@ -701,7 +701,7 @@
 	</programme>
 	<programme channel="C4" start="20260111100000 +0000" stop="20260111130000 +0000">
 		<title>Live: Sunday Brunch</title>
-		<desc>Simon Rimmer and Tim Lovejoy host the food and chat show, with guests Russell Howard, Bridget Christie, Alfred Enoch and Malachi Kirby.</desc>
+		<desc>Simon Rimmer and Tim Lovejoy host the food and chat show, with guests Russell Howard, Bridget Christie and Malachi Kirby.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260111130000 +0000" stop="20260111133000 +0000">
@@ -752,7 +752,7 @@
 	<programme channel="C4" start="20260111194500 +0000" stop="20260111210000 +0000">
 		<title>New: The Great Pottery Throw Down</title>
 		<desc>The potters create a statement pair of bookends and face some surprise brickmaking. Whose creations will be the start of their next chapter, and who'll be bricking it? (S9 Ep2/10)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/the-great-pottery-throw-down-7-series-9/56548D4A-6CE7-47B1-B0CD2DF067786FBE.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260111210000 +0000" stop="20260111220000 +0000">
 		<title>New: Celebrity SAS: Who Dares Wins</title>
@@ -834,25 +834,20 @@
 		<desc>The Home: Frank and Marie announce that they're moving into a retirement home and sell their house to Robert and Amy. (S9 Ep1)</desc>
 		<icon src="https://ic.c4assets.com/brands/everybody-loves-raymond/series-9/episode-1/fa19a4f2-b677-4bdf-8672-96f5045977c4.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20260112091000 +0000" stop="20260112094000 +0000">
+	<programme channel="C4" start="20260112091000 +0000" stop="20260112101000 +0000">
 		<title>Frasier</title>
-		<desc>And the Dish Ran Away with the Spoon: Niles and Daphne discover that there's a price to pay for admitting their true love. (S8 Ep1)</desc>
+		<desc>And the Dish Ran Away with the Spoon: In a double-length episode, Niles and Daphne discover that there's a price to pay for admitting their true love. (S8 Ep1)</desc>
 		<icon src="https://ic.c4assets.com/brands/frasier/series-8/episode-1/67f35a64-9252-446f-b210-04973ba184f6.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20260112094000 +0000" stop="20260112101000 +0000">
+	<programme channel="C4" start="20260112101000 +0000" stop="20260112104000 +0000">
 		<title>Frasier</title>
 		<desc>The Bad Son: Frasier begs Martin to take a tour of a senior citizens' home so that he can ask out its attractive manager. (S8 Ep2)</desc>
 		<icon src="https://ic.c4assets.com/brands/frasier/series-8/episode-2/d1a71784-e739-4371-8e00-ff455be50c63.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20260112101000 +0000" stop="20260112104000 +0000">
+	<programme channel="C4" start="20260112104000 +0000" stop="20260112111000 +0000">
 		<title>Frasier</title>
 		<desc>The Great Crane Robbery: Frasier's bootlicking routine backfires when he invites his new boss, a nouveau-riche internet millionaire, to his tastefully decorated home. (S8 Ep3)</desc>
 		<icon src="https://ic.c4assets.com/brands/frasier/series-8/episode-3/05dd08e6-a749-4713-835b-27ee0bb6b1ad.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="C4" start="20260112104000 +0000" stop="20260112111000 +0000">
-		<title>Frasier</title>
-		<desc>Taking Liberties: Frasier hires a butler, who spoils everyone and offers Frasier sage advice in his bid to join the snobbish opera board. (S8 Ep4)</desc>
-		<icon src="https://ic.c4assets.com/brands/frasier/series-8/episode-4/40d0fbaf-07a7-4c73-af18-bfc9473de1a0.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260112111000 +0000" stop="20260112120500 +0000">
 		<title>American Pickers</title>
@@ -991,23 +986,23 @@
 	</programme>
 	<programme channel="C4" start="20260113091000 +0000" stop="20260113094000 +0000">
 		<title>Frasier</title>
+		<desc>Taking Liberties: Frasier hires a butler, who spoils everyone and offers Frasier sage advice in his bid to join the snobbish opera board. (S8 Ep4)</desc>
+		<icon src="https://ic.c4assets.com/brands/frasier/series-8/episode-4/40d0fbaf-07a7-4c73-af18-bfc9473de1a0.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="C4" start="20260113094000 +0000" stop="20260113101000 +0000">
+		<title>Frasier</title>
 		<desc>Legal Tender Love and Care: Frasier starts dating the attractive attorney who defended him against Donny - who was jilted at the altar by Daphne. (S8 Ep5)</desc>
 		<icon src="https://ic.c4assets.com/brands/frasier/series-8/episode-5/07b054a5-f540-4939-bf71-f361785c1813.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20260113094000 +0000" stop="20260113101000 +0000">
+	<programme channel="C4" start="20260113101000 +0000" stop="20260113104000 +0000">
 		<title>Frasier</title>
 		<desc>The New Friend: Frasier develops a friendship with Roz's new boyfriend, who then cheats them both. (S8 Ep6)</desc>
 		<icon src="https://ic.c4assets.com/brands/frasier/series-8/episode-6/95e396d5-4796-461e-ade4-d246d328ef0a.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20260113101000 +0000" stop="20260113104000 +0000">
+	<programme channel="C4" start="20260113104000 +0000" stop="20260113111000 +0000">
 		<title>Frasier</title>
 		<desc>Frasier's Edge: On the night of the SeaBee broadcasting awards, Frasier has an emotional crisis that makes him re-evaluate his entire life. (S8 Ep8)</desc>
 		<icon src="https://ic.c4assets.com/brands/frasier/series-8/episode-8/a73b4045-847c-4f20-ac6a-9145a090d8db.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="C4" start="20260113104000 +0000" stop="20260113111000 +0000">
-		<title>Frasier</title>
-		<desc>Cranes Unplugged: Frasier can't adjust to his 13-year-old son's new attitude, so forces Freddy to go camping with him and Martin in an attempt at male bonding. (S8 Ep9)</desc>
-		<icon src="https://ic.c4assets.com/brands/frasier/series-8/episode-9/35221d6f-4deb-419b-8c9d-5f75bc465727.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260113111000 +0000" stop="20260113120500 +0000">
 		<title>American Pickers</title>
@@ -1700,13 +1695,13 @@
 		<icon src="https://ic.c4assets.com/brands/the-simpsons/9bf1784f-73a2-47ae-94c9-118483974839.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20260110153000 +0000" stop="20260110183000 +0000">
-		<title>Live Football: Quarter Finals...</title>
-		<desc>...AFCON: Two sides battle it out at Marrakech Stadium for a spot in the Africa Cup of Nations semi-finals.</desc>
+		<title>Live Football: Algeria v Nigeria</title>
+		<desc>The third AFCON 2025 quarter-final pits defensive excellence against attacking verve, with Algeria, who've conceded just one goal so far, taking on tournament high scorers Nigeria.</desc>
 		<icon src="https://ic.c4assets.com/vps/rudolphs-reindeer-games/F2B33D50-0018-41D4-B363AE42CEA8C418.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20260110183000 +0000" stop="20260110211500 +0000">
-		<title>Live Football: Quarter Finals...</title>
-		<desc>...AFCON: The final semi-finalists for AFCON 2025 are decided, in this clash at the Adrar Stadium in Agadir.</desc>
+		<title>Live Football: Egypt v Côte...</title>
+		<desc>...d'Ivoire: The final AFCON 2025 quarter-final pits Mo Salah's Egypt against reigning AFCON champions Côte d'Ivoire, for whom Manchester United's Amad Diallo is in blistering form.</desc>
 		<icon src="https://ic.c4assets.com/vps/rudolphs-reindeer-games/F2B33D50-0018-41D4-B363AE42CEA8C418.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20260110211500 +0000" stop="20260110214500 +0000">
@@ -1862,12 +1857,12 @@
 	<programme channel="E4" start="20260111200000 +0000" stop="20260111203000 +0000">
 		<title>New: The Simpsons</title>
 		<desc>Treehouse of Horror XXXV: Bart and Lisa find themselves at odds politically. A Victorian Mr Burns gets his comeuppance. And Homer comes into contact with some evil denim jeans. (S36 Ep5/18)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/simpsons-the-year-36/0B5260A1-B252-46BF-8DAA76181F3A9717.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20260111203000 +0000" stop="20260111210000 +0000">
 		<title>New: The Simpsons</title>
 		<desc>Women in Shorts: The women of Springfield take centre stage, with some special Simpsonified movie parodies including Barbie and The Chronicles of Narnia. (S36 Ep6/18)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/simpsons-the-year-36/D38B2DEC-011B-42EA-BFFB16D6FB160D49.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20260111210000 +0000" stop="20260111225500 +0000">
 		<title>Prey</title>
@@ -4037,7 +4032,7 @@
 	<programme channel="4S" start="20260112024000 +0000" stop="20260112040000 +0000">
 		<title>The Great Pottery Throw Down</title>
 		<desc>The potters create a statement pair of bookends and face some surprise brickmaking. Whose creations will be the start of their next chapter, and who'll be bricking it? (S9 Ep2/10)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/the-great-pottery-throw-down-7-series-9/56548D4A-6CE7-47B1-B0CD2DF067786FBE.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20260112040000 +0000" stop="20260112050000 +0000">
 		<title>24 Hours in A&amp;E</title>
