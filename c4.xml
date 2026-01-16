@@ -397,7 +397,7 @@
 	<programme channel="C4" start="20260118100000 +0000" stop="20260118130000 +0000">
 		<title>Live: Sunday Brunch</title>
 		<desc>David Baddiel chats about his feline-focused doc Cat Man. Sticking with cats, former Atomic Kitten Natasha Hamilton chats about her debut solo single. Plus: Josh Widdicombe, Omar and more.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/sunday-brunch/94D87516-1DC6-4E1D-B02A28687E1A7451.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260118130000 +0000" stop="20260118133000 +0000">
 		<title>The Simpsons</title>
@@ -432,7 +432,7 @@
 	<programme channel="C4" start="20260118194500 +0000" stop="20260118210000 +0000">
 		<title>New: The Great Pottery Throw Down</title>
 		<desc>The potters make a puzzle jug and face a surprise blindfolded second challenge. Whose clay code will be cracked when the judges make the all-impourtant decision? (S9 Ep3/10)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/the-great-pottery-throw-down-7-series-9/C5055F41-0ECD-43AA-952AE898260C19FC.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260118210000 +0000" stop="20260118220000 +0000">
 		<title>New: Celebrity SAS: Who Dares Wins</title>
@@ -937,7 +937,7 @@
 	<programme channel="C4" start="20260122031500 +0000" stop="20260122042000 +0000">
 		<title>The Great Pottery Throw Down</title>
 		<desc>The potters make a puzzle jug and face a surprise blindfolded second challenge. Whose clay code will be cracked when the judges make the all-impourtant decision? (S9 Ep3/10)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/the-great-pottery-throw-down-7-series-9/C5055F41-0ECD-43AA-952AE898260C19FC.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260122042000 +0000" stop="20260122045000 +0000">
 		<title>Food Unwrapped's Caribbean...</title>
@@ -1344,17 +1344,17 @@
 		<desc>Lisa the Beauty Queen: Lisa wins second place in a beauty contest. (S4 Ep4/22)</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20260117155000 +0000" stop="20260117180000 +0000">
+	<programme channel="E4" start="20260117155000 +0000" stop="20260117180500 +0000">
 		<title>Live Football: Egypt v Nigeria</title>
 		<desc>The two losing AFCON semi-finalists - Egypt and Nigeria - face off at Stade Mohammed V in Casablanca for the AFCON bronze medal, which Nigeria have already won eight times.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/live-football-3rd-place-play-off/74F61CDB-A915-4E1E-9AE9D1D03108E81E.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20260117180000 +0000" stop="20260117183000 +0000">
+	<programme channel="E4" start="20260117180500 +0000" stop="20260117183500 +0000">
 		<title>The Simpsons</title>
 		<desc>Treehouse of Horror III: Lisa, Grampa and Bart tell scary stories at their Halloween party. A Krusty doll comes alive. Mr Burns heads to Skull Island. Bart raises the dead. (S4 Ep5/22)</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20260117183000 +0000" stop="20260117190000 +0000">
+	<programme channel="E4" start="20260117183500 +0000" stop="20260117190000 +0000">
 		<title>The Simpsons</title>
 		<desc>Itchy and Scratchy: The Movie: While Homer and Marge are at parents' evening, Bart breaks the babysitter's teeth. So Homer vows never to let him see the Itchy and Scratchy film. (S4 Ep6/22)</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
@@ -1524,30 +1524,25 @@
 		<desc>Brand new series - Convenience Airways: The Simpsons endure a nightmare flight on Convenience Airways - the only airline in America that Homer's isn't banned from. (S36 Ep8)</desc>
 		<icon src="https://ic.c4assets.com/vps/simpsons-the-year-36/4559A3D6-DC8D-41B5-AE973F92E84A9982.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20260118183000 +0000" stop="20260118211500 +0000">
+	<programme channel="E4" start="20260118183000 +0000" stop="20260118214500 +0000">
 		<title>Live AFCON Final: Senegal v...</title>
 		<desc>...Morocco: Host nation Morocco are desperate for a first AFCON title for 50 years. But an in-form Senegal - who lifted the trophy just four years ago - stand in their way.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/live-football-final/F5CA07B6-C43F-47AF-A4338F2CE023282D.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20260118211500 +0000" stop="20260118215000 +0000">
+	<programme channel="E4" start="20260118214500 +0000" stop="20260118222000 +0000">
 		<title>The Inbetweeners</title>
 		<desc>The Duke of Edinburgh Awards: Will is asked to co-ordinate the school's Duke of Edinburgh Award scheme and immediately turns the situation to his advantage. (S2 Ep5/6)</desc>
 		<icon src="https://ic.c4assets.com/brands/the-inbetweeners/series-2/episode-5/c7166f68-7393-47ee-be2a-67ceb185ecf0.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20260118215000 +0000" stop="20260118222500 +0000">
+	<programme channel="E4" start="20260118222000 +0000" stop="20260118225500 +0000">
 		<title>The Inbetweeners</title>
 		<desc>End of Term: Will is stressed about exams, Jay has other things on his mind, Simon finally seems to be making headway with Carli, and Neil forgets his kit for his PE exam. (S2 Ep6/6)</desc>
 		<icon src="https://ic.c4assets.com/brands/the-inbetweeners/series-2/episode-6/c36e336f-f405-4be6-adfe-424f3b1fc254.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20260118222500 +0000" stop="20260118225500 +0000">
+	<programme channel="E4" start="20260118225500 +0000" stop="20260118233000 +0000">
 		<title>The Inbetweeners</title>
 		<desc>The Fashion Show: It's the start of term and Carli is organising a charity fashion show. It's only for the cool kids, so our heroes aren't involved - until a last-minute hitch. (S3 Ep1/6)</desc>
 		<icon src="https://ic.c4assets.com/brands/the-inbetweeners/series-3/episode-1/b7897ea6-f7c7-4e99-9c14-70b33a3f74aa.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20260118225500 +0000" stop="20260118233000 +0000">
-		<title>The Inbetweeners</title>
-		<desc>The Gig and the Girlfriend: To impress a girl in the year below, Simon attends his first concert since he saw Take That with his mum. But Will, Jay and Neil tag along too. (S3 Ep2/6)</desc>
-		<icon src="https://ic.c4assets.com/brands/the-inbetweeners/series-3/episode-2/7a62e53e-4536-4fcc-9983-0449a94567c4.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20260118233000 +0000" stop="20260119013500 +0000">
 		<title>Salt</title>
@@ -1564,17 +1559,17 @@
 		<desc>Rebecca's tired of guys with bad boy images breaking her heart. Dan thinks the only thing missing in his life's the love of a good man. Can they find love the Naked Attraction way? (S1 Ep5)</desc>
 		<icon src="https://ic.c4assets.com/brands/naked-attraction/series-1/episode-5/ea49d4b7-cd15-4e48-b65e-e8732aaff833.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20260119034000 +0000" stop="20260119043500 +0000">
+	<programme channel="E4" start="20260119034000 +0000" stop="20260119044000 +0000">
 		<title>Don't Tell the Bride</title>
 		<desc>Sophia wants a blingy wedding. Love-struck groom Micky hopes to impress with a winter wonderland event. Will his wedding plan get a frosty reception?</desc>
 		<icon src="https://ic.c4assets.com/brands/dont-tell-the-bride/series-2018/episode-7/6d48fc5b-0449-45a2-ba55-c77dca2fadec.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20260119043500 +0000" stop="20260119045500 +0000">
+	<programme channel="E4" start="20260119044000 +0000" stop="20260119050000 +0000">
 		<title>The Goldbergs</title>
 		<desc>Kara-Te: On the eve of the annual high school talent show, Beverly and Murray fall out over Barry's plan to perform his martial arts routine on stage. (S1 Ep11)</desc>
 		<icon src="https://ic.c4assets.com/vps/the-goldbergs/0937069e-ec3a-4e80-ba59-227fbd8e2833.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20260119045500 +0000" stop="20260119060000 +0000">
+	<programme channel="E4" start="20260119050000 +0000" stop="20260119060000 +0000">
 		<title>Hollyoaks Omnibus</title>
 		<desc>Theresa fears for her relationship. Sienna's attempts to build bridges backfire. Donny makes a desperate escape, while Gemma takes a dangerous gamble. And there's a mysterious sighting...</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
@@ -2897,7 +2892,7 @@
 	<programme channel="M4" start="20260120200000 +0000" stop="20260120210000 +0000">
 		<title>New: Car S.O.S</title>
 		<desc>Brand new series - VW Dune Buggy: Tim and Fuzz take on a shipwreck of a VW Dune Buggy, owned by a devoted dad from Yorkshire. Can the team transform this bashed-up beach toy? (S13 Ep3)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/car-sos-yr-13/966B14AE-31DC-4F3F-B4E102A217CCF1E0.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="M4" start="20260120210000 +0000" stop="20260120220000 +0000">
 		<title>New: Saving Country Houses with...</title>
@@ -3282,7 +3277,7 @@
 	<programme channel="F4" start="20260118110000 +0000" stop="20260118131000 +0000">
 		<title>Harvey</title>
 		<desc>(1950) Classic comedy with James Stewart and Josephine Hull. A middle-aged eccentric insists his best friend is a six-foot invisible rabbit. And that's driving his sister to distraction.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/harvey/18DB7211-FE01-4B3A-9F30A9171E12FE01.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20260118131000 +0000" stop="20260118145500 +0000">
 		<title>The Seventh Voyage of Sinbad</title>
