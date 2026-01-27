@@ -126,7 +126,7 @@
 	</programme>
 	<programme channel="C4" start="20260127190000 +0000" stop="20260127200000 +0000">
 		<title>Channel 4 News</title>
-		<desc>Channel 4's flagship news programme. Including the weather.</desc>
+		<desc>As pubs get some business-rate relief post budget, what about other hospitality venues also possibly at risk? And is the Trump immigration crackdown in Minnesota about to ease?</desc>
 		<icon src="https://ic.c4assets.com/vps/channel-4-news/95BDDBDD-F2DC-44AE-B95A3ABEC581C62C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260127200000 +0000" stop="20260127210000 +0000">
@@ -3414,10 +3414,15 @@
 		<desc>(2016) Taraji P. Henson, Octavia Spencer and Janelle Monáe star in the Oscar-nominated, fact-based drama about three women whose genius made a significant contribution to the space race.</desc>
 		<icon src="https://ic.c4assets.com/vps/hidden-figures/dcccc032-8ce4-4829-9430-665968e37b4e.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="F4" start="20260131181000 +0000" stop="20260131210000 +0000">
+	<programme channel="F4" start="20260131181000 +0000" stop="20260131205500 +0000">
 		<title>Midway</title>
 		<desc>(2019) Roland Emmerich's sprawling, action-packed war drama about the Battle of Midway, a major turning point in World War II. Starring Ed Skrein, Luke Evans and Woody Harrelson.</desc>
 		<icon src="https://ic.c4assets.com/vps/midway/0ccd0d50-3420-4012-8e47-7487cc6b5fcb.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20260131205500 +0000" stop="20260131210000 +0000">
+		<title>Censor Interview Special</title>
+		<desc>Star Niamh Algar and director Prano Bailey-Bond talk about making their new psychological horror film, Censor.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20260131210000 +0000" stop="20260201003000 +0000">
 		<title>Braveheart</title>
@@ -3494,20 +3499,30 @@
 		<desc>No programme</desc>
 		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/150px-Film4_logo_2018.svg.png" />
 	</programme>
-	<programme channel="F4" start="20260202110000 +0000" stop="20260202134500 +0000">
+	<programme channel="F4" start="20260202110000 +0000" stop="20260202133500 +0000">
 		<title>The Devil at 4 O'Clock</title>
 		<desc>(1961) Drama. Spencer Tracy stars as an unfairly unpopular priest living on a volcanic South Sea island which is about to erupt. With Kerwin Matthews, Frank Sinatra and Barbara Luna.</desc>
 		<icon src="https://ic.c4assets.com/vps/devil-at-4-o'clock-1961/5D5C2F22-CC53-48DC-AB66EBF9C57A1DA2.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20260202133500 +0000" stop="20260202134500 +0000">
+		<title>Censor Interview Special</title>
+		<desc>Star Niamh Algar and director Prano Bailey-Bond talk about making their new psychological horror film, Censor.</desc>
+		<icon src="https://ic.c4assets.com/brands/film4-interview-specials/series-23/36b750e9-ec95-4d70-b58d-b76364b5775c.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20260202134500 +0000" stop="20260202154000 +0000">
 		<title>The Violent Men</title>
 		<desc>(1955) Cold War-influenced western starring Glenn Ford and Edward G Robinson. A smallholder stands alone against the expansionist plans and brutal tactics of a tyrannical rancher.</desc>
 		<icon src="https://ic.c4assets.com/vps/violent-men-the/DFA74605-13DF-4B53-878F7FE3E1D4036A.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="F4" start="20260202154000 +0000" stop="20260202180000 +0000">
+	<programme channel="F4" start="20260202154000 +0000" stop="20260202175000 +0000">
 		<title>Arabesque</title>
 		<desc>(1966) Gregory Peck stars in Stanley Donen's spy thriller. An Oxford professor is unwittingly drawn into a deadly web of political intrigue. With Sophia Loren and Alan Badel.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20260202175000 +0000" stop="20260202180000 +0000">
+		<title>Censor Interview Special</title>
+		<desc>Star Niamh Algar and director Prano Bailey-Bond talk about making their new psychological horror film, Censor.</desc>
+		<icon src="https://ic.c4assets.com/brands/film4-interview-specials/series-23/36b750e9-ec95-4d70-b58d-b76364b5775c.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20260202180000 +0000" stop="20260202210000 +0000">
 		<title>Le Mans '66</title>
