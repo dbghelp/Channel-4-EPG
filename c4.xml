@@ -126,7 +126,7 @@
 	</programme>
 	<programme channel="C4" start="20260218190000 +0000" stop="20260218200000 +0000">
 		<title>Channel 4 News</title>
-		<desc>Channel 4's flagship news programme. Including the weather.</desc>
+		<desc>How the police failed to believe one of its own officers who was attacked by a serial rapist who would attack again. And with inflation down hopes of a cut in interest rates rises.</desc>
 		<icon src="https://ic.c4assets.com/vps/channel-4-news/95BDDBDD-F2DC-44AE-B95A3ABEC581C62C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260218200000 +0000" stop="20260218210000 +0000">
@@ -770,7 +770,7 @@
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260222210000 +0000" stop="20260222220000 +0000">
-		<title>New: Secret Genius</title>
+		<title>New: Secret Genius: The Semi-Final</title>
 		<desc>The final twelve solve a complex maths game to escape from a maze. Then the top eight compete against each other in a mind-bending memory game, for a place in the final four. (Ep5/6)</desc>
 		<icon src="https://ic.c4assets.com/vps/secret-genius/44F83548-B158-42AC-8325E677FF1A77F4.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
@@ -1125,13 +1125,13 @@
 		<icon src="https://ic.c4assets.com/vps/999-what-happened-next/88148119-4EA6-4648-B573143478508922.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260225010500 +0000" stop="20260225020000 +0000">
-		<title>Secret Genius</title>
+		<title>Secret Genius: The Semi-Final</title>
 		<desc>The final twelve solve a complex maths game to escape from a maze. Then the top eight compete against each other in a mind-bending memory game, for a place in the final four. (Ep5/6)</desc>
 		<icon src="https://ic.c4assets.com/vps/secret-genius/44F83548-B158-42AC-8325E677FF1A77F4.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260225020000 +0000" stop="20260225025500 +0000">
 		<title>The Last Leg</title>
-		<desc>Bridget Christie, Aisling Bea and Chloe Petts muse over the week's news with Adam Hills, Josh Widdicombe and Alex Brooker. (S34 Ep4)</desc>
+		<desc>Aisling Bea and Chloe Petts muse over the week's news with Adam Hills, Josh Widdicombe and Alex Brooker. (S34 Ep4)</desc>
 		<icon src="https://ic.c4assets.com/brands/the-last-leg/7399247a-97c5-4edb-aafa-2e34a9b26c40.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260225025500 +0000" stop="20260225035000 +0000">
@@ -3384,10 +3384,15 @@
 		<desc>(1993) Comedy starring Robin Williams and Sally Field. A struggling actor dresses as a woman to get his estranged wife to hire him as a housekeeper, so he can spend more time with his kids.</desc>
 		<icon src="https://ic.c4assets.com/vps/mrs-doubtfire/a6a1eca0-7cee-465d-a1b2-e24719a89175.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="F4" start="20260221190500 +0000" stop="20260221210000 +0000">
+	<programme channel="F4" start="20260221190500 +0000" stop="20260221205500 +0000">
 		<title>Jerry &amp; Marge Go Large</title>
 		<desc>(2022) Fact-based comedy starring Bryan Cranston and Annette Bening as a retired couple who find a way to exploit a lottery loophole. But then some rich kids try to muscle in...</desc>
 		<icon src="https://ic.c4assets.com/vps/jerry-marge-go-large/de40ae5f-9755-4b8d-a152-427ed328e1d6.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20260221205500 +0000" stop="20260221210000 +0000">
+		<title>Django Unchained Interview Special</title>
+		<desc>Director Quentin Tarantino and stars Samuel L Jackson, Christoph Waltz, Jamie Foxx and Kerry Washington talk about making the western adventure set against a backdrop of slavery.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20260221210000 +0000" stop="20260222002000 +0000">
 		<title>Django Unchained</title>
@@ -3476,12 +3481,12 @@
 	</programme>
 	<programme channel="F4" start="20260223151000 +0000" stop="20260223164500 +0000">
 		<title>Decision at Sundown</title>
-		<desc>(1957) Western starring Randolph Scott and John Carroll. A man seeking revenge on the person who took his wife, who later killed herself, tracks his quarry to the sleepy town of Sundown.</desc>
+		<desc>(1957) Western starring Randolph Scott and John Carroll. A man seeking revenge for his wife's death tracks his rival down in the sleepy town of Sundown...</desc>
 		<icon src="https://ic.c4assets.com/vps/the-furies-1950/54e030a9-5e01-42c4-a5c1-321c6b9655fa.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20260223164500 +0000" stop="20260223184000 +0000">
 		<title>The Rare Breed</title>
-		<desc>(1966) Western with Maureen O'Hara and James Stewart. With the help of a drifter, a woman strives to fulfil her dead husband's desire to introduce rare cattle to the perilous American west.</desc>
+		<desc>(1966) Western with Maureen O'Hara and James Stewart. With the help of a drifter, a widow strives to fulfil her husband's last wish to introduce rare cattle to the perilous American west.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20260223184000 +0000" stop="20260223210000 +0000">
@@ -3514,15 +3519,25 @@
 		<desc>(1943) Second World War drama starring Tyrone Power and Anne Baxter. An ambitious naval officer falls in love with a school teacher before leaving on a dangerous submarine mission.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="F4" start="20260224131000 +0000" stop="20260224160000 +0000">
+	<programme channel="F4" start="20260224131000 +0000" stop="20260224155000 +0000">
 		<title>Twelve O'Clock High</title>
 		<desc>(1949) World War II drama starring Gregory Peck as a US general who must treat a demoralised bomber squadron severely to restore discipline. With Oscar-winning support from Dean Jagger.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="F4" start="20260224160000 +0000" stop="20260224185000 +0000">
+	<programme channel="F4" start="20260224155000 +0000" stop="20260224160000 +0000">
+		<title>Django Unchained Interview Special</title>
+		<desc>Director Quentin Tarantino and stars Samuel L Jackson, Christoph Waltz, Jamie Foxx and Kerry Washington talk about making the western adventure set against a backdrop of slavery.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20260224160000 +0000" stop="20260224184000 +0000">
 		<title>First Knight</title>
 		<desc>(1995) Romantic drama based on Arthurian legend, starring Richard Gere, Sean Connery and Julia Ormond. Can nomadic swordsman Lancelot contain his love for King Arthur's fiancée?</desc>
 		<icon src="https://ic.c4assets.com/vps/first-knight/a32beffa-b2ad-4fae-82ce-af883a9cb2c3.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20260224184000 +0000" stop="20260224185000 +0000">
+		<title>Men in Black: International...</title>
+		<desc>...Interview Special: Stars Chris Hemsworth and Tessa Thompson, director F Gary Gray and producers Walter Parkes and Laurie Macdonald talk about bringing the series back for a fourth part.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20260224185000 +0000" stop="20260224210000 +0000">
 		<title>Men in Black: International</title>
