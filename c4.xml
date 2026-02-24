@@ -131,7 +131,7 @@
 	</programme>
 	<programme channel="C4" start="20260224190000 +0000" stop="20260224200000 +0000">
 		<title>Channel 4 News</title>
-		<desc>Channel 4's flagship news programme. Including the weather.</desc>
+		<desc>'Rude, arrogant and entitled' - just some of the words MPs used to describe Andrew Mountbatten-Windsor in a break with convention. And Ukraine marks four years since Russia's invasion.</desc>
 		<icon src="https://ic.c4assets.com/vps/channel-4-news/05489614-DABD-461C-95812297607AEE28.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260224200000 +0000" stop="20260224210000 +0000">
@@ -2692,7 +2692,7 @@
 	<programme channel="M4" start="20260226220000 +0000" stop="20260226230500 +0000">
 		<title>999: On the Front Line</title>
 		<desc>Brand new series: Paramedics treat a motorcyclist who's landed headfirst after colliding with a car and an 11-year-old girl who's drowsy and feeling sick following a seizure. (S14 Ep1)</desc>
-		<icon src="https://ic.c4assets.com/vps/999-on-the-front-line-7/D37F2B0F-F0D1-461D-A09E6A6DA63B7B7B.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/999-on-the-front-line-7/C01A7313-EF39-4FD8-8F5F3C59221DDB89.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="M4" start="20260226230500 +0000" stop="20260227001000 +0000">
 		<title>999: On the Front Line</title>
@@ -3294,9 +3294,14 @@
 		<desc>(1942) Ginger Rogers stars in this comedy of romantic misadventure. A woman poses as a girl to get a cheap rail fare. But things get awkward when she falls for a man who helps her out.</desc>
 		<icon src="https://ic.c4assets.com/vps/the-major-and-the-minor/023FEBE2-897D-410D-8BF60C45447355D9.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="F4" start="20260225163500 +0000" stop="20260225185000 +0000">
+	<programme channel="F4" start="20260225163500 +0000" stop="20260225184500 +0000">
 		<title>Drums Along the Mohawk</title>
 		<desc>(1939) John Ford western with Henry Fonda and Claudette Colbert. In 1776, a settler and his wife attempt to farm in the Mohawk Valley but face attacks from Native Americans and the English.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20260225184500 +0000" stop="20260225185000 +0000">
+		<title>Suffragette Interview Special</title>
+		<desc>Writer Abi Morgan, director Sarah Gavron and star Anne-Marie Duff talk about their powerful period political drama Suffragette.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20260225185000 +0000" stop="20260225210000 +0000">
