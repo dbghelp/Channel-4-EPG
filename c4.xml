@@ -1062,7 +1062,7 @@
 	<programme channel="C4" start="20260330160000 +0000" stop="20260330163000 +0000">
 		<title>Four in a Bed</title>
 		<desc>The new run continues. Emma Louise and Liv host at their 527-year-old pub in Kent, where spooky, spectral tales and a chaotic bout of drag bingo and karaoke await the B&amp;Bers.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/four-in-a-bed-series-19/0CF48C96-8169-453A-9CC794E1513F03F8.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260330163000 +0000" stop="20260330170000 +0000">
 		<title>Come Dine with Me</title>
@@ -1102,7 +1102,7 @@
 	<programme channel="C4" start="20260330232000 +0000" stop="20260331001500 +0000">
 		<title>New: Sphinx</title>
 		<desc>Chilling drama from Walter Presents. An abducted teenager re-appears after three years, but the huge back tattoo isn't the only thing about her that's unrecognisable. In Dutch/subs. (Ep1)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/sphinx-yr-1/6D25881A-954D-43F8-A61A027C33E3C2AA.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260331001500 +0000" stop="20260331011500 +0000">
 		<title>A Woman of Substance</title>
@@ -1886,8 +1886,8 @@
 	</programme>
 	<programme channel="E4" start="20260329072500 +0000" stop="20260329075500 +0000">
 		<title>Modern Family</title>
-		<desc>Tree's a Crowd: The Dunphy home is bursting when Dylan's hippie mum moves in and Claire's stepdad wants to visit. Jay and Gloria try to help Manny get over his breakup. (S11 Ep8)</desc>
-		<icon src="https://ic.c4assets.com/brands/modern-family/series-11/episode-8/de7d4f76-fad7-4124-9297-adfb5ae0731e.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<desc>The Last Christmas: Cameron hopes to keep everyone happy for Christmas dinner, but Mitchell thinks he has an ulterior motive. Meanwhile, Claire tries to dodge Jay's job offer. (S11 Ep9)</desc>
+		<icon src="https://ic.c4assets.com/brands/modern-family/series-11/episode-9/6368c2cc-f89d-49bc-b5fa-751cea6cbedb.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20260329075500 +0000" stop="20260329085500 +0000">
 		<title>Ramsay's Kitchen Nightmares USA</title>
@@ -3259,9 +3259,14 @@
 		<desc>No programme</desc>
 		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/150px-Film4_logo_2018.svg.png" />
 	</programme>
-	<programme channel="F4" start="20260329100000 +0000" stop="20260329125000 +0000">
+	<programme channel="F4" start="20260329100000 +0000" stop="20260329124000 +0000">
 		<title>Those Magnificent Men...</title>
 		<desc>...in Their Flying Machines: (1965) Newspaper boss Robert Morley puts up a £10,000 prize for the winner of a flight from London to Paris, and soon a motley assortment of aviators is ready.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20260329124000 +0000" stop="20260329125000 +0000">
+		<title>Men in Black 3 Interview Special</title>
+		<desc>Stars Will Smith and Josh Brolin and director Barry Sonnenfeld talk about making the third sci-fi comedy adventure in the Men in Black series.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20260329125000 +0000" stop="20260329153000 +0000">
@@ -3274,10 +3279,15 @@
 		<desc>(2016) Taraji P. Henson, Octavia Spencer and Janelle Monáe star in the Oscar-nominated, fact-based drama about three women whose genius made a significant contribution to the space race.</desc>
 		<icon src="https://ic.c4assets.com/vps/hidden-figures/dcccc032-8ce4-4829-9430-665968e37b4e.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="F4" start="20260329180500 +0000" stop="20260329200000 +0000">
+	<programme channel="F4" start="20260329180500 +0000" stop="20260329195000 +0000">
 		<title>Men in Black II</title>
 		<desc>(2002) Tommy Lee Jones and Will Smith star in the tough action sequel to their sci-fi comedy about US government agents who secretly protect Earth from extraterrestrial criminals.</desc>
 		<icon src="https://ic.c4assets.com/vps/men-in-black-ii/51233982-407c-4cd6-8fa5-48692deaadac.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20260329195000 +0000" stop="20260329200000 +0000">
+		<title>Men in Black 3 Interview Special</title>
+		<desc>Stars Will Smith and Josh Brolin and director Barry Sonnenfeld talk about making the third sci-fi comedy adventure in the Men in Black series.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20260329200000 +0000" stop="20260329214500 +0000">
 		<title>Transporter 2</title>
