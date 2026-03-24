@@ -131,7 +131,7 @@
 	</programme>
 	<programme channel="C4" start="20260324190000 +0000" stop="20260324200000 +0000">
 		<title>Channel 4 News</title>
-		<desc>Channel 4's flagship news programme. Including the weather.</desc>
+		<desc>Iran and Israel continue their attacks with strikes on Tehran, Tel Aviv, Bahrain and Beirut. And as oil prices rise, the UK government pledges energy bill support for those most in need.</desc>
 		<icon src="https://ic.c4assets.com/vps/channel-4-news/C789E8A1-60C7-4C71-8FD220A577B539B4.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260324200000 +0000" stop="20260324210000 +0000">
@@ -627,7 +627,7 @@
 	<programme channel="C4" start="20260327200000 +0000" stop="20260327210000 +0000">
 		<title>New: Keir Starmer: Where Did It...</title>
 		<desc>...All Go Wrong? Dispatches: Lewis Goodall examines how the Starmer government became so unpopular so quickly, less than two years after the biggest election landslide in UK history.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/keir-starmer-where-did-it-all-go-wrong-dispatches/0341A086-0DE5-434F-BB2B5CD331D8DF64.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260327210000 +0000" stop="20260327220000 +0000">
 		<title>New: Gogglebox</title>
@@ -839,15 +839,25 @@
 		<desc>Itchy and Scratchy: The Movie: While Homer and Marge are at parents' evening, Bart breaks the babysitter's teeth. So Homer vows never to let him see the Itchy and Scratchy film. (S4 Ep6/22)</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20260329043500 +0000" stop="20260329060000 +0000">
+	<programme channel="C4" start="20260329043500 +0000" stop="20260329050000 +0000">
 		<title>The Simpsons</title>
 		<desc>Marge Gets a Job: When Marge gets a job at the power plant, Mr Burns falls in love with her and invites her over to dinner, complete with a kidnapped Tom Jones to serenade them. (S4 Ep7/22)</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20260329060000 +0000" stop="20260329061500 +0000">
+	<programme channel="C4" start="20260329050000 +0000" stop="20260329052500 +0000">
+		<title>The King of Queens</title>
+		<desc>Oxy Moron: Carrie's upset when, on a bumpy plane landing, Doug takes the only oxygen mask. Things don't go as well as hoped for Spence with the hot Brazilian exchange student. (S4 Ep10/25)</desc>
+		<icon src="https://ic.c4assets.com/brands/the-king-of-queens/series-4/episode-10/7147a4f9-b590-4dbc-bd34-0233763fd3f2.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="C4" start="20260329052500 +0000" stop="20260329055000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Channel_4_%28On_Demand%29_2023.svg/150px-Channel_4_%28On_Demand%29_2023.svg.png" />
+	</programme>
+	<programme channel="C4" start="20260329055000 +0000" stop="20260329061500 +0000">
+		<title>The King of Queens</title>
+		<desc>Ovary Action: Doug's parents' visit coincides with Carrie's 'fertile time'. (S4 Ep12/25)</desc>
+		<icon src="https://ic.c4assets.com/brands/the-king-of-queens/series-4/episode-12/4c182afd-c229-414b-89a1-2e3a632bd8f4.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260329061500 +0000" stop="20260329064000 +0000">
 		<title>Everybody Loves Raymond</title>
@@ -1859,15 +1869,15 @@
 		<desc>This time the Goggleboxers watch: Strictly, Changing Ends, One Shot with Ed Sheeran, All Her Fault, The Marvellous Miniature Workshop and Sara Davies' Christmas Craft Off. (S26 Ep14)</desc>
 		<icon src="https://ic.c4assets.com/vps/gogglebox-series-26/08CB30C0-ED98-4398-B7C25D7C2675BCEB.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20260329041000 +0000" stop="20260329060000 +0000">
+	<programme channel="E4" start="20260329041000 +0000" stop="20260329050000 +0000">
 		<title>Ramsay's Kitchen Nightmares USA</title>
 		<desc>Lela's: In California, Gordon Ramsay visits Lela's, a fine dining restaurant run by inexperienced owner Lela and young chef Ricky. Can Gordon save them from complete disaster? (S1 Ep6)</desc>
 		<icon src="https://ic.c4assets.com/vps/ramsays-kitchen-nightmares-usa/bbee6d73-fb12-40d4-aa48-fbb173e7c54c.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20260329060000 +0000" stop="20260329060500 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/E4_logo_2018.svg/120px-E4_logo_2018.svg.png" />
+	<programme channel="E4" start="20260329050000 +0000" stop="20260329060500 +0000">
+		<title>Hollyoaks Omnibus</title>
+		<desc>Mercedes wants to know what Jenson's up to. Warren makes a decision, but is he too late? Friends support Diane and Tony. And Rex experiments with his image for the first time in public.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20260329060500 +0000" stop="20260329063000 +0000">
 		<title>Modern Family</title>
@@ -2867,7 +2877,7 @@
 	<programme channel="M4" start="20260329200000 +0000" stop="20260329210000 +0000">
 		<title>New: The Emergency Ward</title>
 		<desc>Brand new series: The series with unprecedented access to the Royal Melbourne Hospital returns. Doctors fear surfer Andre will never walk again after he crashed into a sandbank. (S6 Ep1)</desc>
-		<icon src="https://ic.c4assets.com/vps/the-emergency-ward/2265068D-D595-4E58-9CFFBE10F6F3B466.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/emergency-ward-the-yr-6/714139C5-C069-4DA2-97E2046D0EEF9AE1.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="M4" start="20260329210000 +0000" stop="20260329220500 +0000">
 		<title>24 Hours in A&amp;E</title>
@@ -2882,7 +2892,7 @@
 	<programme channel="M4" start="20260329230500 +0000" stop="20260330000500 +0000">
 		<title>The Emergency Ward</title>
 		<desc>Brand new series: The series with unprecedented access to the Royal Melbourne Hospital returns. Doctors fear surfer Andre will never walk again after he crashed into a sandbank. (S6 Ep1)</desc>
-		<icon src="https://ic.c4assets.com/vps/the-emergency-ward/2265068D-D595-4E58-9CFFBE10F6F3B466.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/emergency-ward-the-yr-6/714139C5-C069-4DA2-97E2046D0EEF9AE1.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="M4" start="20260330000500 +0000" stop="20260330011000 +0000">
 		<title>24 Hours in A&amp;E</title>
