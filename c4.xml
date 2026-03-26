@@ -132,7 +132,7 @@
 	<programme channel="C4" start="20260326190000 +0000" stop="20260326200000 +0000">
 		<title>Channel 4 News</title>
 		<desc>Israel says it has killed Iran's top naval commander. Trump tells Iran to 'get serious' on negotiations. And the British military is authorised to seize Russian ships in British seas.</desc>
-		<icon src="https://ic.c4assets.com/vps/channel-4-news/C789E8A1-60C7-4C71-8FD220A577B539B4.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/channel-4-news-2026/D51760F2-8F94-4D87-A4EC81690EECF42F.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260326200000 +0000" stop="20260326210000 +0000">
 		<title>George Clarke's Building Home</title>
@@ -764,20 +764,20 @@
 		<desc>...Cooking for Less: Emma and Matt's hectic schedules mixed with two energetic kids is a recipe for mealtime mayhem. Can they turn chaotic convenience into bountiful batching? (S2 Ep6)</desc>
 		<icon src="https://ic.c4assets.com/vps/batch-from-scratch-cooking-for-less-series-2/C7FD3383-F121-4155-86F99EF69372358B.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20260330200000 +0000" stop="20260330210500 +0000">
+	<programme channel="C4" start="20260330200000 +0000" stop="20260330210000 +0000">
+		<title>24 Hours in A&amp;E</title>
+		<desc>Fifteen-year-old Meldred is rushed into A&amp;E after being stabbed in the thigh by a stranger while walking to school. Sports commentator Andrew has a mysterious rash on his ankle. (S26 Ep5)</desc>
+		<icon src="https://ic.c4assets.com/brands/24-hours-in-ae/series-20/episode-10/2f5e43cb-e2c9-4bb1-825a-453effce4299.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="C4" start="20260330210000 +0000" stop="20260330220500 +0000">
 		<title>New: The Hunt: Prey vs Predator</title>
 		<desc>The epic adventure reality contest continues. Predator turns on Predator, but will it pay off? One player goes all in on their biggest threat, and a fiery clash sets rivalries alight. (Ep5)</desc>
 		<icon src="https://ic.c4assets.com/vps/the-stakeout/1B2E3127-616B-4195-96B868A9CE68B085.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20260330210500 +0000" stop="20260330222000 +0000">
+	<programme channel="C4" start="20260330220500 +0000" stop="20260330232000 +0000">
 		<title>The Great Celebrity Bake Off...</title>
 		<desc>...for Stand Up To Cancer: Molly-Mae Hague, Richard Herring, JoJo Siwa and Babatunde Aléshé make decorated traybakes and tarte tatin, and recreate childhood toys in biscuits. (S9 Ep2)</desc>
 		<icon src="https://ic.c4assets.com/vps/the-great-stand-up-to-cancer-bake-off-series-9-16---molly-mae-jojo-richard-baba/0196D6A1-4508-41A7-BC85E6633981CECE.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="C4" start="20260330222000 +0000" stop="20260330232000 +0000">
-		<title>Naked Attraction</title>
-		<desc>Married couple Abbie and Charlie are missing one thing from their family: a woman to turn them into a throuple. And glamour puss Chrissie is looking for husband number four. (S11 Ep3)</desc>
-		<icon src="https://ic.c4assets.com/brands/naked-attraction/series-10/episode-3/c2c95b7a-722d-4b93-83f3-98e163ba195f.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260330232000 +0000" stop="20260331001500 +0000">
 		<title>New: Sphinx</title>
@@ -907,7 +907,7 @@
 	<programme channel="C4" start="20260331163000 +0000" stop="20260331170000 +0000">
 		<title>Come Dine with Me</title>
 		<desc>The new run continues. In Sheffield, Sally hopes to impress with a Shanghai menu, but one guest's starter leaves them tongue tied. But can her piano skills strike the right chord? (Ep2/5)</desc>
-		<icon src="https://ic.c4assets.com/vps/come-dine-with-me/595B586B-5CFF-4796-AE9C6B1AAFCF8E6A.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/come-dine-with-me-daytime-series-23/FD4644DB-4CC9-4FA8-866322021FD8D8DF.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260331170000 +0000" stop="20260331180000 +0000">
 		<title>Jasmine Harman's Renovation in...</title>
@@ -925,29 +925,29 @@
 		<icon src="https://ic.c4assets.com/vps/the-dog-house-series-5/8EAE6F19-163B-4DCC-822F8A37EF38FEB7.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260331200000 +0000" stop="20260331210000 +0000">
+		<title>Grand Designs</title>
+		<desc>Artist Sarah returns to her roots in the Durham Dales to build a cannabis-based home. But costs go through the roof. Can she get her hempcrete hub of a home over the line?</desc>
+		<icon src="https://ic.c4assets.com/vps/grand-designs-series-24---originations/EE6E47E5-63D9-4324-81E8C757259E2A86.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="C4" start="20260331210000 +0000" stop="20260331215500 +0000">
 		<title>New: The Hunt: Prey vs Predator</title>
 		<desc>The epic adventure reality contest continues. With five Predators and two Prey, the players face a brutal reset - and a shock decision delivers the biggest upset of the game so far. (Ep6)</desc>
 		<icon src="https://ic.c4assets.com/vps/the-stakeout/563D23DD-CF90-4CC6-9694EA7335830F26.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20260331210000 +0000" stop="20260331220000 +0000">
+	<programme channel="C4" start="20260331215500 +0000" stop="20260331230000 +0000">
 		<title>Gogglebox</title>
 		<desc>What do Britain's sharpest armchair critics think of Virgin Island, The Four Seasons, Race Across the World, The Piano, I Kissed a Boy and Prue Leith's Cotswold Kitchen? (S25 Ep14)</desc>
 		<icon src="https://ic.c4assets.com/vps/gogglebox-series-25/5268B7C3-1E98-440F-816ACB4173C55708.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20260331220000 +0000" stop="20260331230500 +0000">
+	<programme channel="C4" start="20260331230000 +0000" stop="20260331235500 +0000">
 		<title>Gogglebox</title>
 		<desc>The Goggleboxers settle in for more of the biggest and best TV. What do they think this time? (S27 Ep8)</desc>
 		<icon src="https://ic.c4assets.com/vps/gogglebox-series-27/B412129E-3087-471C-9FB19943E876D575.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20260331230500 +0000" stop="20260401000000 +0000">
+	<programme channel="C4" start="20260331235500 +0000" stop="20260401005000 +0000">
 		<title>Open House: The Great Sex...</title>
 		<desc>...Experiment: Jess and Ben explore a non-monogamous lifestyle in the hot tub with Olivia and Gage, where Jess faces a big fear. And Kirsty and Tom consider attending a huge orgy. (S2 Ep4)</desc>
 		<icon src="https://ic.c4assets.com/brands/open-house-the-great-sex-experiment/series-2/episode-4/07a930da-1dc2-4a69-8de7-3378b95669d3.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="C4" start="20260401000000 +0000" stop="20260401005000 +0000">
-		<title>Ramsay's Hotel Hell</title>
-		<desc>Cambridge Hotel: Gordon visits Cambridge, NY, where ex-military man John Imhof runs the Cambridge Hotel like a dictatorship, alienating his staff and guests. (S1 Ep2)</desc>
-		<icon src="https://ic.c4assets.com/vps/ramsays-hotel-hell/1327fba9-5c6c-4093-b038-319e123810ad.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260401005000 +0000" stop="20260401014500 +0000">
 		<title>The Hunt: Prey vs Predator</title>
@@ -1097,7 +1097,7 @@
 	<programme channel="C4" start="20260401210000 +0000" stop="20260401223000 +0000">
 		<title>New: Hatton Garden: The Great...</title>
 		<desc>...Diamond Heist: In 2015, a gang of ageing criminals pulled off a multi-million heist in London's Hatton Garden diamond district. What happened next? And where are the stolen millions?</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/hatton-garden-diamond-robbery-the-new-evidence/9FF2E15C-BDC7-4B56-960E243D1A1746A1.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260401223000 +0000" stop="20260401233000 +0000">
 		<title>Emergency Helicopter Medics</title>
