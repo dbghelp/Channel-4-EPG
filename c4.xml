@@ -131,7 +131,7 @@
 	</programme>
 	<programme channel="C4" start="20260330180000 +0000" stop="20260330190000 +0000">
 		<title>Channel 4 News</title>
-		<desc>Channel 4's flagship news programme. Including the weather.</desc>
+		<desc>Trump says he wants Iran's oil but threatens to obliterate its oil wells. The PM tells drivers keep calm and carry on filling up. And aid cuts put babies' lives at risk in Sierra Leone.</desc>
 		<icon src="https://ic.c4assets.com/vps/channel-4-news/C789E8A1-60C7-4C71-8FD220A577B539B4.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260330190000 +0000" stop="20260330200000 +0000">
@@ -1974,10 +1974,15 @@
 		<desc>Singleton Nicole's friends call her Bridget Jones. At first glance, chartered surveyor Gary is no Mr Darcy, but will his karaoke skills impress Nicole? (S5 Ep2)</desc>
 		<icon src="https://ic.c4assets.com/vps/first-dates/c32b6959-4cab-458a-969a-8fc3a80b8fb0.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20260405011000 +0000" stop="20260405030000 +0000">
-		<title>Gogglebox</title>
-		<desc>With The Celebrity Traitors, Strictly, Bake Off, Coronation Street, Married at First Sight UK. The Assembly, All's Fair and Songs of Praise. (S26 Ep15)</desc>
-		<icon src="https://ic.c4assets.com/vps/gogglebox-series-26/0C4DC891-69D0-4147-9EC5842E775B7EDE.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	<programme channel="E4" start="20260405011000 +0000" stop="20260405020500 +0000">
+		<title>Vicky Pattison: Maybe, Baby?</title>
+		<desc>Brand new series: Vicky and her husband Ercan face a big decision; should they start a family? Vicky gives motherhood a trial run and sees how her frozen embryos are getting on. (Ep1/2)</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="E4" start="20260405020500 +0000" stop="20260405030000 +0000">
+		<title>Vicky Pattison: Maybe, Baby?</title>
+		<desc>Brand new series: Vicky and Ercan meet a mum who had her children through surrogacy and an adoptive mum. But are they any closer to deciding whether parenthood is right for them? (Ep2/2)</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20260405030000 +0000" stop="20260405032500 +0000">
 		<title>Modern Family</title>
@@ -2957,7 +2962,7 @@
 	<programme channel="M4" start="20260405200000 +0000" stop="20260405210000 +0000">
 		<title>New: The Emergency Ward</title>
 		<desc>Brand new series: At the Royal Melbourne Hospital, a motorcyclist can't feel his legs after a crash. And a student evacuated out of the Middle East has devastating shrapnel wounds. (S6 Ep2)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/emergency-ward-the-yr-6/22311438-A301-4BC4-873C665CCF8ECC04.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="M4" start="20260405210000 +0000" stop="20260405220500 +0000">
 		<title>24 Hours in A&amp;E</title>
@@ -2972,7 +2977,7 @@
 	<programme channel="M4" start="20260405231000 +0000" stop="20260406001500 +0000">
 		<title>The Emergency Ward</title>
 		<desc>Brand new series: At the Royal Melbourne Hospital, a motorcyclist can't feel his legs after a crash. And a student evacuated out of the Middle East has devastating shrapnel wounds. (S6 Ep2)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/emergency-ward-the-yr-6/22311438-A301-4BC4-873C665CCF8ECC04.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="M4" start="20260406001500 +0000" stop="20260406012000 +0000">
 		<title>24 Hours in A&amp;E</title>
@@ -3985,29 +3990,29 @@
 		<icon src="https://ic.c4assets.com/vps/i-bought-it-at-auction-with-sarah-beeny/D107B190-EFCA-49DF-A1DD79AE2320F801.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20260404200000 +0000" stop="20260404210000 +0000">
-		<title>A Woman of Substance</title>
-		<desc>Epic rags-to-riches drama with Brenda Blethyn and Jessica Reynolds. With Britain at war, Emma takes a huge gamble to stay afloat. But it could cost her far more than her business. (Ep7/8)</desc>
-		<icon src="https://ic.c4assets.com/vps/a-woman-of-substance/206481F0-6226-4708-8BFF91D24ED2D286.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<title>Grand Designs</title>
+		<desc>Artist Sarah returns to her roots in the Durham Dales to build a cannabis-based home. But costs go through the roof. Can she get her hempcrete hub of a home over the line?</desc>
+		<icon src="https://ic.c4assets.com/vps/grand-designs-series-24---originations/EE6E47E5-63D9-4324-81E8C757259E2A86.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="4S" start="20260404210000 +0000" stop="20260404220500 +0000">
-		<title>A Woman of Substance</title>
-		<desc>Epic rags-to-riches drama with Brenda Blethyn and Jessica Reynolds. As the war rages on, Emma battles to keep her empire afloat, but would she really get into bed with the Fairleys? (Ep8/8)</desc>
-		<icon src="https://ic.c4assets.com/vps/a-woman-of-substance/CFB4EF82-A012-456D-A2612FE7ED2099F2.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4S" start="20260404220500 +0000" stop="20260404230500 +0000">
-		<title>24 Hours in A&amp;E</title>
-		<desc>Adrian has injuries to his face and has been bitten on his arm breaking up a fight in the city centre. Andy's had a motorbike accident. And Connor's fallen 12 feet off a roof. (S35 Ep4)</desc>
-		<icon src="https://ic.c4assets.com/vps/24-hours-in-a-e-nottingham---where-we-belong/293E91BE-98C9-41CA-A3BC5B1DC67044AC.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4S" start="20260404230500 +0000" stop="20260405013500 +0000">
+	<programme channel="4S" start="20260404210000 +0000" stop="20260404233000 +0000">
 		<title>xXx</title>
 		<desc>(2002) Action thriller starring Vin Diesel as Xander Cage: a thrill-seeking extreme sports enthusiast, stuntman and rebellious athlete-turned-reluctant spy. With Samuel L Jackson.</desc>
 		<icon src="https://ic.c4assets.com/vps/xxx/a3d6701e-f730-48c0-a050-06a5583a1735.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="4S" start="20260405013500 +0000" stop="20260405024000 +0000">
+	<programme channel="4S" start="20260404233000 +0000" stop="20260405003500 +0000">
 		<title>Naked Attraction</title>
 		<desc>Married couple Abbie and Charlie are missing one thing from their family: a woman to turn them into a throuple. And glamour puss Chrissie is looking for husband number four. (S11 Ep3)</desc>
 		<icon src="https://ic.c4assets.com/brands/naked-attraction/series-10/episode-3/c2c95b7a-722d-4b93-83f3-98e163ba195f.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4S" start="20260405003500 +0000" stop="20260405013500 +0000">
+		<title>A Woman of Substance</title>
+		<desc>Epic rags-to-riches drama with Brenda Blethyn and Jessica Reynolds. With Britain at war, Emma takes a huge gamble to stay afloat. But it could cost her far more than her business. (Ep7/8)</desc>
+		<icon src="https://ic.c4assets.com/vps/a-woman-of-substance/206481F0-6226-4708-8BFF91D24ED2D286.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4S" start="20260405013500 +0000" stop="20260405024000 +0000">
+		<title>A Woman of Substance</title>
+		<desc>Epic rags-to-riches drama with Brenda Blethyn and Jessica Reynolds. As the war rages on, Emma battles to keep her empire afloat, but would she really get into bed with the Fairleys? (Ep8/8)</desc>
+		<icon src="https://ic.c4assets.com/vps/a-woman-of-substance/CFB4EF82-A012-456D-A2612FE7ED2099F2.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20260405024000 +0000" stop="20260405033000 +0000">
 		<title>First Dates</title>
