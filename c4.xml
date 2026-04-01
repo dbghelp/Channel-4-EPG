@@ -837,7 +837,7 @@
 	<programme channel="C4" start="20260406160000 +0000" stop="20260406170000 +0000">
 		<title>Chateau DIY</title>
 		<desc>Charming chateaux renovations return! Alison and Zion restore a chapel for a diamond-anniversary couple. Sharon and Tim revive a tower suite. Louisa and Roger begin a big renewal. (S6 Ep1)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/chateau-diy-series-9/61E2A298-0F03-4A61-880C6758772B724B.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260406170000 +0000" stop="20260406180000 +0000">
 		<title>Jasmine Harman's Renovation in...</title>
@@ -1002,7 +1002,7 @@
 	<programme channel="C4" start="20260407160000 +0000" stop="20260407170000 +0000">
 		<title>Chateau DIY</title>
 		<desc>The new series continues. Donna and Paul race to finish a risky new floor. Terry and Ashley gamble on their most lavish suite yet. Can Sharon and Tim complete their tower suite? (S6 Ep2)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/chateau-diy-series-9/8A22D2D2-9590-43DD-8A138C4042F5A15A.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260407170000 +0000" stop="20260407180000 +0000">
 		<title>Jasmine Harman's Renovation in...</title>
@@ -1186,8 +1186,8 @@
 	</programme>
 	<programme channel="E4" start="20260401211000 +0000" stop="20260401221500 +0000">
 		<title>Gogglebox</title>
-		<desc>The Goggleboxers watch Wheel of Fortune, Trigger Point, Love Is Blind, Boarders, Michael McIntyre's Big Show and more. (S23 Ep2)</desc>
-		<icon src="https://ic.c4assets.com/brands/gogglebox/series-23/episode-2/bdca4202-1885-4af0-8ca2-0e7f8dc00853.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<desc>This special episode features the best moments from 2021's Gogglebox, as some of the nation's sharpest and best-loved TV critics hit the sofa for the best telly on the box. (S17 Ep14)</desc>
+		<icon src="https://ic.c4assets.com/brands/gogglebox/series-17/episode-14/04f438f4-2d56-4cde-9b51-d771205ace4c.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20260401221500 +0000" stop="20260401232000 +0000">
 		<title>First Dates</title>
@@ -1534,15 +1534,20 @@
 		<desc>Zoe is struggling to find someone who shares her enthusiasm for the natural look. Derry is worried that his jet-set lifestyle is ruining his chances of finding love. (S4 Ep2)</desc>
 		<icon src="https://ic.c4assets.com/brands/naked-attraction/series-3/episode-6/4fea7199-c143-4d20-942b-ffa4430edd90.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20260404010500 +0000" stop="20260404020000 +0000">
-		<title>Gogglebox</title>
-		<desc>The Goggleboxers watch Trigger Point, One Day, Married at First Sight Australia, Sort Your Life Out, Into the Congo with Ben Fogle, Earthsounds and This Morning. (S23 Ep4)</desc>
-		<icon src="https://ic.c4assets.com/brands/gogglebox/series-23/episode-4/108ba906-aa1e-49ec-80fd-06676bc3a8b1.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20260404020000 +0000" stop="20260404030000 +0000">
+	<programme channel="E4" start="20260404010500 +0000" stop="20260404020500 +0000">
 		<title>First Dates: The Proposal</title>
 		<desc>Three daters return to the restaurant hoping for better luck second time around, while some couples who had great dates return - and one of them gets down on bended knee...</desc>
 		<icon src="https://ic.c4assets.com/vps/first-dates/5784257c-2868-4264-9d90-40626d4c362b.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="E4" start="20260404020500 +0000" stop="20260404023000 +0000">
+		<title>The Inbetweeners</title>
+		<desc>Thorpe Park: After passing his driving test, Simon takes the boys on their first road trip: a day out at Thorpe Park, where Will disgraces himself on the roller coaster. (S1 Ep3/6)</desc>
+		<icon src="https://ic.c4assets.com/brands/the-inbetweeners/series-1/episode-3/decb0934-9f55-4672-8ca5-aa54eaa8450d.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="E4" start="20260404023000 +0000" stop="20260404030000 +0000">
+		<title>The Inbetweeners</title>
+		<desc>Will Gets a Girlfriend: Will sees that going to a mixed-sex school isn't so bad when he pulls the most popular girl in the year above. But he alienates his hard-won new friends. (S1 Ep4/6)</desc>
+		<icon src="https://ic.c4assets.com/brands/the-inbetweeners/series-1/episode-4/880b1f61-9be7-4589-bc20-2e0fd3730fea.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20260404030000 +0000" stop="20260404032500 +0000">
 		<title>The Goldbergs</title>
@@ -1561,7 +1566,7 @@
 	</programme>
 	<programme channel="E4" start="20260404050000 +0000" stop="20260404061000 +0000">
 		<title>Lego Masters Australia</title>
-		<desc>The Grand Finale: It's time for the finale, and the three Grand Master teams have 28 hours to showcase their skills with their most impressive builds yet. (S5 Ep14)</desc>
+		<desc>The Grand Finale: It's time for the final. The three best Grand Master teams have 28 hours to showcase their skills with their most impressive builds yet. (S5 Ep14)</desc>
 		<icon src="https://ic.c4assets.com/vps/lego-masters-australia-yr-5/E84B7935-8A0E-4DFC-88FC4017943EFE23.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20260404061000 +0000" stop="20260404074000 +0000">
@@ -4077,7 +4082,7 @@
 	<programme channel="4S" start="20260407140000 +0000" stop="20260407150000 +0000">
 		<title>Chateau DIY</title>
 		<desc>Charming chateaux renovations return! Alison and Zion restore a chapel for a diamond-anniversary couple. Sharon and Tim revive a tower suite. Louisa and Roger begin a big renewal. (S6 Ep1)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/chateau-diy-series-9/61E2A298-0F03-4A61-880C6758772B724B.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20260407150000 +0000" stop="20260407153000 +0000">
 		<title>Kirstie and Phil's Love It or...</title>
