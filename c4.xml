@@ -126,8 +126,8 @@
 	</programme>
 	<programme channel="C4" start="20260402180000 +0000" stop="20260402190000 +0000">
 		<title>Channel 4 News</title>
-		<desc>Channel 4's flagship news programme. Including the weather.</desc>
-		<icon src="https://ic.c4assets.com/vps/channel-4-news/E69D603F-A22E-422E-8197192EEBB0799D.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<desc>Donald Trump threatens to take Iran 'back to the Stone Age' in an address to the nation that rattles markets instead of calming nerves. And is Artemis 2 the start of a Moon base race?</desc>
+		<icon src="https://ic.c4assets.com/vps/channel-4-news-2026/84D23086-95EF-43E3-B054835415964DBB.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260402190000 +0000" stop="20260402200000 +0000">
 		<title>George Clarke's Building Home</title>
@@ -285,8 +285,8 @@
 		<icon src="https://ic.c4assets.com/vps/inside-cadbury-chocolate-secrets-unwrapped/67aabf74-bc2a-48af-94c0-5ec783cb9eb9.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260403200000 +0000" stop="20260403210000 +0000">
-		<title>Gogglebox</title>
-		<desc>The Goggleboxers return for more of the biggest and best TV. What do they think this time? (S27 Ep9)</desc>
+		<title>New: Gogglebox</title>
+		<desc>This time it's Race Across the World, Married at First Sight Australia, The Apprentice, Last One Laughing, Secrets of the Bees, Just One Thing and Celebrity Ex on the Beach. (S27 Ep9)</desc>
 		<icon src="https://ic.c4assets.com/vps/gogglebox-series-27/CA82E75C-A800-410C-B684848EAAB0B976.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260403210000 +0000" stop="20260403220500 +0000">
@@ -571,12 +571,12 @@
 	</programme>
 	<programme channel="C4" start="20260405215500 +0000" stop="20260405230000 +0000">
 		<title>Gogglebox</title>
-		<desc>The Goggleboxers return for more of the biggest and best TV. What do they think this time? (S27 Ep9)</desc>
+		<desc>This time it's Race Across the World, Married at First Sight Australia, The Apprentice, Last One Laughing, Secrets of the Bees, Just One Thing and Celebrity Ex on the Beach. (S27 Ep9)</desc>
 		<icon src="https://ic.c4assets.com/vps/gogglebox-series-27/CA82E75C-A800-410C-B684848EAAB0B976.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260405230000 +0000" stop="20260406010000 +0000">
 		<title>Speed</title>
-		<desc>(1994) Action thriller with Keanu Reeves, Sandra Bullock and Dennis Hopper. When a terrorist places a bomb on a bus, a cop and a passenger must steer it to safety. Strong language/violence.</desc>
+		<desc>(1994) Action thriller with Keanu Reeves, Sandra Bullock and Dennis Hopper. When a terrorist places a bomb on a bus, a cop and a passenger must steer it to safety.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260406010000 +0000" stop="20260406015000 +0000">
@@ -881,7 +881,7 @@
 	</programme>
 	<programme channel="C4" start="20260407230500 +0000" stop="20260408000000 +0000">
 		<title>Gogglebox</title>
-		<desc>The Goggleboxers return for more of the biggest and best TV. What do they think this time? (S27 Ep9)</desc>
+		<desc>This time it's Race Across the World, Married at First Sight Australia, The Apprentice, Last One Laughing, Secrets of the Bees, Just One Thing and Celebrity Ex on the Beach. (S27 Ep9)</desc>
 		<icon src="https://ic.c4assets.com/vps/gogglebox-series-27/CA82E75C-A800-410C-B684848EAAB0B976.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260408000000 +0000" stop="20260408005500 +0000">
@@ -1627,7 +1627,7 @@
 	<programme channel="E4" start="20260405193000 +0000" stop="20260405200000 +0000">
 		<title>The Simpsons</title>
 		<desc>You Won't Believe What This Episode Is About - Act Three Will Shock You!: Homer goes viral after accidentally locking Santa's Little Helper in the car. (S33 Ep14)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/simpsons-the-year-33/55552174-37F2-47B0-A9EFE9DBB912CAB9.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20260405200000 +0000" stop="20260405224000 +0000">
 		<title>Top Gun: Maverick</title>
@@ -3326,7 +3326,7 @@
 	</programme>
 	<programme channel="F4" start="20260408200000 +0000" stop="20260408214500 +0000">
 		<title>Jules</title>
-		<desc>(2023) Heartwarming low-sci-fi comedy starring Ben Kingsley. A widower in the early stages of dementia ends up with an unusual houseguest when a spaceship crashes in his garden.</desc>
+		<desc>(2023) Heartwarming low-fi sci-fi comedy starring Ben Kingsley. A widower in the early stages of dementia acquires an out-of-this-world house guest when a spaceship crashes in his garden.</desc>
 		<icon src="https://ic.c4assets.com/vps/jules-2023/2F916216-1164-4B90-A198BE6120DDBDFB.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20260408214500 +0000" stop="20260408233000 +0000">
@@ -3435,9 +3435,9 @@
 		<icon src="https://ic.c4assets.com/brands/open-house-the-great-sex-experiment/series-2/episode-4/07a930da-1dc2-4a69-8de7-3378b95669d3.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20260403003000 +0000" stop="20260403013500 +0000">
-		<title>Naked Attraction</title>
-		<desc>Married couple Abbie and Charlie are missing one thing from their family: a woman to turn them into a throuple. And glamour puss Chrissie is looking for husband number four. (S11 Ep3)</desc>
-		<icon src="https://ic.c4assets.com/brands/naked-attraction/series-10/episode-3/c2c95b7a-722d-4b93-83f3-98e163ba195f.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<title>Britain's Most Expensive Houses</title>
+		<desc>Constance is on a mission to get the listing for a celebrity singer's £12.5m home, Guy values a quaint cottage in Henley-on-Thames, and Diana takes on a high-end rental. (S2 Ep2)</desc>
+		<icon src="https://ic.c4assets.com/brands/britains-most-expensive-houses/series-3/episode-2/d0cab386-a918-4803-a1d0-04020bc47a74.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20260403013500 +0000" stop="20260403023500 +0000">
 		<title>Emergency Helicopter Medics</title>
@@ -3546,7 +3546,7 @@
 	</programme>
 	<programme channel="4S" start="20260403220500 +0000" stop="20260403230500 +0000">
 		<title>Gogglebox</title>
-		<desc>The Goggleboxers return for more of the biggest and best TV. What do they think this time? (S27 Ep9)</desc>
+		<desc>This time it's Race Across the World, Married at First Sight Australia, The Apprentice, Last One Laughing, Secrets of the Bees, Just One Thing and Celebrity Ex on the Beach. (S27 Ep9)</desc>
 		<icon src="https://ic.c4assets.com/vps/gogglebox-series-27/CA82E75C-A800-410C-B684848EAAB0B976.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20260403230500 +0000" stop="20260404000500 +0000">
@@ -3675,9 +3675,9 @@
 		<icon src="https://ic.c4assets.com/vps/xxx/a3d6701e-f730-48c0-a050-06a5583a1735.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20260404233000 +0000" stop="20260405003500 +0000">
-		<title>Naked Attraction</title>
-		<desc>Married couple Abbie and Charlie are missing one thing from their family: a woman to turn them into a throuple. And glamour puss Chrissie is looking for husband number four. (S11 Ep3)</desc>
-		<icon src="https://ic.c4assets.com/brands/naked-attraction/series-10/episode-3/c2c95b7a-722d-4b93-83f3-98e163ba195f.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<title>Open House: The Great Sex...</title>
+		<desc>...Experiment: Jess and Ben explore a non-monogamous lifestyle in the hot tub with Olivia and Gage, where Jess faces a big fear. And Kirsty and Tom consider attending a huge orgy. (S2 Ep4)</desc>
+		<icon src="https://ic.c4assets.com/brands/open-house-the-great-sex-experiment/series-2/episode-4/07a930da-1dc2-4a69-8de7-3378b95669d3.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20260405003500 +0000" stop="20260405013500 +0000">
 		<title>A Woman of Substance</title>
@@ -3791,7 +3791,7 @@
 	</programme>
 	<programme channel="4S" start="20260405200000 +0000" stop="20260405210000 +0000">
 		<title>Gogglebox</title>
-		<desc>The Goggleboxers return for more of the biggest and best TV. What do they think this time? (S27 Ep9)</desc>
+		<desc>This time it's Race Across the World, Married at First Sight Australia, The Apprentice, Last One Laughing, Secrets of the Bees, Just One Thing and Celebrity Ex on the Beach. (S27 Ep9)</desc>
 		<icon src="https://ic.c4assets.com/vps/gogglebox-series-27/CA82E75C-A800-410C-B684848EAAB0B976.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20260405210000 +0000" stop="20260405220000 +0000">
@@ -3911,7 +3911,7 @@
 	</programme>
 	<programme channel="4S" start="20260406235500 +0000" stop="20260407010000 +0000">
 		<title>Gogglebox</title>
-		<desc>The Goggleboxers return for more of the biggest and best TV. What do they think this time? (S27 Ep9)</desc>
+		<desc>This time it's Race Across the World, Married at First Sight Australia, The Apprentice, Last One Laughing, Secrets of the Bees, Just One Thing and Celebrity Ex on the Beach. (S27 Ep9)</desc>
 		<icon src="https://ic.c4assets.com/vps/gogglebox-series-27/CA82E75C-A800-410C-B684848EAAB0B976.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20260407010000 +0000" stop="20260407020000 +0000">
@@ -4146,7 +4146,7 @@
 	</programme>
 	<programme channel="4S" start="20260408231500 +0000" stop="20260409002000 +0000">
 		<title>Gogglebox</title>
-		<desc>The Goggleboxers return for more of the biggest and best TV. What do they think this time? (S27 Ep9)</desc>
+		<desc>This time it's Race Across the World, Married at First Sight Australia, The Apprentice, Last One Laughing, Secrets of the Bees, Just One Thing and Celebrity Ex on the Beach. (S27 Ep9)</desc>
 		<icon src="https://ic.c4assets.com/vps/gogglebox-series-27/CA82E75C-A800-410C-B684848EAAB0B976.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20260409002000 +0000" stop="20260409012000 +0000">
@@ -4156,8 +4156,8 @@
 	</programme>
 	<programme channel="4S" start="20260409012000 +0000" stop="20260409022000 +0000">
 		<title>Open House: The Great Sex...</title>
-		<desc>...Experiment: Jess and Ben explore a non-monogamous lifestyle in the hot tub with Olivia and Gage, where Jess faces a big fear. And Kirsty and Tom consider attending a huge orgy. (S2 Ep4)</desc>
-		<icon src="https://ic.c4assets.com/brands/open-house-the-great-sex-experiment/series-2/episode-4/07a930da-1dc2-4a69-8de7-3378b95669d3.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<desc>...Experiment: Chelsea and George seek a threesome, but will it help Chelsea move past George's sexually adventurous past and infidelity? Jess and Ben host a naked dinner party. (S2 Ep5)</desc>
+		<icon src="https://ic.c4assets.com/brands/open-house-the-great-sex-experiment/series-2/episode-5/f935da0f-80a7-43d8-b859-3359fc0950d8.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20260409022000 +0000" stop="20260409031500 +0000">
 		<title>24 Hours in A&amp;E</title>
@@ -4777,7 +4777,7 @@
 	<programme channel="4M" start="20260407170000 +0000" stop="20260407180000 +0000">
 		<title>New: Property Brothers: Buying...</title>
 		<desc>...and Selling: Brand new series: Nurse Jenna and firefighter Neil must sell his frat house so they can live together. Can his place be revived and smoke out the competition? (S4 Ep2)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/property-brothers-yr-4---neil-jenna/120F2777-8229-49A9-9CC8F72892935AB0.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4M" start="20260407180000 +0000" stop="20260407190000 +0000">
 		<title>Below Deck</title>
