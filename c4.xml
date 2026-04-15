@@ -257,7 +257,7 @@
 	<programme channel="C4" start="20260416131000 +0000" stop="20260416140000 +0000">
 		<title>Countdown</title>
 		<desc>Colin Murray, Rachel Riley and Susie Dent host, with Ranvir Singh in Dictionary Corner, as contestants race against the clock to pit their wits against vowels, consonants and numbers.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/countdown/9F551DCB-BA8E-43DC-9C9F94BF045664C3.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260416140000 +0000" stop="20260416150000 +0000">
 		<title>A Place in the Sun</title>
@@ -342,7 +342,7 @@
 	<programme channel="C4" start="20260417044500 +0000" stop="20260417052500 +0000">
 		<title>Countdown</title>
 		<desc>Another chance to catch yesterday's new episode, with Ranvir Singh in Dictionary Corner. Colin Murray, Rachel Riley and Susie Dent host.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/countdown/9F551DCB-BA8E-43DC-9C9F94BF045664C3.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260417052500 +0000" stop="20260417055500 +0000">
 		<title>Cheers</title>
@@ -3309,10 +3309,15 @@
 		<desc>No programme</desc>
 		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/150px-Film4_logo_2018.svg.png" />
 	</programme>
-	<programme channel="F4" start="20260419100000 +0000" stop="20260419122000 +0000">
+	<programme channel="F4" start="20260419100000 +0000" stop="20260419121500 +0000">
 		<title>Local Hero</title>
 		<desc>(1983) Comedy starring Peter Riegert, Burt Lancaster and Peter Capaldi. A US oil company executive tries to persuade a small Scottish seaside community to sell up their entire village.</desc>
 		<icon src="https://ic.c4assets.com/vps/local-hero-1983/6E9D5033-0405-452A-AD38F61DCB2A0498.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20260419121500 +0000" stop="20260419122000 +0000">
+		<title>Last Night in Soho Interview...</title>
+		<desc>...Special: Director Edgar Wright and co-writer Krysty Wilson-Cairns discuss travelling through time and recreating the past to make the ingenious and atmospheric psychological thriller.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20260419122000 +0000" stop="20260419171000 +0000">
 		<title>Cleopatra</title>
@@ -3627,7 +3632,7 @@
 	<programme channel="4S" start="20260416180000 +0000" stop="20260416190000 +0000">
 		<title>Primark vs John Lewis: Battle...</title>
 		<desc>...of the Brands: It's a contest of penny-pinching power versus posh polish. From homeware to beauty to online, how did Primark's bargains muscle in on John Lewis's bougie turf? (Ep3)</desc>
-		<icon src="https://ic.c4assets.com/vps/rivals/4B177131-703B-41B6-904E1B0FE130332E.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/rivals---ep-1/BA6D017C-02C9-47B9-9EFFC4C7D526E929.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20260416190000 +0000" stop="20260416200000 +0000">
 		<title>Help! I Bought It at Auction...</title>
