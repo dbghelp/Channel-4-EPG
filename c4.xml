@@ -349,7 +349,12 @@
 		<desc>Some extra brunch as Tim Lovejoy and Simon Rimmer host the food and chat show.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20260504035000 +0000" stop="20260504045500 +0000">
+	<programme channel="C4" start="20260504035000 +0000" stop="20260504040000 +0000">
+		<title>Jamie's One-Pan Wonders</title>
+		<desc>Jamie Oliver makes a one-pan salmon pie.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="C4" start="20260504040000 +0000" stop="20260504045500 +0000">
 		<title>Sarah Beeny's New Country Lives</title>
 		<desc>Dave and Lynn get to work on their dream farmhouse kitchen-diner, while Pete goes shopping for a tractor for his family's new smallholding. (Ep2)</desc>
 		<icon src="https://ic.c4assets.com/brands/sarah-beenys-new-country-lives/series-1/episode-6/1a4fa8a8-e01c-418c-8e31-aac86b005d43.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
