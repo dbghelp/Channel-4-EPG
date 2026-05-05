@@ -3274,10 +3274,15 @@
 		<desc>(1953) Richard Carlson stars as an astronomer who sees an alien craft land. But nobody believes him - until the cloning starts in Jack Arnold's science-fiction classic.</desc>
 		<icon src="https://ic.c4assets.com/vps/it-came-from-outer-space-1953/D3EE0544-8108-40F2-82A87EAA2933A701.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="F4" start="20260509151500 +0000" stop="20260509171500 +0000">
+	<programme channel="F4" start="20260509151500 +0000" stop="20260509170500 +0000">
 		<title>Brian and Charles</title>
 		<desc>(2022) Heartwarming comedy written by and starring David Earl and Chris Hayward. A lonely inventor creates himself an AI robot friend. But what happens when his companion wants to move on?</desc>
 		<icon src="https://ic.c4assets.com/vps/brian-and-charles/F371DE5A-262B-469C-903AAC440B9A840E.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20260509170500 +0000" stop="20260509171500 +0000">
+		<title>The Martian Interview Special</title>
+		<desc>Director Ridley Scott talks about making his science-fiction survival adventure starring Matt Damon.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20260509171500 +0000" stop="20260509200000 +0000">
 		<title>The Martian</title>
