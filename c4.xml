@@ -126,8 +126,8 @@
 	</programme>
 	<programme channel="C4" start="20260506180000 +0000" stop="20260506190000 +0000">
 		<title>Channel 4 News</title>
-		<desc>Channel 4's flagship news programme. Including the weather.</desc>
-		<icon src="https://ic.c4assets.com/vps/channel-4-news/B81EC798-A92D-4977-900910B1EDB05E82.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<desc>A special report on how not a single Environment Agency prosecution for polluting water companies has been completed in five years. And Trump presses pause in the Strait of Hormuz.</desc>
+		<icon src="https://ic.c4assets.com/vps/channel-4-news-2026/46624D8F-0F16-4E3A-978BD84EC3954F67.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260506190000 +0000" stop="20260506200000 +0000">
 		<title>New: Location, Location, Location</title>
