@@ -1259,7 +1259,12 @@
 		<desc>Welcome to Wrexham, The Good Ship Murder, Married at First Sight UK, Coronation Street and Nadiya's Simple Spices are just some of the great TV shows up for review. (S22 Ep7)</desc>
 		<icon src="https://ic.c4assets.com/brands/gogglebox/series-22/episode-7/23b7d567-9ad8-473f-80e6-71db4cf4c009.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20260508004000 +0000" stop="20260508021500 +0000">
+	<programme channel="E4" start="20260508004000 +0000" stop="20260508004500 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/E4_logo_2018.svg/120px-E4_logo_2018.svg.png" />
+	</programme>
+	<programme channel="E4" start="20260508004500 +0000" stop="20260508021500 +0000">
 		<title>Married at First Sight Australia</title>
 		<desc>Brand new series: The final dinner party is upon us, and one couple are on the brink after the tumult of meeting their alternate matches. (S13 Ep36)</desc>
 		<icon src="https://ic.c4assets.com/vps/married-at-first-sight-australia-yr-13/A64CDD18-56FE-4686-B3BBE97790BA6B47.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
