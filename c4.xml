@@ -1846,38 +1846,38 @@
 	</programme>
 	<programme channel="E4" start="20260524072500 +0000" stop="20260524083000 +0000">
 		<title>Married at First Sight USA</title>
-		<desc>Brand new series: One couple struggle to deal with a massive bombshell on their honeymoon in Panama. And one bride gets a surprise gift. (S19 Ep4)</desc>
+		<desc>Brand new series: One couple struggle to deal with a massive bombshell on their honeymoon in Panama. (S19 Ep4)</desc>
 		<icon src="https://ic.c4assets.com/vps/married-at-first-sight-usa-yr-19/D4220EB5-CA5E-40D2-80DB78DA6A9419CD.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20260524083000 +0000" stop="20260524093000 +0000">
-		<title>Ramsay's Kitchen Nightmares USA</title>
-		<desc>The Greek at the Harbor: Gordon Ramsay helps a family-run Greek restaurant turn its fortunes around in Ventura Harbor in California. But he uncovers a shocking family secret... (S5 Ep7)</desc>
-		<icon src="https://ic.c4assets.com/brands/ramsays-kitchen-nightmares-usa/series-5/episode-7/cdd4fd53-9552-4e19-988d-f3533387681a.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20260524093000 +0000" stop="20260524103000 +0000">
-		<title>Ramsay's Kitchen Nightmares USA</title>
-		<desc>Mike and Nellie's: In Oakhurst, Gordon Ramsay helps the overwhelmed owner of Mike and Nellie's restaurant, who lost his way when his father and business partner died. (S5 Ep8)</desc>
-		<icon src="https://ic.c4assets.com/brands/ramsays-kitchen-nightmares-usa/series-5/episode-8/cd9aa364-d2ec-4e5b-a4ed-251709b36cdc.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20260524103000 +0000" stop="20260524113000 +0000">
-		<title>Ramsay's Kitchen Nightmares USA</title>
-		<desc>El Greco: Gordon Ramsay visits struggling Greek restaurant El Greco, where the owners have secretly recruited 'Chef Mike' the microwave to help them out on a daily basis. (S5 Ep9)</desc>
-		<icon src="https://ic.c4assets.com/brands/ramsays-kitchen-nightmares-usa/series-5/episode-9/d51d4f56-d5d8-4879-8c79-af46d0d20cde.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20260524113000 +0000" stop="20260524123000 +0000">
-		<title>Ramsay's Kitchen Nightmares USA</title>
-		<desc>Michon's: Can Gordon help the unwell owner of a family-run Atlanta smokehouse address his daughter's hands-off management style? (S5 Ep11)</desc>
-		<icon src="https://ic.c4assets.com/brands/ramsays-kitchen-nightmares-usa/series-5/episode-10/60714ac6-38ed-4735-9ee4-6e01328ec62c.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20260524123000 +0000" stop="20260524125500 +0000">
+	<programme channel="E4" start="20260524083000 +0000" stop="20260524085500 +0000">
 		<title>The Simpsons</title>
 		<desc>Itchy and Scratchy: The Movie: While Homer and Marge are at parents' evening, Bart breaks the babysitter's teeth. So Homer vows never to let him see the Itchy and Scratchy film. (S4 Ep6/22)</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20260524125500 +0000" stop="20260524133000 +0000">
+	<programme channel="E4" start="20260524085500 +0000" stop="20260524093000 +0000">
 		<title>The Simpsons</title>
 		<desc>Marge Gets a Job: When Marge gets a job at the power plant, Mr Burns falls in love with her and invites her over to dinner, complete with a kidnapped Tom Jones to serenade them. (S4 Ep7/22)</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="E4" start="20260524093000 +0000" stop="20260524103000 +0000">
+		<title>Ramsay's Kitchen Nightmares USA</title>
+		<desc>The Greek at the Harbor: Gordon Ramsay helps a family-run Greek restaurant turn its fortunes around in Ventura Harbor in California. But he uncovers a shocking family secret... (S5 Ep7)</desc>
+		<icon src="https://ic.c4assets.com/brands/ramsays-kitchen-nightmares-usa/series-5/episode-7/cdd4fd53-9552-4e19-988d-f3533387681a.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="E4" start="20260524103000 +0000" stop="20260524113000 +0000">
+		<title>Ramsay's Kitchen Nightmares USA</title>
+		<desc>Mike and Nellie's: In Oakhurst, Gordon Ramsay helps the overwhelmed owner of Mike and Nellie's restaurant, who lost his way when his father and business partner died. (S5 Ep8)</desc>
+		<icon src="https://ic.c4assets.com/brands/ramsays-kitchen-nightmares-usa/series-5/episode-8/cd9aa364-d2ec-4e5b-a4ed-251709b36cdc.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="E4" start="20260524113000 +0000" stop="20260524123000 +0000">
+		<title>Ramsay's Kitchen Nightmares USA</title>
+		<desc>El Greco: Gordon Ramsay visits struggling Greek restaurant El Greco, where the owners have secretly recruited 'Chef Mike' the microwave to help them out on a daily basis. (S5 Ep9)</desc>
+		<icon src="https://ic.c4assets.com/brands/ramsays-kitchen-nightmares-usa/series-5/episode-9/d51d4f56-d5d8-4879-8c79-af46d0d20cde.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="E4" start="20260524123000 +0000" stop="20260524133000 +0000">
+		<title>Ramsay's Kitchen Nightmares USA</title>
+		<desc>Michon's: Can Gordon help the unwell owner of a family-run Atlanta smokehouse address his daughter's hands-off management style? (S5 Ep11)</desc>
+		<icon src="https://ic.c4assets.com/brands/ramsays-kitchen-nightmares-usa/series-5/episode-10/60714ac6-38ed-4735-9ee4-6e01328ec62c.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20260524133000 +0000" stop="20260524135500 +0000">
 		<title>The Simpsons</title>
@@ -2102,7 +2102,7 @@
 	<programme channel="E4" start="20260525200000 +0000" stop="20260525210000 +0000">
 		<title>New: Celebs Go Dating</title>
 		<desc>Brand new series: After an eventful mixer, Gabby and Joel discuss whether they can see a future together. And it's an emotional day for Stephen as he opens up to the agents. (S15 Ep16/20)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/celebs-go-dating-s15/428E1A8B-E20E-473E-9723F69452649066.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20260525210000 +0000" stop="20260525220500 +0000">
 		<title>Gogglebox</title>
@@ -2122,7 +2122,7 @@
 	<programme channel="E4" start="20260526001500 +0000" stop="20260526011500 +0000">
 		<title>Celebs Go Dating</title>
 		<desc>Brand new series: After an eventful mixer, Gabby and Joel discuss whether they can see a future together. And it's an emotional day for Stephen as he opens up to the agents. (S15 Ep16/20)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/celebs-go-dating-s15/428E1A8B-E20E-473E-9723F69452649066.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20260526011500 +0000" stop="20260526021000 +0000">
 		<title>Married at First Sight USA</title>
@@ -2267,7 +2267,7 @@
 	<programme channel="E4" start="20260526180000 +0000" stop="20260526183000 +0000">
 		<title>Hollyoaks</title>
 		<desc>The police give the Osbornes some worrying news. Two residents decide to move forward together. And when Warren steps in to help Mercedes, will sparks re-ignite?</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/hollyoaks/08FC4F10-943E-4087-8C1D65BDE18FB43C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20260526183000 +0000" stop="20260526190000 +0000">
 		<title>The Simpsons</title>
