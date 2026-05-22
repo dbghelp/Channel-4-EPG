@@ -127,7 +127,7 @@
 	<programme channel="C4" start="20260522180000 +0000" stop="20260522190000 +0000">
 		<title>Channel 4 News</title>
 		<desc>Channel 4's flagship news programme. Including the weather.</desc>
-		<icon src="https://ic.c4assets.com/vps/channel-4-news/B81EC798-A92D-4977-900910B1EDB05E82.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/channel-4-news-2026/4FDC2583-141F-45CD-B33C1A58DA0A32D3.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260522190000 +0000" stop="20260522200000 +0000">
 		<title>New: World's Biggest Curry...</title>
@@ -331,7 +331,7 @@
 	</programme>
 	<programme channel="C4" start="20260523221000 +0000" stop="20260524001000 +0000">
 		<title>Fever Pitch</title>
-		<desc>(1997) It's 1989, and Paul adores Arsenal. It's been about 20 years since they last won the league. Sounds familiar. But this year, they're getting close - and Paul's getting desperate.</desc>
+		<desc>(1997) It's 1989 and Paul adores Arsenal. It's been about 20 years since they last won the league. Sounds familiar? Well this year, they're getting close - and Paul's getting nervous.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260524001000 +0000" stop="20260524013000 +0000">
@@ -1912,7 +1912,7 @@
 	<programme channel="E4" start="20260526200000 +0000" stop="20260526210000 +0000">
 		<title>New: Celebs Go Dating</title>
 		<desc>Brand new series: PK Humble gets himself in trouble with the agents before going on a date. Stephen meets Claira for a make-or-break chat. Will Lucinda feel flutters with Oli? (S15 Ep17/20)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/celebs-go-dating-s15/EC15B38F-AAC7-47F0-B73D919599DF84AD.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20260526210000 +0000" stop="20260526220500 +0000">
 		<title>Gogglebox</title>
@@ -1932,7 +1932,7 @@
 	<programme channel="E4" start="20260527001500 +0000" stop="20260527011500 +0000">
 		<title>Celebs Go Dating</title>
 		<desc>Brand new series: PK Humble gets himself in trouble with the agents before going on a date. Stephen meets Claira for a make-or-break chat. Will Lucinda feel flutters with Oli? (S15 Ep17/20)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/celebs-go-dating-s15/EC15B38F-AAC7-47F0-B73D919599DF84AD.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20260527011500 +0000" stop="20260527021000 +0000">
 		<title>Married at First Sight USA</title>
@@ -3909,15 +3909,10 @@
 		<desc>The Goggleboxers check out Eurovision, Race Across the World, Dogs Behaving (Very) Badly, Jamie's Ultimate BBQ, Widow's Bay, Trading Places, Police Interceptors and the News. (S27 Ep16)</desc>
 		<icon src="https://ic.c4assets.com/vps/gogglebox-series-27/9A2C3C53-5252-4157-BB9623F78C97C70F.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="4S" start="20260524210000 +0000" stop="20260524220000 +0000">
-		<title>Marilyn and the Mob  </title>
-		<desc>Marilyn Monroe was 1950s Hollywood's brightest star. But beneath Tinseltown's glitz was an industry shaped by the mob. Did Marilyn pay dearly in a brutal game of power and betrayal? (Ep1/2)</desc>
-		<icon src="https://ic.c4assets.com/vps/marilyn-and-the-mob/25969C3C-5EAE-4586-9096E1AC16033BF5.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="4S" start="20260524220000 +0000" stop="20260524230500 +0000">
-		<title>Marilyn and the Mob  </title>
-		<desc>In 1962 Marilyn Monroe travels to Nevada with Frank Sinatra, placing her amid mobsters and dangerous rumours. Days later, she's found dead. Was her death just an accident? (Ep2/2)</desc>
-		<icon src="https://ic.c4assets.com/vps/marilyn-and-the-mob/39995197-0117-4226-827DB5F8506A2226.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	<programme channel="4S" start="20260524210000 +0000" stop="20260524230500 +0000">
+		<title>Fever Pitch</title>
+		<desc>(1997) It's 1989 and Paul adores Arsenal. It's been about 20 years since they last won the league. Sounds familiar? This year, they're getting close - and Paul's getting nervous.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20260524230500 +0000" stop="20260525000500 +0000">
 		<title>In the Footsteps of Killers</title>
@@ -4269,10 +4264,15 @@
 		<desc>The search for the best patisserie team in Britain is back! The teams take on Paris Brest with a twist and childhood toy showpieces concealing crumble and custard desserts. (S11 Ep1/10)</desc>
 		<icon src="https://ic.c4assets.com/vps/bake-off-the-professionals-series-9/3F7CA6AB-C883-4325-BFF32827FBF098AC.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="4S" start="20260527210000 +0000" stop="20260527231000 +0000">
-		<title>Dante's Peak</title>
-		<desc>(1997) Action thriller starring Pierce Brosnan and Linda Hamilton. The inhabitants of a volcano-side resort unwisely ignore a scientist's warning about its imminent eruption.</desc>
-		<icon src="https://ic.c4assets.com/vps/dante's-peak-1997/DD6DB2DA-8385-40BF-A77BE4C2730E3D72.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	<programme channel="4S" start="20260527210000 +0000" stop="20260527220500 +0000">
+		<title>Marilyn and the Mob  </title>
+		<desc>Marilyn Monroe was 1950s Hollywood's brightest star. But beneath Tinseltown's glitz was an industry shaped by the mob. Did Marilyn pay dearly in a brutal game of power and betrayal? (Ep1/2)</desc>
+		<icon src="https://ic.c4assets.com/vps/marilyn-and-the-mob/25969C3C-5EAE-4586-9096E1AC16033BF5.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="4S" start="20260527220500 +0000" stop="20260527231000 +0000">
+		<title>Marilyn and the Mob  </title>
+		<desc>In 1962 Marilyn Monroe travels to Nevada with Frank Sinatra, placing her amid mobsters and dangerous rumours. Days later, she's found dead. Was her death just an accident? (Ep2/2)</desc>
+		<icon src="https://ic.c4assets.com/vps/marilyn-and-the-mob/39995197-0117-4226-827DB5F8506A2226.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20260527231000 +0000" stop="20260528014000 +0000">
 		<title>She Said</title>
