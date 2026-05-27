@@ -1452,7 +1452,7 @@
 	<programme channel="E4" start="20260528200000 +0000" stop="20260528210000 +0000">
 		<title>New: Celebs Go Dating</title>
 		<desc>Brand new series: David questions whether Anthony has doubts, PK attempts to show a different side to his character, and Stephen decides whether to see Claira again, or not. (S15 Ep19/20)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/celebs-go-dating-s15/8A4D7D12-43AA-4A0A-89EBE6C5255D9461.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20260528210000 +0000" stop="20260528220500 +0000">
 		<title>Gogglebox</title>
@@ -1472,7 +1472,7 @@
 	<programme channel="E4" start="20260529001000 +0000" stop="20260529011000 +0000">
 		<title>Celebs Go Dating</title>
 		<desc>Brand new series: David questions whether Anthony has doubts, PK attempts to show a different side to his character, and Stephen decides whether to see Claira again, or not. (S15 Ep19/20)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/celebs-go-dating-s15/8A4D7D12-43AA-4A0A-89EBE6C5255D9461.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20260529011000 +0000" stop="20260529020500 +0000">
 		<title>Married at First Sight USA</title>
@@ -1632,7 +1632,7 @@
 	<programme channel="E4" start="20260529200000 +0000" stop="20260529210000 +0000">
 		<title>New: Celebs Go Dating: The Finale</title>
 		<desc>Brand new series: It's the end-of-agency party, but who have the celebs brought as their dates? And a surprise from the agents tests the connections that have been formed. (S15 Ep20/20)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/celebs-go-dating-s15/428E1A8B-E20E-473E-9723F69452649066.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20260529210000 +0000" stop="20260529225000 +0000">
 		<title>Bad Teacher</title>
@@ -1647,7 +1647,7 @@
 	<programme channel="E4" start="20260530010000 +0000" stop="20260530020000 +0000">
 		<title>Celebs Go Dating: The Finale</title>
 		<desc>Brand new series: It's the end-of-agency party, but who have the celebs brought as their dates? And a surprise from the agents tests the connections that have been formed. (S15 Ep20/20)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/celebs-go-dating-s15/428E1A8B-E20E-473E-9723F69452649066.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20260530020000 +0000" stop="20260530030000 +0000">
 		<title>Married at First Sight USA</title>
@@ -3529,10 +3529,15 @@
 		<desc>(1963) Cary Grant and Audrey Hepburn star Stanley Donen's stylish Hitchcockian comedy-thriller. When her husband is murdered, a woman discovers that he was involved in a huge gold heist.</desc>
 		<icon src="https://ic.c4assets.com/vps/charade/7011AD48-08AD-4FB0-B1B66ECF71671DCD.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="F4" start="20260602174500 +0000" stop="20260602200000 +0000">
+	<programme channel="F4" start="20260602174500 +0000" stop="20260602195000 +0000">
 		<title>Belle</title>
 		<desc>(2014) Amma Asante's powerful fact-based drama about Britain's first Black aristocrat. Gugu Mbatha-Raw portrays the extraordinary Dido Belle. Featuring Matthew Goode and Tom Wilkinson.</desc>
 		<icon src="https://ic.c4assets.com/vps/belle-2013/5731580B-6B10-4E85-BC017B1A29ABACA8.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20260602195000 +0000" stop="20260602200000 +0000">
+		<title>Django Unchained Interview Special</title>
+		<desc>Director Quentin Tarantino and stars Samuel L Jackson, Christoph Waltz, Jamie Foxx and Kerry Washington talk about making the western adventure set against a backdrop of slavery.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20260602200000 +0000" stop="20260602232000 +0000">
 		<title>Django Unchained</title>
