@@ -127,7 +127,7 @@
 	<programme channel="C4" start="20260601180000 +0000" stop="20260601190000 +0000">
 		<title>Channel 4 News</title>
 		<desc>Channel 4's flagship news programme. Including the weather.</desc>
-		<icon src="https://ic.c4assets.com/vps/channel-4-news/B81EC798-A92D-4977-900910B1EDB05E82.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/channel-4-news-2026/42418C64-9FBB-47B4-A442448B23BBF27D.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260601190000 +0000" stop="20260601200000 +0000">
 		<title>The Dog House</title>
@@ -2942,7 +2942,7 @@
 	<programme channel="M4" start="20260605200000 +0000" stop="20260605210500 +0000">
 		<title>New: Panda</title>
 		<desc>Brand new series - Starter, Main, Deceased: Comic crime drama from Walter Presents. There's murder on the menu when a food critic drops dead mid-meal. In French/subs. (S2 Ep6)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/panda-yr-2/633AD095-651F-4F0E-8788F9DD2DA4EE72.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="M4" start="20260605210500 +0000" stop="20260605221000 +0000">
 		<title>24 Hours in A&amp;E</title>
@@ -3332,7 +3332,7 @@
 	<programme channel="F4" start="20260603100000 +0000" stop="20260603113500 +0000">
 		<title>The Yellow Mountain</title>
 		<desc>(1954) Western. Lex Barker and Howard Duff star as prospectors whose friendship is tested when a promising seam of the gold is discovered in a Nevada mountain. With Mala Powers.</desc>
-		<icon src="https://ic.c4assets.com/vps/yellow-mountain-the/3AFDC462-BAA3-420A-91FD2148E8B16E0A.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/yellow-mountain-the/3B5EECA8-0F11-4A82-B1804AD4C428B200.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20260603113500 +0000" stop="20260603132000 +0000">
 		<title>Arizona Raiders</title>
@@ -3504,10 +3504,15 @@
 		<desc>No programme</desc>
 		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/150px-Film4_logo_2018.svg.png" />
 	</programme>
-	<programme channel="F4" start="20260607100000 +0000" stop="20260607120500 +0000">
+	<programme channel="F4" start="20260607100000 +0000" stop="20260607115500 +0000">
 		<title>The Mark of Zorro</title>
 		<desc>(1940) Swashbuckling action-adventure starring Tyrone Power. An aristocrat dons his mask and cape to fight for the rights of the poor in 19th-century California. With Basil Rathbone.</desc>
 		<icon src="https://ic.c4assets.com/vps/mark-of-zorro-the-1940-version/8B3C2380-EABF-4832-82C0445D3BF226AE.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20260607115500 +0000" stop="20260607120500 +0000">
+		<title>Bridge of Spies Interview Special</title>
+		<desc>Director Steven Spielberg and stars Tom Hanks and Mark Rylance talk about making their Cold War espionage drama.</desc>
+		<icon src="https://ic.c4assets.com/brands/film4-interview-specials/series-5/episode-1/7794ed00-abdf-4c4c-95bd-52b8cde199e7.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20260607120500 +0000" stop="20260607144500 +0000">
 		<title>The Andromeda Strain</title>
@@ -4662,7 +4667,7 @@
 	<programme channel="4M" start="20260603170000 +0000" stop="20260603173000 +0000">
 		<title>Storage Wars</title>
 		<desc>Just Deserts: Fingers crossed for no storage showdowns or stand offs in the desert town of Indio. If all the buyers take Darrell's approach, expect nothing but peace and quiet... (S8 Ep5)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/storage-wars-yr-8---just-deserts/79346282-DCDD-44C8-BE689DDB9C0CE37C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4M" start="20260603173000 +0000" stop="20260603180000 +0000">
 		<title>Storage Wars</title>
