@@ -3694,12 +3694,17 @@
 		<desc>(2023) Andrew Scott and Paul Mescal star in Andrew Haigh's haunting romance about a lonely screenwriter who gets the chance to talk to his dead parents as he starts a new relationship.</desc>
 		<icon src="https://ic.c4assets.com/vps/strangers-film---2018-version/9ECFAE84-9B76-4CB8-A30D86F8320A38A3.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="4S" start="20260612005000 +0000" stop="20260612015000 +0000">
+	<programme channel="4S" start="20260612005000 +0000" stop="20260612005500 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/4seven_logo_2018.svg/130px-4seven_logo_2018.svg.png" />
+	</programme>
+	<programme channel="4S" start="20260612005500 +0000" stop="20260612015500 +0000">
 		<title>Britain's Most Expensive Houses</title>
 		<desc>A £20m former home to royalty is up for sale on Hampstead's Billionaires' Row. There's a hunt for an X-factor home. And what impression will a £3.5m upside-down property make? (S3 Ep7)</desc>
 		<icon src="https://ic.c4assets.com/vps/britain-s-most-expensive-houses-series-3/5D5077A5-122B-4980-A223EF55DC9377EC.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="4S" start="20260612015000 +0000" stop="20260612025500 +0000">
+	<programme channel="4S" start="20260612015500 +0000" stop="20260612025500 +0000">
 		<title>Gogglebox</title>
 		<desc>The Goggleboxers watch Coronation Street, Educating Yorkshire, The Great British Bake Off, The Inheritance, Stranded on Honeymoon Island, The Guest and The Dog House. (S26 Ep1)</desc>
 		<icon src="https://ic.c4assets.com/vps/gogglebox-series-26/CE38F03A-FFE5-4C4C-9D06BE8B83FB489F.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
