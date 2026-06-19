@@ -136,7 +136,7 @@
 	</programme>
 	<programme channel="C4" start="20260619200000 +0000" stop="20260619210000 +0000">
 		<title>New: Celebrity Gogglebox</title>
-		<desc>The celebs hit the sofa for a new series. What do Rylan, Tom Allen, Mo Gilligan, Vicky Pattison, Denise van Outen and many others think of this week's TV? (S8 Ep3)</desc>
+		<desc>The celebs goggle at Countdown, Scam Interceptors, Best of the World with Antoni Porowski, Rivals, Swipe Right for Sperm, I Will Find You, and BBC News coverage of the World Cup. (S8 Ep3)</desc>
 		<icon src="https://ic.c4assets.com/vps/celebrity-gogglebox-series-8/159C9DAD-4ED1-4FA9-A0224B58365B3097.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260619210000 +0000" stop="20260619220500 +0000">
@@ -146,7 +146,7 @@
 	</programme>
 	<programme channel="C4" start="20260619220500 +0000" stop="20260619231000 +0000">
 		<title>New: TFI Friday Unplugged</title>
-		<desc>Chris Evans presents his iconic show with guests Jack Whitehall, Peter Crouch, Jimmy Floyd Hasselbank, Dawn O'Porter, Patrick Wilson, indie rockers Ash and pop legends Haircut 100. (Ep9)</desc>
+		<desc>Chris Evans presents his iconic show with guests Jack Whitehall, Dawn French, Emmanuel Petit, Peter Crouch, Steve Coogan, Patrick Wilson and Haircut 100. (Ep9)</desc>
 		<icon src="https://ic.c4assets.com/vps/tfi-friday-unplugged/4F31612E-AF1F-4219-BD6D23F2B8869763.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260619231000 +0000" stop="20260620005500 +0000">
@@ -476,7 +476,7 @@
 	</programme>
 	<programme channel="C4" start="20260621210000 +0000" stop="20260621220000 +0000">
 		<title>Celebrity Gogglebox</title>
-		<desc>What do famous faces from Rylan to Tom Allen, Mo Gilligan, Vicky Pattison, Denise van Outen and many others think of our top TV? (S8 Ep3)</desc>
+		<desc>The celebs goggle at Countdown, Scam Interceptors, Best of the World with Antoni Porowski, Rivals, Swipe Right for Sperm, I Will Find You, and BBC News coverage of the World Cup. (S8 Ep3)</desc>
 		<icon src="https://ic.c4assets.com/vps/celebrity-gogglebox-series-8/159C9DAD-4ED1-4FA9-A0224B58365B3097.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260621220000 +0000" stop="20260621230000 +0000">
@@ -961,7 +961,7 @@
 	</programme>
 	<programme channel="C4" start="20260624220500 +0000" stop="20260624231000 +0000">
 		<title>Celebrity Gogglebox</title>
-		<desc>What do famous faces from Rylan to Tom Allen, Mo Gilligan, Vicky Pattison, Denise van Outen and many others think of our top TV? (S8 Ep3)</desc>
+		<desc>The celebs goggle at Countdown, Scam Interceptors, Best of the World with Antoni Porowski, Rivals, Swipe Right for Sperm, I Will Find You, and BBC News coverage of the World Cup. (S8 Ep3)</desc>
 		<icon src="https://ic.c4assets.com/vps/celebrity-gogglebox-series-8/159C9DAD-4ED1-4FA9-A0224B58365B3097.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260624231000 +0000" stop="20260625000500 +0000">
@@ -3140,19 +3140,19 @@
 		<icon src="https://ic.c4assets.com/vps/popmaster-tv---series-2/923EA7F3-7163-4DC2-B05F7FAD37A003EF.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="M4" start="20260624200000 +0000" stop="20260624210000 +0000">
-		<title>Our Yorkshire Shop: A Victorian...</title>
-		<desc>...Restoration: With the grand opening days away, the team get cracking on a show-stopping window display. And the bakehouse oven faces a life-or-death safety test. (Ep3/4)</desc>
-		<icon src="https://ic.c4assets.com/vps/our-yorkshire-shop/EDCD044B-7690-4E19-BD3F6398DDFE3C84.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="M4" start="20260624210000 +0000" stop="20260624220500 +0000">
 		<title>24 Hours in A&amp;E</title>
 		<desc>Nasly is brought in with a life-threatening complication of diabetes. Charlie has bad chest and back pain and a complex medical history. Nurse Alison has a busy shift in Injuries. (S26 Ep2)</desc>
 		<icon src="https://ic.c4assets.com/brands/24-hours-in-ae/series-20/episode-12/4bf7bd7a-3a2d-47f6-a619-bb539f6a7090.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="M4" start="20260624220500 +0000" stop="20260624231000 +0000">
+	<programme channel="M4" start="20260624210000 +0000" stop="20260624220500 +0000">
 		<title>24 Hours in A&amp;E</title>
 		<desc>Stroke specialist Bryan's having a tough day as two patients arrive at St George's displaying severe symptoms. And is Ronnie's back pain kidney stones or something more serious? (S24 Ep10)</desc>
 		<icon src="https://ic.c4assets.com/brands/24-hours-in-ae/series-20/episode-13/db29826f-ec44-4aa5-be5d-f9a485458b10.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="M4" start="20260624220500 +0000" stop="20260624231000 +0000">
+		<title>Emergency Helicopter Medics</title>
+		<desc>Two air ambulance teams scramble to help a critically injured dad and his two young sons after a car collision. Gardener Graham has a nasty open ankle fracture. (S5 Ep6)</desc>
+		<icon src="https://ic.c4assets.com/vps/helicopter-medics-series-5/22C2437B-893A-470A-AD217392F926A9F3.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="M4" start="20260624231000 +0000" stop="20260625001500 +0000">
 		<title>999: On the Front Line</title>
@@ -3291,8 +3291,8 @@
 	</programme>
 	<programme channel="M4" start="20260625231000 +0000" stop="20260626001500 +0000">
 		<title>999: On the Front Line</title>
-		<desc>On a dramatic and busy Friday night, a paramedic is assaulted, an ambulance is under siege, and a young mother fights for breath while she tries to look after her newborn. (S3 Ep5)</desc>
-		<icon src="https://ic.c4assets.com/brands/999-on-the-frontline/series-3/episode-5/8207b595-c8c2-485f-bce3-c85a22efbfa1.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<desc>Paramedics treat a man who is fighting a life-threatening infection, and are called to a cardiac arrest in the street and a serious road traffic collision. (S4 Ep10)</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="M4" start="20260626001500 +0000" stop="20260626012000 +0000">
 		<title>24 Hours in A&amp;E</title>
@@ -3726,7 +3726,7 @@
 	</programme>
 	<programme channel="4S" start="20260619220500 +0000" stop="20260619230500 +0000">
 		<title>Celebrity Gogglebox</title>
-		<desc>What do famous faces from Rylan to Tom Allen, Mo Gilligan, Vicky Pattison, Denise van Outen and many others think of our top TV? (S8 Ep3)</desc>
+		<desc>The celebs goggle at Countdown, Scam Interceptors, Best of the World with Antoni Porowski, Rivals, Swipe Right for Sperm, I Will Find You, and BBC News coverage of the World Cup. (S8 Ep3)</desc>
 		<icon src="https://ic.c4assets.com/vps/celebrity-gogglebox-series-8/159C9DAD-4ED1-4FA9-A0224B58365B3097.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20260619230500 +0000" stop="20260620000500 +0000">
@@ -3851,7 +3851,7 @@
 	</programme>
 	<programme channel="4S" start="20260620230000 +0000" stop="20260621001000 +0000">
 		<title>Celebrity Gogglebox</title>
-		<desc>What do famous faces from Rylan to Tom Allen, Mo Gilligan, Vicky Pattison, Denise van Outen and many others think of our top TV? (S8 Ep3)</desc>
+		<desc>The celebs goggle at Countdown, Scam Interceptors, Best of the World with Antoni Porowski, Rivals, Swipe Right for Sperm, I Will Find You, and BBC News coverage of the World Cup. (S8 Ep3)</desc>
 		<icon src="https://ic.c4assets.com/vps/celebrity-gogglebox-series-8/159C9DAD-4ED1-4FA9-A0224B58365B3097.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20260621001000 +0000" stop="20260621020000 +0000">
@@ -3951,7 +3951,7 @@
 	</programme>
 	<programme channel="4S" start="20260621200000 +0000" stop="20260621210000 +0000">
 		<title>Celebrity Gogglebox</title>
-		<desc>What do famous faces from Rylan to Tom Allen, Mo Gilligan, Vicky Pattison, Denise van Outen and many others think of our top TV? (S8 Ep3)</desc>
+		<desc>The celebs goggle at Countdown, Scam Interceptors, Best of the World with Antoni Porowski, Rivals, Swipe Right for Sperm, I Will Find You, and BBC News coverage of the World Cup. (S8 Ep3)</desc>
 		<icon src="https://ic.c4assets.com/vps/celebrity-gogglebox-series-8/159C9DAD-4ED1-4FA9-A0224B58365B3097.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20260621210000 +0000" stop="20260621231500 +0000">
@@ -4076,7 +4076,7 @@
 	</programme>
 	<programme channel="4S" start="20260622230500 +0000" stop="20260623001000 +0000">
 		<title>Celebrity Gogglebox</title>
-		<desc>What do famous faces from Rylan to Tom Allen, Mo Gilligan, Vicky Pattison, Denise van Outen and many others think of our top TV? (S8 Ep3)</desc>
+		<desc>The celebs goggle at Countdown, Scam Interceptors, Best of the World with Antoni Porowski, Rivals, Swipe Right for Sperm, I Will Find You, and BBC News coverage of the World Cup. (S8 Ep3)</desc>
 		<icon src="https://ic.c4assets.com/vps/celebrity-gogglebox-series-8/159C9DAD-4ED1-4FA9-A0224B58365B3097.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20260623001000 +0000" stop="20260623011000 +0000">
@@ -4191,7 +4191,7 @@
 	</programme>
 	<programme channel="4S" start="20260623220500 +0000" stop="20260623230500 +0000">
 		<title>Celebrity Gogglebox</title>
-		<desc>What do famous faces from Rylan to Tom Allen, Mo Gilligan, Vicky Pattison, Denise van Outen and many others think of our top TV? (S8 Ep3)</desc>
+		<desc>The celebs goggle at Countdown, Scam Interceptors, Best of the World with Antoni Porowski, Rivals, Swipe Right for Sperm, I Will Find You, and BBC News coverage of the World Cup. (S8 Ep3)</desc>
 		<icon src="https://ic.c4assets.com/vps/celebrity-gogglebox-series-8/159C9DAD-4ED1-4FA9-A0224B58365B3097.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20260623230500 +0000" stop="20260624000500 +0000">
@@ -4326,7 +4326,7 @@
 	</programme>
 	<programme channel="4S" start="20260625010500 +0000" stop="20260625021000 +0000">
 		<title>Celebrity Gogglebox</title>
-		<desc>What do famous faces from Rylan to Tom Allen, Mo Gilligan, Vicky Pattison, Denise van Outen and many others think of our top TV? (S8 Ep3)</desc>
+		<desc>The celebs goggle at Countdown, Scam Interceptors, Best of the World with Antoni Porowski, Rivals, Swipe Right for Sperm, I Will Find You, and BBC News coverage of the World Cup. (S8 Ep3)</desc>
 		<icon src="https://ic.c4assets.com/vps/celebrity-gogglebox-series-8/159C9DAD-4ED1-4FA9-A0224B58365B3097.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20260625021000 +0000" stop="20260625031000 +0000">
@@ -4446,7 +4446,7 @@
 	</programme>
 	<programme channel="4S" start="20260626022000 +0000" stop="20260626032000 +0000">
 		<title>Celebrity Gogglebox</title>
-		<desc>What do famous faces from Rylan to Tom Allen, Mo Gilligan, Vicky Pattison, Denise van Outen and many others think of our top TV? (S8 Ep3)</desc>
+		<desc>The celebs goggle at Countdown, Scam Interceptors, Best of the World with Antoni Porowski, Rivals, Swipe Right for Sperm, I Will Find You, and BBC News coverage of the World Cup. (S8 Ep3)</desc>
 		<icon src="https://ic.c4assets.com/vps/celebrity-gogglebox-series-8/159C9DAD-4ED1-4FA9-A0224B58365B3097.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20260626032000 +0000" stop="20260626035000 +0000">
@@ -4772,12 +4772,12 @@
 	<programme channel="4M" start="20260621210000 +0000" stop="20260621213000 +0000">
 		<title>Russell Howard &amp; Mum: USA Road...</title>
 		<desc>...Trip: Will Ninette and Russell be showing off their pearly whites when they try to fit in with the elated locals in the happiest city in the USA: Naples, Florida? (S2 Ep5/6)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/being-happy-in-naples/22A6AB1E-EE7F-429C-B543A259797CA76B.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4M" start="20260621213000 +0000" stop="20260621220000 +0000">
 		<title>Russell Howard &amp; Mum: USA Road...</title>
 		<desc>...Trip: Roll up, roll up. Watch Russell and Ninette join the World of Wonders at an All-American State Fair in Indiana. Expect swords, snakes, straitjackets and guillotines! (S2 Ep6/6)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/side-showing-at-the-state-fair/A47C8C14-1D92-4B08-BFEE489AF7D53D94.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4M" start="20260621220000 +0000" stop="20260621225500 +0000">
 		<title>8 Out of 10 Cats</title>
