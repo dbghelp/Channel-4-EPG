@@ -127,7 +127,7 @@
 	<programme channel="C4" start="20260619180000 +0000" stop="20260619190000 +0000">
 		<title>Channel 4 News</title>
 		<desc>Channel 4's flagship news programme. Including the weather.</desc>
-		<icon src="https://ic.c4assets.com/vps/channel-4-news/B81EC798-A92D-4977-900910B1EDB05E82.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/channel-4-news-2026/D0A4320C-0AF1-400C-AFAD1E0EB87F7651.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260619190000 +0000" stop="20260619200000 +0000">
 		<title>Our Farm Next Door: Amanda...</title>
@@ -2390,9 +2390,9 @@
 		<icon src="https://ic.c4assets.com/brands/heir-hunters/series-11/episode-4/26a38b2e-dd59-4820-b98b-28a1255bf2e1.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="M4" start="20260619085500 +0000" stop="20260619095500 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/More4_logo_2018.svg/200px-More4_logo_2018.svg.png" />
+		<title>Find It, Fix It, Flog It</title>
+		<desc>Simon O'Brien and Henry Cole head to Suffolk and Constable Country, where Henry finds a miniature hay wain to lovingly restore. (S7 Ep7)</desc>
+		<icon src="https://ic.c4assets.com/brands/find-it-fix-it-flog-it/series-6/episode-12/9a1cd3b3-d3eb-476c-ab7e-d4f14b2b6275.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="M4" start="20260619095500 +0000" stop="20260619102500 +0000">
 		<title>Four in a Bed</title>
