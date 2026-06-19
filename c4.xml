@@ -1344,10 +1344,15 @@
 		<desc>Murphy's Historic Hotel: Gordon checks in to Murphys Historic Hotel in northern California, where the owners are distracted from business by the party going on in the rowdy bar. (S2 Ep6)</desc>
 		<icon src="https://ic.c4assets.com/brands/ramsays-hotel-hell/series-2/episode-6/104c020b-26d3-4716-b480-2f8e6dfe08fc.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20260620043500 +0000" stop="20260620061000 +0000">
+	<programme channel="E4" start="20260620043500 +0000" stop="20260620050000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/E4_logo_2018.svg/120px-E4_logo_2018.svg.png" />
+	</programme>
+	<programme channel="E4" start="20260620050000 +0000" stop="20260620061000 +0000">
+		<title>Lego Masters Australia</title>
+		<desc>Lily Pads: It's the semi-final! The hopeful teams create colour-popping scenes that must balance and float on a lily pad in a pond. Who'll sail to the final? (S6 Ep11/12)</desc>
+		<icon src="https://ic.c4assets.com/vps/lego-masters-australia-yr-6---lily-pads/968B35B9-487E-4D23-A54840218B1035D3.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20260620061000 +0000" stop="20260620062000 +0000">
 		<title>Rude(ish) Tube Shorts</title>
@@ -2390,9 +2395,9 @@
 		<icon src="https://ic.c4assets.com/brands/heir-hunters/series-11/episode-4/26a38b2e-dd59-4820-b98b-28a1255bf2e1.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="M4" start="20260619085500 +0000" stop="20260619095500 +0000">
-		<title>Find It, Fix It, Flog It</title>
-		<desc>Simon O'Brien and Henry Cole head to Suffolk and Constable Country, where Henry finds a miniature hay wain to lovingly restore. (S7 Ep7)</desc>
-		<icon src="https://ic.c4assets.com/brands/find-it-fix-it-flog-it/series-6/episode-12/9a1cd3b3-d3eb-476c-ab7e-d4f14b2b6275.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/More4_logo_2018.svg/200px-More4_logo_2018.svg.png" />
 	</programme>
 	<programme channel="M4" start="20260619095500 +0000" stop="20260619102500 +0000">
 		<title>Four in a Bed</title>
@@ -4506,12 +4511,12 @@
 	</programme>
 	<programme channel="4M" start="20260619150000 +0000" stop="20260619160000 +0000">
 		<title>Ramsay's 24 Hours to Hell and Back</title>
-		<desc>Gordon Ramsay visits Bayou on the Vine, a family-run Cajun restaurant in Kansas City, Missouri, where he redecorates with a jazz theme and revamps the menu. (S2 Ep6)</desc>
+		<desc>Bayou on the Vine: Gordon Ramsay visits Bayou on the Vine, a family-run Cajun restaurant in Kansas City, Missouri, where he redecorates with a jazz theme and revamps the menu. (S2 Ep6)</desc>
 		<icon src="https://ic.c4assets.com/brands/ramsays-24-hours-to-hell-and-back/series-2/episode-6/2ebb8919-2d81-44b4-906e-49bf48039cf3.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4M" start="20260619160000 +0000" stop="20260619170000 +0000">
 		<title>Ramsay's 24 Hours to Hell and Back</title>
-		<desc>In Los Angeles, Gordon visits Boardwalk 11, a gastropub and karaoke bar where the late-night singing entertainment has become more appealing than the dining experience. (S2 Ep7)</desc>
+		<desc>Boardwalk 11: In Los Angeles, Gordon visits a gastropub and karaoke bar where the late-night singing entertainment has become more appealing than the dining experience. (S2 Ep7)</desc>
 		<icon src="https://ic.c4assets.com/brands/ramsays-24-hours-to-hell-and-back/series-2/episode-7/51af3a07-5f24-451e-8d0a-baa3f9893878.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4M" start="20260619170000 +0000" stop="20260619173000 +0000">
