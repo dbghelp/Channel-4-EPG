@@ -126,8 +126,8 @@
 	</programme>
 	<programme channel="C4" start="20260626180000 +0000" stop="20260626190000 +0000">
 		<title>Channel 4 News</title>
-		<desc>Channel 4's flagship news programme. Including the weather.</desc>
-		<icon src="https://ic.c4assets.com/vps/channel-4-news/B81EC798-A92D-4977-900910B1EDB05E82.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<desc>It's the hottest June day ever - again. How's Britain's infrastructure coping? And the latest on the Venezuela earthquakes and the search for survivors.</desc>
+		<icon src="https://ic.c4assets.com/vps/channel-4-news-2026/FD976855-2E28-404A-838485DE34DE61F5.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260626190000 +0000" stop="20260626200000 +0000">
 		<title>Our Farm Next Door: Amanda...</title>
