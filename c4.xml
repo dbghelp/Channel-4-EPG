@@ -3502,7 +3502,7 @@
 	<programme channel="F4" start="20260704003500 +0000" stop="20260704024000 +0000">
 		<title>Empire State</title>
 		<desc>(1987) Crime thriller set in a 1980s London nightclub. A bloody turf war erupts between East End gangsters and violent wide boys over US investment dollars. Strong language/ violence.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/empire-state/62C705F8-9CCF-47AC-B69B6E8A04BCBC3E.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20260704024000 +0000" stop="20260704100000 +0000">
 		<title>No programme</title>
@@ -3554,9 +3554,14 @@
 		<desc>No programme</desc>
 		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/150px-Film4_logo_2018.svg.png" />
 	</programme>
-	<programme channel="F4" start="20260705100000 +0000" stop="20260705120000 +0000">
+	<programme channel="F4" start="20260705100000 +0000" stop="20260705115500 +0000">
 		<title>Mr Popper's Penguins</title>
 		<desc>(2011) Family comedy. Jim Carrey stars as a work-obsessed New York property developer whose life is turned upside down when he receives a crate containing six live penguins.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20260705115500 +0000" stop="20260705120000 +0000">
+		<title>Film4 Interview Programmes:...</title>
+		<desc>...Talking Film: Stars and directors talk about the experience of making movies in this compendium of personal and practical reflections.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20260705120000 +0000" stop="20260705141500 +0000">
@@ -3564,10 +3569,15 @@
 		<desc>(1966) Bing Crosby and Ann-Margret star in this remake of John Ford's classic western. A group of disparate strangers are thrown together while travelling through dangerous territory.</desc>
 		<icon src="https://ic.c4assets.com/vps/stagecoach/82EF321E-C94F-4EF1-94A762986D656B66.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="F4" start="20260705141500 +0000" stop="20260705174500 +0000">
+	<programme channel="F4" start="20260705141500 +0000" stop="20260705173500 +0000">
 		<title>Patton</title>
 		<desc>(1970) Multi-Oscar-winning, fact-based, Second World War drama starring George C Scott, who gives a vivid portrait of the famously straight-talking US commander General George Patton.</desc>
 		<icon src="https://ic.c4assets.com/vps/patton-1970/65350B88-BF0F-4F9A-9F93EEC65C4E5C8E.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20260705173500 +0000" stop="20260705174500 +0000">
+		<title>Mission: Impossible - Dead...</title>
+		<desc>...Reckoning Part 1 Interview Special: Tom Cruise, Hayley Atwell, Simon Pegg and director Christopher McQuarrie talk about the spectacular seventh film in the action-adventure series.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20260705174500 +0000" stop="20260705200000 +0000">
 		<title>I, Robot</title>
