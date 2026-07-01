@@ -129,10 +129,15 @@
 		<desc>In Bristol, Reni serves up chilled vibes and West African food. But will her guests find out that her mum helped her? (Ep3/5)</desc>
 		<icon src="https://ic.c4assets.com/vps/come-dine-with-me-daytime-series-21---bristol/C4815490-8FF6-440F-A642C67B41F23CA0.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20260701180000 +0000" stop="20260701190000 +0000">
+	<programme channel="C4" start="20260701180000 +0000" stop="20260701185500 +0000">
 		<title>Channel 4 News</title>
 		<desc>Channel 4's flagship news programme. Including the weather.</desc>
 		<icon src="https://ic.c4assets.com/vps/channel-4-news/B81EC798-A92D-4977-900910B1EDB05E82.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="C4" start="20260701185500 +0000" stop="20260701190000 +0000">
+		<title>DEC Venezuela Earthquake Appeal</title>
+		<desc>An appeal on behalf of the Disasters Emergency Committee to help those affected by the earthquakes in Venezuela.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260701190000 +0000" stop="20260701200000 +0000">
 		<title>New: Location, Location, Location</title>
@@ -847,7 +852,7 @@
 	<programme channel="C4" start="20260706110500 +0000" stop="20260706111000 +0000">
 		<title>Channel 4 News Summary</title>
 		<desc>Channel 4's midday news summary.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/channel-4-news/B81EC798-A92D-4977-900910B1EDB05E82.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260706111000 +0000" stop="20260706121000 +0000">
 		<title>Car S.O.S</title>
@@ -892,7 +897,7 @@
 	<programme channel="C4" start="20260706180000 +0000" stop="20260706190000 +0000">
 		<title>Channel 4 News</title>
 		<desc>Channel 4's flagship news programme. Including the weather.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/channel-4-news/B81EC798-A92D-4977-900910B1EDB05E82.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260706190000 +0000" stop="20260706200000 +0000">
 		<title>New: Dover 24/7: Britain's...</title>
@@ -1007,7 +1012,7 @@
 	<programme channel="C4" start="20260707110500 +0000" stop="20260707111000 +0000">
 		<title>Channel 4 News Summary</title>
 		<desc>Channel 4's midday news summary.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/channel-4-news/B81EC798-A92D-4977-900910B1EDB05E82.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260707111000 +0000" stop="20260707121000 +0000">
 		<title>Car S.O.S</title>
@@ -3437,7 +3442,7 @@
 	<programme channel="F4" start="20260705005000 +0000" stop="20260705025500 +0000">
 		<title>Once Upon a Time in the Midlands</title>
 		<desc>(2002) Drama. Robert Carlyle and Rhys Ifans fight for the love of a woman (Shirley Henderson) in Shane Meadows' modern-day western set in... Nottingham.</desc>
-		<icon src="https://ic.c4assets.com/vps/once-upon-a-time-in-the-midlands/2b0f08a9-0a83-4934-a105-056a52b9578f.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/once-upon-a-time-in-the-midlands-c4/D634D47B-79BA-42E6-990C9CD231039352.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20260705025500 +0000" stop="20260705100000 +0000">
 		<title>No programme</title>
