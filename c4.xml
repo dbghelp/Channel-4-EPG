@@ -722,7 +722,7 @@
 	<programme channel="C4" start="20260707180000 +0000" stop="20260707190000 +0000">
 		<title>Channel 4 News</title>
 		<desc>Channel 4's flagship news programme. Including the weather.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/channel-4-news/B81EC798-A92D-4977-900910B1EDB05E82.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260707190000 +0000" stop="20260707200000 +0000">
 		<title>New: Bake Off: The Professionals</title>
@@ -887,7 +887,7 @@
 	<programme channel="C4" start="20260708180000 +0000" stop="20260708190000 +0000">
 		<title>Channel 4 News</title>
 		<desc>Channel 4's flagship news programme. Including the weather.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/channel-4-news/B81EC798-A92D-4977-900910B1EDB05E82.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260708190000 +0000" stop="20260708200000 +0000">
 		<title>Location, Location, Location</title>
@@ -1052,7 +1052,7 @@
 	<programme channel="C4" start="20260709180000 +0000" stop="20260709190000 +0000">
 		<title>Channel 4 News</title>
 		<desc>Channel 4's flagship news programme. Including the weather.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/channel-4-news/B81EC798-A92D-4977-900910B1EDB05E82.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260709190000 +0000" stop="20260709200000 +0000">
 		<title>George Clarke's Remarkable...</title>
@@ -1314,15 +1314,10 @@
 		<desc>A short, cheeky clip from Rude Tube's naughty little sister Rude(ish) Tube, featuring the effects of dental anaesthetics.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20260704061500 +0000" stop="20260704062000 +0000">
+	<programme channel="E4" start="20260704061500 +0000" stop="20260704075000 +0000">
 		<title>Don't Tell the Bride</title>
 		<desc>Andy plans an authentic Ukrainian wedding... in Ukraine. But fussy bride-to-be Anna and her hard-to-please mum are banking on a very British bash.</desc>
 		<icon src="https://ic.c4assets.com/brands/dont-tell-the-bride/series-2018/episode-25/586d9360-a876-48a7-8898-1baa51d17562.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20260704062000 +0000" stop="20260704075000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/E4_logo_2018.svg/120px-E4_logo_2018.svg.png" />
 	</programme>
 	<programme channel="E4" start="20260704075000 +0000" stop="20260704093500 +0000">
 		<title>Paw Patrol: The Movie</title>
