@@ -131,8 +131,8 @@
 	</programme>
 	<programme channel="C4" start="20260713180000 +0000" stop="20260713190000 +0000">
 		<title>Channel 4 News</title>
-		<desc>Channel 4's flagship news programme. Including the weather.</desc>
-		<icon src="https://ic.c4assets.com/vps/channel-4-news/B81EC798-A92D-4977-900910B1EDB05E82.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<desc>In a special programme on climate change we ask whether Europe's deadly heatwaves are only going to get worse - and what we can do. Plus: the latest on the Ann Widdecombe investigation.</desc>
+		<icon src="https://ic.c4assets.com/vps/channel-4-news-2026/CCFC7583-48C3-47A7-A2C2F5D57EA9CBD7.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260713190000 +0000" stop="20260713200000 +0000">
 		<title>New: Dover 24/7: Britain's...</title>
@@ -3392,7 +3392,7 @@
 	<programme channel="F4" start="20260715000000 +0000" stop="20260715021000 +0000">
 		<title>The French Dispatch</title>
 		<desc>(2021) Wes Anderson's star-encrusted tribute to the New Yorker magazine covers the final edition of a chaotic fictional publication, following the death of its editor - Bill Murray.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/the-french-dispatch-2021/1BC784D6-6CD1-4C2B-846CCE8D67E3926B.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20260715021000 +0000" stop="20260715100000 +0000">
 		<title>No programme</title>
