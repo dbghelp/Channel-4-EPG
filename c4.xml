@@ -131,7 +131,7 @@
 	</programme>
 	<programme channel="C4" start="20260715180000 +0000" stop="20260715190000 +0000">
 		<title>Channel 4 News</title>
-		<desc>Channel 4's flagship news programme. Including the weather.</desc>
+		<desc>A report from the frontline of the war in Ukraine as the key 'fortress city' of Kramatorsk endures relentless bombardment. And Sir Keir Starmer gets a standing ovation at his final PMQs.</desc>
 		<icon src="https://ic.c4assets.com/vps/channel-4-news/B81EC798-A92D-4977-900910B1EDB05E82.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260715190000 +0000" stop="20260715200000 +0000">
@@ -889,15 +889,15 @@
 		<desc>Thunderdome: It's make or break for the Virginia business strategy. A motorbike legend is ready to sell some high-octane stock. And a rare Growler toy is very old and very odd! (S12 Ep8)</desc>
 		<icon src="https://ic.c4assets.com/vps/american-pickers-yr-12---thunderdome/C6CD1B3D-291F-4DDD-9E358CCDEA2457C3.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20260720110500 +0000" stop="20260720111000 +0000">
+	<programme channel="C4" start="20260720110500 +0000" stop="20260720113500 +0000">
 		<title>Channel 4 News Summary</title>
 		<desc>Channel 4's midday news summary.</desc>
 		<icon src="https://ic.c4assets.com/vps/channel-4-news/B81EC798-A92D-4977-900910B1EDB05E82.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20260720111000 +0000" stop="20260720121000 +0000">
-		<title>Car S.O.S</title>
-		<desc>Citroën SM: Tim Shaw and Fuzz Townshend fix up a 1973 Citroën SM, one of the greatest ever French cars. But this one has suffered a catastrophic engine failure. (S12 Ep5)</desc>
-		<icon src="https://ic.c4assets.com/vps/car-sos-yr-12/7A5D4B11-1268-4C1C-8D6C77349B23024B.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	<programme channel="C4" start="20260720113500 +0000" stop="20260720121000 +0000">
+		<title>Find It, Fix It, Flog It</title>
+		<desc>In Oxfordshire, Simon O'Brien hatches a plan to convert some old tanks into a pizza oven, while Henry Cole attempts to turn a redundant water tank into a mobile shelving unit.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260720121000 +0000" stop="20260720131000 +0000">
 		<title>The Great House Giveaway</title>
