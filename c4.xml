@@ -132,7 +132,7 @@
 	<programme channel="C4" start="20260716180000 +0000" stop="20260716190000 +0000">
 		<title>Channel 4 News</title>
 		<desc>Channel 4's flagship news programme. Including the weather.</desc>
-		<icon src="https://ic.c4assets.com/vps/channel-4-news/B81EC798-A92D-4977-900910B1EDB05E82.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/channel-4-news-2026/2D2EDE53-7EFA-4F4A-BED0BFB6FF313814.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260716190000 +0000" stop="20260716200000 +0000">
 		<title>George Clarke's Remarkable...</title>
@@ -301,7 +301,7 @@
 	</programme>
 	<programme channel="C4" start="20260717200000 +0000" stop="20260717210000 +0000">
 		<title>New: Celebrity Gogglebox</title>
-		<desc>A rolling cast of famous faces, some of Britain's favourite personalities, hit the sofa for the week's big shows, sharing their sharp, insightful and funny points of view. (S8 Ep7)</desc>
+		<desc>This time, the celebs watch: The Piano, Only Connect, Emmerdale, Alexander Armstrong Across America, Evolution, Police Interceptors and The Floor US. (S8 Ep7)</desc>
 		<icon src="https://ic.c4assets.com/vps/celebrity-gogglebox-series-8/F0A8B044-AA90-4780-B846199D7A3E0811.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260717210000 +0000" stop="20260717220500 +0000">
@@ -621,7 +621,7 @@
 	</programme>
 	<programme channel="C4" start="20260719210000 +0000" stop="20260719220000 +0000">
 		<title>Celebrity Gogglebox</title>
-		<desc>A rolling cast of famous faces, some of Britain's favourite personalities, hit the sofa for the week's big shows, sharing their sharp, insightful and funny points of view. (S8 Ep7)</desc>
+		<desc>This time, the celebs watch: The Piano, Only Connect, Emmerdale, Alexander Armstrong Across America, Evolution, Police Interceptors and The Floor US. (S8 Ep7)</desc>
 		<icon src="https://ic.c4assets.com/vps/celebrity-gogglebox-series-8/F0A8B044-AA90-4780-B846199D7A3E0811.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260719220000 +0000" stop="20260719230000 +0000">
@@ -704,35 +704,30 @@
 		<desc>Frasier Crane's Day Off: Frasier is off work sick with only his paranoia to keep him company, leading him to believe that everybody's after his job. (S1 Ep23)</desc>
 		<icon src="https://ic.c4assets.com/brands/frasier/series-1/episode-23/af059730-bf26-4846-8c37-7dd83db16fdb.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20260720084000 +0000" stop="20260720091000 +0000">
+	<programme channel="C4" start="20260720084000 +0000" stop="20260720090500 +0000">
 		<title>Frasier</title>
 		<desc>My Coffee with Niles: Frasier and Niles discuss Frasier's first year back in Seattle. (S1 Ep24)</desc>
 		<icon src="https://ic.c4assets.com/brands/frasier/series-1/episode-24/4099c139-c6ff-45ce-874b-dc845ca59150.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20260720091000 +0000" stop="20260720094000 +0000">
+	<programme channel="C4" start="20260720090500 +0000" stop="20260720093500 +0000">
 		<title>Frasier</title>
 		<desc>Slow Tango in South Seattle: Frasier fumes when a Boston bar buddy turns a confidential story about him into a best-selling romantic novella. (S2 Ep1)</desc>
 		<icon src="https://ic.c4assets.com/brands/frasier/series-2/episode-1/22a37b36-701a-4513-b7a0-fba0cc9ab0d6.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20260720094000 +0000" stop="20260720101000 +0000">
+	<programme channel="C4" start="20260720093500 +0000" stop="20260720100500 +0000">
 		<title>Frasier</title>
 		<desc>The Unkindest Cut of All: Frasier hopes to stop Eddie from putting himself about after he finds himself foster-father to a litter of puppies sired by the mutt. (S2 Ep2)</desc>
 		<icon src="https://ic.c4assets.com/brands/frasier/series-2/episode-2/19c2769a-2f30-4194-b5bc-bc506d475193.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20260720101000 +0000" stop="20260720110500 +0000">
+	<programme channel="C4" start="20260720100500 +0000" stop="20260720110500 +0000">
 		<title>American Pickers</title>
 		<desc>Thunderdome: It's make or break for the Virginia business strategy. A motorbike legend is ready to sell some high-octane stock. And a rare Growler toy is very old and very odd! (S12 Ep8)</desc>
 		<icon src="https://ic.c4assets.com/vps/american-pickers-yr-12---thunderdome/C6CD1B3D-291F-4DDD-9E358CCDEA2457C3.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20260720110500 +0000" stop="20260720113500 +0000">
+	<programme channel="C4" start="20260720110500 +0000" stop="20260720121000 +0000">
 		<title>Channel 4 News Summary</title>
 		<desc>Channel 4's midday news summary.</desc>
 		<icon src="https://ic.c4assets.com/vps/channel-4-news/B81EC798-A92D-4977-900910B1EDB05E82.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="C4" start="20260720113500 +0000" stop="20260720121000 +0000">
-		<title>Find It, Fix It, Flog It</title>
-		<desc>In Oxfordshire, Simon O'Brien hatches a plan to convert some old tanks into a pizza oven, while Henry Cole attempts to turn a redundant water tank into a mobile shelving unit.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260720121000 +0000" stop="20260720131000 +0000">
 		<title>The Great House Giveaway</title>
@@ -951,7 +946,7 @@
 	</programme>
 	<programme channel="C4" start="20260721220500 +0000" stop="20260721230500 +0000">
 		<title>Celebrity Gogglebox</title>
-		<desc>A rolling cast of famous faces, some of Britain's favourite personalities, hit the sofa for the week's big shows, sharing their sharp, insightful and funny points of view. (S8 Ep7)</desc>
+		<desc>This time, the celebs watch: The Piano, Only Connect, Emmerdale, Alexander Armstrong Across America, Evolution, Police Interceptors and The Floor US. (S8 Ep7)</desc>
 		<icon src="https://ic.c4assets.com/vps/celebrity-gogglebox-series-8/F0A8B044-AA90-4780-B846199D7A3E0811.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260721230500 +0000" stop="20260722000500 +0000">
@@ -3671,7 +3666,7 @@
 	</programme>
 	<programme channel="4S" start="20260716170000 +0000" stop="20260716180000 +0000">
 		<title>A Place in the Sun</title>
-		<desc>Laura Hamilton helps Helyn and Kamil find their perfect holiday home in Granada's beautiful Lecrín Valley, where they can relax and unwind. Can their £200k budget buy their dream bolthole?</desc>
+		<desc>Laura Hamilton helps Helyn and Kamil find their perfect holiday home in Granada's lovely Lecrín Valley, where they can relax and unwind. Can their £200k budget buy their dream bolthole?</desc>
 		<icon src="https://ic.c4assets.com/brands/a-place-in-the-sun/series-17/episode-104/e619d0d8-bf1f-4d33-b32d-45c62c97248d.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20260716180000 +0000" stop="20260716190000 +0000">
@@ -3701,7 +3696,7 @@
 	</programme>
 	<programme channel="4S" start="20260717002000 +0000" stop="20260717012000 +0000">
 		<title>Celebrity Gogglebox</title>
-		<desc>This time, the celebs watch: Love Island, Deal or No Deal, Obsession, The Floor US, Lie with Me, Mighty Truckers and BBC News (England World Cup win). (S8 Ep6)</desc>
+		<desc>This time, the celebs watch: Love Island, Deal or No Deal, Obsession, The Floor US, Lie with Me, Mighty Truckers and the News on England beating Mexico at the World Cup. (S8 Ep6)</desc>
 		<icon src="https://ic.c4assets.com/vps/celebrity-gogglebox-series-8/E483E118-34DD-477F-AEF54B65646A270A.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20260717012000 +0000" stop="20260717022000 +0000">
@@ -4947,7 +4942,7 @@
 	<programme channel="4M" start="20260720150000 +0000" stop="20260720160000 +0000">
 		<title>New: America's Funniest Home...</title>
 		<desc>...Videos: Brand new series: Alfonso Ribeiro presents family-friendly laughs as home video clips capture memorable moments. This time: kids say the funniest and cheekiest things! (S33 Ep1)</desc>
-		<icon src="https://ic.c4assets.com/vps/america-s-funniest-home-videos/A187D706-27C4-40B6-A5DA89C5C38ED930.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/america-s-funniest-videos-yr-33/E5337289-BF1A-4815-A51981993D8E42C7.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4M" start="20260720160000 +0000" stop="20260720163000 +0000">
 		<title>Storage Wars</title>
