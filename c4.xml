@@ -132,7 +132,7 @@
 	<programme channel="C4" start="20260721180000 +0000" stop="20260721190000 +0000">
 		<title>Channel 4 News</title>
 		<desc>Channel 4's flagship news programme. Including the weather.</desc>
-		<icon src="https://ic.c4assets.com/vps/channel-4-news/B81EC798-A92D-4977-900910B1EDB05E82.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/channel-4-news-2026/3131A5B7-1200-4950-BB1446F3D9B46163.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260721190000 +0000" stop="20260721200000 +0000">
 		<title>New: Bake Off: The Professionals</title>
@@ -3302,7 +3302,7 @@
 	<programme channel="F4" start="20260722114000 +0000" stop="20260722135500 +0000">
 		<title>The 300 Spartans</title>
 		<desc>(1962) Historical drama with Ralph Richardson. A retelling of the stand made at Thermopylae in 480 BC by a small Greek force against invasion by an enormous Persian army.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/300-spartans-the/926DAE26-6BC9-4083-A641917A9096BD48.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20260722135500 +0000" stop="20260722160000 +0000">
 		<title>Destroyer</title>
@@ -3449,10 +3449,15 @@
 		<desc>(2004) Drama. Dennis Quaid stars as the captain of an aircraft downed in the desert. There's no hope of rescue, unless he and the survivors can build another plane from the wreckage.</desc>
 		<icon src="https://ic.c4assets.com/vps/flight-of-the-phoenix-2004/71386452-4E41-4EFD-B47CECF9BAD2C52E.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="F4" start="20260725154500 +0000" stop="20260725175500 +0000">
+	<programme channel="F4" start="20260725154500 +0000" stop="20260725175000 +0000">
 		<title>Arabesque</title>
 		<desc>(1966) Gregory Peck stars in Stanley Donen's spy thiller. An Oxford professor is unwittingly drawn into a deadly web of political intrigue. With Sophia Loren and Alan Badel.</desc>
 		<icon src="https://ic.c4assets.com/vps/arabesque/39D972A9-3BFD-46AF-9C913F827BE37219.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20260725175000 +0000" stop="20260725175500 +0000">
+		<title>Independence Day: Resurgence...</title>
+		<desc>...Interview Special: Director Roland Emmerich and stars Jeff Goldblum, Liam Hemsworth and Charlotte Gainsbourg talk about making the sci-fi sequel Independence Day: Resurgence.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20260725175500 +0000" stop="20260725200000 +0000">
 		<title>The Adjustment Bureau</title>
@@ -3542,7 +3547,7 @@
 	<programme channel="F4" start="20260727133000 +0000" stop="20260727154500 +0000">
 		<title>The 300 Spartans</title>
 		<desc>(1962) Historical drama with Ralph Richardson. A retelling of the stand made at Thermopylae in 480 BC by a small Greek force against invasion by an enormous Persian army.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/300-spartans-the/926DAE26-6BC9-4083-A641917A9096BD48.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20260727154500 +0000" stop="20260727174500 +0000">
 		<title>Prince Valiant</title>
