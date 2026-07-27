@@ -127,7 +127,7 @@
 	<programme channel="C4" start="20260727180000 +0000" stop="20260727190000 +0000">
 		<title>Channel 4 News</title>
 		<desc>Channel 4's flagship news programme. Including the weather.</desc>
-		<icon src="https://ic.c4assets.com/vps/channel-4-news/B81EC798-A92D-4977-900910B1EDB05E82.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/channel-4-news-2026/E80ED359-B90B-416F-9537053BEFF57087.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260727190000 +0000" stop="20260727200000 +0000">
 		<title>New: Dover 24/7: Britain's...</title>
@@ -1485,14 +1485,14 @@
 		<icon src="https://ic.c4assets.com/vps/abbott-elementary-yr-2---festival/F6765460-F82E-4B87-9D8F5E767057A72F.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20260729031500 +0000" stop="20260729034000 +0000">
-		<title>The Simpsons</title>
-		<desc>The Boys of Bummer: Just as the Springfield Isotopes are on the verge of winning their first Little League Championship, Bart makes a mistake that costs the team their title. (S18 Ep18/22)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20260729034000 +0000" stop="20260729040500 +0000">
 		<title>The Goldbergs</title>
 		<desc>Goldberg on the Goldbergs: Beverly meddles in Coach Mellor's strained relationship with his brother, Coach Nick. Geoff and Erica struggle with long-distance romance. (S5 Ep3)</desc>
 		<icon src="https://ic.c4assets.com/brands/the-goldbergs/series-5/episode-3/a9bbf2c7-a56d-410d-be6b-31733038b2bb.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="E4" start="20260729034000 +0000" stop="20260729040500 +0000">
+		<title>The Goldbergs</title>
+		<desc>Revenge O' the Nerds: Beverly decides to re-invent herself by going to night school, but change-averse Murray tries to convince her to take a different path. (S5 Ep4)</desc>
+		<icon src="https://ic.c4assets.com/brands/the-goldbergs/series-5/episode-4/50a67b00-b674-415a-967f-931b5a3d31d3.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20260729040500 +0000" stop="20260729043000 +0000">
 		<title>Brooklyn Nine-Nine</title>
@@ -2079,55 +2079,55 @@
 		<desc>(2019) Animated spy comedy caper with the voice of Will Smith. The 'world's most awesome spy' gets framed and has to go undercover as a pigeon to prove his innocence.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20260801110000 +0000" stop="20260801113000 +0000">
+	<programme channel="E4" start="20260801110000 +0000" stop="20260801130000 +0000">
+		<title>Cheaper by the Dozen</title>
+		<desc>(2003) Family comedy. Steve Martin and Bonnie Hunt star as parents to 12 children. Things go well until their careers take off, when their chaotic lives start to spiral out of control.</desc>
+		<icon src="https://ic.c4assets.com/vps/cheaper-by-the-dozen-2003/0E3437FE-C381-4CCD-B8F950615E8AEC1F.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="E4" start="20260801130000 +0000" stop="20260801133000 +0000">
 		<title>The Simpsons</title>
 		<desc>Full Heart, Empty Pool: Grampa and Homer accidentally invent a new sport while arguing in a drained pool. But trouble arrives when Big Avocado sponsors it. (S36 Ep17)</desc>
 		<icon src="https://ic.c4assets.com/vps/simpsons-the-year-36/0DB50F89-4610-4229-86304000E8344834.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20260801113000 +0000" stop="20260801120000 +0000">
+	<programme channel="E4" start="20260801133000 +0000" stop="20260801140000 +0000">
 		<title>The Simpsons</title>
 		<desc>Estranger Things: When Bart and Lisa lose interest in their only shared love, Marge worries they'll drift apart as they grow up. Cue a glimpse into the future. (S36 Ep18)</desc>
 		<icon src="https://ic.c4assets.com/vps/simpsons-the-year-36/FEDACF3B-5C78-4F8C-8A2DD45D014BA380.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20260801120000 +0000" stop="20260801123000 +0000">
+	<programme channel="E4" start="20260801140000 +0000" stop="20260801143000 +0000">
 		<title>The Simpsons</title>
 		<desc>Beyond Blunderdome: Mel Gibson hires Homer to help him rewrite his remake of Mr Smith Goes to Washington. (S11 Ep1/22)</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20260801123000 +0000" stop="20260801130000 +0000">
+	<programme channel="E4" start="20260801143000 +0000" stop="20260801150000 +0000">
 		<title>The Simpsons</title>
 		<desc>Brother's Little Helper: An experimental ADHD drug improves Bart's behaviour but makes him paranoid: is Major League Baseball using a satellite to read his thoughts? (S11 Ep2/22)</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20260801130000 +0000" stop="20260801133000 +0000">
+	<programme channel="E4" start="20260801150000 +0000" stop="20260801153000 +0000">
 		<title>The Simpsons</title>
 		<desc>Barthood: Bart's coming-of-age story is told, chronicling his life from youth to adulthood. But his tense relationship with Homer and being overshadowed by Lisa shape him. (S27 Ep9/22)</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20260801133000 +0000" stop="20260801140000 +0000">
+	<programme channel="E4" start="20260801153000 +0000" stop="20260801160000 +0000">
 		<title>The Simpsons</title>
 		<desc>The Girl Code: Marge posts a photo on social media that gets Homer fired, so he returns to his old job as a dish-washer in a Greek restaurant. Lisa creates an app. (S27 Ep10/22)</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20260801140000 +0000" stop="20260801143000 +0000">
+	<programme channel="E4" start="20260801160000 +0000" stop="20260801163000 +0000">
 		<title>The Simpsons</title>
 		<desc>Teenage Mutant Milk-Caused Hurdles: Bart is smitten with his new teacher and tries to impress her. Homer buys a new type of milk that has a strange effect on Bart and Lisa. (S27 Ep11/22)</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20260801143000 +0000" stop="20260801150000 +0000">
+	<programme channel="E4" start="20260801163000 +0000" stop="20260801170000 +0000">
 		<title>The Simpsons</title>
 		<desc>Much Apu About Something: Apu loses his job when his shop is rebranded as a health food market aimed at a hip young crowd. Bart's latest prank has terrible consequences. (S27 Ep12/22)</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20260801150000 +0000" stop="20260801153000 +0000">
+	<programme channel="E4" start="20260801170000 +0000" stop="20260801173000 +0000">
 		<title>The Simpsons</title>
 		<desc>Love Is in the N2-O2-Ar-CO2-Ne-He-CH4: Professor Frink uses science to turn into a ladies' man. And medication makes Grampa and the Retirement Castle residents hallucinate. (S27 Ep13/22)</desc>
 		<icon src="https://ic.c4assets.com/brands/the-simpsons/series-27/episode-13/1cb7c60e-6431-4056-a4c5-ea47c6fa5e6b.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20260801153000 +0000" stop="20260801173000 +0000">
-		<title>Cheaper by the Dozen</title>
-		<desc>(2003) Family comedy. Steve Martin and Bonnie Hunt star as parents to 12 children. Things go well until their careers take off, when their chaotic lives start to spiral out of control.</desc>
-		<icon src="https://ic.c4assets.com/vps/cheaper-by-the-dozen-2003/0E3437FE-C381-4CCD-B8F950615E8AEC1F.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20260801173000 +0000" stop="20260801200000 +0000">
 		<title>Battleship</title>
@@ -2199,79 +2199,79 @@
 		<desc>It's Leah and Imran's housewarming party, but Misbah's worried about her son. Abigail finds herself with a new roommate. Frankie opens up to Caleb. And will Vicky keep Prince's secret?</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20260802060500 +0000" stop="20260802070500 +0000">
+	<programme channel="E4" start="20260802060500 +0000" stop="20260802072000 +0000">
+		<title>New: The Great Australian Bake Off</title>
+		<desc>Brand new series - Patisserie Week: Our four semi-finalists craft kouign-amann, strawberry tarts and petits fours. Which three can knead, roll and glaze their way to the final? (S7 Ep9/10)</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="E4" start="20260802072000 +0000" stop="20260802082000 +0000">
 		<title>Ramsay's Hotel Hell</title>
 		<desc>Town's Inn (Part 1/2): Gordon's at Harpers Ferry in West Virginia to visit The Town's Inn, a historic hotel that's so full of clutter it can barely accommodate guests. (S3 Ep3)</desc>
 		<icon src="https://ic.c4assets.com/brands/ramsays-hotel-hell/series-3/episode-3/8c365094-3ad8-4e1c-8c2d-2581d4cecc05.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20260802070500 +0000" stop="20260802080500 +0000">
+	<programme channel="E4" start="20260802082000 +0000" stop="20260802092000 +0000">
 		<title>Ramsay's Kitchen Nightmares USA</title>
 		<desc>Hot Potato Café: The Hot Potato Café in Philadelphia has never made a profit. When the chips are down, can Gordon help save the restaurant? (S3 Ep1)</desc>
 		<icon src="https://ic.c4assets.com/brands/ramsays-kitchen-nightmares-usa/series-3/episode-1/afc24f90-0fcb-4b13-a780-d551512c34c6.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20260802080500 +0000" stop="20260802090500 +0000">
+	<programme channel="E4" start="20260802092000 +0000" stop="20260802102000 +0000">
 		<title>Ramsay's Kitchen Nightmares USA</title>
 		<desc>Flamangos: Gordon visits Flamangos in rural New Jersey, where mother and daughter Adele and Cheryl are stuck in their tropical ways. But their restaurant is far from paradise. (S3 Ep2)</desc>
 		<icon src="https://ic.c4assets.com/brands/ramsays-kitchen-nightmares-usa/series-3/episode-2/7119cc26-e55d-418f-9891-e486f7e5afe8.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20260802090500 +0000" stop="20260802100500 +0000">
+	<programme channel="E4" start="20260802102000 +0000" stop="20260802112000 +0000">
 		<title>Ramsay's Kitchen Nightmares USA</title>
 		<desc>Bazzini: Award-winning chef Paul runs Italian joint Bazzini in New Jersey, but didn't realise how difficult running a restaurant would be. Can Gordon turn it around? (S3 Ep3)</desc>
 		<icon src="https://ic.c4assets.com/brands/ramsays-kitchen-nightmares-usa/series-3/episode-3/ef6a0f0b-5d36-4f39-a791-1f4d041aa60c.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20260802100500 +0000" stop="20260802110500 +0000">
+	<programme channel="E4" start="20260802112000 +0000" stop="20260802122000 +0000">
 		<title>Ramsay's Kitchen Nightmares USA</title>
 		<desc>Mojito: Gordon Ramsay visits a Cuban café in Brooklyn, where owners Marcelo and Kata fight over everything, driving away customers with their high-volume bickering. (S3 Ep4)</desc>
 		<icon src="https://ic.c4assets.com/brands/ramsays-kitchen-nightmares-usa/series-3/episode-4/892f478b-13b1-4dd1-adcf-151e4d38b944.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20260802110500 +0000" stop="20260802114000 +0000">
-		<title>The Simpsons</title>
-		<desc>Homer and Lisa Exchange Cross Words: Lisa discovers that she has a knack for crosswords and enters a tournament. But Homer thinks he can make money by betting on her to lose. (S20 Ep6/21)</desc>
-		<icon src="https://ic.c4assets.com/brands/the-simpsons/9bf1784f-73a2-47ae-94c9-118483974839.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20260802114000 +0000" stop="20260802121000 +0000">
-		<title>The Simpsons</title>
-		<desc>Mypods and Broomsticks: Homer suspects that Bart's new friend's Muslim family are terrorists. Meanwhile, Lisa becomes addicted to downloading songs on her new Mypod. (S20 Ep7/21)</desc>
-		<icon src="https://ic.c4assets.com/brands/the-simpsons/9bf1784f-73a2-47ae-94c9-118483974839.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20260802121000 +0000" stop="20260802124000 +0000">
-		<title>The Simpsons</title>
-		<desc>Guess Who's Coming to Criticize Dinner: Homer becomes a restaurant critic for the Springfield Shopper, and ends up so feared that the town's restaurateurs plot to kill him. (S11 Ep3/22)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20260802124000 +0000" stop="20260802131000 +0000">
-		<title>The Simpsons</title>
-		<desc>Treehouse of Horror X: Ned comes back to haunt the Simpsons after Marge accidentally runs him down, and Bart and Lisa get zapped by radiation and become superheroes. (S11 Ep4/22)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20260802131000 +0000" stop="20260802134000 +0000">
-		<title>The Simpsons</title>
-		<desc>E-I-E-I-(Annoyed Grunt): The Simpsons are forced to flee to the countryside, where Homer accidentally invents highly addictive tomacco. But the animals like it too... (S11 Ep5/22)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20260802134000 +0000" stop="20260802141000 +0000">
-		<title>The Simpsons</title>
-		<desc>Hello Gutter, Hello Fadder: Homer bowls a perfect 300 and becomes a celebrity, even appearing on the Springfield Squares with Bumblebee Man and his old nemesis Ron Howard. (S11 Ep6/22)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20260802141000 +0000" stop="20260802144000 +0000">
-		<title>The Simpsons</title>
-		<desc>Gal of Constant Sorrow: Bart and Lisa get to know a homeless folk singer. Homer's attempt at DIY traps the cat in the walls of the house, so he launches a rescue bid. (S27 Ep14/22)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20260802144000 +0000" stop="20260802151000 +0000">
-		<title>The Simpsons</title>
-		<desc>Lisa the Veterinarian: Lisa is inspired to become a vet and begins an internship at a local surgery. Marge gets a job as a crime scene cleaner but finds it traumatic. (S27 Ep15/22)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20260802151000 +0000" stop="20260802170000 +0000">
+	<programme channel="E4" start="20260802122000 +0000" stop="20260802141000 +0000">
 		<title>Cheaper by the Dozen 2</title>
 		<desc>(2005) Comedy starring Steve Martin, Bonnie Hunt, Eugene Levy and Carmen Electra. The huge Baker family go on holiday, where they get competitive with a couple who have eight kids.</desc>
 		<icon src="https://ic.c4assets.com/vps/cheaper-by-the-dozen-2/BC9A59AD-F270-49BF-B9049141641BEFB8.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20260802170000 +0000" stop="20260802181500 +0000">
-		<title>New: The Great Australian Bake Off</title>
-		<desc>Brand new series - Patisserie Week: Our four semi-finalists craft kouign-amann, strawberry tarts and petits fours. Which three can knead, roll and glaze their way to the final? (S7 Ep9/10)</desc>
+	<programme channel="E4" start="20260802141000 +0000" stop="20260802144500 +0000">
+		<title>The Simpsons</title>
+		<desc>Homer and Lisa Exchange Cross Words: Lisa discovers that she has a knack for crosswords and enters a tournament. But Homer thinks he can make money by betting on her to lose. (S20 Ep6/21)</desc>
+		<icon src="https://ic.c4assets.com/brands/the-simpsons/9bf1784f-73a2-47ae-94c9-118483974839.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="E4" start="20260802144500 +0000" stop="20260802151500 +0000">
+		<title>The Simpsons</title>
+		<desc>Mypods and Broomsticks: Homer suspects that Bart's new friend's Muslim family are terrorists. Meanwhile, Lisa becomes addicted to downloading songs on her new Mypod. (S20 Ep7/21)</desc>
+		<icon src="https://ic.c4assets.com/brands/the-simpsons/9bf1784f-73a2-47ae-94c9-118483974839.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="E4" start="20260802151500 +0000" stop="20260802154500 +0000">
+		<title>The Simpsons</title>
+		<desc>Guess Who's Coming to Criticize Dinner: Homer becomes a restaurant critic for the Springfield Shopper, and ends up so feared that the town's restaurateurs plot to kill him. (S11 Ep3/22)</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="E4" start="20260802154500 +0000" stop="20260802161500 +0000">
+		<title>The Simpsons</title>
+		<desc>Treehouse of Horror X: Ned comes back to haunt the Simpsons after Marge accidentally runs him down, and Bart and Lisa get zapped by radiation and become superheroes. (S11 Ep4/22)</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="E4" start="20260802161500 +0000" stop="20260802164500 +0000">
+		<title>The Simpsons</title>
+		<desc>E-I-E-I-(Annoyed Grunt): The Simpsons are forced to flee to the countryside, where Homer accidentally invents highly addictive tomacco. But the animals like it too... (S11 Ep5/22)</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="E4" start="20260802164500 +0000" stop="20260802171500 +0000">
+		<title>The Simpsons</title>
+		<desc>Hello Gutter, Hello Fadder: Homer bowls a perfect 300 and becomes a celebrity, even appearing on the Springfield Squares with Bumblebee Man and his old nemesis Ron Howard. (S11 Ep6/22)</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="E4" start="20260802171500 +0000" stop="20260802174500 +0000">
+		<title>The Simpsons</title>
+		<desc>Gal of Constant Sorrow: Bart and Lisa get to know a homeless folk singer. Homer's attempt at DIY traps the cat in the walls of the house, so he launches a rescue bid. (S27 Ep14/22)</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="E4" start="20260802174500 +0000" stop="20260802181500 +0000">
+		<title>The Simpsons</title>
+		<desc>Lisa the Veterinarian: Lisa is inspired to become a vet and begins an internship at a local surgery. Marge gets a job as a crime scene cleaner but finds it traumatic. (S27 Ep15/22)</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20260802181500 +0000" stop="20260802192000 +0000">
