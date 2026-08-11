@@ -127,7 +127,7 @@
 	<programme channel="C4" start="20260811180000 +0000" stop="20260811190000 +0000">
 		<title>Channel 4 News</title>
 		<desc>Channel 4's flagship news programme. Including the weather.</desc>
-		<icon src="https://ic.c4assets.com/vps/channel-4-news/B81EC798-A92D-4977-900910B1EDB05E82.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/channel-4-news-2026/D5C083F0-E9FE-4BE4-BACFD2047D9F259D.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260811190000 +0000" stop="20260811200000 +0000">
 		<title>New: Dover 24/7: Britain's...</title>
@@ -2115,9 +2115,9 @@
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20260816183000 +0000" stop="20260816214500 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/E4_logo_2018.svg/120px-E4_logo_2018.svg.png" />
+		<title>Live WAFCON Final</title>
+		<desc>Live coverage of the final of the 2026 Women's Africa Cup of Nations, in the Moroccan capital Rabat.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20260816214500 +0000" stop="20260816221500 +0000">
 		<title>The Inbetweeners</title>
@@ -2285,8 +2285,8 @@
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20260817190000 +0000" stop="20260817200000 +0000">
-		<title>New: Vanderpump Rules</title>
-		<desc>Brand new series - Back Alley Betrayals: Audrey performs a roast comedy routine. And it goes down like a lead balloon with one member of the group in particular... (S12 Ep11)</desc>
+		<title>The Great Celebrity Bake Off...</title>
+		<desc>...for Stand Up To Cancer: Ellie Goulding, Mawaan Rizwan, Sophie Morgan and Tracey-Ann Oberman tackle marble cake, jam roly-poly and biscuit portraits of their celeb heroes. (S5 Ep5/5)</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20260817200000 +0000" stop="20260817210000 +0000">
@@ -4737,12 +4737,12 @@
 	<programme channel="4M" start="20260813160000 +0000" stop="20260813163000 +0000">
 		<title>Storage Wars</title>
 		<desc>Gunter drives Rene mad, insisting on bidding on a locker full of rubbish. Brandi's got a brand-new positive attitude. (S13 Ep18)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/storage-wars-yr-13---an-austrian-in-perris/053367D9-80D5-4F1B-B85DCFAC1A6EA8CF.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4M" start="20260813163000 +0000" stop="20260813170000 +0000">
 		<title>Storage Wars</title>
 		<desc>Ivy unlocks his warrior alter-ego in San Bernardino. Kenny wants a massage. Lisa angles her way to the catch of the day. (S13 Ep19)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/storage-wars-yr-13---pretty-fly...for-a-locker!/8840E64A-2F6B-4685-98D99D5D98DBC348.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4M" start="20260813170000 +0000" stop="20260813180000 +0000">
 		<title>Ramsay's Kitchen Nightmares USA</title>
