@@ -857,7 +857,7 @@
 	<programme channel="C4" start="20260829081000 +0000" stop="20260829085500 +0000">
 		<title>Superhero Tri 2026</title>
 		<desc>Clare Balding presents Superhero Tri 2026 from Dorney Lake in Windsor, as the mass-participation triathlon challenge designed for people with disabilities celebrates its 10th anniversary.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/superhero-tri/7F6FB245-6D31-4B71-8E8977316D90DA7B.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260829085500 +0000" stop="20260829092500 +0000">
 		<title>Frasier</title>
@@ -992,7 +992,7 @@
 	<programme channel="C4" start="20260830044000 +0000" stop="20260830052000 +0000">
 		<title>Superhero Tri 2026</title>
 		<desc>Clare Balding presents Superhero Tri 2026 from Dorney Lake in Windsor, as the mass-participation triathlon challenge designed for people with disabilities celebrates its 10th anniversary.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/superhero-tri/7F6FB245-6D31-4B71-8E8977316D90DA7B.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260830052000 +0000" stop="20260830054500 +0000">
 		<title>Cheers</title>
@@ -2039,15 +2039,10 @@
 		<desc>The Last Day (Part 2/2): The second part of the last ever episode, where the squad continue their trip down memory lane in the only way they know how. Did somebody say 'heist'?! (S8 Ep10)</desc>
 		<icon src="https://ic.c4assets.com/vps/brooklyn-nine-nine/dce0ff2e-c570-4001-82fa-d3b21010dcc7.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20260829050000 +0000" stop="20260829055500 +0000">
+	<programme channel="E4" start="20260829050000 +0000" stop="20260829060500 +0000">
 		<title>Lego Masters Australia</title>
 		<desc>Brand new series - Birdman: Will pigs (and dragons and chickens) fly when the teams pair up to create incredible Lego flying machines and launch them off a 10-metre platform? (S7 Ep2)</desc>
 		<icon src="https://ic.c4assets.com/vps/lego-masters-australia-yr-7/58B6C1A1-9421-400F-BDC25B14D9503ADF.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20260829055500 +0000" stop="20260829060500 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/E4_logo_2018.svg/120px-E4_logo_2018.svg.png" />
 	</programme>
 	<programme channel="E4" start="20260829060500 +0000" stop="20260829070000 +0000">
 		<title>Below Deck Down Under</title>
