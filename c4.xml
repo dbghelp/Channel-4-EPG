@@ -146,7 +146,7 @@
 	</programme>
 	<programme channel="C4" start="20260911210000 +0000" stop="20260911220500 +0000">
 		<title>New: Live from The Lycett Arms</title>
-		<desc>Join Joe Lycett and his celebrity punters live from his new pub, The Lycett Arms, for a weekly hour of comedy and chaos, where everyone can both escape the world and put it to rights. (Ep2)</desc>
+		<desc>Expect comedy and chaos as Sir Lenny Henry puts a shift in as pub manager and Joanne McNally drops by to join landlord Joe Lycett live from his new boozer, The Lycett Arms. (Ep2)</desc>
 		<icon src="https://ic.c4assets.com/vps/joe-lycett-2026/5F9B7590-B76C-49E7-86E027C688AB6DEE.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260911220500 +0000" stop="20260911231000 +0000">
@@ -677,7 +677,7 @@
 	<programme channel="C4" start="20260915034000 +0000" stop="20260915045000 +0000">
 		<title>Hollyoaks Omnibus</title>
 		<desc>News about a resident's disappearance spreads through the village. Sienna returns home from prison to find James in her flat. And Jonah manipulates a situation as Caleb falls ill.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/hollyoaks-xxxiv-omnibus-2026/0FF7A77F-C9C7-4D19-8522274DCB1BC18B.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260915045000 +0000" stop="20260915053000 +0000">
 		<title>Countdown</title>
@@ -801,7 +801,7 @@
 	</programme>
 	<programme channel="C4" start="20260915210000 +0000" stop="20260915220500 +0000">
 		<title>Gogglebox</title>
-		<desc>What do Britain's sharpest armchair critics think of this week's biggest and best telly? (S28 Ep2)</desc>
+		<desc>This time on the 'Box, The Grand Tour, Dragons' Den, The Box, Ramsay's Kitchen Nightmares USA, Holly Willoughby Together, The Runner and BBC News (Reform UK donations). (S28 Ep2)</desc>
 		<icon src="https://ic.c4assets.com/vps/gogglebox-series-28/0B097C30-A08F-4251-934E9F3F83E78BF1.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260915220500 +0000" stop="20260915230500 +0000">
@@ -821,7 +821,7 @@
 	</programme>
 	<programme channel="C4" start="20260916010000 +0000" stop="20260916020500 +0000">
 		<title>Celebrity Pottery Throw Down</title>
-		<desc>A celeb clay battle! Lucy Beaumont, Fatiha El-Ghorri, Richard Herring, Paul Merson, Denise Van Outen and Layton Williams sink their teeth into breakfast sets and toothbrush holders. (Ep1/5)</desc>
+		<desc>Wobbly bases and famous faces! Lucy Beaumont, Fatiha El-Ghorri, Richard Herring, Paul Merson, Denise Van Outen and Layton Williams sink their teeth into throwing toothbrush holders. (Ep1/5)</desc>
 		<icon src="https://ic.c4assets.com/vps/the-great-celebrity-throw-down/5EF62CD8-9ED8-476D-AA9D391301C138ED.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260916020500 +0000" stop="20260916025500 +0000">
@@ -1131,7 +1131,7 @@
 	</programme>
 	<programme channel="C4" start="20260917222000 +0000" stop="20260917232000 +0000">
 		<title>Gogglebox</title>
-		<desc>What do Britain's sharpest armchair critics think of this week's biggest and best telly? (S28 Ep2)</desc>
+		<desc>This time on the 'Box, The Grand Tour, Dragons' Den, The Box, Ramsay's Kitchen Nightmares USA, Holly Willoughby Together, The Runner and BBC News (Reform UK donations). (S28 Ep2)</desc>
 		<icon src="https://ic.c4assets.com/vps/gogglebox-series-28/0B097C30-A08F-4251-934E9F3F83E78BF1.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260917232000 +0000" stop="20260918000500 +0000">
@@ -1344,15 +1344,10 @@
 		<desc>Brand new series - Is It Fake?: It's about to get real (and fake) in the series' first elimination challenge, as the teams recreate items from a Chinese themed restaurant in Lego. (S7 Ep4)</desc>
 		<icon src="https://ic.c4assets.com/vps/lego-masters-australia-yr-7/69FECD62-73FE-4DA3-B86510A1FCC262C9.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20260912063000 +0000" stop="20260912063500 +0000">
+	<programme channel="E4" start="20260912063000 +0000" stop="20260912073000 +0000">
 		<title>Below Deck Down Under</title>
 		<desc>Brand new series: A choppy charter has the guests reaching for sick buckets. The deck team commit yet another error - and this time it's a big one. (S3 Ep16)</desc>
 		<icon src="https://ic.c4assets.com/vps/below-deck-down-under-yr-3---come-swell-or-high-water/12ED771D-1235-42A7-B6BA0BE140BDDDF0.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20260912063500 +0000" stop="20260912073000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/E4_logo_2018.svg/120px-E4_logo_2018.svg.png" />
 	</programme>
 	<programme channel="E4" start="20260912073000 +0000" stop="20260912083000 +0000">
 		<title>Below Deck Down Under</title>
@@ -1477,7 +1472,7 @@
 	<programme channel="E4" start="20260913050000 +0000" stop="20260913061000 +0000">
 		<title>Hollyoaks Omnibus</title>
 		<desc>News about a resident's disappearance spreads through the village. Sienna returns home from prison to find James in her flat. And Jonah manipulates a situation as Caleb falls ill.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/hollyoaks-xxxiv-omnibus-2026/0FF7A77F-C9C7-4D19-8522274DCB1BC18B.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20260913061000 +0000" stop="20260913064000 +0000">
 		<title>Modern Family</title>
@@ -1587,7 +1582,7 @@
 	<programme channel="E4" start="20260914032000 +0000" stop="20260914050000 +0000">
 		<title>Hollyoaks Omnibus</title>
 		<desc>News about a resident's disappearance spreads through the village. Sienna returns home from prison to find James in her flat. And Jonah manipulates a situation as Caleb falls ill.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/hollyoaks-xxxiv-omnibus-2026/0FF7A77F-C9C7-4D19-8522274DCB1BC18B.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20260914050000 +0000" stop="20260914053000 +0000">
 		<title>Hollyoaks</title>
@@ -3786,7 +3781,7 @@
 	</programme>
 	<programme channel="4S" start="20260912230500 +0000" stop="20260913000500 +0000">
 		<title>Gogglebox</title>
-		<desc>What do Britain's sharpest armchair critics think of this week's biggest and best telly? (S28 Ep2)</desc>
+		<desc>This time on the 'Box, The Grand Tour, Dragons' Den, The Box, Ramsay's Kitchen Nightmares USA, Holly Willoughby Together, The Runner and BBC News (Reform UK donations). (S28 Ep2)</desc>
 		<icon src="https://ic.c4assets.com/vps/gogglebox-series-28/0B097C30-A08F-4251-934E9F3F83E78BF1.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20260913000500 +0000" stop="20260913010500 +0000">
@@ -3794,12 +3789,12 @@
 		<desc>The celebrity Goggleboxers, including Rylan and Mo Gilligan, watch MILF Manor, Under Paris, Bake Off: The Professionals, The Supervet, Countdown and The Motorway Hotel. (S6 Ep3)</desc>
 		<icon src="https://ic.c4assets.com/vps/celebrity-gogglebox-series-6/BF157358-1744-43F0-8C2D622CC7CE2799.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="4S" start="20260913010500 +0000" stop="20260913025000 +0000">
+	<programme channel="4S" start="20260913010500 +0000" stop="20260913025500 +0000">
 		<title>Stuber</title>
 		<desc>(2019) Action-comedy starring Dave Bautista as a tough cop and Kumail Nanjiani as a mild-mannered Uber driver who he hires to tail a violent drug kingpin around LA.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="4S" start="20260913025000 +0000" stop="20260913035000 +0000">
+	<programme channel="4S" start="20260913025500 +0000" stop="20260913035000 +0000">
 		<title>24 Hours in A&amp;E</title>
 		<desc>Claire, who's 22, is rushed to Queen's after she collapsed while she was out running. Emma has serious leg burns after spilling a kettle. Adele is struggling with an injured toe. (S36 Ep8)</desc>
 		<icon src="https://ic.c4assets.com/vps/24-hours-in-a-e-nottingham---playing-detective/21461294-A954-4F00-961A244EB974C28D.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
@@ -3896,7 +3891,7 @@
 	</programme>
 	<programme channel="4S" start="20260913200000 +0000" stop="20260913210000 +0000">
 		<title>Gogglebox</title>
-		<desc>What do Britain's sharpest armchair critics think of this week's biggest and best telly? (S28 Ep2)</desc>
+		<desc>This time on the 'Box, The Grand Tour, Dragons' Den, The Box, Ramsay's Kitchen Nightmares USA, Holly Willoughby Together, The Runner and BBC News (Reform UK donations). (S28 Ep2)</desc>
 		<icon src="https://ic.c4assets.com/vps/gogglebox-series-28/0B097C30-A08F-4251-934E9F3F83E78BF1.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20260913210000 +0000" stop="20260913221000 +0000">
@@ -4021,7 +4016,7 @@
 	</programme>
 	<programme channel="4S" start="20260914222000 +0000" stop="20260914232500 +0000">
 		<title>Gogglebox</title>
-		<desc>What do Britain's sharpest armchair critics think of this week's biggest and best telly? (S28 Ep2)</desc>
+		<desc>This time on the 'Box, The Grand Tour, Dragons' Den, The Box, Ramsay's Kitchen Nightmares USA, Holly Willoughby Together, The Runner and BBC News (Reform UK donations). (S28 Ep2)</desc>
 		<icon src="https://ic.c4assets.com/vps/gogglebox-series-28/0B097C30-A08F-4251-934E9F3F83E78BF1.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20260914232500 +0000" stop="20260915013500 +0000">
@@ -4116,7 +4111,7 @@
 	</programme>
 	<programme channel="4S" start="20260915180000 +0000" stop="20260915191500 +0000">
 		<title>Celebrity Pottery Throw Down</title>
-		<desc>A celeb clay battle! Lucy Beaumont, Fatiha El-Ghorri, Richard Herring, Paul Merson, Denise Van Outen and Layton Williams sink their teeth into breakfast sets and toothbrush holders. (Ep1/5)</desc>
+		<desc>Wobbly bases and famous faces! Lucy Beaumont, Fatiha El-Ghorri, Richard Herring, Paul Merson, Denise Van Outen and Layton Williams sink their teeth into throwing toothbrush holders. (Ep1/5)</desc>
 		<icon src="https://ic.c4assets.com/vps/the-great-celebrity-throw-down/5EF62CD8-9ED8-476D-AA9D391301C138ED.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20260915191500 +0000" stop="20260915200000 +0000">
@@ -4151,7 +4146,7 @@
 	</programme>
 	<programme channel="4S" start="20260916010500 +0000" stop="20260916020500 +0000">
 		<title>Gogglebox</title>
-		<desc>What do Britain's sharpest armchair critics think of this week's biggest and best telly? (S28 Ep2)</desc>
+		<desc>This time on the 'Box, The Grand Tour, Dragons' Den, The Box, Ramsay's Kitchen Nightmares USA, Holly Willoughby Together, The Runner and BBC News (Reform UK donations). (S28 Ep2)</desc>
 		<icon src="https://ic.c4assets.com/vps/gogglebox-series-28/0B097C30-A08F-4251-934E9F3F83E78BF1.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20260916020500 +0000" stop="20260916030500 +0000">
@@ -4246,7 +4241,7 @@
 	</programme>
 	<programme channel="4S" start="20260916200000 +0000" stop="20260916210000 +0000">
 		<title>Gogglebox</title>
-		<desc>What do Britain's sharpest armchair critics think of this week's biggest and best telly? (S28 Ep2)</desc>
+		<desc>This time on the 'Box, The Grand Tour, Dragons' Den, The Box, Ramsay's Kitchen Nightmares USA, Holly Willoughby Together, The Runner and BBC News (Reform UK donations). (S28 Ep2)</desc>
 		<icon src="https://ic.c4assets.com/vps/gogglebox-series-28/0B097C30-A08F-4251-934E9F3F83E78BF1.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20260916210000 +0000" stop="20260916220500 +0000">
@@ -4361,7 +4356,7 @@
 	</programme>
 	<programme channel="4S" start="20260917184500 +0000" stop="20260917200000 +0000">
 		<title>Celebrity Pottery Throw Down</title>
-		<desc>A celeb clay battle! Lucy Beaumont, Fatiha El-Ghorri, Richard Herring, Paul Merson, Denise Van Outen and Layton Williams sink their teeth into breakfast sets and toothbrush holders. (Ep1/5)</desc>
+		<desc>Wobbly bases and famous faces! Lucy Beaumont, Fatiha El-Ghorri, Richard Herring, Paul Merson, Denise Van Outen and Layton Williams sink their teeth into throwing toothbrush holders. (Ep1/5)</desc>
 		<icon src="https://ic.c4assets.com/vps/the-great-celebrity-throw-down/5EF62CD8-9ED8-476D-AA9D391301C138ED.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20260917200000 +0000" stop="20260917210000 +0000">
@@ -4391,7 +4386,7 @@
 	</programme>
 	<programme channel="4S" start="20260918010500 +0000" stop="20260918020500 +0000">
 		<title>Gogglebox</title>
-		<desc>What do Britain's sharpest armchair critics think of this week's biggest and best telly? (S28 Ep2)</desc>
+		<desc>This time on the 'Box, The Grand Tour, Dragons' Den, The Box, Ramsay's Kitchen Nightmares USA, Holly Willoughby Together, The Runner and BBC News (Reform UK donations). (S28 Ep2)</desc>
 		<icon src="https://ic.c4assets.com/vps/gogglebox-series-28/0B097C30-A08F-4251-934E9F3F83E78BF1.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20260918020500 +0000" stop="20260918030500 +0000">
@@ -4802,7 +4797,7 @@
 	<programme channel="4M" start="20260914160000 +0000" stop="20260914163000 +0000">
 		<title>Storage Wars: Texas</title>
 		<desc>Jenny and Mary land themselves in a bidding war with each other, and Jenny's fuming about it. Seriously, has Jenny not seen Storage Wars before? (S2 Ep18)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/storage-wars-texas-yr-2/6FC41D91-3418-4C59-B132E4CFC49B8C9A.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4M" start="20260914163000 +0000" stop="20260914170000 +0000">
 		<title>Storage Wars: Texas</title>
