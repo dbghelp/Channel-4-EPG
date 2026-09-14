@@ -147,7 +147,7 @@
 	<programme channel="C4" start="20260914210000 +0000" stop="20260914220000 +0000">
 		<title>New: Geordie Coppers</title>
 		<desc>Expect the unexpected in this front-row seat to policing in Newcastle, one of Britain's liveliest cities. Officers tackle crime and disorder, from a brawl to a suspicious Big Mac. (Ep1)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/geordie-beat/B4EBDAA4-203C-4226-8E285831C5DBFD43.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260914220000 +0000" stop="20260914230500 +0000">
 		<title>24 Hours in A&amp;E</title>
@@ -155,29 +155,29 @@
 		<icon src="https://ic.c4assets.com/brands/24-hours-in-ae/series-23/episode-1/46e61c9a-898d-4b9c-8675-11b4ec3b64d6.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260914230500 +0000" stop="20260915000500 +0000">
-		<title>New: Walter Presents: The Twelve</title>
-		<desc>Botox Murders: Taut Belgian drama. When a famous author and his pregnant wife are murdered, his son Francis and Francis's partner Klara are charged. In Flemish/subs. (S3 Ep1)</desc>
-		<icon src="https://ic.c4assets.com/vps/twelve-the-yr-3-botox-murders/DC526702-862F-444A-86A925B44F3DEB35.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="C4" start="20260915000500 +0000" stop="20260915010000 +0000">
 		<title>The Jury: 14 and on Trial for...</title>
 		<desc>...Murder: After heated disagreements, the jury come to their verdict; are the brothers guilty of murder or of manslaughter? And is it the same verdict as the real-life case? (S3 Ep4/4)</desc>
 		<icon src="https://ic.c4assets.com/vps/the-jury-series-3-and-4/D217B211-62B2-471D-814B75AAD36C85D2.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20260915010000 +0000" stop="20260915015000 +0000">
+	<programme channel="C4" start="20260915000500 +0000" stop="20260915005500 +0000">
 		<title>Ramsay's Kitchen Nightmares USA</title>
 		<desc>Pantaleone's: In Colorado, Gordon visits Italian restaurant Pantaleone's, whose stubborn owner Pete claims that he makes 'the best pizza in Denver'. Sadly, Gordon doesn't agree. (S7 Ep1)</desc>
 		<icon src="https://ic.c4assets.com/brands/ramsays-kitchen-nightmares-usa/series-7/episode-2/31b452e1-e0bf-4550-b4cb-2ac052840f57.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20260915015000 +0000" stop="20260915024500 +0000">
+	<programme channel="C4" start="20260915005500 +0000" stop="20260915015000 +0000">
 		<title>The Dog House</title>
 		<desc>Two teen brothers need a peacekeeper. Is Maggie, a cute Chihuahua cross, the one? And Nicola and Matt want very different dogs - can Woodgreen find them a compromise pooch? (S5 Ep3)</desc>
 		<icon src="https://ic.c4assets.com/brands/the-dog-house/series-3/episode-3/d38f7f5f-217e-4967-926a-373f7c3329d3.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20260915024500 +0000" stop="20260915034000 +0000">
+	<programme channel="C4" start="20260915015000 +0000" stop="20260915024500 +0000">
 		<title>Couples Come Dine with Me</title>
 		<desc>In Marbella, three couples put their hosting skills to the test in a week featuring competitive piñata bashing, chicken critique and large helpings of frank feedback.</desc>
 		<icon src="https://ic.c4assets.com/vps/couples-come-dine-with-me/409f39a4-d527-4a2a-bb5f-cd38d1b2d2b6.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="C4" start="20260915024500 +0000" stop="20260915034000 +0000">
+		<title>Location, Location, Location</title>
+		<desc>Kirstie Allsopp catches up with a student in Liverpool who was desperate to flee a noisy flat, and two househunters in the south of England. (S21 Ep9)</desc>
+		<icon src="https://ic.c4assets.com/vps/location-location-location/ca7e8193-68a3-4cb8-afa9-c49a67a86517.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260915034000 +0000" stop="20260915045000 +0000">
 		<title>Hollyoaks Omnibus</title>
@@ -942,7 +942,7 @@
 	<programme channel="C4" start="20260919172500 +0000" stop="20260919175500 +0000">
 		<title>Channel 4 News</title>
 		<desc>Channel 4's flagship news programme. Including the weather.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/channel-4-news/B81EC798-A92D-4977-900910B1EDB05E82.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260919175500 +0000" stop="20260919201500 +0000">
 		<title>The Day After Tomorrow</title>
@@ -971,8 +971,8 @@
 	</programme>
 	<programme channel="C4" start="20260920023000 +0000" stop="20260920032000 +0000">
 		<title>Location, Location, Location</title>
-		<desc>Kirstie Allsopp catches up with a student in Liverpool who was desperate to flee a noisy flat, and two househunters in the south of England. (S21 Ep9)</desc>
-		<icon src="https://ic.c4assets.com/vps/location-location-location/ca7e8193-68a3-4cb8-afa9-c49a67a86517.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<desc>Kirstie and Phil help Gemma and Jac, who've outgrown their Welsh rental and crave a spacious, characterful home, and Anne and Tom, who want a cosy-but-flexible space in Cheshire. (S36 Ep2)</desc>
+		<icon src="https://ic.c4assets.com/brands/location-location-location/series-28/episode-6/d368deac-0bcc-4913-af7a-d03739276059.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260920032000 +0000" stop="20260920040000 +0000">
 		<title>A Place in the Sun</title>
@@ -1067,7 +1067,7 @@
 	<programme channel="C4" start="20260920171500 +0000" stop="20260920174500 +0000">
 		<title>Channel 4 News</title>
 		<desc>Channel 4's flagship news programme. Including the weather.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/channel-4-news/B81EC798-A92D-4977-900910B1EDB05E82.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260920174500 +0000" stop="20260920184500 +0000">
 		<title>Inside McVitie's</title>
@@ -1257,12 +1257,12 @@
 	<programme channel="E4" start="20260914190000 +0000" stop="20260914200000 +0000">
 		<title>New: Below Deck Down Under</title>
 		<desc>Brand new series: A new season aboard the Katina begins in a Caribbean billionaires' playground. And the first guests are the entire cast of The Real Housewives of Salt Lake City. (S4 Ep1)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/below-deck-down-under-yr-4/76F650A4-AF93-4577-9B9E38F0259C34AF.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20260914200000 +0000" stop="20260914210500 +0000">
 		<title>New: Made in Chelsea</title>
 		<desc>Brand new series: The Chelsea set return! Sam Prince shows off his new flame, Maali, at Beks' pool party, but when his back is turned, Jack swoops in. And Angus's ex has a secret. (S32 Ep1)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/made-in-chelsea-series-32/3E3FCAC0-35E4-4C1E-99F1B1441A9CC3AA.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20260914210500 +0000" stop="20260914220500 +0000">
 		<title>Gogglebox</title>
@@ -1282,12 +1282,12 @@
 	<programme channel="E4" start="20260915001000 +0000" stop="20260915011500 +0000">
 		<title>Made in Chelsea</title>
 		<desc>Brand new series: Sam Prince shows off his new flame, Maali, at Beks' pool party, but when his back is turned, Jack swoops in. And Angus's ex has a secret. (S32 Ep1)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/made-in-chelsea-series-32/3E3FCAC0-35E4-4C1E-99F1B1441A9CC3AA.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20260915011500 +0000" stop="20260915020000 +0000">
 		<title>Below Deck Down Under</title>
 		<desc>Brand new series: A new season aboard the Katina begins in a Caribbean billionaires' playground. And the first guests are the entire cast of The Real Housewives of Salt Lake City. (S4 Ep1)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/below-deck-down-under-yr-4/76F650A4-AF93-4577-9B9E38F0259C34AF.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20260915020000 +0000" stop="20260915025500 +0000">
 		<title>Ramsay's Kitchen Nightmares USA</title>
@@ -1357,7 +1357,7 @@
 	<programme channel="E4" start="20260915100000 +0000" stop="20260915110000 +0000">
 		<title>Below Deck Down Under</title>
 		<desc>Brand new series: A new season aboard the Katina begins in a Caribbean billionaires' playground. And the first guests are the entire cast of The Real Housewives of Salt Lake City. (S4 Ep1)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/below-deck-down-under-yr-4/76F650A4-AF93-4577-9B9E38F0259C34AF.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20260915110000 +0000" stop="20260915113000 +0000">
 		<title>The Simpsons</title>
@@ -1442,7 +1442,7 @@
 	<programme channel="E4" start="20260915190000 +0000" stop="20260915200000 +0000">
 		<title>New: Below Deck Down Under</title>
 		<desc>Brand new series: An over-the-top guest has the crew scrambling all over the place. Meanwhile, Captain Jason's resolved to keep his distance. Wise move, skip... (S4 Ep2)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/below-deck-down-under-yr-4---night-of-the-living-dread/F1C22FE5-2B30-4A15-97F76A90A18FF332.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20260915200000 +0000" stop="20260915210000 +0000">
 		<title>Gogglebox</title>
@@ -1477,7 +1477,7 @@
 	<programme channel="E4" start="20260916020500 +0000" stop="20260916025000 +0000">
 		<title>Below Deck Down Under</title>
 		<desc>Brand new series: An over-the-top guest has the crew scrambling all over the place. Meanwhile, Captain Jason's resolved to keep his distance. Wise move, skip... (S4 Ep2)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/below-deck-down-under-yr-4---night-of-the-living-dread/F1C22FE5-2B30-4A15-97F76A90A18FF332.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20260916025000 +0000" stop="20260916031500 +0000">
 		<title>The Simpsons</title>
@@ -1542,7 +1542,7 @@
 	<programme channel="E4" start="20260916100000 +0000" stop="20260916110000 +0000">
 		<title>Below Deck Down Under</title>
 		<desc>Brand new series: An over-the-top guest has the crew scrambling all over the place. Meanwhile, Captain Jason's resolved to keep his distance. Wise move, skip... (S4 Ep2)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/below-deck-down-under-yr-4---night-of-the-living-dread/F1C22FE5-2B30-4A15-97F76A90A18FF332.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20260916110000 +0000" stop="20260916113000 +0000">
 		<title>The Simpsons</title>
@@ -1617,7 +1617,7 @@
 	<programme channel="E4" start="20260916180000 +0000" stop="20260916183000 +0000">
 		<title>New: Hollyoaks</title>
 		<desc>Theresa is blown away by her daughter's singing talents. And a revealed secret tears a family apart.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/hollyoaks-xxxiv-2026---lime-no.-6772/E52B186D-F76D-4F98-B24AE55A60BC3D84.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20260916183000 +0000" stop="20260916190000 +0000">
 		<title>Brooklyn Nine-Nine</title>
@@ -2052,7 +2052,7 @@
 	<programme channel="E4" start="20260919063000 +0000" stop="20260919073500 +0000">
 		<title>Made in Chelsea</title>
 		<desc>Brand new series: Sam Prince shows off his new flame, Maali, at Beks' pool party, but when his back is turned, Jack swoops in. And Angus's ex has a secret. (S32 Ep1)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/made-in-chelsea-series-32/3E3FCAC0-35E4-4C1E-99F1B1441A9CC3AA.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20260919073500 +0000" stop="20260919083500 +0000">
 		<title>Ramsay's Hotel Hell</title>
@@ -3752,7 +3752,7 @@
 	<programme channel="4S" start="20260915220000 +0000" stop="20260915230500 +0000">
 		<title>Geordie Coppers</title>
 		<desc>Expect the unexpected in this front-row seat to policing in Newcastle, one of Britain's liveliest cities. Officers tackle crime and disorder, from a brawl to a suspicious Big Mac. (Ep1)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/geordie-beat/B4EBDAA4-203C-4226-8E285831C5DBFD43.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20260915230500 +0000" stop="20260916000500 +0000">
 		<title>24 Hours in A&amp;E</title>
@@ -3992,7 +3992,7 @@
 	<programme channel="4S" start="20260917220000 +0000" stop="20260917230500 +0000">
 		<title>Geordie Coppers</title>
 		<desc>Expect the unexpected in this front-row seat to policing in Newcastle, one of Britain's liveliest cities. Officers tackle crime and disorder, from a brawl to a suspicious Big Mac. (Ep1)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/geordie-beat/B4EBDAA4-203C-4226-8E285831C5DBFD43.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20260917230500 +0000" stop="20260918000500 +0000">
 		<title>24 Hours in A&amp;E</title>
@@ -4557,12 +4557,12 @@
 	<programme channel="4M" start="20260915160000 +0000" stop="20260915163000 +0000">
 		<title>Storage Wars: Texas</title>
 		<desc>Bubba's back in his old stomping ground, and he means business. And Jenny calls on Bubba and Ricky's 'specialist skills' to open an old safe. Hammers at the ready... (S3 Ep2)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/storage-wars-texas-yr-3/53E9A8F6-7DDB-4354-BC93674CA2B747AC.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4M" start="20260915163000 +0000" stop="20260915170000 +0000">
 		<title>Storage Wars: Texas</title>
 		<desc>Victor gets in touch with his feminine side in Mesquite. A locker full of dust and cobwebs gets everyone's competitive juices flowing, for some reason. (S3 Ep3)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/storage-wars-texas-yr-3/7634E771-4364-4706-81EBE12570035739.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4M" start="20260915170000 +0000" stop="20260915180000 +0000">
 		<title>Ramsay's Hotel Hell</title>
@@ -4677,7 +4677,7 @@
 	<programme channel="4M" start="20260916160000 +0000" stop="20260916163000 +0000">
 		<title>Storage Wars: Texas</title>
 		<desc>The buyers are still buzzing around Mesquite, and Ricky and Bubba are determined to turn their rotten luck around. Dr Moe and Mary are hankering for a shopping spree. (S3 Ep4)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/storage-wars-texas-yr-3/3AB0B69D-707F-49C3-AE5D0F35D5A326A1.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4M" start="20260916163000 +0000" stop="20260916170000 +0000">
 		<title>Storage Wars: Texas</title>
