@@ -132,7 +132,7 @@
 	<programme channel="C4" start="20260921180000 +0000" stop="20260921190000 +0000">
 		<title>Channel 4 News</title>
 		<desc>Channel 4's flagship news programme. Including the weather.</desc>
-		<icon src="https://ic.c4assets.com/vps/channel-4-news/B81EC798-A92D-4977-900910B1EDB05E82.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/channel-4-news-2026/7E28AEA6-FC83-46BD-8CB79EA6DDAF710D.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260921190000 +0000" stop="20260921200000 +0000">
 		<title>New: Fred's Ultimate Hotels</title>
@@ -467,7 +467,7 @@
 	<programme channel="C4" start="20260923210000 +0000" stop="20260923220500 +0000">
 		<title>New: Martin Compston Living Las...</title>
 		<desc>...Vegas: Actor Martin Compston offers an insider tour of his adopted home, Las Vegas, with an elite hotel, a chapel wedding and gambling a small fortune at the Palms Hotel casino. (Ep1/3)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/martin-compston-living-las-vegas/2C5788C3-1156-41FD-8DB6056E5680DB10.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260923220500 +0000" stop="20260923231000 +0000">
 		<title>999: What Happened Next</title>
@@ -639,24 +639,29 @@
 		<desc>Rob Beckett hosts as 12 strangers begin a brutal trek through the Malaysian jungle. Who'll blow some of the £300k prize pot on luxuries like a £2000 taxi and an overpriced pasty? (S3 Ep1/8)</desc>
 		<icon src="https://ic.c4assets.com/vps/tempting-fortune/4665D8EC-6BE6-4C56-822CC6946BA7D42D.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20260925000000 +0000" stop="20260925005500 +0000">
+	<programme channel="C4" start="20260925000000 +0000" stop="20260925004000 +0000">
 		<title>The Great British Bake Off:...</title>
 		<desc>...Second Helpings: Another bite of the Bake? Yes please! Jon Richardson and Judi Love welcome Alison Hammond, Nigella Lawson and Harry Hill to spill the tea on Cake Week. (S17 Ep1)</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20260925005500 +0000" stop="20260925024500 +0000">
+	<programme channel="C4" start="20260925004000 +0000" stop="20260925023000 +0000">
 		<title>Proxima</title>
 		<desc>(2019) Sci-fi drama starring Eva Green as an astronaut who gets the mission she's always dreamed of, but faces a tug-of-love between her personal and professional life.</desc>
 		<icon src="https://ic.c4assets.com/vps/proxima/b56dcc44-5acf-483e-a7e4-c769de95fd60.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20260925024500 +0000" stop="20260925033500 +0000">
+	<programme channel="C4" start="20260925023000 +0000" stop="20260925032000 +0000">
 		<title>Ramsay's Kitchen Nightmares USA</title>
 		<desc>Hot Potato Café: The Hot Potato Café in Philadelphia has never made a profit. When the chips are down, can Gordon help save the restaurant? (S3 Ep1)</desc>
 		<icon src="https://ic.c4assets.com/brands/ramsays-kitchen-nightmares-usa/series-3/episode-1/afc24f90-0fcb-4b13-a780-d551512c34c6.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20260925033500 +0000" stop="20260925040000 +0000">
+	<programme channel="C4" start="20260925032000 +0000" stop="20260925034500 +0000">
 		<title>A Place in the Sun</title>
 		<desc>Jo and Graham look for their dream holiday home in Mar Menor, Europe's largest coastal lagoon, on Spain's Costa Blanca. Jasmine Harman shows them impressive properties for their £70k.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="C4" start="20260925034500 +0000" stop="20260925040000 +0000">
+		<title>Sunday Brunch</title>
+		<desc>Some extra brunch as Tim Lovejoy and Simon Rimmer host the food and chat show.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260925040000 +0000" stop="20260925045000 +0000">
@@ -1082,7 +1087,7 @@
 	<programme channel="C4" start="20260927200000 +0000" stop="20260927210000 +0000">
 		<title>New: Apocalypse: Could You...</title>
 		<desc>...Survive? - How do the Westsiders handle Brooke's betrayal? The Eastsiders' gun is missing. And new survivor Alix leads a raid across enemy lines that can only lead to conflict. (Ep3)</desc>
-		<icon src="https://ic.c4assets.com/vps/apocalypse/40D6C5CE-D0EE-4FA1-91DE40DBEC7FFD4C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/apocalypse/6EC1C478-BD59-4C63-8C05FA7D484AFC2D.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260927210000 +0000" stop="20260927220000 +0000">
 		<title>Gogglebox</title>
@@ -4037,7 +4042,7 @@
 	<programme channel="4S" start="20260924210000 +0000" stop="20260924220500 +0000">
 		<title>Martin Compston: Living Las Vegas</title>
 		<desc>Actor Martin Compston offers an insider tour of his adopted home, Las Vegas, with an elite hotel, a chapel wedding and gambling a small fortune at the Palms Hotel casino. (Ep1/3)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/martin-compston-living-las-vegas/2C5788C3-1156-41FD-8DB6056E5680DB10.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20260924220500 +0000" stop="20260924230500 +0000">
 		<title>Tempting Fortune</title>
