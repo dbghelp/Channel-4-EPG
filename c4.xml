@@ -131,8 +131,8 @@
 	</programme>
 	<programme channel="C4" start="20260923180000 +0000" stop="20260923190000 +0000">
 		<title>Channel 4 News</title>
-		<desc>Channel 4's flagship news programme. Including the weather.</desc>
-		<icon src="https://ic.c4assets.com/vps/channel-4-news/B81EC798-A92D-4977-900910B1EDB05E82.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<desc>Live in New York at the UN general assembly as Ukraine comes under heavy Russian bombardment. And the UK's deal to transfer sovereignty over the Chagos Islands is put on hold.</desc>
+		<icon src="https://ic.c4assets.com/vps/channel-4-news-2026/98C54BFE-2B12-4E11-95B1171716CC5ECB.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260923190000 +0000" stop="20260923200000 +0000">
 		<title>New: Location, Location, Location</title>
