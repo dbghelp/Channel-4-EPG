@@ -302,7 +302,7 @@
 	<programme channel="C4" start="20260924200000 +0000" stop="20260924210000 +0000">
 		<title>New: Taskmaster</title>
 		<desc>Greg Davies yells about a famous work of art, but what have hippos got to do with it? Chloe Petts sticks googly eyes to a body part. Isy Suttie insists it's time to make steam. (S22 Ep4/10)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/taskmaster-series-13-22/05EB3605-7A6D-4152-A795641092231B69.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260924210000 +0000" stop="20260924220500 +0000">
 		<title>Celebrity Gogglebox</title>
@@ -654,35 +654,40 @@
 		<desc>(1987) Richard E Grant and Paul McGann star in Bruce Robinson's cult comedy as hard-drinking, substance-abusing unemployed actors who go on holiday to Cumbria by mistake.</desc>
 		<icon src="https://ic.c4assets.com/vps/withnail-and-i/93a3492e-498a-41aa-8e8b-ad019381d680.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20260927011000 +0000" stop="20260927020000 +0000">
+	<programme channel="C4" start="20260927011000 +0000" stop="20260927020500 +0000">
 		<title>Ramsay's Kitchen Nightmares USA</title>
 		<desc>Bazzini: Award-winning chef Paul runs Italian joint Bazzini in New Jersey, but didn't realise how difficult running a restaurant would be. Can Gordon turn it around? (S3 Ep3)</desc>
 		<icon src="https://ic.c4assets.com/brands/ramsays-kitchen-nightmares-usa/series-3/episode-3/ef6a0f0b-5d36-4f39-a791-1f4d041aa60c.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20260927020000 +0000" stop="20260927025500 +0000">
-		<title>Couples Come Dine with Me</title>
-		<desc>In Oxfordshire, amateur MC James and Heather offer up French food and a basement rave. Marjie and Matt push the boat out with a Titanic theme. And Tutty and Sonja serve countryside cuisine.</desc>
-		<icon src="https://ic.c4assets.com/vps/couples-come-dine-with-me/409f39a4-d527-4a2a-bb5f-cd38d1b2d2b6.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	<programme channel="C4" start="20260927020500 +0000" stop="20260927023000 +0000">
+		<title>The Simpsons</title>
+		<desc>Woo-Hoo Dunnit?: There's no shortage of suspects when Lisa's college fund is stolen from under the kitchen sink... (S30 Ep22/23)</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20260927025500 +0000" stop="20260927035000 +0000">
-		<title>Location, Location, Location</title>
-		<desc>In south London, Kirstie and Phil help Jess and Zak, who've viewed over 60 properties to no avail, and self-professed oldest first-time buyers in town Rachel and Alan. (S36 Ep1)</desc>
-		<icon src="https://ic.c4assets.com/brands/location-location-location/series-28/episode-5/2d80f224-96c8-47a4-9b18-dc1236c20442.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	<programme channel="C4" start="20260927023000 +0000" stop="20260927025500 +0000">
+		<title>The Simpsons</title>
+		<desc>Treehouse of Horror XXIX: What would happen if all the old people in Springfield turned into dinosaurs? Well, the answer lies in Mr Burns's new retirement home: Geriatric Park. (S30 Ep4)</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20260927035000 +0000" stop="20260927041500 +0000">
+	<programme channel="C4" start="20260927025500 +0000" stop="20260927032000 +0000">
 		<title>The Simpsons</title>
 		<desc>Who Shot Mr. Burns? (Part 1/2): Mr Burns is shot - and everyone in Springfield has a motive. But which of his many enemies is the culprit? (S6 Ep25/25)</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20260927041500 +0000" stop="20260927044000 +0000">
+	<programme channel="C4" start="20260927032000 +0000" stop="20260927034500 +0000">
 		<title>The Simpsons</title>
 		<desc>So It Has Come to This: A Simpsons Clip Show: Bart's special April Fools' Day prank seriously misfires when the whole house explodes. (S4 Ep18/22)</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20260927044000 +0000" stop="20260927050500 +0000">
+	<programme channel="C4" start="20260927034500 +0000" stop="20260927041000 +0000">
 		<title>The Simpsons</title>
 		<desc>Lisa the Vegetarian: Lisa turns vegetarian after petting a lamb, but no one in Springfield shares her sensibilities - except maybe Apu? And his friends Paul and Linda McCartney? (S7 Ep5/25)</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="C4" start="20260927041000 +0000" stop="20260927050500 +0000">
+		<title>Location, Location, Location</title>
+		<desc>In south London, Kirstie and Phil help Jess and Zak, who've viewed over 60 properties to no avail, and self-professed oldest first-time buyers in town Rachel and Alan. (S36 Ep1)</desc>
+		<icon src="https://ic.c4assets.com/brands/location-location-location/series-28/episode-5/2d80f224-96c8-47a4-9b18-dc1236c20442.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260927050500 +0000" stop="20260927053500 +0000">
 		<title>Cheers</title>
@@ -1117,7 +1122,7 @@
 	<programme channel="C4" start="20260930001000 +0000" stop="20260930010500 +0000">
 		<title>Taskmaster</title>
 		<desc>Greg Davies yells about a famous work of art, but what have hippos got to do with it? Chloe Petts sticks googly eyes to a body part. Isy Suttie insists it's time to make steam. (S22 Ep4/10)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/taskmaster-series-13-22/05EB3605-7A6D-4152-A795641092231B69.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20260930010500 +0000" stop="20260930021000 +0000">
 		<title>Celebrity Pottery Throw Down</title>
@@ -4167,7 +4172,7 @@
 	<programme channel="4S" start="20260927234000 +0000" stop="20260928004500 +0000">
 		<title>Taskmaster</title>
 		<desc>Greg Davies yells about a famous work of art, but what have hippos got to do with it? Chloe Petts sticks googly eyes to a body part. Isy Suttie insists it's time to make steam. (S22 Ep4/10)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/taskmaster-series-13-22/05EB3605-7A6D-4152-A795641092231B69.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20260928004500 +0000" stop="20260928014500 +0000">
 		<title>Tempting Fortune</title>
@@ -4294,17 +4299,17 @@
 		<desc>The Bake is back! A fresh batch of bakers take on new judge Nigella's stout cake Signature, an artistic Technical and self-portrait Showstoppers. Who'll face being first to leave? (S17 Ep1)</desc>
 		<icon src="https://ic.c4assets.com/vps/the-great-british-bake-off-series-10-17/300184DA-3394-4899-806FB6037398FFE9.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="4S" start="20260929024500 +0000" stop="20260929033500 +0000">
+	<programme channel="4S" start="20260929024500 +0000" stop="20260929032000 +0000">
 		<title>The Great British Bake Off:...</title>
 		<desc>...Second Helpings: Another bite of the Bake? Yes please! Jon Richardson and Judi Love welcome Alison Hammond, Nigella Lawson and Harry Hill to spill the tea on Cake Week. (S17 Ep1)</desc>
 		<icon src="https://ic.c4assets.com/vps/the-great-british-bake-off-an-extra-slice-series-10-17-2026/C62C33D9-C134-4A10-B51491EC1ACB1052.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="4S" start="20260929033500 +0000" stop="20260929040000 +0000">
+	<programme channel="4S" start="20260929032000 +0000" stop="20260929035000 +0000">
 		<title>Kirstie and Phil's Love It or...</title>
 		<desc>...List It: Brilliant Builds: The duo look back on one of their best budget-stretching renovations: a not-so-done-up Shropshire terrace. Did Kirstie's plan make the most of a small budget?</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="4S" start="20260929040000 +0000" stop="20260929080000 +0000">
+	<programme channel="4S" start="20260929035000 +0000" stop="20260929080000 +0000">
 		<title>No programme</title>
 		<desc>No programme</desc>
 		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/4seven_logo_2018.svg/130px-4seven_logo_2018.svg.png" />
