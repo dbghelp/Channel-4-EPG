@@ -3324,10 +3324,15 @@
 		<desc>(1955) Fact-based wartime drama. Audie Murphy, America's most decorated soldier in WWII, plays himself in this dramatic recreation of the valiant heroics that earned him the honours.</desc>
 		<icon src="https://ic.c4assets.com/vps/to-hell-and-back/04481764-8785-4B0A-A03367DBCE9001FB.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="F4" start="20260930143000 +0000" stop="20260930171500 +0000">
+	<programme channel="F4" start="20260930143000 +0000" stop="20260930171000 +0000">
 		<title>The Andromeda Strain</title>
 		<desc>(1971) Sci-fi thriller. When a space rocket crash-lands in the US, a fatal alien virus is released, sparking a desperate battle to defeat the extraterrestrial life form and save mankind.</desc>
 		<icon src="https://ic.c4assets.com/vps/andromeda-strain-the-1971/37BB88CC-06A7-4F19-B59CF8FCCDA3E04C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20260930171000 +0000" stop="20260930171500 +0000">
+		<title>Bridge of Spies Interview Special</title>
+		<desc>Director Steven Spielberg and stars Tom Hanks and Mark Rylance talk about making their Cold War espionage drama.</desc>
+		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20260930171500 +0000" stop="20260930200000 +0000">
 		<title>Bridge of Spies</title>
