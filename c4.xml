@@ -3309,10 +3309,15 @@
 		<desc>Carol and Steve from North Yorkshire have £80,000 to spend on a holiday home in Spain, near the village of Oliva. Can Danni Menzies find them their dream property?</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="F4" start="20261004100000 +0000" stop="20261004120000 +0000">
+	<programme channel="F4" start="20261004100000 +0000" stop="20261004115500 +0000">
 		<title>Anastasia</title>
 		<desc>(1997) Animated drama. When the Russian royal family is murdered, the sole surviving child is separated from her grandmother. Years later, conmen try to exploit the reward for her return.</desc>
 		<icon src="https://ic.c4assets.com/vps/anastasia/7D3DF2AD-2399-4C2B-BBC200AEDAF4A60D.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20261004115500 +0000" stop="20261004120000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/150px-Film4_logo_2018.svg.png" />
 	</programme>
 	<programme channel="F4" start="20261004120000 +0000" stop="20261004133500 +0000">
 		<title>Apache Drums</title>
@@ -3721,7 +3726,7 @@
 	</programme>
 	<programme channel="4S" start="20261004200000 +0000" stop="20261004210000 +0000">
 		<title>Gogglebox</title>
-		<desc>What's the verdict on this week's TV? With The Celebrity Traitors, Strictly Come Dancing, Wonka's the Golden Ticket, The Great Celebrity Pottery Throw Down and The Real Rooneys (S28 Ep5).</desc>
+		<desc>What's the verdict on this week's TV? With The Celebrity Traitors, Strictly Come Dancing, Wonka's the Golden Ticket, The Great Celebrity Pottery Throw Down and The Real Rooneys. (S28 Ep5)</desc>
 		<icon src="https://ic.c4assets.com/vps/gogglebox-series-28/31772F29-D59C-4A5B-A34EE66746A623A6.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20261004210000 +0000" stop="20261004235000 +0000">
