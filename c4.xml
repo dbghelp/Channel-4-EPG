@@ -129,10 +129,15 @@
 		<desc>...Are They Now?: In Almería, boutique hotelier Ellie has big expansion plans. In France, can wedding venue operators Lauren and James cope with their biggest season? (S7 Ep15)</desc>
 		<icon src="https://ic.c4assets.com/vps/a-new-life-in-the-sun-where-are-they-now-s7/9D4704CF-8132-464E-971AACFB9A03EDAF.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20261013180000 +0000" stop="20261013185500 +0000">
+	<programme channel="C4" start="20261013180000 +0000" stop="20261013185405 +0000">
 		<title>Channel 4 News</title>
-		<desc>Channel 4's flagship news programme. Including the weather.</desc>
+		<desc>Some rare good news for the UK economy. And the head of MI5 warns of rising threats from Iran and right-wing extremists, but Russia remains 'aggressor number one'.</desc>
 		<icon src="https://ic.c4assets.com/vps/channel-4-news/B81EC798-A92D-4977-900910B1EDB05E82.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="C4" start="20261013185405 +0000" stop="20261013185500 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Channel_4_%28On_Demand%29_2023.svg/150px-Channel_4_%28On_Demand%29_2023.svg.png" />
 	</programme>
 	<programme channel="C4" start="20261013185500 +0000" stop="20261013190000 +0000">
 		<title>Matthew's Story: Stand Up To...</title>
@@ -152,7 +157,7 @@
 	<programme channel="C4" start="20261013211500 +0000" stop="20261013220500 +0000">
 		<title>New: The Great British Bake...</title>
 		<desc>...Off: Second Helpings: Bake Off royalty Paul Hollywood and Nigella Lawson slice into Bread Week with Jon Richardson and Judi Love. (S17 Ep4)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/the-great-british-bake-off-an-extra-slice-series-10-17-2026/B1EBBC72-2E00-4F01-B5178A020E997AC8.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20261013220500 +0000" stop="20261013230500 +0000">
 		<title>Gogglebox</title>
@@ -487,7 +492,7 @@
 	<programme channel="C4" start="20261015200500 +0000" stop="20261015210500 +0000">
 		<title>New: Taskmaster</title>
 		<desc>A Taskmaster legend is in the house. All but one of the contestants enjoy a short and steamy train ride. And Nina Conti tries to trick Greg Davies with bananas and a big spoon. (S22 Ep7/10)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/taskmaster-series-13-22/CED71EDD-D732-4996-913C89268F73775F.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20261015210500 +0000" stop="20261015213500 +0000">
 		<title>New: Break Clause</title>
@@ -527,7 +532,7 @@
 	<programme channel="C4" start="20261016022000 +0000" stop="20261016030000 +0000">
 		<title>The Great British Bake Off:...</title>
 		<desc>...Second Helpings: Bake Off royalty Paul Hollywood and Nigella Lawson slice into Bread Week with Jon Richardson and Judi Love. (S17 Ep4)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/the-great-british-bake-off-an-extra-slice-series-10-17-2026/B1EBBC72-2E00-4F01-B5178A020E997AC8.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20261016030000 +0000" stop="20261016035000 +0000">
 		<title>Grand Designs</title>
@@ -622,7 +627,7 @@
 	<programme channel="C4" start="20261016131000 +0000" stop="20261016140000 +0000">
 		<title>Countdown</title>
 		<desc>Colin Murray, Rachel Riley and Susie Dent host, with Nicki Chapman in Dictionary Corner, as contestants race against the clock to pit their wits against vowels.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/countdown/9F551DCB-BA8E-43DC-9C9F94BF045664C3.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20261016140000 +0000" stop="20261016150000 +0000">
 		<title>A Place in the Sun</title>
@@ -847,7 +852,7 @@
 	<programme channel="C4" start="20261018001500 +0000" stop="20261018014000 +0000">
 		<title>Iris Prize Best British Shorts</title>
 		<desc>(2026) What Remains Unsaid: Compilation of five short films exploring what it means to leave something unsaid, and the devastating effect that not saying things can sometimes have.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/iris-2026-compilation-one---what-remains-unsaid/BD027CE6-6420-4340-B246F75865257E4D.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20261018014000 +0000" stop="20261018023000 +0000">
 		<title>Ramsay's Hotel Hell</title>
@@ -1042,7 +1047,7 @@
 	<programme channel="C4" start="20261019045000 +0000" stop="20261019053000 +0000">
 		<title>Countdown</title>
 		<desc>Colin Murray, Rachel Riley and Susie Dent host, with Nicki Chapman in Dictionary Corner, as contestants race against the clock to pit their wits against vowels.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/countdown/9F551DCB-BA8E-43DC-9C9F94BF045664C3.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20261019053000 +0000" stop="20261019055500 +0000">
 		<title>The King of Queens</title>
@@ -1177,7 +1182,7 @@
 	<programme channel="C4" start="20261019230500 +0000" stop="20261020002000 +0000">
 		<title>New: Walter Presents: Soviet Jeans</title>
 		<desc>Latvian drama. In 1979, black-marketeer Renars falls for Finnish director Tina. And KGB agent Maris, who forces Renars to spy for him, falls for her too... In Latvian/subs. (Ep1)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/soviet-jeans-yr-1/4118C688-94BA-4082-818228D425FEAEFC.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20261020002000 +0000" stop="20261020011000 +0000">
 		<title>Ramsay's Kitchen Nightmares USA</title>
@@ -1532,7 +1537,7 @@
 	<programme channel="E4" start="20261014200000 +0000" stop="20261014210000 +0000">
 		<title>New: Ramsay's Kitchen...</title>
 		<desc>...Nightmares USA: Brand new series - Lyla's Family Restaurant (Part 2/2): Owner Waleed's hopes and dreams go up in flames when a fire breaks out at his restaurant's big relaunch. (S10 Ep8)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/kitchen-nightmares-usa-yr-10/2D564B0E-1F16-4C6C-805B09E1BBCFD4C9.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20261014210000 +0000" stop="20261014220000 +0000">
 		<title>Gogglebox</title>
@@ -2142,7 +2147,7 @@
 	<programme channel="E4" start="20261018100500 +0000" stop="20261018111000 +0000">
 		<title>Ramsay's Kitchen Nightmares USA</title>
 		<desc>Brand new series - Lyla's Family Restaurant (Part 2/2): Owner Waleed's hopes and dreams literally go up in flames when a fire breaks out at his restaurant's big relaunch. (S10 Ep8)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/kitchen-nightmares-usa-yr-10/2D564B0E-1F16-4C6C-805B09E1BBCFD4C9.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20261018111000 +0000" stop="20261018123000 +0000">
 		<title>The Great British Bake Off</title>
@@ -3301,8 +3306,8 @@
 	</programme>
 	<programme channel="M4" start="20261019175000 +0000" stop="20261019185500 +0000">
 		<title>The Dog House</title>
-		<desc>A terrified cockapoo is in a bad way and needs TLC and a haircut. Coco the dachshund must overcome first-date nerves as she meets 25-year-old Liv. Toddler Sam needs a playmate. (S7 Ep2)</desc>
-		<icon src="https://ic.c4assets.com/vps/the-dog-house-series-4/67239D7F-0A5D-4C88-86D7D851A19C3500.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<desc>The Dog House's long-term residents need new homes. Can inseparable Chihuahua trio Rio, Prince and Blue Boy, and double trouble George and Daisy, find their forever humans? (S8 Ep4)</desc>
+		<icon src="https://ic.c4assets.com/vps/the-dog-house-series-5/1084EC00-4DAA-48FD-94152441E0FCA021.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="M4" start="20261019185500 +0000" stop="20261019200000 +0000">
 		<title>The Dog House</title>
@@ -3405,8 +3410,8 @@
 		<icon src="https://ic.c4assets.com/vps/crash-dive/F9CE23F3-6862-4C38-BCDF0A397ED8B240.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20261014161500 +0000" stop="20261014175500 +0000">
-		<title>The Black Arrow</title>
-		<desc>(1948) Historical adventure. A man (Louis Hayward) returns from the Wars of the Roses to learn from his uncle that a family friend has killed his father. But is everything as it seems?</desc>
+		<title>The Black Swan</title>
+		<desc>(1942) Swashbuckling adventure with Laird Cregar and Tyrone Power. Privateer Captain Henry Morgan tries to rid the Caribbean of pirates when he's made Governor of Jamaica. Bit rich.</desc>
 		<icon src="https://ic.c4assets.com/vps/the-black-swan/CCBE6DFC-149B-4ACB-B0BF8EE17E0E9BF2.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20261014175500 +0000" stop="20261014200000 +0000">
@@ -3422,12 +3427,12 @@
 	<programme channel="F4" start="20261014220500 +0000" stop="20261015001000 +0000">
 		<title>Jennifer's Body</title>
 		<desc>(2009) Horror starring Megan Fox and Amanda Seyfried. A macabre ritual literally turns a cheerleader into a man-eater. Can her nerdy friend save the day?</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/jennifer-s-body-2009/96A4A251-A2BA-4CF5-9D283BB85E934EA7.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20261015001000 +0000" stop="20261015020000 +0000">
 		<title>Miranda</title>
 		<desc>(2002) Erotic thriller starring John Simm as a lonely librarian seduced by the mysterious, and possibly murderous, Christina Ricci. With Kyle MacLachlan.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/miranda-ffl-title-c4/5812D76B-28A3-4AF7-AD0F8D208D240B46.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20261015020000 +0000" stop="20261015100000 +0000">
 		<title>No programme</title>
@@ -3472,12 +3477,12 @@
 	<programme channel="F4" start="20261015222000 +0000" stop="20261016002500 +0000">
 		<title>Earth Mama</title>
 		<desc>(2023) Tia Nomore stars in BAFTA-winning Savanah Leaf's deeply affecting portrait of a pregnant single mum in recovery who's trying to prove to an unfeeling system that she's a good mum.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/earth-mama/68D414C0-ECD1-4192-B1AC23DA15DFFB47.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20261016002500 +0000" stop="20261016024000 +0000">
 		<title>Carla's Song</title>
 		<desc>(1996) Ken Loach's film sees Glaswegian bus driver Robert Carlyle get a political education when he accompanies Nicaraguan refugee Oyanka Cabezas back to her home country. Strong language.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/carlas-song/AD1F3FAF-264C-4455-BD4DE3B6DC293FF7.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="F4" start="20261016024000 +0000" stop="20261016100000 +0000">
 		<title>No programme</title>
@@ -3987,7 +3992,7 @@
 	<programme channel="4S" start="20261015230000 +0000" stop="20261016000000 +0000">
 		<title>Taskmaster</title>
 		<desc>A Taskmaster legend is in the house. All but one of the contestants enjoy a short and steamy train ride. And Nina Conti tries to trick Greg Davies with bananas and a big spoon. (S22 Ep7/10)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/taskmaster-series-13-22/CED71EDD-D732-4996-913C89268F73775F.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20261016000000 +0000" stop="20261016010000 +0000">
 		<title>Location, Location, Location</title>
@@ -4117,7 +4122,7 @@
 	<programme channel="4S" start="20261017010000 +0000" stop="20261017020000 +0000">
 		<title>Taskmaster</title>
 		<desc>A Taskmaster legend is in the house. All but one of the contestants enjoy a short and steamy train ride. And Nina Conti tries to trick Greg Davies with bananas and a big spoon. (S22 Ep7/10)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/taskmaster-series-13-22/CED71EDD-D732-4996-913C89268F73775F.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20261017020000 +0000" stop="20261017030000 +0000">
 		<title>Grand Designs</title>
@@ -4472,7 +4477,7 @@
 	<programme channel="4S" start="20261020021000 +0000" stop="20261020031000 +0000">
 		<title>Taskmaster</title>
 		<desc>A Taskmaster legend is in the house. All but one of the contestants enjoy a short and steamy train ride. And Nina Conti tries to trick Greg Davies with bananas and a big spoon. (S22 Ep7/10)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/taskmaster-series-13-22/CED71EDD-D732-4996-913C89268F73775F.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20261020031000 +0000" stop="20261020040500 +0000">
 		<title>Worst House on the Street</title>
