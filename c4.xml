@@ -129,10 +129,15 @@
 		<desc>...Are They Now?: The owners of a Spanish hotel feel financial pressures, a couple face up to the realities of managing a busy B&amp;B, and did a barman's business survive Covid? (S5 Ep1)</desc>
 		<icon src="https://ic.c4assets.com/brands/a-new-life-in-the-sun-where-are-they-now/series-5/episode-1/5954c3be-f2a1-4474-98e1-a67368a3a881.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20261014180000 +0000" stop="20261014185500 +0000">
+	<programme channel="C4" start="20261014180000 +0000" stop="20261014185405 +0000">
 		<title>Channel 4 News</title>
 		<desc>Channel 4's flagship news programme. Including the weather.</desc>
 		<icon src="https://ic.c4assets.com/vps/channel-4-news/B81EC798-A92D-4977-900910B1EDB05E82.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="C4" start="20261014185405 +0000" stop="20261014185500 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Channel_4_%28On_Demand%29_2023.svg/150px-Channel_4_%28On_Demand%29_2023.svg.png" />
 	</programme>
 	<programme channel="C4" start="20261014185500 +0000" stop="20261014190000 +0000">
 		<title>Morgan's Story: Stand Up To Cancer</title>
