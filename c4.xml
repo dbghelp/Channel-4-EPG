@@ -129,10 +129,15 @@
 		<desc>...Are They Now?: In Portugal, holiday hosts set themselves a new challenge. In Spain, a former café owner works out her next move as she fights to keep her Spanish dream alive. (S5 Ep2)</desc>
 		<icon src="https://ic.c4assets.com/brands/a-new-life-in-the-sun-where-are-they-now/series-5/episode-2/f35e0bee-802b-4350-a325-59bb0dfc5706.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20261015180000 +0000" stop="20261015185500 +0000">
+	<programme channel="C4" start="20261015180000 +0000" stop="20261015185405 +0000">
 		<title>Channel 4 News</title>
 		<desc>Channel 4's flagship news programme. Including the weather.</desc>
 		<icon src="https://ic.c4assets.com/vps/channel-4-news/B81EC798-A92D-4977-900910B1EDB05E82.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="C4" start="20261015185405 +0000" stop="20261015185500 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Channel_4_%28On_Demand%29_2023.svg/150px-Channel_4_%28On_Demand%29_2023.svg.png" />
 	</programme>
 	<programme channel="C4" start="20261015185500 +0000" stop="20261015190000 +0000">
 		<title>Becca's Story: Stand Up To Cancer</title>
@@ -2504,10 +2509,15 @@
 		<desc>Can Evie the lurcher help Spanish street dog Billy manage his fear of people? And is Bear the right Yorkipoo for new couple Justin and Richard? (S7 Ep7)</desc>
 		<icon src="https://ic.c4assets.com/vps/the-dog-house-iii-b/1BEFB31E-F3F2-406A-AE7BC001CBF5499A.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="M4" start="20261015185500 +0000" stop="20261015200014 +0000">
+	<programme channel="M4" start="20261015185500 +0000" stop="20261015200000 +0000">
 		<title>The Dog House</title>
 		<desc>Beth and Jemima want an outgoing pup to fit their friendship group. Tina needs a bold companion. And Max is a dog in mourning - could a new best friend help? (S6 Ep4)</desc>
 		<icon src="https://ic.c4assets.com/vps/the-dog-house-iii-b/EBCA5942-D9A6-48CE-A80EA58D85616A48.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="M4" start="20261015200000 +0000" stop="20261015200014 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/More4_logo_2018.svg/200px-More4_logo_2018.svg.png" />
 	</programme>
 	<programme channel="M4" start="20261015200014 +0000" stop="20261015210000 +0000">
 		<title>Our Yorkshire Pub Rescue with...</title>
