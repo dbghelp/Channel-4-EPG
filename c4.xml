@@ -132,7 +132,7 @@
 	<programme channel="C4" start="20261019180000 +0000" stop="20261019185500 +0000">
 		<title>Channel 4 News</title>
 		<desc>Channel 4's flagship news programme. Including the weather.</desc>
-		<icon src="https://ic.c4assets.com/vps/channel-4-news/B81EC798-A92D-4977-900910B1EDB05E82.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/channel-4-news-2026-mon-fri/637E0972-A348-4D58-96E5CABC7E6A3C71.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20261019185500 +0000" stop="20261019190000 +0000">
 		<title>Shona's Story: Stand Up To Cancer</title>
@@ -342,7 +342,7 @@
 	<programme channel="C4" start="20261021020000 +0000" stop="20261021032000 +0000">
 		<title>Songs of Forgotten Trees</title>
 		<desc>(2025) Anuparna Roy's award-winning drama about two very different women - an actor/sex-worker and a call centre operator - trying to carve out a life in contemporary Mumbai. In Hindi/subs.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/songs-of-forgotten-trees-2025/9A988D2A-3725-4DB4-988C3F31D8ED7BFB.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20261021032000 +0000" stop="20261021035000 +0000">
 		<title>A Place in the Sun</title>
@@ -512,7 +512,7 @@
 	<programme channel="C4" start="20261022014000 +0000" stop="20261022023500 +0000">
 		<title>The Last Leg</title>
 		<desc>Ellie Taylor and Tim Minchin join Adam, Josh and Alex as they kick off a brand-new series of the acclaimed comedy chat show that takes a sideways look at the week's news. (S35 Ep1)</desc>
-		<icon src="https://ic.c4assets.com/brands/the-last-leg/7399247a-97c5-4edb-aafa-2e34a9b26c40.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/the-last-leg-series-35/5B7F863C-0B89-49D7-A6ED13E72A0021F5.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20261022023500 +0000" stop="20261022033000 +0000">
 		<title>Apocalypse: Could You Survive?</title>
@@ -1029,15 +1029,10 @@
 		<desc>Kirstie Allsopp shows us how to create beautiful crafts with items we already own. She makes a fun garland from paper, a beautiful spring wreath, and a string-art hot air balloon.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20261025044500 +0000" stop="20261025050000 +0000">
+	<programme channel="C4" start="20261025044500 +0000" stop="20261025060000 +0000">
 		<title>Petite Maman</title>
 		<desc>(2021) Mystical drama. Eight-year-old Nelly meets a young girl playing in the woods behind her dead grandmother's house. And they seem to have an awful lot in common... In French/subs.</desc>
 		<icon src="https://ic.c4assets.com/vps/petite-maman-2021/9A1E0DB4-FA41-421D-BF487E65B2918113.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="C4" start="20261025050000 +0000" stop="20261025060000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Channel_4_%28On_Demand%29_2023.svg/150px-Channel_4_%28On_Demand%29_2023.svg.png" />
 	</programme>
 	<programme channel="C4" start="20261025060000 +0000" stop="20261025062500 +0000">
 		<title>Cheers</title>
@@ -2284,15 +2279,10 @@
 		<desc>Love Shack: At Pop-Pop's old apartment, Adam finds an item from the past. And Erica and Geoff search for a place where they can enjoy a moment alone. (S10 Ep18)</desc>
 		<icon src="https://ic.c4assets.com/brands/the-goldbergs/series-10/episode-18/f0f3441d-1d52-4df9-b280-359b47efa675.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20261025044500 +0000" stop="20261025050000 +0000">
+	<programme channel="E4" start="20261025044500 +0000" stop="20261025060000 +0000">
 		<title>Don't Tell the Bride</title>
 		<desc>The One with the Rally Cars: Adrenaline junkie Mark wants to fly high and take to the sky on his big day, but his straight-talking bride Lynsey wants more personal, no-nonsense nuptials.</desc>
 		<icon src="https://ic.c4assets.com/brands/dont-tell-the-bride/series-2017/episode-15/15a5e822-04f9-4abb-8893-3d37bc821ac9.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20261025050000 +0000" stop="20261025060000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/E4_logo_2018.svg/120px-E4_logo_2018.svg.png" />
 	</programme>
 	<programme channel="E4" start="20261025060000 +0000" stop="20261025071000 +0000">
 		<title>Hollyoaks Omnibus</title>
@@ -3327,7 +3317,7 @@
 	<programme channel="M4" start="20261025220000 +0000" stop="20261025230000 +0000">
 		<title>New: Paramedics</title>
 		<desc>Brand new series: Mark and Carina race to help a critically injured paraglider who's crashed into a cliff. And a busker with a bad case of bedbugs makes Nicola and Michelle itch. (S1 Ep2)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/paramedics-yr-1/14DFF9E1-6F47-4602-9BC40B3F5DACE734.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="M4" start="20261025230000 +0000" stop="20261026000500 +0000">
 		<title>24 Hours in A&amp;E</title>
