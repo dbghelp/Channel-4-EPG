@@ -131,7 +131,7 @@
 	</programme>
 	<programme channel="C4" start="20261022180000 +0000" stop="20261022185500 +0000">
 		<title>Channel 4 News</title>
-		<desc>Channel 4's flagship news programme. Including the weather.</desc>
+		<desc>Government services go offline after a critical cyber threat. A special report from the Hampshire town at the centre of anti-migrant protests. And Russia launches waves of attacks on Kyiv.</desc>
 		<icon src="https://ic.c4assets.com/vps/channel-4-news/B81EC798-A92D-4977-900910B1EDB05E82.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20261022185500 +0000" stop="20261022190000 +0000">
@@ -321,7 +321,7 @@
 	</programme>
 	<programme channel="C4" start="20261023200500 +0000" stop="20261023210500 +0000">
 		<title>New: Gogglebox for SU2C</title>
-		<desc>Celebrities join Gogglebox regulars in this special episode for Stand Up To Cancer, sharing their reactions to the week's biggest TV - all for a good cause. (S28 Ep8)</desc>
+		<desc>Prime Minister Andy Burnham, Sugababes and Joe Lycett and his aunties have been watching Strictly, Celebrity Traitors, Countdown, Only Connect and more, for Stand Up To Cancer. (S28 Ep8)</desc>
 		<icon src="https://ic.c4assets.com/vps/gogglebox-series-28/2BA16064-CEEE-44E8-B6F0504369A09746.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20261023210500 +0000" stop="20261023221000 +0000">
@@ -462,7 +462,7 @@
 	<programme channel="C4" start="20261024141500 +0000" stop="20261024161500 +0000">
 		<title>Goosebumps</title>
 		<desc>(2015) Riotous comedy. Teenager Zach (Dylan Minnette) moves next door to eccentric writer R.L. Stine (Jack Black). And then the monsters in Stine's books start to escape...</desc>
-		<icon src="https://ic.c4assets.com/vps/goosebumps-2015/19D8CA5A-2681-4D07-856EE6821E5DE616.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/goosebumps-2015/CBEF8624-12DD-4FAD-A2C8333B0050AC6E.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20261024161500 +0000" stop="20261024173000 +0000">
 		<title>The Great British Bake Off</title>
@@ -1077,7 +1077,7 @@
 	<programme channel="C4" start="20261028141000 +0000" stop="20261028150000 +0000">
 		<title>Countdown</title>
 		<desc>Colin Murray, Rachel Riley and Susie Dent host, with Ellie Simmonds in Dictionary Corner, as contestants race against the clock to pit their wits against vowels, consonants and numbers.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/countdown/9F551DCB-BA8E-43DC-9C9F94BF045664C3.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20261028150000 +0000" stop="20261028160000 +0000">
 		<title>A Place in the Sun</title>
@@ -1139,29 +1139,24 @@
 		<desc>When Leah Ware stopped posting on Facebook, her family assumed she still lived on a farm with the boyfriend she'd met online. But then another woman vanished as suspicions mounted. (Ep4)</desc>
 		<icon src="https://ic.c4assets.com/vps/social-media-monsters/C41B96AD-8BC4-4834-8193D98AFF382E10.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20261029014500 +0000" stop="20261029022500 +0000">
-		<title>The Great British Bake Off:...</title>
-		<desc>...Second Helpings: Jon Richardson, Judi Love and celeb guests bite into Pastry Week. (S17 Ep6/10)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	<programme channel="C4" start="20261029014500 +0000" stop="20261029024000 +0000">
+		<title>Pierre</title>
+		<desc>Legal drama starring David Harewood. Pierre is reeling from Eli's attack and the cryptic warning it brings. But he's soon drawn back into Michael's case when Brenda is arrested. (Ep4/6)</desc>
+		<icon src="https://ic.c4assets.com/vps/pierre/B5BD5E95-2E19-41D8-A764F544A07D000C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20261029022500 +0000" stop="20261029032000 +0000">
+	<programme channel="C4" start="20261029024000 +0000" stop="20261029033500 +0000">
 		<title>Tempting Fortune</title>
 		<desc>When Rob Beckett splits the already fractured camp in two, a five-figure bidding battle to win a full moon party threatens to become all-out war. Who'll spend a night in paradise? (S3 Ep6)</desc>
 		<icon src="https://ic.c4assets.com/vps/tempting-fortune/1774AEAD-1C93-4A96-8E9A48A51A60EE8C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20261029032000 +0000" stop="20261029041500 +0000">
+	<programme channel="C4" start="20261029033500 +0000" stop="20261029043000 +0000">
 		<title>The Last Leg</title>
 		<desc>Roisin Conaty and Finlay Christie join Adam Hills, Josh Widdicombe and Alex Brooker to pick over the week's news. (S35 Ep2)</desc>
 		<icon src="https://ic.c4assets.com/brands/the-last-leg/7399247a-97c5-4edb-aafa-2e34a9b26c40.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20261029041500 +0000" stop="20261029044500 +0000">
+	<programme channel="C4" start="20261029043000 +0000" stop="20261029045500 +0000">
 		<title>A Place in the Sun</title>
 		<desc>Laura Hamilton shows Guy and Julie Sadler from Brighton five fantastic homes in Almería, Spain, for their £100,000 budget. Will any of them become their permanent home in the sun?</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="C4" start="20261029044500 +0000" stop="20261029045500 +0000">
-		<title>Find It, Fix It, Flog It</title>
-		<desc>In Newmarket, Henry Cole and Simon O'Brien uncover unexpected items in Margaret's shed, to raise some serious cash for the local foodbank.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20261029045500 +0000" stop="20261029055000 +0000">
@@ -1172,7 +1167,7 @@
 	<programme channel="C4" start="20261029055000 +0000" stop="20261029063000 +0000">
 		<title>Countdown</title>
 		<desc>Colin Murray, Rachel Riley and Susie Dent host, with Ellie Simmonds in Dictionary Corner, as contestants race against the clock to pit their wits against vowels, consonants and numbers.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/countdown/9F551DCB-BA8E-43DC-9C9F94BF045664C3.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20261022050000 +0000" stop="20261022053000 +0000">
 		<title>Modern Family</title>
@@ -1792,7 +1787,7 @@
 	<programme channel="E4" start="20261025210000 +0000" stop="20261025220000 +0000">
 		<title>New: One Born Every Minute</title>
 		<desc>Brand new series: A new generation of parents give a glimpse into the reality of childbirth. Erin and Kalem meet baby number two. Faye and Will prep to become first-time parents. (S12 Ep1)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/one-born-every-minute/F75CFD65-230E-4F12-854D320222BA39BB.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20261025220000 +0000" stop="20261025230500 +0000">
 		<title>First Dates</title>
@@ -1807,7 +1802,7 @@
 	<programme channel="E4" start="20261026010500 +0000" stop="20261026021000 +0000">
 		<title>One Born Every Minute</title>
 		<desc>A new generation of parents give a glimpse into the reality of childbirth. Erin and Kalem meet baby number two. Faye and Will prep to become first-time parents. (S12 Ep1)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/one-born-every-minute/F75CFD65-230E-4F12-854D320222BA39BB.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20261026021000 +0000" stop="20261026030000 +0000">
 		<title>Ladies of London: The New Reign</title>
@@ -1947,7 +1942,7 @@
 	<programme channel="E4" start="20261026190000 +0000" stop="20261026193000 +0000">
 		<title>New: Hollyoaks</title>
 		<desc>There's horror in the woods for two McQueens, and tension rises when Kathleen-Angel is caught between her boyfriend and her best friend. Elsewhere, can a couple move past recent events?</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/hollyoaks-xxxiv-2026---lime-no.-6788/77743F40-5C40-4CAC-BA2B508F63A641F1.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20261026193000 +0000" stop="20261026200000 +0000">
 		<title>Brooklyn Nine-Nine</title>
@@ -2022,7 +2017,7 @@
 	<programme channel="E4" start="20261027063000 +0000" stop="20261027065500 +0000">
 		<title>Hollyoaks</title>
 		<desc>There's horror in the woods for two McQueens, and tension rises when Kathleen-Angel is caught between her boyfriend and her best friend. Elsewhere, can a couple move past recent events?</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/hollyoaks-xxxiv-2026---lime-no.-6788/77743F40-5C40-4CAC-BA2B508F63A641F1.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20261027065500 +0000" stop="20261027070000 +0000">
 		<title>Rude(ish) Tube Shorts</title>
@@ -2202,7 +2197,7 @@
 	<programme channel="E4" start="20261028060000 +0000" stop="20261028063000 +0000">
 		<title>Hollyoaks</title>
 		<desc>There's horror in the woods for two McQueens, and tension rises when Kathleen-Angel is caught between her boyfriend and her best friend. Elsewhere, can a couple move past recent events?</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/hollyoaks-xxxiv-2026---lime-no.-6788/77743F40-5C40-4CAC-BA2B508F63A641F1.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20261028063000 +0000" stop="20261028065500 +0000">
 		<title>Hollyoaks</title>
@@ -3866,7 +3861,7 @@
 	</programme>
 	<programme channel="4S" start="20261023220000 +0000" stop="20261023230000 +0000">
 		<title>Gogglebox for SU2C</title>
-		<desc>Celebrities join Gogglebox regulars in this special episode for Stand Up To Cancer, sharing their reactions to the week's biggest TV - all for a good cause. (S28 Ep8)</desc>
+		<desc>Prime Minister Andy Burnham, Sugababes, and Joe Lycett and his aunties have been watching Strictly, Celebrity Traitors, Countdown and Only Connect for Stand Up To Cancer. (S28 Ep8)</desc>
 		<icon src="https://ic.c4assets.com/vps/gogglebox-series-28/2BA16064-CEEE-44E8-B6F0504369A09746.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20261023230000 +0000" stop="20261024000500 +0000">
@@ -3991,7 +3986,7 @@
 	</programme>
 	<programme channel="4S" start="20261024235000 +0000" stop="20261025005500 +0000">
 		<title>Gogglebox for SU2C</title>
-		<desc>Celebrities join Gogglebox regulars in this special episode for Stand Up To Cancer, sharing their reactions to the week's biggest TV - all for a good cause. (S28 Ep8)</desc>
+		<desc>Prime Minister Andy Burnham, Sugababes, and Joe Lycett and his aunties have been watching Strictly, Celebrity Traitors, Countdown and Only Connect for Stand Up To Cancer. (S28 Ep8)</desc>
 		<icon src="https://ic.c4assets.com/vps/gogglebox-series-28/2BA16064-CEEE-44E8-B6F0504369A09746.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20261025005500 +0000" stop="20261025015500 +0000">
@@ -4121,7 +4116,7 @@
 	</programme>
 	<programme channel="4S" start="20261026015500 +0000" stop="20261026030000 +0000">
 		<title>Gogglebox for SU2C</title>
-		<desc>Celebrities join Gogglebox regulars in this special episode for Stand Up To Cancer, sharing their reactions to the week's biggest TV - all for a good cause. (S28 Ep8)</desc>
+		<desc>Prime Minister Andy Burnham, Sugababes, and Joe Lycett and his aunties have been watching Strictly, Celebrity Traitors, Countdown and Only Connect for Stand Up To Cancer. (S28 Ep8)</desc>
 		<icon src="https://ic.c4assets.com/vps/gogglebox-series-28/2BA16064-CEEE-44E8-B6F0504369A09746.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20261026030000 +0000" stop="20261026040000 +0000">
@@ -4216,12 +4211,12 @@
 	</programme>
 	<programme channel="4S" start="20261026210000 +0000" stop="20261026220000 +0000">
 		<title>Gogglebox for SU2C</title>
-		<desc>Celebrities join Gogglebox regulars in this special episode for Stand Up To Cancer, sharing their reactions to the week's biggest TV - all for a good cause. (S28 Ep8)</desc>
+		<desc>Prime Minister Andy Burnham, Sugababes, and Joe Lycett and his aunties have been watching Strictly, Celebrity Traitors, Countdown and Only Connect for Stand Up To Cancer. (S28 Ep8)</desc>
 		<icon src="https://ic.c4assets.com/vps/gogglebox-series-28/2BA16064-CEEE-44E8-B6F0504369A09746.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20261026220000 +0000" stop="20261026230500 +0000">
 		<title>Kevin McCloud's Classic Car...</title>
-		<desc>...Road Trips: Kevin explores the Emilia-Romagna region of Italy in his dream car, a Maserati 3500GT, as he learns about its legendary history and experiences parmesan pandemonium. (Ep2)</desc>
+		<desc>...Road Trips: Kevin explores the Emilia-Romagna region of Italy in his dream car, a Maserati 3500GT, as he learns about Maserati's history and experiences parmesan pandemonium. (Ep2)</desc>
 		<icon src="https://ic.c4assets.com/vps/kevin-mccloud-s-classic-cars/EBB83FB2-BDA2-49F9-A2E25F5B8F6E48C5.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20261026230500 +0000" stop="20261027000500 +0000">
@@ -4241,7 +4236,7 @@
 	</programme>
 	<programme channel="4S" start="20261027021000 +0000" stop="20261027031500 +0000">
 		<title>Trauma: My Broken Brain</title>
-		<desc>A life-changing stroke turns three young lives upside down. Fighting to reclaim the future, a dancer, a social butterfly and a man in love learn that survival is just the beginning. (Ep1)</desc>
+		<desc>Life-changing strokes turn three young lives upside down. A dancer, a social butterfly and a man in love learn that survival is just the beginning as they fight to reclaim the future. (Ep1)</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20261027031500 +0000" stop="20261027042500 +0000">
@@ -4330,18 +4325,18 @@
 		<icon src="https://ic.c4assets.com/vps/jamie-s-fast-food/FA52D6A4-AE1E-4C40-84BCE9B3F5425098.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20261027200000 +0000" stop="20261027211500 +0000">
-		<title>The Great British Bake Off</title>
-		<desc>It's Pastry Week! After pie pandemonium, the bakers metaphorically hike up the Carpathian Mountains to make Polish choux. Who'll flake under pressure and who'll move mountains? (S17 Ep6/10)</desc>
+		<title>New: The Great British Bake Off</title>
+		<desc>With BSL. It's Pastry Week. The bakers make savoury pies and a Polish choux dessert. And there's decorative pie pandemonium in the showstopper. But who'll flake under pressure? (S17 Ep6/10)</desc>
 		<icon src="https://ic.c4assets.com/vps/the-great-british-bake-off-series-10-17/0D343533-A956-49E8-8B3B791C0A3B32B0.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20261027211500 +0000" stop="20261027234000 +0000">
 		<title>The Equalizer 2</title>
-		<desc>(2018) Action crime thriller sequel. Denzel Washington returns as Robert McCall, who's out for revenge after ruthless killers murder an agency contact who he also considered a friend.</desc>
+		<desc>(2018) Action crime thriller sequel. Denzel Washington returns as Robert McCall, who's after revenge for a murdered friend. This time it's personal. Again.</desc>
 		<icon src="https://ic.c4assets.com/vps/equalizer-2-the/8E5F7E22-1E52-49E4-A9E152C80F181472.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20261027234000 +0000" stop="20261028004000 +0000">
 		<title>Gogglebox for SU2C</title>
-		<desc>Celebrities join Gogglebox regulars in this special episode for Stand Up To Cancer, sharing their reactions to the week's biggest TV - all for a good cause. (S28 Ep8)</desc>
+		<desc>Prime Minister Andy Burnham, Sugababes, and Joe Lycett and his aunties have been watching Strictly, Celebrity Traitors, Countdown and Only Connect for Stand Up To Cancer. (S28 Ep8)</desc>
 		<icon src="https://ic.c4assets.com/vps/gogglebox-series-28/2BA16064-CEEE-44E8-B6F0504369A09746.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20261028004000 +0000" stop="20261028014000 +0000">
@@ -4386,7 +4381,7 @@
 	</programme>
 	<programme channel="4S" start="20261028110000 +0000" stop="20261028120000 +0000">
 		<title>Help! We Bought a Village</title>
-		<desc>In Italy, Martine gets to work on renovating the cellar and welcomes guests to sleep under the stars. In France, Paul and Yip battle to save their village's middle cottage. (S4 Ep2/35)</desc>
+		<desc>In Italy, Martine gets to work on renovating her cellar and welcomes guests to sleep under the stars. In France, Paul and Yip battle to save their village's middle cottage. (S4 Ep2/35)</desc>
 		<icon src="https://ic.c4assets.com/vps/help-we-bought-a-village-series-4/2F12B8D1-47B4-4C95-BD6707E31B8D4330.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20261028120000 +0000" stop="20261028130000 +0000">
@@ -4441,12 +4436,12 @@
 	</programme>
 	<programme channel="4S" start="20261028190000 +0000" stop="20261028200000 +0000">
 		<title>Kevin McCloud's Listed Britain</title>
-		<desc>From the gothic fantasy of Castell Coch to Liverpool's Philharmonic Dining Rooms's marble loos, why is Britain so good at saving the buildings of the powerful? (Ep2/5)</desc>
+		<desc>From the gothic fantasy of Castell Coch to Liverpool's Philharmonic Dining Rooms' marble loos, why is Britain so good at saving the buildings of the powerful? (Ep2/5)</desc>
 		<icon src="https://ic.c4assets.com/vps/kevin-mccloud-s-grade-1-britain/C196B2A5-295E-4433-8069AA807790B7B0.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20261028200000 +0000" stop="20261028210000 +0000">
 		<title>Kevin McCloud's Classic Car...</title>
-		<desc>...Road Trips: Kevin explores the Emilia-Romagna region of Italy in his dream car, a Maserati 3500GT, as he learns about its legendary history and experiences parmesan pandemonium. (Ep2)</desc>
+		<desc>...Road Trips: Kevin explores the Emilia-Romagna region of Italy in his dream car, a Maserati 3500GT, as he learns about Maserati's history and experiences parmesan pandemonium. (Ep2)</desc>
 		<icon src="https://ic.c4assets.com/vps/kevin-mccloud-s-classic-cars/EBB83FB2-BDA2-49F9-A2E25F5B8F6E48C5.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20261028210000 +0000" stop="20261028220000 +0000">
@@ -4466,7 +4461,7 @@
 	</programme>
 	<programme channel="4S" start="20261029000500 +0000" stop="20261029011000 +0000">
 		<title>Gogglebox for SU2C</title>
-		<desc>Celebrities join Gogglebox regulars in this special episode for Stand Up To Cancer, sharing their reactions to the week's biggest TV - all for a good cause. (S28 Ep8)</desc>
+		<desc>Prime Minister Andy Burnham, Sugababes, and Joe Lycett and his aunties have been watching Strictly, Celebrity Traitors, Countdown and Only Connect for Stand Up To Cancer. (S28 Ep8)</desc>
 		<icon src="https://ic.c4assets.com/vps/gogglebox-series-28/2BA16064-CEEE-44E8-B6F0504369A09746.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20261029011000 +0000" stop="20261029021000 +0000">
