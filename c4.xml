@@ -226,7 +226,7 @@
 	</programme>
 	<programme channel="C4" start="20261114074000 +0000" stop="20261114081000 +0000">
 		<title>Cheers</title>
-		<desc>My Fair Clavin: Cliff is embarrassed by his new girlfriend's looks and aims to help improve her appearance. But it backfires when she becomes the object of romantic attention. (S6 Ep11/25)</desc>
+		<desc>Call Me Irresponsible: Carla's convinced that Eddie will remember their second wedding anniversary, even though he's travelling with the ice show. (S7 Ep20/22)</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20261114081000 +0000" stop="20261114084000 +0000">
@@ -476,7 +476,7 @@
 	</programme>
 	<programme channel="C4" start="20261115220000 +0000" stop="20261115230000 +0000">
 		<title>Gogglebox</title>
-		<desc>What's the Gogglebox verdict on this week's TV? (S28 Ep11)</desc>
+		<desc>What do the Goggleboxers make of the week's TV? Featuring Rivals, Jamie's 20 Minute Meals, Strictly, First Dates, Made in Chelsea, The Famous Finish Line and Hanging by a Wire. (S28 Ep11)</desc>
 		<icon src="https://ic.c4assets.com/vps/gogglebox-series-28/9A56C386-EAB7-432D-B4350F4E03910D86.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20261115230000 +0000" stop="20261116000500 +0000">
@@ -647,19 +647,19 @@
 	<programme channel="C4" start="20261116220000 +0000" stop="20261116230500 +0000">
 		<title>New: Social Workers on the...</title>
 		<desc>...Frontline: Filmed over a year in Birmingham, frontline social workers deal with some of the UK's most vulnerable children, and their families, who face a daily struggle to stay safe.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="C4" start="20261116230500 +0000" stop="20261117001000 +0000">
-		<title>24 Hours in A&amp;E</title>
-		<desc>Sunny is rushed to Queen's with multiple stab wounds. Tyler's hurt his foot playing football. And doctors are concerned about an 87-year-old woman who's coughing up blood. (S36 Ep1)</desc>
 		<icon src="https://ic.c4assets.com/vps/24-hours-in-a-e-2025-channel-4/4C7A75A5-FCF5-41FE-AE96550D52D0D9EF.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20261117001000 +0000" stop="20261117010500 +0000">
+	<programme channel="C4" start="20261116230500 +0000" stop="20261117001000 +0000">
 		<title>999: On the Front Line</title>
 		<desc>South Western paramedic crews treat a man with severe abdominal pains and a 95-year-old who's fallen and injured his face. (S15 Ep1)</desc>
 		<icon src="https://ic.c4assets.com/vps/999-on-the-front-line-s15---swasft/B6C41F78-136E-4F0B-976029D4B1077DB8.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="C4" start="20261117010500 +0000" stop="20261117015500 +0000">
+	<programme channel="C4" start="20261117001000 +0000" stop="20261117010000 +0000">
+		<title>Ramsay's Kitchen Nightmares USA</title>
+		<desc>Gordon Ramsay revisits four restaurants he tried to help: the Spanish Pavillion in New Jersey, and Kingston Café, La Frite and Capri in California. (S5 Ep17)</desc>
+		<icon src="https://ic.c4assets.com/brands/ramsays-kitchen-nightmares-usa/series-5/episode-17/38f355f6-c0ca-4501-8db3-0c9b9b5d65c9.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="C4" start="20261117010000 +0000" stop="20261117015500 +0000">
 		<title>Ramsay's 24 Hours to Hell and Back</title>
 		<desc>The Old Coffee Pot: In New Orleans, Gordon has just 24 hours to create a fresh, modern dining room, set up a grab-and-go coffee station and whip up an exciting new menu. (S1 Ep2)</desc>
 		<icon src="https://ic.c4assets.com/brands/ramsays-24-hours-to-hell-and-back/series-1/episode-2/88c2fbdc-c9cc-4cb8-91fe-bf0e1d918301.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
@@ -682,7 +682,7 @@
 	<programme channel="C4" start="20261117043000 +0000" stop="20261117054000 +0000">
 		<title>Hollyoaks Omnibus</title>
 		<desc>While the Keane family feud, Caleb's health takes a turn for the worse. Abigail pushes Dee Dee to audition for the lead role in the school play. And a couple plan their wedding.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/hollyoaks-xxxiv-omnibus-2026/B8598359-6BA6-4FFB-8E455A65BB2FB313.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20261117054000 +0000" stop="20261117060500 +0000">
 		<title>Cheers</title>
@@ -816,7 +816,7 @@
 	</programme>
 	<programme channel="C4" start="20261117230500 +0000" stop="20261118000500 +0000">
 		<title>Gogglebox</title>
-		<desc>What's the Gogglebox verdict on this week's TV? (S28 Ep11)</desc>
+		<desc>What do the Goggleboxers make of the week's TV? Featuring Rivals, Jamie's 20 Minute Meals, Strictly, First Dates, Made in Chelsea, The Famous Finish Line and Hanging by a Wire. (S28 Ep11)</desc>
 		<icon src="https://ic.c4assets.com/vps/gogglebox-series-28/9A56C386-EAB7-432D-B4350F4E03910D86.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20261118000500 +0000" stop="20261118005500 +0000">
@@ -1495,9 +1495,9 @@
 		<icon src="https://ic.c4assets.com/vps/gogglebox-series-25/530BC599-C652-4273-B10ED787CFBE659C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20261115034000 +0000" stop="20261115043500 +0000">
-		<title>Gogglebox</title>
-		<desc>This time: Married at First Sight Australia, Wheel of Fortune, The Americas, Fear, Griff's Great Australian Rail Trip, Help! My House Is Haunted and BBC News (Trump vs Zelenskyy). (S25 Ep4)</desc>
-		<icon src="https://ic.c4assets.com/vps/gogglebox-series-25/EDAF2970-9884-4856-BC7FBF7AFAAA2CA1.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+		<title>Don't Tell the Bride</title>
+		<desc>The One in the Spanish Sea: Carl plans to marry Rebecca on the Med but she's expecting a high-class affair. Will Carl's plans make a splash and make Rebecca swoon with delight?</desc>
+		<icon src="https://ic.c4assets.com/brands/dont-tell-the-bride/series-2017/episode-1/aed96694-16fb-42a7-9e63-9a2de2416241.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20261115043500 +0000" stop="20261115053000 +0000">
 		<title>Don't Tell the Bride</title>
@@ -1512,7 +1512,7 @@
 	<programme channel="E4" start="20261115060000 +0000" stop="20261115071000 +0000">
 		<title>Hollyoaks Omnibus</title>
 		<desc>While the Keane family feud, Caleb's health takes a turn for the worse. Abigail pushes Dee Dee to audition for the lead role in the school play. And a couple plan their wedding.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/hollyoaks-xxxiv-omnibus-2026/B8598359-6BA6-4FFB-8E455A65BB2FB313.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20261115071000 +0000" stop="20261115074000 +0000">
 		<title>The Goldbergs</title>
@@ -1642,7 +1642,7 @@
 	<programme channel="E4" start="20261116042000 +0000" stop="20261116060000 +0000">
 		<title>Hollyoaks Omnibus</title>
 		<desc>While the Keane family feud, Caleb's health takes a turn for the worse. Abigail pushes Dee Dee to audition for the lead role in the school play. And a couple plan their wedding.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/hollyoaks-xxxiv-omnibus-2026/B8598359-6BA6-4FFB-8E455A65BB2FB313.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20261116060000 +0000" stop="20261116063000 +0000">
 		<title>Hollyoaks</title>
@@ -1804,27 +1804,27 @@
 		<desc>Brand new series: Is this the end of Freddy and Beks? Will Inga come between Jazz and Eve? Will Zeyno go to the ball with Liam? And is Tristan thinking about starting a family? (S32 Ep10)</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20261117021500 +0000" stop="20261117030500 +0000">
-		<title>Below Deck Down Under</title>
-		<desc>The crew receive a record-breaking tip and hit the town to celebrate. But romantic rejections and an ill-advised game turn things sour. (S4 Ep3)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	<programme channel="E4" start="20261117021500 +0000" stop="20261117031000 +0000">
+		<title>Gogglebox</title>
+		<desc>On the TV this time: Planet Earth III, Mamma Mia!, I Have a Dream, Surviving Paradise, Uncanny, Celebrity Race Across the World, and Crack Addicts. (S22 Ep8)</desc>
+		<icon src="https://ic.c4assets.com/brands/gogglebox/series-22/episode-8/f52b67f8-2928-4f16-a926-bc2c6f4e9dc6.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20261117030500 +0000" stop="20261117033000 +0000">
+	<programme channel="E4" start="20261117031000 +0000" stop="20261117033500 +0000">
 		<title>Abbott Elementary</title>
 		<desc>Brand new series - Librarian: Janine spearheads a pilot programme that brings a librarian to Abbott. And Melissa and Jacob deal with some big changes at home. (S3 Ep7/14)</desc>
 		<icon src="https://ic.c4assets.com/vps/abbott-elementary-yr-3---librarian/B37B0649-F228-40E4-B728E3DC6027BFD8.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20261117033000 +0000" stop="20261117035500 +0000">
+	<programme channel="E4" start="20261117033500 +0000" stop="20261117040000 +0000">
 		<title>The Goldbergs</title>
 		<desc>MTV Spring Break: Hoping to enjoy a genuine spring break experience, Erica and Barry pay a visit to Pops in Florida, but the jaunt isn't what they expected. (S5 Ep18)</desc>
 		<icon src="https://ic.c4assets.com/brands/the-goldbergs/series-5/episode-18/c6059f70-f791-4d81-984a-8360db9d0e7f.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20261117035500 +0000" stop="20261117042000 +0000">
+	<programme channel="E4" start="20261117040000 +0000" stop="20261117042500 +0000">
 		<title>Modern Family</title>
 		<desc>White Christmas: In an attempt to have the perfect white Christmas that she never had in Colombia, Gloria rents a cabin in the mountains for the whole family. (S7 Ep9)</desc>
 		<icon src="https://ic.c4assets.com/brands/modern-family/series-7/episode-9/e92c5eb5-a31b-401f-aae7-b1e6bbca295d.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20261117042000 +0000" stop="20261117051000 +0000">
+	<programme channel="E4" start="20261117042500 +0000" stop="20261117051000 +0000">
 		<title>Ramsay's Kitchen Nightmares USA</title>
 		<desc>Michon's: Can Gordon help the unwell owner of a family-run Atlanta smokehouse address his daughter's hands-off management style? (S5 Ep11)</desc>
 		<icon src="https://ic.c4assets.com/brands/ramsays-kitchen-nightmares-usa/series-5/episode-10/60714ac6-38ed-4735-9ee4-6e01328ec62c.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
@@ -1994,35 +1994,40 @@
 		<desc>Bob Mortimer, Richard Ayoade, Jennifer Saunders, Stephen Graham and Hannah Walters join the Goggleboxers for Survivor, Planet Earth III, Teen First Dates and loads more top TV. (S22 Ep9)</desc>
 		<icon src="https://ic.c4assets.com/brands/gogglebox/series-22/episode-9/c34305f4-2c0b-40bb-b7a8-8899ae4112e9.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20261118021000 +0000" stop="20261118030000 +0000">
-		<title>Below Deck Down Under</title>
-		<desc>A crew shake-up has quite the effect on the Katina, with Jenna's jealousy hitting an all-time high. And mounting guest complaints jeopardise the latest charter. (S4 Ep4)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
-	</programme>
-	<programme channel="E4" start="20261118030000 +0000" stop="20261118032500 +0000">
+	<programme channel="E4" start="20261118021000 +0000" stop="20261118023500 +0000">
 		<title>Abbott Elementary</title>
 		<desc>Brand new series - Panel: Ava and Gregory are invited to speak on a panel about public schools, while the other teachers complete CPR training. (S3 Ep8/14)</desc>
 		<icon src="https://ic.c4assets.com/vps/abbott-elementary-yr-3---panel/469045BF-F6CF-496B-A18D2515CA1EEAA5.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20261118032500 +0000" stop="20261118035000 +0000">
+	<programme channel="E4" start="20261118023500 +0000" stop="20261118030000 +0000">
 		<title>The Simpsons</title>
 		<desc>Half-Decent Proposal: Marge's incredibly rich high school prom date Artie makes Homer and Marge an indecent proposal they can't afford to turn down. (S13 Ep10/22)</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20261118035000 +0000" stop="20261118041500 +0000">
+	<programme channel="E4" start="20261118030000 +0000" stop="20261118032500 +0000">
 		<title>The Goldbergs</title>
 		<desc>Flashy Little Flashdancer: Beverly takes up dancing. The kids are not impressed. Adam attempts to act cooler than Emmy's handsome new date. (S5 Ep19)</desc>
 		<icon src="https://ic.c4assets.com/brands/the-goldbergs/series-5/episode-19/aee3fb98-af2b-4a84-8378-703f170d7fde.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20261118041500 +0000" stop="20261118044000 +0000">
+	<programme channel="E4" start="20261118032500 +0000" stop="20261118035000 +0000">
 		<title>The Goldbergs</title>
 		<desc>The Opportunity of a Lifetime: Barry gets the chance to throw the first pitch at a Phillies baseball game. Erica makes an important decision about her future. (S5 Ep20)</desc>
 		<icon src="https://ic.c4assets.com/brands/the-goldbergs/series-5/episode-20/0722f7d9-e5e4-468b-a6f9-8bcb33a4fd4b.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20261118044000 +0000" stop="20261118050500 +0000">
+	<programme channel="E4" start="20261118035000 +0000" stop="20261118041500 +0000">
 		<title>Modern Family</title>
 		<desc>Thunk in the Trunk: With Claire's business up and running, Phil's got a new role doing all the housework. But he feels invisible, ignored and under-appreciated... (S7 Ep13)</desc>
 		<icon src="https://ic.c4assets.com/brands/modern-family/series-7/episode-13/406d03b9-332f-46a1-94af-480a4c3b2dcb.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="E4" start="20261118041500 +0000" stop="20261118044000 +0000">
+		<title>Modern Family</title>
+		<desc>The Storm: When a huge thunderstorm knocks out the power, the whole family congregate at Jay and Gloria's to use their generator. But Jay wants to go to a Navy reunion. (S7 Ep14)</desc>
+		<icon src="https://ic.c4assets.com/brands/modern-family/series-7/episode-14/9793d1a1-1e49-42ea-afbb-6efe8b121977.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="E4" start="20261118044000 +0000" stop="20261118050500 +0000">
+		<title>Modern Family</title>
+		<desc>I Don't Know How She Does It: Claire has turned into super mum, running Jay's business and having time for all the duties at home. The kids are happy, but Phil is frustrated. (S7 Ep15)</desc>
+		<icon src="https://ic.c4assets.com/brands/modern-family/series-7/episode-15/7162a671-889a-4286-bdb0-f08795051bd0.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20261118050500 +0000" stop="20261118060000 +0000">
 		<title>Don't Tell the Bride: Revisited</title>
@@ -2190,9 +2195,9 @@
 		<icon src="https://ic.c4assets.com/vps/first-dates/5784257c-2868-4264-9d90-40626d4c362b.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20261119021500 +0000" stop="20261119030500 +0000">
-		<title>Below Deck Down Under</title>
-		<desc>Chef Ben's feeling the pressure in the galley following some less-than-complimentary guest comments. And a scandalous text sends shockwaves through the crew. (S4 Ep5)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<title>Gogglebox</title>
+		<desc>The Goggleboxers have been watching The Crown, Survivor, 007: Road to a Million, The Good Ship Murder and Shoplifters: Caught Red Handed. (S22 Ep11)</desc>
+		<icon src="https://ic.c4assets.com/brands/gogglebox/series-22/episode-11/5b728f3d-4315-4e42-a2fd-8df312925a69.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="E4" start="20261119030500 +0000" stop="20261119033000 +0000">
 		<title>Abbott Elementary</title>
@@ -2389,37 +2394,37 @@
 		<desc>More hopeful singletons visit the First Dates restaurant. Will vet Simon see past lawyer Arunima's wheelchair? And can Londoners Suzie and Gareth find that certain spark? (S5 Ep1)</desc>
 		<icon src="https://ic.c4assets.com/vps/first-dates/95147c0e-9266-47c7-b8ea-855d17e2da28.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20261120021000 +0000" stop="20261120030000 +0000">
-		<title>Below Deck Down Under</title>
-		<desc>Alesia tries desperately to suppress a regrettable text, but gossip spreads quickly... Meanwhile, chef Ben has a meltdown when his oven breaks. (S4 Ep6)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	<programme channel="E4" start="20261120021000 +0000" stop="20261120030500 +0000">
+		<title>Gogglebox</title>
+		<desc>What do Britain's top armchair critics think of Squid Game: The Challenge, The Couple Next Door, The Toy Hospital, Survivor, Vinnie Jones in the Country and Lorraine? (S22 Ep13)</desc>
+		<icon src="https://ic.c4assets.com/brands/gogglebox/series-22/episode-13/79d58788-8016-4a05-bfb2-1c9786ab83e3.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20261120030000 +0000" stop="20261120032500 +0000">
+	<programme channel="E4" start="20261120030500 +0000" stop="20261120033000 +0000">
 		<title>Abbott Elementary</title>
 		<desc>Brand new series - 2 Ava 2 Fest: Ava Fest is back, and with the help of the teachers, Ava's determined to outdo last year by any means necessary. (S3 Ep10/14)</desc>
 		<icon src="https://ic.c4assets.com/vps/abbott-elementary-yr-3---2-ava-2-fest/F12210DC-7673-4BC6-A74F66076457AE9D.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20261120032500 +0000" stop="20261120035000 +0000">
+	<programme channel="E4" start="20261120033000 +0000" stop="20261120035500 +0000">
 		<title>The Simpsons</title>
 		<desc>The Flandshees of Innersimpson: Flanders vows never to speak to Homer again after Homer steals his new headphones. Homer's absolutely delighted - at first... (S36 Ep12/18)</desc>
 		<icon src="https://ic.c4assets.com/vps/simpsons-the-year-36/52E97B3B-9DA9-425F-8EE34889FB39D51A.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20261120035000 +0000" stop="20261120041500 +0000">
+	<programme channel="E4" start="20261120035500 +0000" stop="20261120042000 +0000">
 		<title>The Goldbergs</title>
 		<desc>Sixteen Candles: Murray and Beverly forget Adam's 16th birthday. (S6 Ep1)</desc>
 		<icon src="https://ic.c4assets.com/brands/the-goldbergs/series-6/episode-1/12397e74-f8d0-44f1-978e-69a1c769b0c5.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20261120041500 +0000" stop="20261120044000 +0000">
+	<programme channel="E4" start="20261120042000 +0000" stop="20261120044500 +0000">
 		<title>The Goldbergs</title>
 		<desc>You Got Zuko'd: Adam's girlfriend Jackie returns from her summer in New York but acts like a different person. Beverly is unhappy with Lainey's culinary skills. (S6 Ep2)</desc>
 		<icon src="https://ic.c4assets.com/brands/the-goldbergs/series-6/episode-2/bdc300f2-1a09-4fb4-990f-69a9d9e93537.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20261120044000 +0000" stop="20261120050500 +0000">
+	<programme channel="E4" start="20261120044500 +0000" stop="20261120051000 +0000">
 		<title>Modern Family</title>
 		<desc>Double-Click: Claire can't seem to find the right time to fire an employee, Phil thinks he caught Luke with a girl in his bed, and no one notices that Alex has moved back. (S7 Ep22)</desc>
 		<icon src="https://ic.c4assets.com/brands/modern-family/series-7/episode-22/bc74cfeb-61e9-4098-a7bf-a0188efd8deb.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="E4" start="20261120050500 +0000" stop="20261120060000 +0000">
+	<programme channel="E4" start="20261120051000 +0000" stop="20261120060000 +0000">
 		<title>Don't Tell the Bride: Revisited</title>
 		<desc>Bride Lauren and music-mad Perry are under the spotlight as they look back on their gig-themed wedding at a popular London music venue. (Ep5)</desc>
 		<icon src="https://ic.c4assets.com/brands/dont-tell-the-bride-revisited/series-1/episode-5/b655c7d2-f741-4dc4-a105-eedf74154d4b.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
