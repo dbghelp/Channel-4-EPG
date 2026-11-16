@@ -3369,10 +3369,15 @@
 		<desc>(1942) Classic noir starring Alan Ladd and Veronica Lake. As a cold-blooded assassin seek vengeance for a double cross, he unwisely falls for the girlfriend of the cop who's pursuing him.</desc>
 		<icon src="https://ic.c4assets.com/vps/this-gun-for-hire-1942/A39915AD-CC9A-4199-B67F6921F9CED0B3.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="F4" start="20261116162500 +0000" stop="20261116182500 +0000">
+	<programme channel="F4" start="20261116162500 +0000" stop="20261116181500 +0000">
 		<title>Destination Gobi</title>
 		<desc>(1953) Fact-based Second World War adventure. Richard Widmark stars as a US Navy officer who leads an alliance of scientists and tribesmen against the Japanese in Mongolia.</desc>
 		<icon src="https://ic.c4assets.com/vps/destination-gobi-1953/2D0EBAF0-9295-44C1-BCEDB4ACAE95BC6A.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20261116181500 +0000" stop="20261116182500 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/150px-Film4_logo_2018.svg.png" />
 	</programme>
 	<programme channel="F4" start="20261116182500 +0000" stop="20261116210000 +0000">
 		<title>Moonfall</title>
@@ -3609,11 +3614,6 @@
 		<desc>(1982) Sidney J Furie's seminal horror stars Barbara Hershey as a divorced mother of three who becomes the victim of a poltergeist that submits her to multiple violent and sexual assaults.</desc>
 		<icon src="https://ic.c4assets.com/vps/the-entity-1981/2E0BEE54-0552-4BA3-8E15E14E6A0B8ED4.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="F4" start="20261122033500 +0000" stop="20261122110000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/150px-Film4_logo_2018.svg.png" />
-	</programme>
 	<programme channel="F4" start="20261122110000 +0000" stop="20261122125000 +0000">
 		<title>The Gunfighter</title>
 		<desc>(1950) Western. Gregory Peck stars as Jimmy Ringo, an ageing gunslinger searching for his estranged wife and son. But he's constantly impeded by the young bucks who are out to gun him down.</desc>
@@ -3736,7 +3736,7 @@
 	</programme>
 	<programme channel="4S" start="20261116230500 +0000" stop="20261117000500 +0000">
 		<title>Gogglebox</title>
-		<desc>What's the Gogglebox verdict on this week's TV? (S28 Ep11)</desc>
+		<desc>What do the Goggleboxers make of the week's TV? Featuring Rivals, Jamie's 20 Minute Meals, Strictly, First Dates, Made in Chelsea, The Famous Finish Line and Hanging by a Wire. (S28 Ep11)</desc>
 		<icon src="https://ic.c4assets.com/vps/gogglebox-series-28/9A56C386-EAB7-432D-B4350F4E03910D86.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20261117000500 +0000" stop="20261117025000 +0000">
