@@ -3359,10 +3359,15 @@
 		<desc>(1959) Lana Turner and Oscar-nominated Juanita Moore star in Douglas Sirk's classic melodrama, which explores race relations and mother-daughter relationships. Contains racist language.</desc>
 		<icon src="https://ic.c4assets.com/vps/imitation-of-life/B5ADBC26-46A6-47FC-8F189862A8B2C69C.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="F4" start="20261117161500 +0000" stop="20261117181500 +0000">
+	<programme channel="F4" start="20261117161500 +0000" stop="20261117180500 +0000">
 		<title>Patrick</title>
 		<desc>(2018) Feel-good British family comedy. Sarah's (Beattie Edmondson) chaotic life gets even more complicated when she inherits a naughty pug from her nan.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20261117180500 +0000" stop="20261117181500 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/150px-Film4_logo_2018.svg.png" />
 	</programme>
 	<programme channel="F4" start="20261117181500 +0000" stop="20261117210000 +0000">
 		<title>Bridge of Spies</title>
@@ -3614,11 +3619,6 @@
 		<desc>Documentary. Deafinitely Theatre translate Shakespeare's play A Midsummer Night's Dream into BSL.</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="F4" start="20261123083000 +0000" stop="20261123110000 +0000">
-		<title>No programme</title>
-		<desc>No programme</desc>
-		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/150px-Film4_logo_2018.svg.png" />
-	</programme>
 	<programme channel="F4" start="20261123110000 +0000" stop="20261123134000 +0000">
 		<title>Imitation of Life</title>
 		<desc>(1959) Lana Turner and Oscar-nominated Juanita Moore star in Douglas Sirk's classic melodrama, which explores race relations and mother-daughter relationships. Contains racist language.</desc>
@@ -3756,7 +3756,7 @@
 	</programme>
 	<programme channel="4S" start="20261118023500 +0000" stop="20261118034000 +0000">
 		<title>Gogglebox</title>
-		<desc>What's the Gogglebox verdict on this week's TV? (S28 Ep11)</desc>
+		<desc>What do the Goggleboxers make of the week's TV? Featuring Rivals, Jamie's 20 Minute Meals, Strictly, First Dates, Made in Chelsea, The Famous Finish Line and Hanging by a Wire. (S28 Ep11)</desc>
 		<icon src="https://ic.c4assets.com/vps/gogglebox-series-28/9A56C386-EAB7-432D-B4350F4E03910D86.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20261118034000 +0000" stop="20261118044000 +0000">
