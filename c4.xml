@@ -116,7 +116,7 @@
 	</programme>
 	<programme channel="C4" start="20261122220000 +0000" stop="20261122230000 +0000">
 		<title>Gogglebox</title>
-		<desc>What's the verdict on this week's TV? (S28 Ep12)</desc>
+		<desc>What's the G'Box verdict on Black Doves, Children in Need, Michael McIntyre's The Wheel, I Am Helen, Made in Chelsea, Steam Train Diaries and BBC News (the new James Bond)? (S28 Ep12)</desc>
 		<icon src="https://ic.c4assets.com/vps/gogglebox-series-28/5E904F28-26B5-4B44-83DB4020F8130F99.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20261122230000 +0000" stop="20261123000000 +0000">
@@ -3349,10 +3349,15 @@
 		<desc>Yvonne and Graham want a bolthole in the charming seaside town of Alvor on Portugal's Algarve. Can Ben Hillman find their perfect place, close to the harbour and the beach, for £135k?</desc>
 		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
 	</programme>
-	<programme channel="F4" start="20261122110000 +0000" stop="20261122125000 +0000">
+	<programme channel="F4" start="20261122110000 +0000" stop="20261122124500 +0000">
 		<title>The Gunfighter</title>
 		<desc>(1950) Western. Gregory Peck stars as Jimmy Ringo, an ageing gunslinger searching for his estranged wife and son. But he's constantly impeded by the young bucks who are out to gun him down.</desc>
 		<icon src="https://ic.c4assets.com/vps/the-gunfighter/C2E5B057-6D3C-460A-BC6123E258FE2AA9.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
+	</programme>
+	<programme channel="F4" start="20261122124500 +0000" stop="20261122125000 +0000">
+		<title>No programme</title>
+		<desc>No programme</desc>
+		<icon src="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Film4_logo_2018.svg/150px-Film4_logo_2018.svg.png" />
 	</programme>
 	<programme channel="F4" start="20261122125000 +0000" stop="20261122145500 +0000">
 		<title>Tooth Fairy</title>
@@ -3731,7 +3736,7 @@
 	</programme>
 	<programme channel="4S" start="20261122210000 +0000" stop="20261122220000 +0000">
 		<title>Gogglebox</title>
-		<desc>What's the G'Box verdict on Black Doves, Children in Need, Michael McIntyre's The Wheel, I Am Helen, Made in Chelsea, Steam Train Diaries and BBC News (The new James Bond). (S28 Ep12)</desc>
+		<desc>What's the G'Box verdict on Black Doves, Children in Need, Michael McIntyre's The Wheel, I Am Helen, Made in Chelsea, Steam Train Diaries and BBC News (the new James Bond)? (S28 Ep12)</desc>
 		<icon src="https://ic.c4assets.com/vps/gogglebox-series-28/5E904F28-26B5-4B44-83DB4020F8130F99.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4S" start="20261122220000 +0000" stop="20261122230500 +0000">
