@@ -947,7 +947,7 @@
 	<programme channel="C4" start="20261130190000 +0000" stop="20261130195500 +0000">
 		<title>Channel 4 News</title>
 		<desc>Channel 4's flagship news programme. Including the weather.</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<icon src="https://ic.c4assets.com/vps/channel-4-news/B81EC798-A92D-4977-900910B1EDB05E82.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="C4" start="20261130195500 +0000" stop="20261130200000 +0000">
 		<title>The Political Slot</title>
@@ -4550,9 +4550,9 @@
 		<icon src="https://ic.c4assets.com/vps/storage-wars-yr-13---older-and-weiss-er/8310D360-DA42-499E-9F104C6C9568D422.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4M" start="20261125180000 +0000" stop="20261125190000 +0000">
-		<title>Below Deck Down Under</title>
-		<desc>The Katina sets sail for a Caribbean billionaires' playground where the first guests are the entire cast of The Real Housewives of Salt Lake City. (S4 Ep1)</desc>
-		<icon src="https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&amp;output-format=png&amp;output-quality=90{&amp;resize}" />
+		<title>Below Deck</title>
+		<desc>New Capt, New Rules: Captain Kerry Titheradge takes control of the 197-foot St David as he greets his crew - faces old and new - off the coast of Grenada. (S11 Ep1/17)</desc>
+		<icon src="https://ic.c4assets.com/vps/below-deck-yr-11---new-capt-new-rules/4D290495-FE8D-4B65-8D0DDFD47627EC85.jpg?interpolation=progressive-bicubic&amp;output-format=jpeg&amp;output-quality=90{&amp;resize}" />
 	</programme>
 	<programme channel="4M" start="20261125190000 +0000" stop="20261125200000 +0000">
 		<title>Ramsay's Kitchen Nightmares USA</title>
